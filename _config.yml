@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://zenigata.heroku.com/
+title: Le régime de bananes
+subtitle: Où l'on apprend à peler les bananes
+author: Zenigata
 simple_search: http://google.com/search
 description:
 
