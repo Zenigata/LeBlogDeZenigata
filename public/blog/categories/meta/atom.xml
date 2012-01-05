@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Zenigata]]></title>
-  <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
+  <title><![CDATA[Category: meta | Zenigata]]></title>
+  <link href="http://zenigata.heroku.com//blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
   <updated>2012-01-05T16:33:51+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
@@ -18,12 +18,12 @@
     <link href="http://zenigata.heroku.com//blog/2012/01/05/hello-world/"/>
     <updated>2012-01-05T15:42:00+01:00</updated>
     <id>http://zenigata.heroku.com//blog/2012/01/05/hello-world</id>
-    <content type="html"><![CDATA[<p>2011 s&#8217;achève.</p>
+    <content type="html"><![CDATA[<p>2011 s'achève.</p>
 
-<p>À l&#8217;aube de 2012 je m&#8217;engage à mettre à plat <strong>mes pensées</strong> sur cet espace public. Qui dit pensée dit message court, à mi-chemin entre le twit&#8217; et l&#8217;article.
-Pour cela j&#8217;ai choisi de tester Octopress et ça a l&#8217;air vraiment pas mal.</p>
+<p>À l'aube de 2012 je m'engage à mettre à plat <strong>mes pensées</strong> sur cet espace public. Qui dit pensée dit message court, à mi-chemin entre le twit' et l'article.
+Pour cela j'ai choisi de tester Octopress et ça a l'air vraiment pas mal.</p>
 
-<p><em>Que l&#8217;aventure commence !</em></p>
+<p><em>Que l'aventure commence !</em></p>
 ]]></content>
   </entry>
   
