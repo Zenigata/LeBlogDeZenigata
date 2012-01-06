@@ -1,15 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://zenigata.heroku.com//blog/2012/01/05/hello-world/</loc>
+        <loc>http://zenigata.heroku.com//hello-world/</loc>
         <lastmod>2012-01-05T16:32:53+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zenigata.heroku.com//404.html</loc>
+        <lastmod>2012-01-06T11:43:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://zenigata.heroku.com//blog/archives/</loc>
         <lastmod>2012-01-05T16:32:53+01:00</lastmod>
     </url>
     <url>
+        <loc>http://zenigata.heroku.com//maintenance/</loc>
+        <lastmod>2012-01-06T11:53:56+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://zenigata.heroku.com//</loc>
         <lastmod>2012-01-05T16:32:53+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zenigata.heroku.com//500/</loc>
+        <lastmod>2012-01-06T14:18:56+01:00</lastmod>
     </url>
 </urlset>

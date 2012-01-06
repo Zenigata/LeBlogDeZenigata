@@ -1,0 +1,13 @@
+---
+layout: page
+title: "404 Page Introuvable"
+footer: false
+---
+<p>Oh non, retournez vite sur un sentier connu :</p>
+<div id="blog-archives" class="missing">
+{% for post in site.posts limit: 10 %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
+</div>
