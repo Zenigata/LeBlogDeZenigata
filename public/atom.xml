@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-01-06T17:38:03+01:00</updated>
+  <updated>2012-01-06T18:29:14+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -14,10 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Janvier c'est blindé]]></title>
+    <link href="http://zenigata.heroku.com//janvier-cest-blinde/"/>
+    <updated>2012-01-06T17:58:00+01:00</updated>
+    <id>http://zenigata.heroku.com//janvier-cest-blinde</id>
+    <content type="html"><![CDATA[<p>Janvier est le mois le plus chargé. Je ne l&#8217;appréhende pas spécialement - ce n&#8217;est pas dans mes habitudes de m&#8217;exciter ou de m&#8217;angoisser avant qu&#8217;un événement ne se produise - j&#8217;ai juste l&#8217;angoisse de louper quelque chose. La plannification et moi ça fait trois&#8230; Janvier c&#8217;est le mois où l&#8217;on tente de récupérer des fêtes, de regagner le temps perdu, de reprendre de l&#8217;avance. Dur quand on a pris aucun jour de vacances. Janvier c&#8217;est aussi le mois des soldes. Et ça, ça me parle ! beaucoup d&#8217;achats en perpective, je vous en reparlerai. Janvier c&#8217;est aussi le grand moment des augmentations annuelles ; et je vais me battre ! Mais janvier c&#8217;est surtout la période du ski et de la compagnie iséroise !</p>
+
+<!-- more -->
+
+
+<p>Bonnes résolutions ? la suite au prochain numéro !</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://zenigata.heroku.com//blog/2012/01/05/hello-world/"/>
+    <link href="http://zenigata.heroku.com//hello-world/"/>
     <updated>2012-01-05T15:42:00+01:00</updated>
-    <id>http://zenigata.heroku.com//blog/2012/01/05/hello-world</id>
+    <id>http://zenigata.heroku.com//hello-world</id>
     <content type="html"><![CDATA[<p>2011 s&#8217;achève.</p>
 
 <p>À l&#8217;aube de 2012 je m&#8217;engage à mettre à plat <strong>mes pensées</strong> sur cet espace public. Qui dit pensée dit message court, à mi-chemin entre le twit&#8217; et l&#8217;article.

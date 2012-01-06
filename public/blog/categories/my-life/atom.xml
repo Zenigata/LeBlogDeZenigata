@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: my life | Zenigata]]></title>
+  <link href="http://zenigata.heroku.com//blog/categories/my-life/atom.xml" rel="self"/>
+  <link href="http://zenigata.heroku.com//"/>
+  <updated>2012-01-06T18:29:14+01:00</updated>
+  <id>http://zenigata.heroku.com//</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Janvier c'est blindé]]></title>
+    <link href="http://zenigata.heroku.com//janvier-cest-blinde/"/>
+    <updated>2012-01-06T17:58:00+01:00</updated>
+    <id>http://zenigata.heroku.com//janvier-cest-blinde</id>
+    <content type="html"><![CDATA[<p>Janvier est le mois le plus chargé. Je ne l'appréhende pas spécialement - ce n'est pas dans mes habitudes de m'exciter ou de m'angoisser avant qu'un événement ne se produise - j'ai juste l'angoisse de louper quelque chose. La plannification et moi ça fait trois... Janvier c'est le mois où l'on tente de récupérer des fêtes, de regagner le temps perdu, de reprendre de l'avance. Dur quand on a pris aucun jour de vacances. Janvier c'est aussi le mois des soldes. Et ça, ça me parle ! beaucoup d'achats en perpective, je vous en reparlerai. Janvier c'est aussi le grand moment des augmentations annuelles ; et je vais me battre ! Mais janvier c'est surtout la période du ski et de la compagnie iséroise !</p>
+
+<!-- more -->
+
+
+<p>Bonnes résolutions ? la suite au prochain numéro !</p>
+]]></content>
+  </entry>
+  
+</feed>
