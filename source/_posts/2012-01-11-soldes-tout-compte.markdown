@@ -9,9 +9,8 @@ categories: [bon plan]
 *Kyaaaaaaaaaahhhhh !*  
   
 Les soldes d'hiver ont été lâchées ce matin. De mon bureau l'effervescence donnait une vision spatiale telle une multitude de [débris spatiaux](http://fr.wikipedia.org/wiki/Fichier:Debris-GEO1280.jpg) se déplaçant en tout sens, avec violence mais sans bruit. Se percutant souvent. Se désintégrant parfois. Rapport à l'excellent manga *Planètes*, sans doute.  
-  
+<!--more-->  
 ---
-&nbsp;  
 
 Sur la toile voici mes sources de bons plans habituelles :
 
