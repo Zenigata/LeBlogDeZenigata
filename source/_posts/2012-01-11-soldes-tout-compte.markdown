@@ -5,10 +5,10 @@ date: 2012-01-11 15:53
 comments: true
 categories: [bon plan]
 ---
-Ça y est v'là les **soldes**. Ah... Ok.  
 *Kyaaaaaaaaaahhhhh !*  
+Oui. Les **soldes** sont là.  
   
-Les soldes d'hiver ont été lâchées ce matin. De mon bureau l'effervescence donnait une vision spatiale telle une multitude de [débris spatiaux](http://fr.wikipedia.org/wiki/Fichier:Debris-GEO1280.jpg) se déplaçant en tout sens, avec violence mais sans bruit. Se percutant souvent. Se désintégrant parfois. Rapport à l'excellent manga *Planètes*, sans doute.  
+Les soldes d'hiver ont été lâchées ce matin. De mon bureau l'effervescence de la rue s'apparentait à une vision spatiale : une multitude de [débris spatiaux](http://fr.wikipedia.org/wiki/Fichier:Debris-GEO1280.jpg) se déplaçant en tout sens, avec violence mais sans bruit. Se percutant souvent. Se désintégrant parfois. Rapport à l'excellent manga *Planètes*, sans doute.  
 <!--more-->  
 ---
 
@@ -22,9 +22,4 @@ Sur la toile voici mes sources de bons plans habituelles :
 * [Forum Hardware](http://forum.hardware.fr/hfr/Hardware/conseilsachats/hardware-blabla-sanction-sujet_802066_120.htm)
 * [Comme un camion](http://www.commeuncamion.com/categorie/mode/soldes/)
 
-Et parmi tout ça mes proies potentielles sont :
-
-* Samsung Galaxy SII
-* GoPro HD Hero 2
-* un bel ordinateur (portable ou non, faut voir)
-* des chaussures chaudes (ski, concert de métal, etc.)
+*Allons faire tourner l'économie...*
