@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: techno | Zenigata]]></title>
-  <link href="http://zenigata.heroku.com//blog/categories/techno/atom.xml" rel="self"/>
+  <title><![CDATA[Category: podcast | Zenigata]]></title>
+  <link href="http://zenigata.heroku.com//blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
   <updated>2012-03-02T18:55:40+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
@@ -95,20 +95,6 @@
 À très bientôt chers auditeurs.</p>
 
 <p><strong>♪♫ jingle ♪♫</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La culture c'est dans la poche !]]></title>
-    <link href="http://zenigata.heroku.com//la-culture-cest-dans-la-poche-slash/"/>
-    <updated>2012-02-02T14:57:00+01:00</updated>
-    <id>http://zenigata.heroku.com//la-culture-cest-dans-la-poche-slash</id>
-    <content type="html"><![CDATA[<p><em>J'adore lire.</em></p>
-
-<p>La lecture, c'est le summum de la culture. Pourtant la flemmardise aiguë ne m'épargne pas : aller acheter un livre, savoir le transbahuter, faire le trajet jusqu'à la médiathèque ou mettre en place un marque-page... tant de motifs pour ne point lire. Triste culture.<br/>
-Mais tout ça est désormais révolu. Le numérique dépasse le physique. Non en qualité (rien ne vaut un bon bouquin papier) mais en accessibilité. <strong>Oui ça marche !</strong> Depuis que j'ai ma liseuse, mon plaisir de lire est renouvelé. Je peux lire partout, tout le temps. Une semaine de ski ? trois livres engloutis. Un métro bondé ? une main suffit pour lire. Un déjeuner en solitaire ? liseuse allumée, c'est une expérience agréable. Comme j'aime narcissiquement valoriser chacune de mes activités, voici la liste progressive de mes lectures numériques à ce jour : <a href="http://www.senscritique.com/zenigata/liste/66300/madame-collet-monte-decouvre-les-joies-de-la-lecture-numerique/">senscritique</a>.</p>
-
-<p>Je me rappelle du conseil d'un professeur de prépa, un sacré dragueur au dynamisme contagieux&nbsp;: <em>«&nbsp;Pour se cultiver, juste trois mots. Lire. Relire. Écrire.&nbsp;»</em></p>
 ]]></content>
   </entry>
   

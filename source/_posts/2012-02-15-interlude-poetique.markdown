@@ -9,7 +9,7 @@ Premier poème que je choisis de mettre en avant, « La Courbe  de tes yeux » d
 Vive les [yeux](http://www.bacdefrancais.net/courbe.php) ! Vive la [femme](http://eluardexplique.free.fr/capitale/courbe.html) ! Vive la [passion](http://sabariscon.e-monsite.com/pages/cours-premiere-l/l-a-eluard-la-courbe-de-tes-yeux-fait-le-tour-de-mon-coeur.html) !  
   
 Ah. Il va de soi que tout texte exposé sur ce blog est su par cœur. Non mais.  
-Maintenant, silence. Place au chef d’œuvre.
+Maintenant, silence. Place au chef-d’œuvre.
 <!--more-->
 __La Courbe de tes yeux__  
   
