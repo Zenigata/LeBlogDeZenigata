@@ -6,7 +6,7 @@ comments: true
 categories: [photo]
 ---
 Je suis un _fainéant_.  
-Un véritable adepte de l'efficacité au service du moindre effort. L'apanage de ma génération selon certains ; de la pure fainéantise selon ma grand-mère ; de la procrastination selon d'autres. Mais bon voilà, comme des générations avant la nôtre, _la recherche du beau_ reste omniprésente et constitue un combat de tous les instants : goût musical, look, aisance à l'oral, style d'écriture, etc. Pour développer mon sens de l'esthétique j'ai choisi une voie très accessible, presque simpliste de nos jours, mais aucunement facile : __la photographie__.
+Un véritable adepte de l'efficacité au service du moindre effort. L'apanage de ma génération selon certains ; de la pure fainéantise selon ma grand-mère ; de la procrastination selon d'autres. Mais bon voilà, comme des générations avant la mienne, _la recherche du beau_ reste omniprésente et constitue un combat de tous les instants : goût musical, look, aisance à l'oral, style d'écriture, etc. Pour développer mon sens de l'esthétique j'ai choisi une voie très accessible, presque simpliste de nos jours, mais aucunement facile : __la photographie__.
 
 Le déclic est venu un printemps, suite à une réunion de famille où ma tâche fut de compiler les photos souvenirs provenant des compacts numériques des uns et des autres. Stupeur et tremblements. Une telle médiocrité de souvenirs est proprement abominable. Quelques mois plus tard j'achetai mon premier reflex : un __Canon 450D__ d'occasion.
 
