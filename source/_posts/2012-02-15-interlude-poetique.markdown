@@ -3,7 +3,7 @@ layout: post
 title: "Interlude poétique"
 date: 2012-02-15 12:33
 comments: true
-categories: [littérature]
+categories: [litterature]
 ---
 Premier poème que je choisis de mettre en avant, « La Courbe  de tes yeux » de __Paul Éluard__  est une éloge à la femme qui me procure instantanément une émotion intense, légèrement teintée de nostalgie (ô bac de français ! suspends ton vol). D'autres suivront.  
 Vive les [yeux](http://www.bacdefrancais.net/courbe.php) ! Vive la [femme](http://eluardexplique.free.fr/capitale/courbe.html) ! Vive la [passion](http://sabariscon.e-monsite.com/pages/cours-premiere-l/l-a-eluard-la-courbe-de-tes-yeux-fait-le-tour-de-mon-coeur.html) !  

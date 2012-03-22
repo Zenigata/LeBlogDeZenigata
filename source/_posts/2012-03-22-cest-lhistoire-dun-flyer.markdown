@@ -1,0 +1,30 @@
+---
+layout: post
+title: "C'est l'histoire d'un flyer"
+date: 2012-03-22 16:44
+comments: true
+categories: [my life, jeu de societe]
+---
+C'est l'histoire d'un flyer pour une soirée que je me propose d'organiser. Alors voilà le topo : je cite quelques jeux que je suis suceptible d'apporter et ils me pondent un flyer à mailer à toute l'entreprise. Belle publicité. Soyons francs, je ne suis ni designer, ni graphiste, et bien que je revendique un intérêt particulier pour ces domaines, mes connaissances sont ridicules. Attention, loin de moi l'idée de décrier telle ou telle personne, le but ici est de discuter un peu mise en forme.
+<!--more-->
+Voici le premier prototype qu'on m'a fourni. 
+<p>
+  <a class="fancybox" href="https://lh3.googleusercontent.com/-2Pth9SoK6Ww/T2sNh8_Y6TI/AAAAAAAACRY/V1SPgC6Plgo/s770/Flyer_soiree_cartes_plateau.jpg" data-fancybox-group="flyer1" title="Premier essai" style="margin-left:10%;"><img src="https://lh3.googleusercontent.com/-2Pth9SoK6Ww/T2sNh8_Y6TI/AAAAAAAACRY/V1SPgC6Plgo/w233-h264-n-k/Flyer_soiree_cartes_plateau.jpg" alt="une mariée très roots" /></a>
+</p>
+Ce que j'en pense : globalement le design est très scolaire (j'ai l'impression de me revoir balbutier sur _Word 97_), il y a trop de détails et de textes superflus et l'agencement est peu digeste, trop rigide. De plus, quelle idée de récupérer ma photo de Facebook... Et le tout est desservi par une police de caractères moche. _Soirée Cartes & Plateau_, c'est la soirée belote entre papys du quartier ! Non décidément je ne peux laisser ce flyer porter ma parole au sein de l'entreprise.
+
+Suite à mes remarques, j'ai eu droit à un deuxième jet.
+<p>
+  <a class="fancybox" href="https://lh6.googleusercontent.com/-S87wK_N9ZNc/T2sNhlDE7LI/AAAAAAAACRQ/xAIsGorkllo/s770/Flyer_soiree_cartes_plateau2.jpg" data-fancybox-group="flyer2" title="Deuxième essai" style="margin-left:10%;"><img src="https://lh6.googleusercontent.com/-S87wK_N9ZNc/T2sNhlDE7LI/AAAAAAAACRQ/xAIsGorkllo/w234-h264-n-k/Flyer_soiree_cartes_plateau2.jpg" alt="fille étonnée" /></a>
+</p>
+Je ne sais pas si c'est mieux... Ils tenaient vraiment à montrer ma bouille, alors je leur ai fourni une photo plus sérieuse. Sans doute à tort. Alors, qu'est-ce qu'on a ? Une mise en forme plus épurée, allant à l'essentiel, mais avec une réalisation déplorable. Surtout l'« image bricolée », les dégradés bleus douteux, et toujours cette police ombrée affreuse. Non non, ça ne passe toujours pas..
+
+Du coup j'ai promis de proposer moi-même une version. Finalement ce sera un collègue qui me dépannera.
+<p>
+  <a class="fancybox" href="https://lh4.googleusercontent.com/-_VZXulejkd4/T2sNiKCqFHI/AAAAAAAACRU/pbBvoruiiaM/s640/fly_jeux_2.JPG" data-fancybox-group="flyer3" title="toi+moi" style="margin-left:10%;"><img src="https://lh6.googleusercontent.com/-_VZXulejkd4/T2sNiKCqFHI/AAAAAAAACRU/pbBvoruiiaM/w353-h264-n-k/fly_jeux_2.JPG" alt="Flyer final" /></a>
+</p>
+Pas mal non ? C'est propre, efficace et en même temps stylé. Je pense que ça donne bien envie. Certes c'est très coloré et pas si lisible que ça mais c'est punchy et bien dynamique. Comme les jeux de société en somme.
+
+Tout ça me rappelle cet article intéressant : [Clean Up Your Mess](http://www.visualmess.com/).
+
+Au fait, connaissez-vous les jeux du flyer ?
