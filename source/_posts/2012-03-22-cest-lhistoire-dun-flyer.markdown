@@ -17,7 +17,7 @@ Suite à mes remarques, j'ai eu droit à un deuxième jet.
 <p>
   <a class="fancybox" href="https://lh6.googleusercontent.com/-S87wK_N9ZNc/T2sNhlDE7LI/AAAAAAAACRQ/xAIsGorkllo/s770/Flyer_soiree_cartes_plateau2.jpg" data-fancybox-group="flyer2" title="Deuxième essai" style="margin-left:10%;"><img src="https://lh6.googleusercontent.com/-S87wK_N9ZNc/T2sNhlDE7LI/AAAAAAAACRQ/xAIsGorkllo/w234-h264-n-k/Flyer_soiree_cartes_plateau2.jpg" alt="fille étonnée" /></a>
 </p>
-Je ne sais pas si c'est mieux... Ils tenaient vraiment à montrer ma bouille, alors je leur ai fourni une photo plus sérieuse. Sans doute à tort. Alors, qu'est-ce qu'on a ? Une mise en forme plus épurée, allant à l'essentiel, mais avec une réalisation déplorable. Surtout l'« image bricolée », les dégradés bleus douteux, et toujours cette police ombrée affreuse. Non non, ça ne passe toujours pas..
+Je ne sais pas si c'est mieux... Ils tenaient vraiment à montrer ma bouille, alors je leur ai fourni une photo plus sérieuse. Sans doute à tort. Alors, qu'est-ce qu'on a ? Une mise en forme plus épurée, allant à l'essentiel, mais avec une réalisation déplorable. Surtout l'« image bricolée », les dégradés bleus douteux, et toujours cette police ombrée affreuse. Non non, ça ne passe toujours pas...
 
 Du coup j'ai promis de proposer moi-même une version. Finalement ce sera un collègue qui me dépannera.
 <p>
