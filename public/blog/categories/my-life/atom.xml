@@ -4,7 +4,7 @@
   <title><![CDATA[Category: my life | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/my-life/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-04-03T15:07:03+02:00</updated>
+  <updated>2012-04-06T19:25:32+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pendant ce temps-là en 1985]]></title>
+    <link href="http://zenigata.heroku.com//pendant-ce-temps-la-en-1985/"/>
+    <updated>2012-04-06T18:10:00+02:00</updated>
+    <id>http://zenigata.heroku.com//pendant-ce-temps-la-en-1985</id>
+    <content type="html"><![CDATA[<p>Quel est votre rapport au temps qui passe ?</p>
+
+<p>À défaut de lapin en chocolat pour Pâques, les Papous ont évoqué dimanche dernier (<a href="http://media.radiofrance-podcast.net/podcast09/13364-01.04.2012-ITEMA_20356977-0.mp3">mp3</a>) le lapin pressé de Lewis Carroll, ainsi que le fameux Chapelier :
+<em>« Le Temps n’admet pas qu’on le veuille marquer comme le bétail»</em>.</p>
+
+<p><strong>Les jours passent comme des voitures</strong>, dit l'autre. Jettons un coup d'oeil au rétroviseur !</p>
+
+<!--more-->
+
+
+<p><button id="tlButton">Frisez-moi !</button></p>
+
+<div id="timeline" style="display:none;"></div>
+
+
+<div class="tlFake" style="height:760px;display:none;"></div>
+
+
+<p class="tlFake" style="display:none;">Et vous, que faisiez-vous en 1985 ?</p>
+
+
+<script type="text/javascript">
+  (function($) {
+    $('#tlButton').click(loadTimeline);
+    function loadTimeline() {
+      $('head').append('<link rel="stylesheet" href="/stylesheets/timeline.css" type="text/css" />');
+      $.ajax({url: "/javascripts/timeline-min.js", dataType: "script", success: initTimeline});
+      $('#tlButton').hide();
+      $('#timeline').show();
+      $('.tlFake').show();
+    }
+    function initTimeline(data) {
+      eval(data);
+      var timeline = new VMM.Timeline(790, 760);
+      timeline.init("/javascripts/json/1985.json");
+    }
+  })(jQuery)
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[C'est l'histoire d'un flyer]]></title>

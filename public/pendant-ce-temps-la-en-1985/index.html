@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Category: photo - Zenigata</title>
+  <title>Pendant ce temps-là en 1985 - Zenigata</title>
   <meta name="author" content="Zenigata">
 
   
-  <meta name="description" content="Category: photo">
+  <meta name="description" content="Quel est votre rapport au temps qui passe ? À défaut de lapin en chocolat pour Pâques, les Papous ont évoqué dimanche dernier (mp3) le lapin pressé &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://zenigata.heroku.com/blog/categories/photo">
+  <link rel="canonical" href="http://zenigata.heroku.com//pendant-ce-temps-la-en-1985">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js" type="text/javascript"></script>
@@ -94,36 +94,127 @@
   <div id="main">
     <div id="content">
       <div>
-<article role="article">
+<article class="hentry" role="article">
   
   <header>
-    <h1 class="entry-title">Category: photo</h1>
+    
+      <h1 class="entry-title">Pendant ce temps-là en 1985</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-06T18:10:00+02:00" pubdate data-updated="true">Apr 6<span>th</span>, 2012</time>
+        
+      </p>
     
   </header>
-  
-  <div id="blog-archives" class="category">
 
 
+<div class="entry-content"><p>Quel est votre rapport au temps qui passe ?</p>
 
-  
-  <h2>2012</h2>
+<p>À défaut de lapin en chocolat pour Pâques, les Papous ont évoqué dimanche dernier (<a href="http://media.radiofrance-podcast.net/podcast09/13364-01.04.2012-ITEMA_20356977-0.mp3">mp3</a>) le lapin pressé de Lewis Carroll, ainsi que le fameux Chapelier :
+<em>« Le Temps n’admet pas qu’on le veuille marquer comme le bétail»</em>.</p>
 
-<article>
-  
-<h1><a href="/lesthetique-du-faineant/">L'esthétique du fainéant</a></h1>
-<time datetime="2012-03-21T14:37:00+01:00" pubdate><span class='month'>Mar</span> <span class='day'>21</span> <span class='year'>2012</span></time>
+<p><strong>Les jours passent comme des voitures</strong>, dit l&#8217;autre. Jettons un coup d&#8217;oeil au rétroviseur !</p>
 
-<footer>
-  <span class="categories">écrit dans <a class='category' href='/blog/categories/photo/'>photo</a></span>
-</footer>
+<!--more-->
 
 
-</article>
+<p><button id="tlButton">Frisez-moi !</button></p>
+
+<div id="timeline" style="display:none;"></div>
+
+
+<div class="tlFake" style="height:760px;display:none;"></div>
+
+
+<p class="tlFake" style="display:none;">Et vous, que faisiez-vous en 1985 ?</p>
+
+
+<script type="text/javascript">
+  (function($) {
+    $('#tlButton').click(loadTimeline);
+    function loadTimeline() {
+      $('head').append('<link rel="stylesheet" href="/stylesheets/timeline.css" type="text/css" />');
+      $.ajax({url: "/javascripts/timeline-min.js", dataType: "script", success: initTimeline});
+      $('#tlButton').hide();
+      $('#timeline').show();
+      $('.tlFake').show();
+    }
+    function initTimeline(data) {
+      eval(data);
+      var timeline = new VMM.Timeline(790, 760);
+      timeline.init("/javascripts/json/1985.json");
+    }
+  })(jQuery)
+</script>
 
 </div>
 
+
+  <footer>
+    <p class="meta">
+      
   
+
+<span class="byline author vcard">Écrit par <span class="fn">Zenigata</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-06T18:10:00+02:00" pubdate data-updated="true">Apr 6<span>th</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/javascript/'>javascript</a>, <a class='category' href='/blog/categories/my-life/'>my life</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/poison-davril/" title="Previous Post: Poison d'Avril">&laquo; Poison d'Avril</a>
+      
+      
+    </p>
+  </footer>
 </article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -197,7 +288,10 @@
       var disqus_shortname = 'zenigata';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://zenigata.heroku.com//pendant-ce-temps-la-en-1985/';
+        var disqus_url = 'http://zenigata.heroku.com//pendant-ce-temps-la-en-1985/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
