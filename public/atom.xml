@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-04-06T19:25:32+02:00</updated>
+  <updated>2012-04-10T16:21:57+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Épinglez vos onglets principaux]]></title>
+    <link href="http://zenigata.heroku.com//epinglez-vos-onglets-principaux/"/>
+    <updated>2012-04-10T16:41:00+02:00</updated>
+    <id>http://zenigata.heroku.com//epinglez-vos-onglets-principaux</id>
+    <content type="html"><![CDATA[<p><em>&#8212; Dis papy Ngoubou, je n’arrive pas à retrouver mes onglets importants quand je navigue sur Internet. T’aurais pas une astuce ?</em></p>
+
+<p>T’inquiète, j’ai quelque chose pour toi. Viens je te montre.<br/>
+Effectivement, trop d’onglets tue la navigation par onglets. Vous les jeunes, vous voulez toujours aller trop vite. Voilà une fonctionnalité qui peut t’être utile et qui est présente dans les versions récentes de <a href="http://support.google.com/chrome/bin/answer.py?hl=fr&amp;answer=95622">Chrome</a> et de <a href="http://support.mozilla.org/fr/kb/que-sont-les-onglets-epingles">Firefox</a>. Tu n’utilises plus Internet Explorer n’est-ce pas ?</p>
+
+<p><em>&#8212; Bien sûr que non papy !</em></p>
+
+<p>Bien. Alors voilà, sur les onglets que tu consultes le plus souvent, par exemple Gmail, Google Reader ou Facebook, tu y fais un clic droit puis dans le menu qui apparaît tu choisis <strong>Épingler l’onglet</strong> et hop le tour est joué ! Non seulement tu gagnes de la place (le title disparaît) mais en plus l’onglet épinglé t’avertit quand il y a du nouveau sur la page.<br/>
+Vas-y essaie ! Ça te permettra d’y voir un peu plus clair.</p>
+
+<p><em>&#8212; Super ! Merci papy Ngoubou.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pendant ce temps-là en 1985]]></title>
