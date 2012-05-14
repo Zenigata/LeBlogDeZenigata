@@ -3,7 +3,7 @@ layout: post
 title: "Crève ma gueule"
 date: 2012-02-10 11:45
 comments: true
-categories: [my life]
+categories: [krav, my life]
 ---
 __Bref.__
 On m’a fait remarquer que je prenais du ventre. _« Tu verras, après 30 ans ce sera pire ! J’appelle ça ma bouée de sauvetage. [Rires] »_  
