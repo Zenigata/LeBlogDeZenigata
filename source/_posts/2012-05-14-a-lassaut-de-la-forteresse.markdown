@@ -11,7 +11,7 @@ Journal de guerre de __K. M. C.__, réserviste du __92__e régiment
 <!--more-->
 _Jeudi 12 avril 2012_
 
-La convocation repose sur la table du salon. Le jour est enfin arrivé. Un mélange d’excitation et de crainte parcourt mon corps, un corps pourtant préparé physiquement à toute éventualité. La guerre est à nos portes. Je suis appelé à l’assaut de la Forterresse, celle du __mont Valérien__ que l’on surnomme Galérien. Un surnom bien justifié.
+La convocation repose sur la table du salon. Le jour est enfin arrivé. Un mélange d’excitation et de crainte parcourt mon corps, un corps pourtant préparé physiquement à toute éventualité. La guerre est à nos portes. Je suis appelé à l’assaut de la forteresse, celle du __mont Valérien__ que l’on surnomme Galérien. Un surnom bien justifié.
 
 « Est-ce que vous êtes heureux ? »
 ------
@@ -38,7 +38,7 @@ C’est alors que la cavalerie aérienne arrive pour incendier tout ce qui bouge
 
 Cette putain de guerre nous aura tous.
 
-L’assaut de la Forteresse
+L’assaut de la forteresse
 -----
 _Dimanche 15 avril 2012_
 
