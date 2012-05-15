@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-05-15T13:10:14+02:00</updated>
+  <updated>2012-05-15T16:33:26+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[WAGC 2012]]></title>
+    <link href="http://zenigata.heroku.com//wagc-2012/"/>
+    <updated>2012-05-15T17:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//wagc-2012</id>
+    <content type="html"><![CDATA[<p>C’est parti pour la <a href="http://www.nihonkiin.or.jp/amakisen/worldama/33/e/index.html">33e édition</a> des championnats du monde amateur de jeu de go !</p>
+
+<p>Cette année les 55 représentants nationaux s&#8217;affrontent à Guangzhou (Chine) du 13 au 16 mai. Pour la France c’est Rémi Campagnie (18 ans) qui s&#8217;y colle malgré sa défaite en <a href="http://dijon.go.free.fr/4eme_tour_2011/presentation.htm">finale du championnat de France</a> face à Thomas Debarre (19 ans). Mais comme ce dernier fut déjà de la partie en 2011 (avec une exceptionnelle <a href="http://www.nihonkiin.or.jp/amakisen/worldama/32/e/result.html">4e place</a> mondiale, égalant le classement de Bernard Helmstetter de <a href="http://www.nihonkiin.or.jp/amakisen/worldama/25/gameresult-e.htm">2004</a>), j’imagine qu’il a laissé sa place à son cadet.</p>
+
+<p>Rémi en est actuellement à 4 victoires sur 6, un résultat plus qu&#8217;honorable !</p>
+
+<p>Les <a href="http://kamyszyn.go.art.pl/wagc">WAGC</a>, c’est l’occasion palpitante d’assister à des rencontres inattendues et de superbes parties, souvent commentées et disponibles en ligne. Pour cela pensez au site de l&#8217;<a href="http://ranka.intergofed.org/">IGF</a> avec les commentaires de James Davies. Moi j&#8217;aime bien m&#8217;attarder sur le <a href="http://www.nihonkiin.or.jp/amakisen/worldama/33/e/participants.html">trombinoscope</a> avec cette année une mention spéciale au guide de montagne turc. Par contre je déplore l&#8217;absence de représentant malgache, snif.</p>
+
+<p>Pour l&#8217;anecdote, sachez que l&#8217;<a href="http://jerome.hubert1.perso.sfr.fr/Go/Histoire/world_ama.htm">édition 2007</a> a été remporté par un chinois de 13 ans !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[La 2e minute sportive]]></title>
