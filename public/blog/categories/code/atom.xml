@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/code/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-05-16T14:27:09+02:00</updated>
+  <updated>2012-05-16T14:46:06+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -22,42 +22,87 @@
 
 <h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>
 
-<pre><code>&lt;livre langage=”fr” disponible=true&gt;
-  &lt;titre&gt;Comme on dit en Afrique...&lt;/titre&gt;
-  &lt;auteurs&gt;
-    &lt;auteur&gt;Joseph Andjou&lt;/auteur&gt;
-  &lt;/auteurs&gt;
-  &lt;date&gt;2003/05/28&lt;/date&gt;
-&lt;/livre&gt;
-</code></pre>
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="nt">&lt;livre</span> <span class="na">langage=</span><span class="s">”fr”</span> <span class="na">disponible=</span><span class="s">true</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;titre&gt;</span>Comme on dit en Afrique...<span class="nt">&lt;/titre&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;auteurs&gt;&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">&lt;pre&gt;&lt;code&gt;</span><span class="ni">&amp;lt;</span>auteur<span class="ni">&amp;gt;</span>Joseph Andjou<span class="ni">&amp;lt;</span>/auteur<span class="ni">&amp;gt;</span>
+</span><span class='line'><span class="nt">&lt;/code&gt;&lt;/pre&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">&lt;p&gt;</span>  <span class="nt">&lt;/auteurs&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;date&gt;</span>2003/05/28<span class="nt">&lt;/date&gt;</span>
+</span><span class='line'><span class="nt">&lt;/livre&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
 <h2>En <a href="http://fr.wikipedia.org/wiki/JSON">JSON</a></h2>
 
-<pre><code>{
-  livre : 
-  {
-    langage : “fr”,
-    disponible : true,
-    titre : “Comme on dit en Afrique...”,
-    auteurs : 
-    [
-      “Joseph Andjou”
-    ],
-    date : “28 mai 2003”
-  }
-}
-</code></pre>
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="p">{</span>
+</span><span class='line'>  <span class="nx">livre</span> <span class="o">:</span>
+</span><span class='line'>  <span class="p">{</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">pre</span><span class="o">&gt;&lt;</span><span class="nx">code</span><span class="o">&gt;</span><span class="nx">langage</span> <span class="o">:</span> <span class="err">“</span><span class="nx">fr</span><span class="err">”</span><span class="p">,</span>
+</span><span class='line'><span class="nx">disponible</span> <span class="o">:</span> <span class="kc">true</span><span class="p">,</span>
+</span><span class='line'><span class="nx">titre</span> <span class="o">:</span> <span class="err">“</span><span class="nx">Comme</span> <span class="nx">on</span> <span class="nx">dit</span> <span class="nx">en</span> <span class="nx">Afrique</span><span class="p">...</span><span class="err">”</span><span class="p">,</span>
+</span><span class='line'><span class="nx">auteurs</span> <span class="o">:</span>
+</span><span class='line'><span class="p">[</span>
+</span><span class='line'>  <span class="err">“</span><span class="nx">Joseph</span> <span class="nx">Andjou</span><span class="err">”</span>
+</span><span class='line'><span class="p">],</span>
+</span><span class='line'><span class="nx">date</span> <span class="o">:</span> <span class="err">“</span><span class="mi">28</span> <span class="nx">mai</span> <span class="mi">2003</span><span class="err">”</span>
+</span><span class='line'><span class="o">&lt;</span><span class="err">/code&gt;&lt;/pre&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>  <span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
 <h2>En <a href="http://fr.wikipedia.org/wiki/YAML">YAML</a></h2>
 
-<pre><code>---
-langage: fr
-disponible: true
-titre: “Comme on dit en Afrique...”
-auteurs: [Joseph Andjou]
-date: 2003-05-28
----
-</code></pre>
+<h2><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class='yaml'><span class='line'><span class="l-Scalar-Plain">&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="l-Scalar-Plain">&lt;p&gt;langage</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">fr</span>
+</span><span class='line'><span class="l-Scalar-Plain">disponible</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">true</span>
+</span><span class='line'><span class="l-Scalar-Plain">titre</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">“Comme on dit en Afrique...”</span>
+</span><span class='line'><span class="l-Scalar-Plain">auteurs</span><span class="p-Indicator">:</span> <span class="p-Indicator">[</span><span class="nv">Joseph Andjou</span><span class="p-Indicator">]</span><span class="l-Scalar-Plain">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="l-Scalar-Plain">&lt;h2&gt;date</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2003-05-28&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="l-Scalar-Plain">&lt;p&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   

@@ -9,36 +9,42 @@ Pour la sérialisation ou la représentation de données, de nombreux formats ex
 
 En [XML](http://fr.wikipedia.org/wiki/XML)
 ----
-    <livre langage=”fr” disponible=true>
-      <titre>Comme on dit en Afrique...</titre>
-      <auteurs>
-        <auteur>Joseph Andjou</auteur>
-      </auteurs>
-      <date>2003/05/28</date>
-    </livre>
+{% codeblock lang:xml %}
+<livre langage=”fr” disponible=true>
+  <titre>Comme on dit en Afrique...</titre>
+  <auteurs>
+    <auteur>Joseph Andjou</auteur>
+  </auteurs>
+  <date>2003/05/28</date>
+</livre>
+{% endcodeblock %}
 
 En [JSON](http://fr.wikipedia.org/wiki/JSON)
 ----
-    {
-      livre : 
-      {
-        langage : “fr”,
-        disponible : true,
-        titre : “Comme on dit en Afrique...”,
-        auteurs : 
-        [
-          “Joseph Andjou”
-        ],
-        date : “28 mai 2003”
-      }
-    }
+{% codeblock lang:js %}
+{
+  livre : 
+  {
+    langage : “fr”,
+    disponible : true,
+    titre : “Comme on dit en Afrique...”,
+    auteurs : 
+    [
+      “Joseph Andjou”
+    ],
+    date : “28 mai 2003”
+  }
+}
+{% endcodeblock %}
 
 En [YAML](http://fr.wikipedia.org/wiki/YAML)
 ----
-    ---
-    langage: fr
-    disponible: true
-    titre: “Comme on dit en Afrique...”
-    auteurs: [Joseph Andjou]
-    date: 2003-05-28
-    ---
+{% codeblock lang:yaml %}
+---
+langage: fr
+disponible: true
+titre: “Comme on dit en Afrique...”
+auteurs: [Joseph Andjou]
+date: 2003-05-28
+---
+{% endcodeblock %}
