@@ -1,0 +1,44 @@
+---
+layout: post
+title: "XML, JSON et YAML sont sur un bateau"
+date: 2012-05-16 17:00
+comments: true
+categories: [code]
+---
+Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d'application. Connaissez-vous le très explicite YAML ?
+
+En [XML](http://fr.wikipedia.org/wiki/XML)
+----
+    <livre langage=”fr” disponible=true>
+      <titre>Comme on dit en Afrique...</titre>
+      <auteurs>
+        <auteur>Joseph Andjou</auteur>
+      </auteurs>
+      <date>2003/05/28</date>
+    </livre>
+
+En [JSON](http://fr.wikipedia.org/wiki/JSON)
+----
+    {
+      livre : 
+      {
+        langage : “fr”,
+        disponible : true,
+        titre : “Comme on dit en Afrique...”,
+        auteurs : 
+        [
+          “Joseph Andjou”
+        ],
+        date : “28 mai 2003”
+      }
+    }
+
+En [YAML](http://fr.wikipedia.org/wiki/YAML)
+----
+    ---
+    langage: fr
+    disponible: true
+    titre: “Comme on dit en Afrique...”
+    auteurs: [Joseph Andjou]
+    date: 2003-05-28
+    ---

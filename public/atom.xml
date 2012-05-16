@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-05-15T16:33:26+02:00</updated>
+  <updated>2012-05-16T14:27:09+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[XML, JSON et YAML sont sur un bateau]]></title>
+    <link href="http://zenigata.heroku.com//xml/"/>
+    <updated>2012-05-16T17:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//xml</id>
+    <content type="html"><![CDATA[<p>Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d&#8217;application. Connaissez-vous le très explicite YAML ?</p>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>
+
+<pre><code>&lt;livre langage=”fr” disponible=true&gt;
+  &lt;titre&gt;Comme on dit en Afrique...&lt;/titre&gt;
+  &lt;auteurs&gt;
+    &lt;auteur&gt;Joseph Andjou&lt;/auteur&gt;
+  &lt;/auteurs&gt;
+  &lt;date&gt;2003/05/28&lt;/date&gt;
+&lt;/livre&gt;
+</code></pre>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/JSON">JSON</a></h2>
+
+<pre><code>{
+  livre : 
+  {
+    langage : “fr”,
+    disponible : true,
+    titre : “Comme on dit en Afrique...”,
+    auteurs : 
+    [
+      “Joseph Andjou”
+    ],
+    date : “28 mai 2003”
+  }
+}
+</code></pre>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/YAML">YAML</a></h2>
+
+<pre><code>---
+langage: fr
+disponible: true
+titre: “Comme on dit en Afrique...”
+auteurs: [Joseph Andjou]
+date: 2003-05-28
+---
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[WAGC 2012]]></title>

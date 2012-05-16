@@ -9,7 +9,7 @@
   <meta name="author" content="Zenigata">
 
   
-  <meta name="description" content="C’est parti pour la 33e édition des championnats du monde amateur de jeu de go ! Cette année les 55 représentants nationaux s&#8217;affrontent à &hellip;">
+  <meta name="description" content="Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d&#8217; &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -95,6 +95,81 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/xml/">XML, JSON et YAML sont sur un bateau</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-16T17:00:00+02:00" pubdate data-updated="true">May 16<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d&#8217;application. Connaissez-vous le très explicite YAML ?</p>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>
+
+<pre><code>&lt;livre langage=”fr” disponible=true&gt;
+  &lt;titre&gt;Comme on dit en Afrique...&lt;/titre&gt;
+  &lt;auteurs&gt;
+    &lt;auteur&gt;Joseph Andjou&lt;/auteur&gt;
+  &lt;/auteurs&gt;
+  &lt;date&gt;2003/05/28&lt;/date&gt;
+&lt;/livre&gt;
+</code></pre>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/JSON">JSON</a></h2>
+
+<pre><code>{
+  livre : 
+  {
+    langage : “fr”,
+    disponible : true,
+    titre : “Comme on dit en Afrique...”,
+    auteurs : 
+    [
+      “Joseph Andjou”
+    ],
+    date : “28 mai 2003”
+  }
+}
+</code></pre>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/YAML">YAML</a></h2>
+
+<pre><code>---
+langage: fr
+disponible: true
+titre: “Comme on dit en Afrique...”
+auteurs: [Joseph Andjou]
+date: 2003-05-28
+---
+</code></pre>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -488,52 +563,6 @@ Vas-y essaie ! Ça te permettra d’y voir un peu plus clair.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/lesthetique-du-faineant/">L&#8217;esthétique du fainéant</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-21T14:37:00+01:00" pubdate data-updated="true">Mar 21<span>st</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Je suis un <em>fainéant</em>.<br/>
-Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#8217;apanage de ma génération selon certains ; de la pure fainéantise selon ma grand-mère ; de la procrastination selon d&#8217;autres. Mais bon voilà, comme des générations avant la mienne, <em>la recherche du beau</em> reste omniprésente et constitue un combat de tous les instants : goût musical, look, aisance à l&#8217;oral, style d&#8217;écriture, etc. Pour développer mon sens de l&#8217;esthétique j&#8217;ai choisi une voie très accessible, presque simpliste de nos jours, mais aucunement facile : <strong>la photographie</strong>.</p>
-
-<p>Le déclic est venu un printemps, suite à une réunion de famille où ma tâche fut de compiler les photos souvenirs provenant des compacts numériques des uns et des autres. Stupeur et tremblements. Une telle médiocrité de souvenirs est proprement abominable. Quelques mois plus tard j&#8217;achetai mon premier reflex : un <strong>Canon 450D</strong> d&#8217;occasion.</p>
-
-<p>Quel photographe suis-je aujourd&#8217;hui ?</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/lesthetique-du-faineant/">Continuez &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -549,6 +578,10 @@ Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#821
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/xml/">XML, JSON et YAML sont sur un bateau</a>
+      </li>
+    
+      <li class="post">
         <a href="/wagc-2012/">WAGC 2012</a>
       </li>
     
@@ -562,10 +595,6 @@ Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#821
     
       <li class="post">
         <a href="/le-boustrophedon-dans-lantiquite/">Le boustrophédon dans l&#8217;Antiquité</a>
-      </li>
-    
-      <li class="post">
-        <a href="/lalloco-ou-banane-plantain-frite/">L&#8217;alloco ou banane plantain frite</a>
       </li>
     
   </ul>
