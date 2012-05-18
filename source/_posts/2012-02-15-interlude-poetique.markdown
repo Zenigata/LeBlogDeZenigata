@@ -11,8 +11,8 @@ Vive les [yeux](http://www.bacdefrancais.net/courbe.php) ! Vive la [femme](http:
 Ah. Il va de soi que tout texte exposé sur ce blog est su par cœur. Non mais.  
 Maintenant, silence. Place au chef-d’œuvre.
 <!--more-->
-__La Courbe de tes yeux__  
-  
+La Courbe de tes yeux
+----
 La courbe de tes yeux fait le tour de mon cœur,  
 Un rond de danse et de douceur,  
 Auréole du temps, berceau nocturne et sûr,  

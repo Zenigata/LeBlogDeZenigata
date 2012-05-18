@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-05-16T14:46:06+02:00</updated>
+  <updated>2012-05-18T14:16:01+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sous le pont Mirabeau]]></title>
+    <link href="http://zenigata.heroku.com//sous-le-pont-mirabeau/"/>
+    <updated>2012-05-18T14:20:00+02:00</updated>
+    <id>http://zenigata.heroku.com//sous-le-pont-mirabeau</id>
+    <content type="html"><![CDATA[<p>Un autre <a href="http://bacfrancais.chez.com/pontmirabeau.html">poème</a> dans ma besace, une œuvre magnifique qui donne l&#8217;impression de s&#8217;écouler quand on l&#8217;a lit à défaut de savoir la <a href="http://www.youtube.com/watch?v=DvOeX9b4Tp4">chanter</a> ; une complainte teintée de nostalgie qui évoque les amours emportées par le flot du temps. Soupir.</p>
+
+<!--more-->
+
+
+<h2>Le Pont Mirabeau</h2>
+
+<p>Sous le pont Mirabeau coule la Seine<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Et nos amours<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Faut-il qu&#8217;il m&#8217;en souvienne<br/>
+La joie venait toujours après la peine</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Vienne la nuit sonne l&#8217;heure<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Les jours s&#8217;en vont je demeure</p>
+
+<p>Les mains dans les mains restons face à face<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tandis que sous<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Le pont de nos bras passe<br/>
+Des éternels regards l&#8217;onde si lasse</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Vienne la nuit sonne l&#8217;heure<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Les jours s&#8217;en vont je demeure</p>
+
+<p>L&#8217;amour s&#8217;en va comme cette eau courante<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&#8217;amour s&#8217;en va<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Comme la vie est lente<br/>
+Et comme l&#8217;Espérance est violente</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Vienne la nuit sonne l&#8217;heure<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Les jours s&#8217;en vont je demeure</p>
+
+<p>Passent les jours et passent les semaines<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ni temps passé<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Ni les amours reviennent<br/>
+Sous le pont Mirabeau coule la Seine</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Vienne la nuit sonne l&#8217;heure<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Les jours s&#8217;en vont je demeure</p>
+
+<p>Guillaume APOLINAIRE, <em>Alcools</em> (1912)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[XML, JSON et YAML sont sur un bateau]]></title>
@@ -106,7 +154,7 @@
 
 <p>Les <a href="http://kamyszyn.go.art.pl/wagc">WAGC</a>, c’est l’occasion palpitante d’assister à des rencontres inattendues et de superbes parties, souvent commentées et disponibles en ligne. Pour cela pensez au site de l&#8217;<a href="http://ranka.intergofed.org/">IGF</a> avec les commentaires de James Davies. Moi j&#8217;aime bien m&#8217;attarder sur le <a href="http://www.nihonkiin.or.jp/amakisen/worldama/33/e/participants.html">trombinoscope</a> avec cette année une mention spéciale au guide de montagne turc. Par contre je déplore l&#8217;absence de représentant malgache, snif.</p>
 
-<p>Pour l&#8217;anecdote, sachez que l&#8217;<a href="http://jerome.hubert1.perso.sfr.fr/Go/Histoire/world_ama.htm">édition 2007</a> a été remporté par un chinois de 13 ans !</p>
+<p>Pour l&#8217;anecdote, sachez que l&#8217;<a href="http://jerome.hubert1.perso.sfr.fr/Go/Histoire/world_ama.htm">édition 2007</a> a été remportée par un chinois de 13 ans !</p>
 ]]></content>
   </entry>
   
@@ -608,7 +656,7 @@ Maintenant, silence. Place au chef-d’œuvre.</p>
 <!--more-->
 
 
-<p><strong>La Courbe de tes yeux</strong></p>
+<h2>La Courbe de tes yeux</h2>
 
 <p>La courbe de tes yeux fait le tour de mon cœur,<br/>
 Un rond de danse et de douceur,<br/>
@@ -742,20 +790,6 @@ Indubitablement janvier est le mois des anniversaires. Un coucou d&#8217;horloge
 Pour finir, janvier cette année s’annonce encore plus chargé : retour d’expérience <em>Agile Tour</em> à faire, lancement de ce blog, passage de ceinture jaune de krav maga, des résolutions à tenir, une recherche d&#8217;appartements&#8230;</p>
 
 <p>Vivement la retraite !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World!]]></title>
-    <link href="http://zenigata.heroku.com//hello-world/"/>
-    <updated>2012-01-05T15:42:00+01:00</updated>
-    <id>http://zenigata.heroku.com//hello-world</id>
-    <content type="html"><![CDATA[<p>2011 s&#8217;achève.</p>
-
-<p>À l&#8217;aube de 2012 je m&#8217;engage à mettre à plat <strong>mes pensées</strong> sur cet espace public. Qui dit pensée dit message court, à mi-chemin entre le twit&#8217; et l&#8217;article.
-Pour cela j&#8217;ai choisi de tester Octopress et ça a l&#8217;air vraiment pas mal.</p>
-
-<p><em>Que l&#8217;aventure commence !</em></p>
 ]]></content>
   </entry>
   
