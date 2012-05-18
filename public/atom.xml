@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-05-18T14:16:01+02:00</updated>
+  <updated>2012-05-18T14:19:24+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -18,7 +18,7 @@
     <link href="http://zenigata.heroku.com//sous-le-pont-mirabeau/"/>
     <updated>2012-05-18T14:20:00+02:00</updated>
     <id>http://zenigata.heroku.com//sous-le-pont-mirabeau</id>
-    <content type="html"><![CDATA[<p>Un autre <a href="http://bacfrancais.chez.com/pontmirabeau.html">poème</a> dans ma besace, une œuvre magnifique qui donne l&#8217;impression de s&#8217;écouler quand on l&#8217;a lit à défaut de savoir la <a href="http://www.youtube.com/watch?v=DvOeX9b4Tp4">chanter</a> ; une complainte teintée de nostalgie qui évoque les amours emportées par le flot du temps. Soupir.</p>
+    <content type="html"><![CDATA[<p>Un autre <a href="http://bacfrancais.chez.com/pontmirabeau.html">poème</a> dans ma besace, une œuvre magnifique qui donne l&#8217;impression de s&#8217;écouler quand on l&#8217;a lit, à défaut de savoir la <a href="http://www.youtube.com/watch?v=DvOeX9b4Tp4">chanter</a> ; une complainte teintée de nostalgie qui évoque les amours emportées par le flot du temps. Soupir.</p>
 
 <!--more-->
 
