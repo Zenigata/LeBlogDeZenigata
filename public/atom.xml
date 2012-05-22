@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-05-18T14:19:24+02:00</updated>
+  <updated>2012-05-22T15:21:00+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Je shoot donc je suis]]></title>
+    <link href="http://zenigata.heroku.com//je-shoot-donc-je-suis/"/>
+    <updated>2012-05-22T15:30:00+02:00</updated>
+    <id>http://zenigata.heroku.com//je-shoot-donc-je-suis</id>
+    <content type="html"><![CDATA[<p>Suffit-il de prendre des photos pour être photographe ? rien n&#8217;est moins sûr.<br/>
+Analysons quelques <strong>idées reçues</strong> sur la photographie.</p>
+
+<!--more-->
+
+
+<h2><em>Je veux un appareil plus cher ou plus récent pour que mes photos soient plus belles.</em></h2>
+
+<p><strong>Objection !</strong></p>
+
+<p>Donnez votre appareil à un photographe et il fera de <em>belles photos</em>. La plupart des appareils numériques actuels sont largement suffisants pour obtenir un résultat plus qu&#8217;honorable sur un tirage standard (il y a même des photographes qui travaillent avec des smartphones). L&#8217;esthétique de vos photos n&#8217;est pas automatiquement sujette au matériel&#8230; surtout dans une guerre de mégapixels vide de sens. Par contre un matériel supérieur peut vous aider à obtenir un effet précis, notamment en conditions spéciales (basse lumière, sport extrême, nuit étoilée, etc.).</p>
+
+<p><a href="http://youarenotaphotographer.com/">Bonus</a></p>
+
+<h2><em>Une photo floue est une photo ratée. Autrement dit, plus ma photo est nette plus elle est réussie.</em></h2>
+
+<p><strong>Objection !</strong></p>
+
+<p>La netteté de tel ou tel plan est une caractéristique de la photo. Il existe des photos floues qui sont de véritables chefs-d’œuvres. Essayez de jouer avec le <a href="http://www.fujifilm.fr/www/e-magazine/fiches-pratiques/utiliser-flou-artistique.jsp">flou artistique</a>, même avec votre compact.</p>
+
+<p><a href="http://www.psdisasters.com/">Bonus</a></p>
+
+<h2><em>Avec mon appareil numérique je peux mitrailler sans souci. Je ferai le tri plus tard. Ou pas.</em></h2>
+
+<p><strong>Objection !</strong></p>
+
+<p>On met souvent en garde contre cette pratique parce qu’il n’en résulte rien de bien. Prenez votre temps et préférez quelques photos bien pensées et bien cadrées. Ça vous fera également du travail en moins. On mitraille (par exemple en rafale) uniquement quand on a besoin de saisir l’instant (sport, événement unique, etc.). Évitez de nous envoyer 500 photos de vos vacances avec une tonne de déchets ou de photos similaires (voire des photos complètement ratées).</p>
+
+<p><a href="http://www.lense.fr/2012/05/09/you-suck-at-photoshop-est-de-retour/">Bonus</a></p>
+
+<h2><em>Un grand zoom permet de voir loin.</em></h2>
+
+<p><strong>Objection !</strong></p>
+
+<p>Ici c’est juste un faux-sens. Un <a href="http://fr.wikipedia.org/wiki/Zoom">zoom</a> grand angle, par exemple, peut servir à voir plus près et plus large que la vue humaine.</p>
+
+<p><a href="http://www.wired.com/rawfile/2012/03/10-photographers-you-should-ignore/">Bonus</a></p>
+
+<h2><em>Le <a href="http://www.lesnumeriques.com/appareil-photo-numerique/photo-flash-integre-a919.html">flash</a>, c&#8217;est comme les antibiotiques, c&#8217;est automatique.</em></h2>
+
+<p><strong>Objection !</strong></p>
+
+<p>Libre à vous de prendre des photos dégueulasses avec votre <a href="http://www.vincent-rousseau.com/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=59">flash</a> intégré, quitte à détériorer le lieu naturel que vous visitez, mais arrêtez les flashs totalement inutiles : montagnes, concerts, monuments, etc. Retenez : chaque fois que vous utilisez votre flash n&#8217;importe comment, <a href="http://desencyclopedie.wikia.com/wiki/Comment_tuer_votre_chat_de_compagnie">Dieu</a> tue un chaton.</p>
+
+<p><a href="http://mybadparent.com/">Bonus</a></p>
+
+<h2><em>Avec Instagram je suis devenu un artiste.</em></h2>
+
+<p><strong>Objection !</strong></p>
+
+<p>Peut-être. J&#8217;ose espérer en tout cas qu&#8217;un intérêt esthétique se développe chez les utilisateurs de ce service. Je ne peux vraiment pas condamner Instagram car je ne l&#8217;utilise pas donc ne le connais point, et surtout je suis le premier à utiliser des filtres sur mes photos&#8230; pour le moment.</p>
+
+<p><a href="http://boobstagram.fr/">Bonus</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sous le pont Mirabeau]]></title>
@@ -770,26 +831,6 @@ Oui. Les <strong>soldes</strong> sont là.</p>
 Pour les réfractaires et fainéants (ou sans force musculaire), vous pouvez vous procurer <a href="http://www.design-3000.de/en/attributefilter/?attrId=Series&amp;attrVal=Fips&amp;ref=226152&amp;affmt=2&amp;affmn=10">cet outil</a> tout à fait indispensable&#8230;</p>
 
 <p>Une douceur pour finir : découvrez <a href="http://fr.wikipedia.org/wiki/Kasiksi">le kasiksi</a>, la bière de banane !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Janvier c'est blindé]]></title>
-    <link href="http://zenigata.heroku.com//janvier-cest-blinde/"/>
-    <updated>2012-01-06T17:58:00+01:00</updated>
-    <id>http://zenigata.heroku.com//janvier-cest-blinde</id>
-    <content type="html"><![CDATA[<p><em>Un mois de janvier sans gelée, jamais n’amène bonne année.</em></p>
-
-<p>Exceptionnellement chaud cette année, janvier est aussi globalement le mois le plus chargé.<br/>
-Bien sûr, on a tous pris cher avec les fêtes de décembre. N&#8217;empêche.</p>
-
-<p>Car janvier c’est déjà le mois des soldes. Ça chauffe dans les starting blocks&#8230;<br/>
-Janvier c’est aussi le grand moment des augmentations annuelles ; et je vais me battre !<br/>
-Mais janvier c’est surtout la période de la glisse et de la blanche neige. Dix jours de ski. Le minimum vital.<br/>
-Indubitablement janvier est le mois des anniversaires. Un coucou d&#8217;horloge qui réunit joies, peines et indifférences, selon la tranche d&#8217;âge. Moi ça va.<br/>
-Pour finir, janvier cette année s’annonce encore plus chargé : retour d’expérience <em>Agile Tour</em> à faire, lancement de ce blog, passage de ceinture jaune de krav maga, des résolutions à tenir, une recherche d&#8217;appartements&#8230;</p>
-
-<p>Vivement la retraite !</p>
 ]]></content>
   </entry>
   
