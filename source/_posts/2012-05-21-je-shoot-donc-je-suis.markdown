@@ -44,7 +44,7 @@ _Le [flash](http://www.lesnumeriques.com/appareil-photo-numerique/photo-flash-in
 ----
 __Objection !__
 
-Libre à vous de prendre des photos dégueulasses avec votre [flash](http://www.vincent-rousseau.com/index.php?option=com_content&view=article&id=59&Itemid=59) intégré, quitte à détériorer le lieu naturel que vous visitez, mais arrêtez les flashs totalement inutiles : montagnes, concerts, monuments, etc. Retenez : chaque fois que vous utilisez votre flash n'importe comment, [Dieu](http://desencyclopedie.wikia.com/wiki/Comment_tuer_votre_chat_de_compagnie) tue un chaton.
+Libre à vous de prendre des photos dégueulasses avec votre [flash](http://www.vincent-rousseau.com/index.php?option=com_content&view=article&id=59&Itemid=59) intégré, quitte à détériorer le lieu naturel que vous visitez, mais arrêtez les flashs totalement inutiles : montagnes, concerts, monuments, etc. Retenez : chaque fois que vous utilisez votre flash n'importe comment, [Dieu tue un chaton](http://desencyclopedie.wikia.com/wiki/Comment_tuer_votre_chat_de_compagnie).
 
 [Bonus](http://mybadparent.com/)
 
