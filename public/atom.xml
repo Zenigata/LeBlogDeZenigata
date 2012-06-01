@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-05-25T18:46:31+02:00</updated>
+  <updated>2012-06-01T18:19:43+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La navigation par onglets]]></title>
+    <link href="http://zenigata.heroku.com//la-navigation-par-onglets/"/>
+    <updated>2012-06-01T17:59:00+02:00</updated>
+    <id>http://zenigata.heroku.com//la-navigation-par-onglets</id>
+    <content type="html"><![CDATA[<p><em>&#8212; Hé Papy Ngoubou, tu m’impressionnes. Tu es comme un poisson dans l’eau sur Internet, tu vas trop vite ! Mais comment fais-tu ?</em></p>
+
+<p>Salut la nièce, ça va par chez toi ? Ah tu t’es mise à Internet toi aussi, alors je vais te dire : j’utilise la navigation par onglets. Voilà le secret de ma cuisine ; et elle comporte deux ingrédients.</p>
+
+<p><em>&#8212; Ah ? Ce n’est pas <a href="http://www.maggi.fr/">Maggi</a> au moins ?</em></p>
+
+<p>Toi aussi ! Non, ma première astuce concerne l’utilisation de la <strong>souris</strong>, plus précisément du <strong>bouton du milieu</strong>. Si tu l’utilises sur un lien dans une page, <em>celui-ci va s’ouvrir dans un nouvel onglet</em>. Si tu l’utilises sur les titres des onglets, tout en haut, <em>la page concernée se ferme</em>.<br/>
+Vas-y, entraîne-toi !</p>
+
+<p><em>&#8212; J’ouvre trop d’onglets maintenant ! C’est quoi ta seconde astuce ?</em></p>
+
+<p>Ça concerne le <strong>clavier</strong>. <em>Onglet</em> se dit <strong>tab</strong> en anglais, donc pour ouvrir un nouvel onglet vierge, tape juste <strong>Ctrl+T</strong>. Mais le plus fort, c’est quand tu fermes par mégarde la page qui t’intéressait. Au lieu de perdre ton temps dans l’historique, utilise les touches <strong>Ctrl+Shift+T</strong> ; tu peux même remonter ainsi l’historique de ta navigation. Voilà ! J’espère que j’ai pu t’aider.</p>
+
+<p><em>&#8212; Merci Papy. Comment te remercier ?</em></p>
+
+<p>La prochaine fois que tu m’invites à manger ma chère, fais-moi ton spécial <a href="http://www.paspourdesprunes.com/burkina-faso/poulet-bicyclette">poulet bicyclette</a> !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Je shoot donc je suis]]></title>
@@ -805,32 +829,6 @@ Oui. Les <strong>soldes</strong> sont là.</p>
 
 
 <p><em>Allons faire tourner l&#8217;économie&#8230;</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Se les peler comme une banane]]></title>
-    <link href="http://zenigata.heroku.com//se-les-peler-comme-une-banane/"/>
-    <updated>2012-01-10T12:11:00+01:00</updated>
-    <id>http://zenigata.heroku.com//se-les-peler-comme-une-banane</id>
-    <content type="html"><![CDATA[<p><em>Parlons bien. Parlons banane !</em></p>
-
-<p>Savez-vous peler une banane ? et bien on vous a menti toute votre vie. La preuve.</p>
-
-<!--more-->
-
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/nBJV56WUDng" frameborder="0" allowfullscreen></iframe>
-
-
-<p></p>
-
-<p>&nbsp;</p>
-
-<p><img class="right" src="http://www.design-3000.de/out/pictures/master/product/1/bananenschaeler_fips_atmo_1.jpg" width="300" height="300" title="Outil pour peler une banane" >
-Pour les réfractaires et fainéants (ou sans force musculaire), vous pouvez vous procurer <a href="http://www.design-3000.de/en/attributefilter/?attrId=Series&amp;attrVal=Fips&amp;ref=226152&amp;affmt=2&amp;affmn=10">cet outil</a> tout à fait indispensable&#8230;</p>
-
-<p>Une douceur pour finir : découvrez <a href="http://fr.wikipedia.org/wiki/Kasiksi">le kasiksi</a>, la bière de banane !</p>
 ]]></content>
   </entry>
   
