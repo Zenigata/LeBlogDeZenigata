@@ -16,7 +16,7 @@ Vas-y, entraîne-toi !
 
 _--- J’ouvre trop d’onglets maintenant ! C’est quoi ta seconde astuce ?_
 
-Ça concerne le __clavier__. _Onglet_ se dit __tab__ en anglais, donc pour ouvrir un nouvel onglet vierge, tape juste __Ctrl+T__. Mais le plus fort, c’est quand tu fermes par mégarde la page qui t’intéressait. Au lieu de perdre ton temps dans l’historique, utilise les touches __Ctrl+Shift+T__ ; tu peux même remonter ainsi l’historique de ta navigation. Voilà ! J’espère que j’ai pu t’aider.
+Ça concerne le __clavier__. _Onglet_ se dit __tab__ en anglais, donc pour ouvrir un nouvel onglet vierge, utilise la combinaison de touches __Ctrl+T__. Mais le plus fort, c’est quand tu fermes par mégarde la page qui t’intéressait. Au lieu de perdre ton temps dans l’historique, utilise la combinaison __Ctrl+Shift+T__ ; tu peux même remonter ainsi l’historique de ta navigation. Voilà ! J’espère que j’ai pu t’aider.
 
 _--- Merci Papy. Comment te remercier ?_
 
