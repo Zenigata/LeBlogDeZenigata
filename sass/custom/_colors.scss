@@ -69,7 +69,7 @@ $subtitle-color: lighten($title-color, 0);
 // This controls the sidebar
 $sidebar-bg: desaturate(lighten($main-color, 70), 8);
 $sidebar-color: darken($main-color, 100);
-$sidebar-link-color: darken($main-color, 10);
+$sidebar-link-color: darken($main-color, 5);
 $sidebar-link-color-hover: darken($main-color, 50);
 
 // How links appear overall
