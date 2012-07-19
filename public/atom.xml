@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-06-28T11:35:42+02:00</updated>
+  <updated>2012-07-19T11:07:51+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Embrassez vos envies]]></title>
+    <link href="http://zenigata.heroku.com//embrassez-vos-envies/"/>
+    <updated>2012-07-19T11:04:00+02:00</updated>
+    <id>http://zenigata.heroku.com//embrassez-vos-envies</id>
+    <content type="html"><![CDATA[<p><strong>Solidays</strong> s’est terminé ce dimanche,<br/>
+Certains ont enchaîné les nuits blanches,<br/>
+Quant à moi j’ai les oreilles qui bourdonnent<br/>
+Et les jambent qui pèsent des tonnes.</p>
+
+<p>Pourtant j’adore ce festival !<br/>
+En ce début de période estivale<br/>
+C’est vraiment l’idéal pour sortir,<br/>
+S’amuser et se faire plaisir.</p>
+
+<p>Que ça soit <a href="http://www.shakaponk.com/SHKPNK">Shaka Ponk</a> ou <a href="http://www.skiptheusemusic.com/">Skip the Use</a><br/>
+Pas de pitié pour la pelouse !<br/>
+Bien que le festivalier moyen<br/>
+Soit majoritairement jeune et féminin&#8230;</p>
+
+<p>Solidays se bat contre le Sida<br/>
+Grâce entre autres au volontariat,<br/>
+À l’engagement éco-responsable<br/>
+Et solidaire d’intervenants capables.</p>
+
+<p>Booster son inspiration, sa créativité,<br/>
+Confronter les cultures par t-shirts interposés,<br/>
+Ou chercher la solitude au sein de la multitude,<br/>
+Il s’agit de célébrer en ce lieu toutes formes de vicissitude.</p>
+
+<p>Finalement quand la fièvre s’éteint,<br/>
+Quand la pluie noie de boue le terrain,<br/>
+Quand l’heure de rentrer a sonné<br/>
+On a tout d’un coup très mal aux pieds.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mon rêve familier]]></title>
@@ -1113,44 +1150,6 @@ Pensez à récupérer pendant le <em>une-deux</em>. La réussite de l&#8217;exer
 À très bientôt chers auditeurs.</p>
 
 <p><strong>♪♫ jingle ♪♫</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interlude poétique]]></title>
-    <link href="http://zenigata.heroku.com//interlude-poetique/"/>
-    <updated>2012-02-15T12:33:00+01:00</updated>
-    <id>http://zenigata.heroku.com//interlude-poetique</id>
-    <content type="html"><![CDATA[<p>Premier poème que je choisis de mettre en avant, « La Courbe  de tes yeux » de <strong>Paul Éluard</strong>  est une éloge à la femme qui me procure instantanément une émotion intense, légèrement teintée de nostalgie (ô bac de français ! suspends ton vol). D&#8217;autres suivront.<br/>
-Vive les <a href="http://www.bacdefrancais.net/courbe.php">yeux</a> ! Vive la <a href="http://eluardexplique.free.fr/capitale/courbe.html">femme</a> ! Vive la <a href="http://sabariscon.e-monsite.com/pages/cours-premiere-l/l-a-eluard-la-courbe-de-tes-yeux-fait-le-tour-de-mon-coeur.html">passion</a> !</p>
-
-<p>Ah. Il va de soi que tout texte exposé sur ce blog est su par cœur. Non mais.<br/>
-Maintenant, silence. Place au chef-d’œuvre.</p>
-
-<!--more-->
-
-
-<h2>La Courbe de tes yeux</h2>
-
-<p>La courbe de tes yeux fait le tour de mon cœur,<br/>
-Un rond de danse et de douceur,<br/>
-Auréole du temps, berceau nocturne et sûr,<br/>
-Et si je ne sais plus tout ce que j&#8217;ai vécu<br/>
-C&#8217;est que tes yeux ne m&#8217;ont pas toujours vu.</p>
-
-<p>Feuilles de jour et mousse de rosée,<br/>
-Roseaux du vent, sourires parfumés,<br/>
-Ailes couvrant le monde de lumière,<br/>
-Bateaux chargés du ciel et de la mer,<br/>
-Chasseurs des bruits et sources des couleurs,</p>
-
-<p>Parfums éclos d&#8217;une couvée d&#8217;aurores<br/>
-Qui gît toujours sur la paille des astres,<br/>
-Comme le jour dépend de l&#8217;innocence<br/>
-Le monde entier dépend de tes yeux purs<br/>
-Et tout mon sang coule dans leurs regards.</p>
-
-<p>Paul ÉLUARD, <em>Capitale de la douleur</em> (1926)</p>
 ]]></content>
   </entry>
   
