@@ -5,7 +5,7 @@ date: 2012-04-25 18:40
 comments: true
 categories: [dixit, papous]
 ---
-Première entrée dans mon __DiXIt__ (__DI__ctionnaire e__X__traordinaire __IT__ératif), voici le [boustrophédon](http://fr.wikipedia.org/wiki/Boustroph%C3%A9don) :  
+Première entrée dans mon __DiXIt__ (__DI__ctionnaire e__X__traordinaire __IT__ératif), voici le [boustrophédon](http://fr.wikipedia.org/wiki/Boustroph%C3%A9don)&nbsp;:  
 _mode d'écriture qui consiste à tracer les lignes alternativement de gauche à droite et de droite à gauche._
 
 Pour illustrer le mot je vous propose un exemple d'[homophonies approximatives](http://www.franceculture.fr/2010-10-12-le-clavecin-bien-trempe-ou-jeu-des-homophonies-approximatives.html) qui n'engage que moi :
