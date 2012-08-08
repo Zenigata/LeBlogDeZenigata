@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dans un club de go"
-date: 2012-07-20 12:04
+date: 2012-07-26 18:04
 comments: true
 categories: [jeu de go]
 published: false

@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-07-24T18:08:44+02:00</updated>
+  <updated>2012-08-08T17:42:09+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,85 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mon premier livre numérique]]></title>
+    <link href="http://zenigata.heroku.com//mon-premier-livre-numerique/"/>
+    <updated>2012-08-08T18:10:00+02:00</updated>
+    <id>http://zenigata.heroku.com//mon-premier-livre-numerique</id>
+    <content type="html"><![CDATA[<p>Qu&#8217;entend-on par <a href="http://fr.wikipedia.org/wiki/Livre_num%C3%A9rique">livre numérique</a> ?<br/>
+Certainement beaucoup de choses ! rien qu&#8217;au niveau des formats disponibles : <em>.txt</em>, <em>.html</em> ou <em>.pdf</em> pour n&#8217;en citer que quelques-uns. Et bien je vais vous montrer comment réaliser votre premier&nbsp;<em><a href="http://fr.wikipedia.org/wiki/EPUB_(format)">.epub</a></em>. Ce format ouvert et standardisé tend à s&#8217;imposer. Vous pouvez par exemple en récupérer plein de gratuits au sein du <a href="http://www.gutenberg.org/wiki/FR_Principal">Projet Gutenberg</a>.</p>
+
+<!--more-->
+
+
+<p>Vous trouverez sur Internet les <a href="http://idpf.org/epub/30/spec/epub30-overview.html">spécifications du format</a>, ainsi que de nombreux <a href="http://www.ebouquin.fr/2010/02/04/comment-creer-un-fichier-epub/">tutoriaux</a>.</p>
+
+<h2>L&#8217;archive</h2>
+
+<p>Un fichier <em>epub</em>, c&#8217;est juste une archive <strong>zip</strong> qui contient des pages <strong>html</strong> et des <strong>métadonnées</strong> au sujet de votre livre. Voilà tout.</p>
+
+<p>Je vous ai concocté un <a href="https://docs.google.com/open?id=0B-NsvDqymweIU1RXS3VqOEJjbTg">exemple</a> :</p>
+
+<pre>
+zenigata.epub
+├── EPUB
+│   ├── content.opf
+│   ├── css
+│   │   └── epub.css
+│   ├── images
+│   │   └── zenigata.jpg
+│   ├── text
+│   │   ├── 01-poemes.xhtml
+│   │   ├── 02-fables.xhtml
+│   │   ├── nav.xhtml
+│   │   └── titre.xhtml
+│   └── toc.ncx
+├── META-INF
+│   └── container.xml
+└── mimetype
+</pre>
+
+
+<h2>Les fichiers</h2>
+
+<p>Les fichiers <strong>mimetype</strong> et <strong>container.xml</strong> sont les mêmes pour tous les livres.</p>
+
+<h4><em>content.opf</em></h4>
+
+<p>Ce fichier contient les <strong>métadonnées</strong> liées à l&#8217;ouvrage : auteur, date de parution, éditeur, genre, nombre de pages, etc.<br/>
+Il décrit également le contenu exhaustif de l&#8217;archive.</p>
+
+<h4><em>toc.ncx</em></h4>
+
+<p>Ce fichier facultatif peut être utilisé pour créer une <strong>table des matières</strong> accessible à tout moment (sur le <em>Sony PRS-T1</em> il faut faire <em>menu -> Naviguer page -> Table des matières</em>).</p>
+
+<h4><em>code html</em></h4>
+
+<p>Le reste des fichiers représente du code html basique avec du css et une image pour la couverture.</p>
+
+<p>Il ne reste plus qu&#8217;à créer l&#8217;archive :</p>
+
+<pre>
+zip -Xr zenigata.epub mimetype META-INF EPUB
+</pre>
+
+
+<h2>FAQ</h2>
+
+<p>Pour tester votre livre numérique, de nombreux <a href="http://blog.kowalczyk.info/articles/epub-ebook-reader-viewer-for-windows.html">visionneurs d&#8217;epub</a> sont disponibles selon votre système d&#8217;exploitation.</p>
+
+<p>Un outil utile : le <a href="http://code.google.com/p/epubcheck/">validateur d&#8217;epub</a>. Très pratique !</p>
+
+<p>Pensez à écrire <em>&lt;!DOCTYPE html></em> et non <em>&lt;!doctype html></em> si vous faites du <strong>html 5</strong>.</p>
+
+<p>Vous trouverez des exemples d&#8217;epub fonctionnels à cet <a href="http://code.google.com/p/epub-samples/">endroit</a>.</p>
+
+<p>Si les spécifications en ligne ne sont pas assez claires, jetez un œil sur ce <a href="http://matt.garrish.ca/epub3/guidelines/">site</a>.</p>
+
+<h4>À vous les joies de l&#8217;édition !</h4>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Un pêle-mêle de bananes]]></title>
@@ -1018,74 +1097,6 @@ Vas-y essaie ! Ça te permettra d’y voir un peu plus clair.</p>
 <p>Tout ça me rappelle cet article intéressant : <a href="http://www.visualmess.com/">Clean Up Your Mess</a>.</p>
 
 <p>Au fait, connaissez-vous les jeux du flyer ?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[L'esthétique du fainéant]]></title>
-    <link href="http://zenigata.heroku.com//lesthetique-du-faineant/"/>
-    <updated>2012-03-21T14:37:00+01:00</updated>
-    <id>http://zenigata.heroku.com//lesthetique-du-faineant</id>
-    <content type="html"><![CDATA[<p>Je suis un <em>fainéant</em>.<br/>
-Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#8217;apanage de ma génération selon certains ; de la pure fainéantise selon ma grand-mère ; de la procrastination selon d&#8217;autres. Mais bon voilà, comme des générations avant la mienne, <em>la recherche du beau</em> reste omniprésente et constitue un combat de tous les instants : goût musical, look, aisance à l&#8217;oral, style d&#8217;écriture, etc. Pour développer mon sens de l&#8217;esthétique j&#8217;ai choisi une voie très accessible, presque simpliste de nos jours, mais aucunement facile : <strong>la photographie</strong>.</p>
-
-<p>Le déclic est venu un printemps, suite à une réunion de famille où ma tâche fut de compiler les photos souvenirs provenant des compacts numériques des uns et des autres. Stupeur et tremblements. Une telle médiocrité de souvenirs est proprement abominable. Quelques mois plus tard j&#8217;achetai mon premier reflex : un <strong>Canon 450D</strong> d&#8217;occasion.</p>
-
-<p>Quel photographe suis-je aujourd&#8217;hui ?</p>
-
-<!--more-->
-
-
-<p>Un photographe humaniste. Tout du moins centrant ses clichés sur l&#8217;Homme. Car ce que j&#8217;aime par-dessus tout ce sont les scènes de vie, et plus particulièrement les <em>portraits</em> et le <em>photo-reportage</em>. J&#8217;aime ces regards, ces instants d&#8217;émotions figées, ces mélanges de sentiments, de morceaux de vie emballés pour l&#8217;éternité. D&#8217;où mon utilisation excessive du noir et blanc&#8230;</p>
-
-<p>En voici quelques exemples :</p>
-
-<p>
-  <a class="fancybox" href="http://farm6.staticflickr.com/5301/5610658946_e1b4fc1128_b.jpg" data-fancybox-group="portrait" title="Le jour J"><img src="http://farm6.staticflickr.com/5301/5610658946_e1b4fc1128_t.jpg" alt="une mariée très roots" /></a>
-  <a class="fancybox" href="http://farm6.staticflickr.com/5103/5610659628_01425e55d2_b.jpg" data-fancybox-group="portrait" title="Étonnement"><img src="http://farm6.staticflickr.com/5103/5610659628_01425e55d2_t.jpg" alt="fille étonnée" /></a>
-  <a class="fancybox" href="http://farm8.staticflickr.com/7045/6900126391_579734b6c1_b.jpg" data-fancybox-group="portrait" title="toi+moi"><img src="http://farm8.staticflickr.com/7045/6900126391_579734b6c1_t.jpg" alt="jeunes malgaches" /></a>
-  <a class="fancybox" href="http://farm7.staticflickr.com/6106/6341461099_fe2d19bcd8_b.jpg" data-fancybox-group="portrait" title="Gravons nos noms"><img src="http://farm7.staticflickr.com/6106/6341461099_fe2d19bcd8_t.jpg" alt="kiki kimono" /></a>
-  <a class="fancybox" href="http://farm6.staticflickr.com/5221/5610055005_fc6efe7ff5_b.jpg" data-fancybox-group="portrait" title="Unis pour la vie"><img src="http://farm6.staticflickr.com/5221/5610055005_fc6efe7ff5_t.jpg" alt="vive les mariés !" /></a>
-</p>
-
-
-<p>Désormais, nos souvenirs seront plus beaux.</p>
-
-<p>Actuellement j&#8217;alterne principalement entre deux objectifs Canon EF : <strong>50mm f/1.8 II</strong> et <strong>70-300mm f/4-5.6 USM IS</strong>, ce qui me donne pas mal de possibilités pour les portraits.</p>
-
-<p>Parlons de mon process photo.</p>
-
-<h2>Capture</h2>
-
-<p>Je prends tous mes clichés en format <em>RAW</em> et en mode semi-automatique (principalement <strong>priorité ouverture</strong>, ponctuellement en manuel). Je fais attention à la lumière et à quelques règles simples de <a href="http://fr.wikipedia.org/wiki/Composition_photographique">composition</a> comme la règle des tiers, les symétries, les mouvements ou regards.</p>
-
-<h2>Traitement</h2>
-
-<p>Grâce à <a href="http://www.adobe.com/fr/products/photoshop-lightroom.html">LightRoom</a> je trie rapidement mes photos pour les traiter ainsi :</p>
-
-<ol>
-<li>tourner la photo ou la recadrer</li>
-<li>changer l&#8217;exposition, jouer avec l&#8217;histogramme (surexposition, sous-exposition)</li>
-<li>créer des copies virtuelles et tester des presets</li>
-</ol>
-
-
-<h2>Mise en ligne</h2>
-
-<p>Pour des albums souvenirs j&#8217;utilise <a href="https://picasaweb.google.com/johanbonneau">Picasa</a>. J&#8217;en extrais généralement une sélection que j&#8217;expose sur une galerie publique <a href="http://www.flickr.com/photos/johanbonneau">flickr</a>, sorte de vitrine de mes meilleures photos. Enfin, pour l&#8217;aspect communauté j&#8217;aimerais être plus actif sur le convivial <a href="http://www.lense.fr/membre/johan/">lense</a>.</p>
-
-<p>Je ne fais pas que du portrait. La preuve :</p>
-
-<p>
-  <a class="fancybox" href="http://farm6.staticflickr.com/5143/5610031337_26311f2279_b.jpg" data-fancybox-group="gallery" title="Le Mont-Blanc"><img src="http://farm6.staticflickr.com/5143/5610031337_26311f2279_t.jpg" alt="le Mont-Blanc" /></a>
-  <a class="fancybox" href="http://farm8.staticflickr.com/7042/6900127479_10b20a4a2b_b.jpg" data-fancybox-group="gallery" title="La mort fulgurante"><img src="http://farm8.staticflickr.com/7042/6900127479_10b20a4a2b_t.jpg" alt="langue du caméléon" /></a>
-  <a class="fancybox" href="http://farm8.staticflickr.com/7194/6900136067_4cfd5a6ba4_b.jpg" data-fancybox-group="gallery" title="Île Sainte-Marie"><img src="http://farm8.staticflickr.com/7194/6900136067_4cfd5a6ba4_t.jpg" alt="coucher de soleil" /></a>
-  <a class="fancybox" href="http://farm8.staticflickr.com/7036/6900131799_95ace072b8_b.jpg" data-fancybox-group="gallery" title="La mort dormante"><img src="http://farm8.staticflickr.com/7036/6900131799_95ace072b8_t.jpg" alt="crocodile" /></a>
-  <a class="fancybox" href="http://farm8.staticflickr.com/7207/6900129449_96f36aa616_b.jpg" data-fancybox-group="gallery" title="Dans le creux de la main"><img src="http://farm8.staticflickr.com/7207/6900129449_96f36aa616_t.jpg" alt="caméléon à cornes" /></a>
-</p>
-
-
-<p>J&#8217;ai encore tant à apprendre, et l&#8217;envie est là. À l&#8217;avenir, mes efforts se porteront en priorité sur le traitement de l&#8217;image afin de passer outre les presets et réaliser les réglages à la main. Puis peut-être changer ma focale fixe 50mm f/1.8 en f/1.4. L&#8217;extase.</p>
 ]]></content>
   </entry>
   
