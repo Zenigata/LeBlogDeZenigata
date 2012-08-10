@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-08-08T17:42:09+02:00</updated>
+  <updated>2012-08-10T17:26:50+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dans un club de go (1/2)]]></title>
+    <link href="http://zenigata.heroku.com//dans-un-club-de-go/"/>
+    <updated>2012-08-10T18:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//dans-un-club-de-go</id>
+    <content type="html"><![CDATA[<p><em>Dans un <strong>club de go</strong> on joue, on discute, on rigole, on boit un coup.<br/>
+On fait surtout la rencontre de joueurs de tous horizons, petits et grands, qui forment des compagnons pour une vie de passions. Mais c&#8217;est avant tout un mélange de fortes personnalités, d&#8217;attitudes et d&#8217;émotions.</em></p>
+
+<p><em>Quand on y met les pieds, on y croise d&#8217;abord une multitude de petites pierres, tantôt noires, tantôt blanches, parfois volantes, quelques fois sonnantes et trébuchantes. On y croise aussi des goban masochistes (qui se prennent beaucoup de coups), des verres de bière &#8212;&nbsp;blonde, brune ou rousse&nbsp;&#8212; et surtout les fameux joueurs. D&#8217;ailleurs <strong>le monde du go se divise en deux catégories : ceux qui réfléchissent et les autres.</strong></em></p>
+
+<!--more-->
+
+
+<p>Voici la porte d&#8217;un club de go typique. À mes risques et périls, j&#8217;en franchis le seuil.</p>
+
+<p>Le club est drôlement animé. Déjà une voix me parvient qui domine les autres. Elle est particulière et reconnaissable, parfois forte et moqueuse, d&#8217;autres fois aiguë et retorse, c&#8217;est celle du <strong>kibitzeur</strong>. Éminent spécialiste du troll répétitif, il passe plus de temps à commenter les parties voisines qu&#8217;à réfléchir à sa propre partie en cours. C&#8217;est simple, il parle en permanence.<br/>
+<em>Conseil : ne rentrez pas dans son jeu. Ne nourrissez point le kibitzeur.</em></p>
+
+<p>Une revue de partie agitée attire mon attention. Je reconnais le premier protagoniste : il analyse, critique, réprimande, corrige chaque séquence. Pour cela il cite tel honinbo ou montre telle partie connue, un dictionnaire de joseki sur les genoux. Ce joueur, le <strong>théoricien</strong>, aime à vulgariser son savoir encyclopédique aux joueurs égarés et à corriger toute séquence non orthodoxe. Il ne joue que ce qui figure dans ses livres de référence.<br/>
+<em>Conseil : en sa présence tâchez de jouer des séquences simples que vous connaissez sinon vous l&#8217;aurez sur le dos toute la soirée.</em></p>
+
+<p>Son interlocuteur n&#8217;est autre que son némésis, le <strong>bêta-testeur</strong>. À l&#8217;inverse, lui ne cherche que des coups originaux, des séquences exotiques, l&#8217;aventure avec un grand <strong>A</strong>. Avec lui on compte rarement les points : c&#8217;est tout ou rien, blanc ou noir, tué ou être tué. Oubliée la théorie, bienvenus les combats épiques en pur free style.<br/>
+<em>Conseil : contre lui jouez solide, préférez les séquences simples que vous maîtrisez.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mon premier livre numérique]]></title>
@@ -1054,49 +1080,6 @@ Vas-y essaie ! Ça te permettra d’y voir un peu plus clair.</p>
 <p>La fin du monde arrive à grandes brassées, ayez le réflexe <a href="http://blog.ldlc.com/actu-ldlc/nouveau-le-bunker-ldlc/">bunker</a> LDLC.</p>
 
 <p><a href="http://fr.news.yahoo.com/presidentielle-il-faudra-payer-pour-voter.html">Yahoo</a> nous informe que le vote en France sera désormais payant !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[C'est l'histoire d'un flyer]]></title>
-    <link href="http://zenigata.heroku.com//cest-lhistoire-dun-flyer/"/>
-    <updated>2012-03-22T16:44:00+01:00</updated>
-    <id>http://zenigata.heroku.com//cest-lhistoire-dun-flyer</id>
-    <content type="html"><![CDATA[<p>C&#8217;est l&#8217;histoire d&#8217;un flyer pour une soirée que je me propose d&#8217;organiser. Alors voilà le topo : je cite quelques jeux que je suis suceptible d&#8217;apporter et ils me pondent un flyer à mailer à toute l&#8217;entreprise. Belle publicité. Soyons francs, je ne suis ni designer, ni graphiste, et bien que je revendique un intérêt particulier pour ces domaines, mes connaissances sont ridicules. Attention, loin de moi l&#8217;idée de décrier telle ou telle personne, le but ici est de discuter un peu mise en forme.</p>
-
-<!--more-->
-
-
-<p>Voici le premier prototype qu&#8217;on m&#8217;a fourni.</p>
-
-<p>
-  <a class="fancybox" href="https://lh3.googleusercontent.com/-2Pth9SoK6Ww/T2sNh8_Y6TI/AAAAAAAACRY/V1SPgC6Plgo/s770/Flyer_soiree_cartes_plateau.jpg" data-fancybox-group="flyer1" title="Premier essai" style="margin-left:10%;"><img src="https://lh3.googleusercontent.com/-2Pth9SoK6Ww/T2sNh8_Y6TI/AAAAAAAACRY/V1SPgC6Plgo/w233-h264-n-k/Flyer_soiree_cartes_plateau.jpg" alt="une mariée très roots" /></a>
-</p>
-
-
-<p>Ce que j&#8217;en pense : globalement le design est très scolaire (j&#8217;ai l&#8217;impression de me revoir balbutier sur <em>Word 97</em>), il y a trop de détails et de textes superflus et l&#8217;agencement est peu digeste, trop rigide. De plus, quelle idée de récupérer ma photo de Facebook&#8230; Et le tout est desservi par une police de caractères moche. <em>Soirée Cartes &amp; Plateau</em>, c&#8217;est la soirée belote entre papys du quartier ! Non décidément je ne peux laisser ce flyer porter ma parole au sein de l&#8217;entreprise.</p>
-
-<p>Suite à mes remarques, j&#8217;ai eu droit à un deuxième jet.</p>
-
-<p>
-  <a class="fancybox" href="https://lh6.googleusercontent.com/-S87wK_N9ZNc/T2sNhlDE7LI/AAAAAAAACRQ/xAIsGorkllo/s770/Flyer_soiree_cartes_plateau2.jpg" data-fancybox-group="flyer2" title="Deuxième essai" style="margin-left:10%;"><img src="https://lh6.googleusercontent.com/-S87wK_N9ZNc/T2sNhlDE7LI/AAAAAAAACRQ/xAIsGorkllo/w234-h264-n-k/Flyer_soiree_cartes_plateau2.jpg" alt="fille étonnée" /></a>
-</p>
-
-
-<p>Je ne sais pas si c&#8217;est mieux&#8230; Ils tenaient vraiment à montrer ma bouille, alors je leur ai fourni une photo plus sérieuse. Sans doute à tort. Alors, qu&#8217;est-ce qu&#8217;on a ? Une mise en forme plus épurée, allant à l&#8217;essentiel, mais avec une réalisation déplorable. Surtout l&#8217;« image bricolée », les dégradés bleus douteux, et toujours cette police ombrée affreuse. Non non, ça ne passe toujours pas&#8230;</p>
-
-<p>Du coup j&#8217;ai promis de proposer moi-même une version. Finalement ce sera un collègue qui me dépannera.</p>
-
-<p>
-  <a class="fancybox" href="https://lh4.googleusercontent.com/-_VZXulejkd4/T2sNiKCqFHI/AAAAAAAACRU/pbBvoruiiaM/s640/fly_jeux_2.JPG" data-fancybox-group="flyer3" title="toi+moi" style="margin-left:10%;"><img src="https://lh6.googleusercontent.com/-_VZXulejkd4/T2sNiKCqFHI/AAAAAAAACRU/pbBvoruiiaM/w353-h264-n-k/fly_jeux_2.JPG" alt="Flyer final" /></a>
-</p>
-
-
-<p>Pas mal non ? C&#8217;est propre, efficace et en même temps stylé. Je pense que ça donne bien envie. Certes c&#8217;est très coloré et pas si lisible que ça mais c&#8217;est punchy et bien dynamique. Comme les jeux de société en somme.</p>
-
-<p>Tout ça me rappelle cet article intéressant : <a href="http://www.visualmess.com/">Clean Up Your Mess</a>.</p>
-
-<p>Au fait, connaissez-vous les jeux du flyer ?</p>
 ]]></content>
   </entry>
   
