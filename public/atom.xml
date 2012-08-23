@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-08-21T10:56:16+02:00</updated>
+  <updated>2012-08-23T17:35:57+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le cinemagraph dans tous ses états]]></title>
+    <link href="http://zenigata.heroku.com//le-cinemagraph-dans-tous-ses-etats/"/>
+    <updated>2012-08-23T18:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//le-cinemagraph-dans-tous-ses-etats</id>
+    <content type="html"><![CDATA[<p>Parlons un peu du format <em>gif</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup>. Vous savez, ces images animées qui encombraient la chaussée il y a quelques années, tel <a href="http://www.picgifs.com/graphics/work-in-progress/">ça</a> ou <a href="http://www.monsieurlam.com/tag/fridance/">ça</a>. C&#8217;est marrant hein mais c’est pas très beau.</p>
+
+<p><strong>Fondamentalement l&#8217;image animée se situe entre la photo et la vidéo.</strong> Et à ce carrefour on trouve des choses étonnantes comme le sujet du jour : le <a href="http://fr.wikipedia.org/wiki/Cinemagraph">cinemagraph</a>. Et là c’est autrement plus <a href="http://www.hongkiat.com/blog/cinemagraph/">classe</a>.</p>
+
+<!--more-->
+
+
+<h3>D&#8217;autres exemples ?</h3>
+
+<p>Dans le cinemagraph, le <strong>mouvement</strong> apparent est certes répétitif mais demeure très léger, très fluide. En fait, plus il est <strong>subtil</strong> plus on peut apprécier l&#8217;apport du mouvement au sein d&#8217;une photographie. Le cinemagraph se prête bien aux <a href="http://designbeep.com/2011/10/08/showcase-of-amazing-cinemagraphs-from-famous-movies/">scènes</a> de film et à <a href="http://cinemagraphs.com/">la mode</a> <a href="http://fromme-toyou.tumblr.com/tagged/cinemagraph">en général</a>.</p>
+
+<h3>Comment en faire ?</h3>
+
+<p>Le plus simple est de transformer une vidéo via un éditeur adapté. Ces <a href="http://fernandojbaez.com/cinemagraph-tutorial/">deux</a> <a href="http://phototrend.fr/2011/10/mp-96-reussir-son-cinemagraph-ou-le-gif-anime/">tutoriaux</a> sous Photoshop vous aideront dans votre tâche. Autrement, il existe des <a href="http://www.giiks.com/internet_mobile/cinemagram-application-qui-mixe-photo-et-video/">applications</a> toutes faites sur smartphone.</p>
+
+<p>Pour finir sachez qu&#8217;un projet de recherche Microsoft, <a href="http://research.microsoft.com/en-us/um/redmond/projects/cliplets/">Microsoft Research Cliplets</a>, vous permet de générer facilement des cliplets, une version enrichie du cinemagraph (possibilité de mouvement mirroir, de déclenchement synchronisé et autres fantaisies).</p>
+
+<h3>Mes travaux ?</h3>
+
+<p>J&#8217;ai joué le jeu et essayé de réaliser des cinemagraphs avec Cliplets.</p>
+
+<p>
+  <a class="fancybox" href="https://lh3.googleusercontent.com/-AmdwDXmqClY/UDQPeerl1sI/AAAAAAAADng/w8gyDgoQzKw/s640/flo_vent.gif" data-fancybox-group="cine-moi" title="Cheveux dans le vent"><img src="https://lh3.googleusercontent.com/-AmdwDXmqClY/UDQPeerl1sI/AAAAAAAADng/w8gyDgoQzKw/s640/flo_vent.gif" alt="Cheveux dans le vent" /></a>
+</p>
+
+
+<p>
+  <a class="fancybox" href="https://lh4.googleusercontent.com/-5CIDpo17YWs/UDQPf1t0DFI/AAAAAAAADn8/qUSYF0TQV6k/s640/lucie_sourire.gif" data-fancybox-group="cine-moi" title="Don't smile"><img src="https://lh4.googleusercontent.com/-5CIDpo17YWs/UDQPf1t0DFI/AAAAAAAADn8/qUSYF0TQV6k/s640/lucie_sourire.gif" alt="Don't smile" /></a>
+</p>
+
+
+<p>
+  <a class="fancybox" href="https://lh6.googleusercontent.com/-nrpT95rHGZs/UDQPff5EXxI/AAAAAAAADn4/aI8A2ZZxa7I/s640/lemur_queue.gif" data-fancybox-group="cine-moi" title="Lémurien"><img src="https://lh6.googleusercontent.com/-nrpT95rHGZs/UDQPff5EXxI/AAAAAAAADn4/aI8A2ZZxa7I/s640/lemur_queue.gif" alt="Lémurien" /></a>
+</p>
+
+
+<p>Pensez à stabiliser votre vidéo (avec un pied par exemple) ou ce genre de désagrément apparaîtra.</p>
+
+<p>
+  <a class="fancybox" href="https://lh4.googleusercontent.com/-sUZzXIe3AwE/UDP87dsnL6I/AAAAAAAADlQ/mEwTffYTBUQ/s640/brique.gif" data-fancybox-group="cine-moi" title="Briques"><img src="https://lh4.googleusercontent.com/-sUZzXIe3AwE/UDP87dsnL6I/AAAAAAAADlQ/mEwTffYTBUQ/s640/brique.gif" alt="Briques" /></a>
+</p>
+
+
+<p>Un début de réconciliation avec le format <em>gif</em> ?</p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>Ça se prononce [ʒif] comme Gif-sur-Yvette <a href='#fnref:1' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Souviens-toi... l'été dernier]]></title>
@@ -1082,54 +1145,6 @@ J’ai astiqué mon FAMAS comme jamais et rempli scrupuleusement chaque poche de
 <p><em>Le boustrophédon dans l&#8217;Antiquité était un tracé d&#8217;écriture courant. Aujourd&#8217;hui les écoliers s&#8217;en servent volontiers pour s&#8217;envoyer des messages codés, quand ils ne sont pas fourrés au <a href="http://fr.wikipedia.org/wiki/Maquis_(restaurant)">maquis</a> à s&#8217;empiffrer d&#8217;allocos et de sodas. En même temps je les comprends, la saison sèche est interminable. Du coup, la chaleur étouffante nous pousse inlassablement vers les rivages rafraîchissants des comptoirs de bar, surtout quand on est accueilli par un message aussi alléchant : « le bistrot fait don de l&#8217;<a href="http://fr.wikipedia.org/wiki/Atti%C3%A9k%C3%A9">attiéké</a> ».</em></p>
 
 <p>Ce mot peu connu est tout de même présent dans la <a href="http://desencyclopedie.wikia.com/wiki/Boustroph%C3%A9don">culture populaire</a> avec notamment l&#8217;excellent <a href="http://fr.wikipedia.org/wiki/Les_Brebis">Génie des alpages</a>. Voilà, vous êtes prêt pour l&#8217;<a href="http://www.lemonde.fr/vous/quiz/2012/01/31/l-atelier-diktee-le-boustrophedon-peut-il-rouir_1634574_3238.html">interro</a> !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[L'alloco ou banane plantain frite]]></title>
-    <link href="http://zenigata.heroku.com//lalloco-ou-banane-plantain-frite/"/>
-    <updated>2012-04-11T18:11:00+02:00</updated>
-    <id>http://zenigata.heroku.com//lalloco-ou-banane-plantain-frite</id>
-    <content type="html"><![CDATA[<p>Parmi les recettes de mon pays, je vous présente l&#8217;<a href="http://fr.wikipedia.org/wiki/Alloco">alloco</a>.<br/>
-Ce mets me fait radicalement voyager dans le temps et dans l&#8217;espace, en un lieu où l&#8217;<a href="http://fr.wikipedia.org/wiki/Allocodrome">allocodrome</a> se remplit de palabres, où les rires se mêlent à la sueur, où la joie de vivre l&#8217;instant présent est teintée d&#8217;harmattan.</p>
-
-<!--more-->
-
-
-<p>
-  <a class="fancybox" href="https://lh5.googleusercontent.com/-SiFMNiZu6RI/T4Wam0qhNAI/AAAAAAAACao/LOWcRhVCpJI/s836/photo.jpg" data-fancybox-group="alloco" title="alloco poulet braisé"><img src="https://lh4.googleusercontent.com/-rNzpkMpxDd0/T4VUoNSB8TI/AAAAAAAACag/w6eXyJXU6Ms/s205/photo.jpg" alt="alloco poulet braisé" /></a>
-  <a class="fancybox" href="https://lh6.googleusercontent.com/-f80iAVIzRsI/T4WtnGJJg5I/AAAAAAAACbE/x-2cwwFGmVk/s1024/photo.jpg" data-fancybox-group="alloco" title="alloco"><img src="https://lh5.googleusercontent.com/-I_NBqJRaQwA/T4WtfFMMVLI/AAAAAAAACbA/_gOMOuTxQ-M/s205/photo.jpg" alt="alloco" /></a>
-</p>
-
-
-<h3>Ingrédients</h3>
-
-<ul>
-<li>des <a href="http://fr.wikipedia.org/wiki/Banane_plantain">bananes plantain</a> très mûres</li>
-<li>de l&#8217;huile</li>
-<li>du sel</li>
-<li>du piment (bonus)</li>
-</ul>
-
-
-<h3>Préparation</h3>
-
-<ul>
-<li>couper les bananes en rondelles</li>
-<li>les saler puis les faire frire dans de l&#8217;huile très chaude</li>
-<li>laisser frire au moins 3mn pour que les morceaux soient bien dorées</li>
-<li>à déguster avec du piment, seules ou en accompagnement</li>
-</ul>
-
-
-<h3>Conseils</h3>
-
-<ul>
-<li>préférer les morceaux de banane fondants (plus brunâtres que dorés) aux morceaux croquants qui sont plus secs et moins goûteux</li>
-<li>pour la découpe, vous pouvez éventuellement utiliser <a href="http://www.gizmodo.fr/2012/03/05/du-gadget-dans-la-cuisine-avec-le-decoupe-banane.html">ça</a>&#8230;</li>
-<li>j&#8217;ai pris les photos ci-dessus dans un restaurant du 11e que je vous recommande : <a href="http://bananeivoirienne.afrikblog.com/">À la banane ivoirienne</a></li>
-</ul>
-
 ]]></content>
   </entry>
   

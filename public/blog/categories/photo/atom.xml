@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : photo | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-08-21T10:56:16+02:00</updated>
+  <updated>2012-08-23T17:35:57+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le cinemagraph dans tous ses états]]></title>
+    <link href="http://zenigata.heroku.com//le-cinemagraph-dans-tous-ses-etats/"/>
+    <updated>2012-08-23T18:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//le-cinemagraph-dans-tous-ses-etats</id>
+    <content type="html"><![CDATA[<p>Parlons un peu du format <em>gif</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup>. Vous savez, ces images animées qui encombraient la chaussée il y a quelques années, tel <a href="http://www.picgifs.com/graphics/work-in-progress/">ça</a> ou <a href="http://www.monsieurlam.com/tag/fridance/">ça</a>. C'est marrant hein mais c’est pas très beau.</p>
+
+<p><strong>Fondamentalement l'image animée se situe entre la photo et la vidéo.</strong> Et à ce carrefour on trouve des choses étonnantes comme le sujet du jour : le <a href="http://fr.wikipedia.org/wiki/Cinemagraph">cinemagraph</a>. Et là c’est autrement plus <a href="http://www.hongkiat.com/blog/cinemagraph/">classe</a>.</p>
+
+<!--more-->
+
+
+<h3>D'autres exemples ?</h3>
+
+<p>Dans le cinemagraph, le <strong>mouvement</strong> apparent est certes répétitif mais demeure très léger, très fluide. En fait, plus il est <strong>subtil</strong> plus on peut apprécier l'apport du mouvement au sein d'une photographie. Le cinemagraph se prête bien aux <a href="http://designbeep.com/2011/10/08/showcase-of-amazing-cinemagraphs-from-famous-movies/">scènes</a> de film et à <a href="http://cinemagraphs.com/">la mode</a> <a href="http://fromme-toyou.tumblr.com/tagged/cinemagraph">en général</a>.</p>
+
+<h3>Comment en faire ?</h3>
+
+<p>Le plus simple est de transformer une vidéo via un éditeur adapté. Ces <a href="http://fernandojbaez.com/cinemagraph-tutorial/">deux</a> <a href="http://phototrend.fr/2011/10/mp-96-reussir-son-cinemagraph-ou-le-gif-anime/">tutoriaux</a> sous Photoshop vous aideront dans votre tâche. Autrement, il existe des <a href="http://www.giiks.com/internet_mobile/cinemagram-application-qui-mixe-photo-et-video/">applications</a> toutes faites sur smartphone.</p>
+
+<p>Pour finir sachez qu'un projet de recherche Microsoft, <a href="http://research.microsoft.com/en-us/um/redmond/projects/cliplets/">Microsoft Research Cliplets</a>, vous permet de générer facilement des cliplets, une version enrichie du cinemagraph (possibilité de mouvement mirroir, de déclenchement synchronisé et autres fantaisies).</p>
+
+<h3>Mes travaux ?</h3>
+
+<p>J'ai joué le jeu et essayé de réaliser des cinemagraphs avec Cliplets.</p>
+
+<p>
+  <a class="fancybox" href="https://lh3.googleusercontent.com/-AmdwDXmqClY/UDQPeerl1sI/AAAAAAAADng/w8gyDgoQzKw/s640/flo_vent.gif" data-fancybox-group="cine-moi" title="Cheveux dans le vent"><img src="https://lh3.googleusercontent.com/-AmdwDXmqClY/UDQPeerl1sI/AAAAAAAADng/w8gyDgoQzKw/s640/flo_vent.gif" alt="Cheveux dans le vent" /></a>
+</p>
+
+
+<p>
+  <a class="fancybox" href="https://lh4.googleusercontent.com/-5CIDpo17YWs/UDQPf1t0DFI/AAAAAAAADn8/qUSYF0TQV6k/s640/lucie_sourire.gif" data-fancybox-group="cine-moi" title="Don't smile"><img src="https://lh4.googleusercontent.com/-5CIDpo17YWs/UDQPf1t0DFI/AAAAAAAADn8/qUSYF0TQV6k/s640/lucie_sourire.gif" alt="Don't smile" /></a>
+</p>
+
+
+<p>
+  <a class="fancybox" href="https://lh6.googleusercontent.com/-nrpT95rHGZs/UDQPff5EXxI/AAAAAAAADn4/aI8A2ZZxa7I/s640/lemur_queue.gif" data-fancybox-group="cine-moi" title="Lémurien"><img src="https://lh6.googleusercontent.com/-nrpT95rHGZs/UDQPff5EXxI/AAAAAAAADn4/aI8A2ZZxa7I/s640/lemur_queue.gif" alt="Lémurien" /></a>
+</p>
+
+
+<p>Pensez à stabiliser votre vidéo (avec un pied par exemple) ou ce genre de désagrément apparaîtra.</p>
+
+<p>
+  <a class="fancybox" href="https://lh4.googleusercontent.com/-sUZzXIe3AwE/UDP87dsnL6I/AAAAAAAADlQ/mEwTffYTBUQ/s640/brique.gif" data-fancybox-group="cine-moi" title="Briques"><img src="https://lh4.googleusercontent.com/-sUZzXIe3AwE/UDP87dsnL6I/AAAAAAAADlQ/mEwTffYTBUQ/s640/brique.gif" alt="Briques" /></a>
+</p>
+
+
+<p>Un début de réconciliation avec le format <em>gif</em> ?</p>
+
+<hr />
+
+<p><div class="footnotes">
+	<ol>
+		<li id='fn:1'>Ça se prononce [ʒif] comme Gif-sur-Yvette <a href='#fnref:1' rev='footnote'>↩</a></li>
+	</ol>
+</div>
+</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Souviens-toi... l'été dernier]]></title>
