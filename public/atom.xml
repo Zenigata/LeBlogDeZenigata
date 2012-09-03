@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-08-23T17:35:57+02:00</updated>
+  <updated>2012-09-03T10:26:14+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Je crée le site de mon club]]></title>
+    <link href="http://zenigata.heroku.com//je-cree-le-site-de-mon-club/"/>
+    <updated>2012-09-03T10:30:00+02:00</updated>
+    <id>http://zenigata.heroku.com//je-cree-le-site-de-mon-club</id>
+    <content type="html"><![CDATA[<p><em>Bonjour Monsieur B.<br/>
+Votre mission, si toutefois vous l&#8217;acceptez, est de réaliser le site de votre club pour la rentrée.</em></p>
+
+<!--more-->
+
+
+<p>Mission acceptée et achevée en 10 étapes.</p>
+
+<h3>1. Un site de club, pas un blog</h3>
+
+<p>Tout d&#8217;abord je fais le tour des besoins et des fonctionnalités attendues.<br/>
+La <strong>date de livraison</strong> est la priorité absolue.</p>
+
+<h3>2. Un minimum d&#8217;organisation</h3>
+
+<p>Pour mettre en forme les différentes étapes du projet et gérer les tâches j&#8217;utilise l&#8217;outil en ligne <a href="http://www.trello.com/">Trello</a>.</p>
+
+<p>
+  <a class="fancybox" href="https://lh5.googleusercontent.com/-AdF-BvxBmUo/UEDgBh5KXpI/AAAAAAAADqE/GSrd4GTznZ0/s1280/trello.png" data-fancybox-group="wordpress" title="Trello"><img src="https://lh5.googleusercontent.com/-AdF-BvxBmUo/UEDgBh5KXpI/AAAAAAAADqE/GSrd4GTznZ0/s128/trello.png" alt="Trello" /></a>
+</p>
+
+
+<h3>3. Un <a href="http://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_contenu">CMS</a> que je maîtrise</h3>
+
+<p><a href="http://wordpress.org/">Wordpress</a> est parfaitement adapté à mes besoins.<br/>
+J&#8217;installe directement la dernière version sur l&#8217;espace alloué.</p>
+
+<h3>4. Un template adéquat et gratuit</h3>
+
+<p>Je <a href="http://wp.smashingmagazine.com/tag/themes/">recherche</a> et <a href="http://www.webdesignerdepot.com/2012/06/101-awesome-new-wordpress-themes/">sélectionne</a> le template qui me plaît.<br/>
+Je récupère les différentes <a href="http://www.smashingmagazine.com/tag/icons/">icônes</a> dont j&#8217;ai besoin.</p>
+
+<h3>5. De la configuration aux petits oignons</h3>
+
+<p>Il faut personnaliser le template : <strong>nom du site</strong>, choix des widgets, structure du footer, traductions manquantes ainsi que toutes les autres options globales de la page d&#8217;administration.</p>
+
+<h3>6. Au menu : des pages</h3>
+
+<p>Je commence à insérer du contenu : je crée les différents menus avec les <strong>pages statiques principales</strong>. Je configure le slider du template pour qu&#8217;il pointe vers ces pages.</p>
+
+<h3>7. Au menu : des articles</h3>
+
+<p>Ajoutons plus de contenu !<br/>
+J&#8217;écris quelques articles, je teste les commentaires ainsi que le formulaire de contact.<br/>
+Pour les images dont j&#8217;ai besoin j&#8217;essaie d&#8217;utiliser au maximum les <a href="http://www.flickr.com/creativecommons/">Creative Commons</a>.</p>
+
+<h3>8. Fignolages en tout genre</h3>
+
+<p>Le site est fonctionnel, mais il reste de nombreux ajustements : favicon, 404 personnalisée, recherche mots-clés&#8230;</p>
+
+<h3>9. Recette épicée</h3>
+
+<p>On montre ce qu&#8217;on a fait, on teste tout et on corrige ce qui ne convient pas.</p>
+
+<h3>10. Le jour J</h3>
+
+<p>Je mets le site <a href="http://boulogne.jeudego.org">en ligne</a> et je m&#8217;envole vers un autre projet.</p>
+
+<p><em>Mission cleared!</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Le cinemagraph dans tous ses états]]></title>
@@ -1129,22 +1196,6 @@ J’ai astiqué mon FAMAS comme jamais et rempli scrupuleusement chaque poche de
 <p>Je vais bientôt refermer ce journal, mes frères m’attendent autour d’un bon repas. Je vois d’ici nos trophées de guerre qui témoignent de l’intensité de nos combats. Nous avons tous reçu une décoration de guerre, preuve de notre implication et de notre courage.</p>
 
 <p>Plus rien ne sera comme avant.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Le boustrophédon dans l'Antiquité]]></title>
-    <link href="http://zenigata.heroku.com//le-boustrophedon-dans-lantiquite/"/>
-    <updated>2012-04-25T18:40:00+02:00</updated>
-    <id>http://zenigata.heroku.com//le-boustrophedon-dans-lantiquite</id>
-    <content type="html"><![CDATA[<p>Première entrée dans mon <strong>DiXIt</strong> (<strong>DI</strong>ctionnaire e<strong>X</strong>traordinaire <strong>IT</strong>ératif), voici le <a href="http://fr.wikipedia.org/wiki/Boustroph%C3%A9don">boustrophédon</a>&nbsp;:<br/>
-<em>mode d&#8217;écriture qui consiste à tracer les lignes alternativement de gauche à droite et de droite à gauche.</em></p>
-
-<p>Pour illustrer le mot je vous propose un exemple d&#8217;<a href="http://www.franceculture.fr/2010-10-12-le-clavecin-bien-trempe-ou-jeu-des-homophonies-approximatives.html">homophonies approximatives</a> qui n&#8217;engage que moi :</p>
-
-<p><em>Le boustrophédon dans l&#8217;Antiquité était un tracé d&#8217;écriture courant. Aujourd&#8217;hui les écoliers s&#8217;en servent volontiers pour s&#8217;envoyer des messages codés, quand ils ne sont pas fourrés au <a href="http://fr.wikipedia.org/wiki/Maquis_(restaurant)">maquis</a> à s&#8217;empiffrer d&#8217;allocos et de sodas. En même temps je les comprends, la saison sèche est interminable. Du coup, la chaleur étouffante nous pousse inlassablement vers les rivages rafraîchissants des comptoirs de bar, surtout quand on est accueilli par un message aussi alléchant : « le bistrot fait don de l&#8217;<a href="http://fr.wikipedia.org/wiki/Atti%C3%A9k%C3%A9">attiéké</a> ».</em></p>
-
-<p>Ce mot peu connu est tout de même présent dans la <a href="http://desencyclopedie.wikia.com/wiki/Boustroph%C3%A9don">culture populaire</a> avec notamment l&#8217;excellent <a href="http://fr.wikipedia.org/wiki/Les_Brebis">Génie des alpages</a>. Voilà, vous êtes prêt pour l&#8217;<a href="http://www.lemonde.fr/vous/quiz/2012/01/31/l-atelier-diktee-le-boustrophedon-peut-il-rouir_1634574_3238.html">interro</a> !</p>
 ]]></content>
   </entry>
   
