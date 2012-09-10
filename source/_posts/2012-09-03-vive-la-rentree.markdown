@@ -13,7 +13,7 @@ Aujourd'hui je vous propose 10 podcasts, histoire de faire passer la pilule amè
 Du sirop de science bien concentré et bien délicieux !
 
 #### [La tête au carré](http://www.franceinter.fr/emission-la-tete-au-carre)
-Du jus scientifique plus dilué mais plus agréable et plus fréquent.
+Du jus scientifique plus dilué mais plus agréable et fréquent.
 
 #### [Sur les épaules de Darwin](http://www.franceinter.fr/emission-sur-les-epaules-de-darwin)
 Un cocktail planant. Mais vraiment. On en redemande !
@@ -45,4 +45,4 @@ Des bulles exceptionnelles pour un champagne de qualité.
 ## Photographie
 
 #### [Mon œil !](http://www.franceculture.fr/podcast/4455831)
-Autre édition limitée et autre cépage. En outre bouteille très photogénique.
+Autre édition limitée et autre cépage. Disponible dans le monde entier.
