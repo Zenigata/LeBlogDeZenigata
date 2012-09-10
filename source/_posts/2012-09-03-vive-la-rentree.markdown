@@ -5,7 +5,7 @@ date: 2012-09-10 12:20
 comments: true
 categories: [podcast]
 ---
-Aujourd'hui je vous propose 10 podcasts, histoire de faire passer la pillule amère de la rentrée.
+Aujourd'hui je vous propose 10 podcasts, histoire de faire passer la pilule amère de la rentrée.
 <!--more-->
 ## Science
 
