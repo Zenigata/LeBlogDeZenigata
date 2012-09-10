@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : podcast | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-09-03T18:15:58+02:00</updated>
+  <updated>2012-09-10T12:14:51+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vive la rentrée !]]></title>
+    <link href="http://zenigata.heroku.com//vive-la-rentree/"/>
+    <updated>2012-09-10T12:20:00+02:00</updated>
+    <id>http://zenigata.heroku.com//vive-la-rentree</id>
+    <content type="html"><![CDATA[<p>Aujourd'hui je vous propose 10 podcasts, histoire de faire passer la pillule amère de la rentrée.</p>
+
+<!--more-->
+
+
+<h2>Science</h2>
+
+<h4><a href="http://www.franceculture.fr/podcast/2595281">Science publique</a></h4>
+
+<p>Du sirop de science bien concentré et bien délicieux !</p>
+
+<h4><a href="http://www.franceinter.fr/emission-la-tete-au-carre">La tête au carré</a></h4>
+
+<p>Du jus scientifique plus dilué mais plus agréable et plus fréquent.</p>
+
+<h4><a href="http://www.franceinter.fr/emission-sur-les-epaules-de-darwin">Sur les épaules de Darwin</a></h4>
+
+<p>Un cocktail planant. Mais vraiment. On en redemande !</p>
+
+<h2>Jeux de société</h2>
+
+<h4><a href="http://www.soirees-terribles.be/boitecasts/">BoîteCast</a></h4>
+
+<p>Une kyrielle de plats aussi bons que variés.</p>
+
+<h4><a href="http://www.le-gobelin-rose.com/">Le Gobelin Rose</a></h4>
+
+<p>Simple et efficace, on en a pour sa faim !</p>
+
+<h4><a href="http://www.lesdessousdutroll.fr/category/podcast/">Les dessous du Troll</a></h4>
+
+<p>Un menu classique qui a fait ses preuves. À mettre dans tous les bons guides gastronomiques.</p>
+
+<h2>Histoire</h2>
+
+<h4><a href="http://laminutedelhistoire.fr/">La minute de l'histoire</a></h4>
+
+<p>Rien que des millésimes primés. À consommer sans modération.</p>
+
+<h4><a href="http://www.franceinfo.fr/france-info-y-etait-helene-lam-trong">France info y était</a></h4>
+
+<p>Attention, des crus en édition limitée à peu d'exemplaires. Saisissez l'occasion !</p>
+
+<h2>Bande dessinée</h2>
+
+<h4><a href="http://www.lavoixdesbulles.fr/">La Voix des Bulles</a></h4>
+
+<p>Des bulles exceptionnelles pour un champagne de qualité.</p>
+
+<h2>Photographie</h2>
+
+<h4><a href="http://www.franceculture.fr/podcast/4455831">Mon œil !</a></h4>
+
+<p>Autre édition limitée et autre cépage. En outre bouteille très photogénique.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Première cérémonie des Podcars]]></title>
