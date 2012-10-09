@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-09-14T16:39:26+02:00</updated>
+  <updated>2012-10-09T10:34:06+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Avoir une touche et se prendre une barre]]></title>
+    <link href="http://zenigata.heroku.com//avoir-une-touche-et-se-prendre-une-barre/"/>
+    <updated>2012-10-09T10:40:00+02:00</updated>
+    <id>http://zenigata.heroku.com//avoir-une-touche-et-se-prendre-une-barre</id>
+    <content type="html"><![CDATA[<p><em>&#8212; Timothée dit que je ne tape jamais assez vite dans la barre d&#8217;adresse. Il dit même que les sites Internet ont le temps de faire faillite avant que je n&#8217;arrive dessus ! Tu peux m&#8217;aider dis, Papy Ngoubou ?</em></p>
+
+<p>Ma chère Solange, ne te laisse pas influencer par ton frère. Lui-même croît qu&#8217;il s&#8217;y connaît alors qu&#8217;il ne sait rien ! Je vais te donner quelques astuces. Premièrement appuie sur <strong>Ctrl+L</strong>.</p>
+
+<p><em>&#8212; Ah ça m&#8217;envoie directement sur la barre d&#8217;adresse. Plus besoin d&#8217;utiliser la souris !</em></p>
+
+<p>Tu as tout compris. Tu peux aussi utiliser la touche <strong>F6</strong>. Ensuite, pour consulter ta messagerie tu peux taper « <em>gmail</em> » et valider en appuyant sur <strong>Ctrl+Entrée</strong>.</p>
+
+<p><em>&#8212; Ça marche ! Il a rajouté le début « <strong>http://www.</strong> » et la fin « <strong>.com</strong> » tout seul&#8230;</em></p>
+
+<p>C&#8217;est ça même. Et si tu navigues via Firefox tu peux aussi utiliser les combinaisons <strong>Shift+Entrée</strong> et <strong>Ctrl+Shift+Entrée</strong> respectivement pour « <em>.net</em> » et « <em>.org</em> ». Tu gagnes du temps.</p>
+
+<p><em>&#8212; Je vais tâcher de prendre ces bonnes habitudes-là. Timothée, tu n&#8217;as qu&#8217;à bien te tenir !</em></p>
+
+<p>N&#8217;oublie pas d&#8217;utiliser à bon escient l&#8217;<strong>historique</strong> et les <strong>marque-pages</strong> de ton navigateur. De plus, pour effectuer une recherche sur Internet tu peux directement taper tes mots-clés dans la barre d&#8217;adresse sans passer par les différents formulaires. Penses-y !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[La puissance gogol]]></title>
@@ -1274,23 +1297,6 @@ Sous le pont Mirabeau coule la Seine</p>
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[WAGC 2012]]></title>
-    <link href="http://zenigata.heroku.com//wagc-2012/"/>
-    <updated>2012-05-15T17:00:00+02:00</updated>
-    <id>http://zenigata.heroku.com//wagc-2012</id>
-    <content type="html"><![CDATA[<p>C’est parti pour la <a href="http://www.nihonkiin.or.jp/amakisen/worldama/33/e/index.html">33e édition</a> des championnats du monde amateur de jeu de go !</p>
-
-<p>Cette année les 55 représentants nationaux s&#8217;affrontent à Guangzhou (Chine) du 13 au 16 mai. Pour la France c’est Rémi Campagnie (18 ans) qui s&#8217;y colle malgré sa défaite en <a href="http://dijon.go.free.fr/4eme_tour_2011/presentation.htm">finale du championnat de France</a> face à Thomas Debarre (19 ans). Mais comme ce dernier fut déjà de la partie en 2011 (avec une exceptionnelle <a href="http://www.nihonkiin.or.jp/amakisen/worldama/32/e/result.html">4e place</a> mondiale, égalant le classement de Bernard Helmstetter de <a href="http://www.nihonkiin.or.jp/amakisen/worldama/25/gameresult-e.htm">2004</a>), j’imagine qu’il a laissé sa place à son cadet.</p>
-
-<p>Rémi en est actuellement à 4 victoires sur 6, un résultat plus qu&#8217;honorable !</p>
-
-<p>Les <a href="http://kamyszyn.go.art.pl/wagc">WAGC</a>, c’est l’occasion palpitante d’assister à des rencontres inattendues et de superbes parties, souvent commentées et disponibles en ligne. Pour cela pensez au site de l&#8217;<a href="http://ranka.intergofed.org/">IGF</a> avec les commentaires de James Davies. Moi j&#8217;aime bien m&#8217;attarder sur le <a href="http://www.nihonkiin.or.jp/amakisen/worldama/33/e/participants.html">trombinoscope</a> avec cette année une mention spéciale au guide de montagne turc. Par contre je déplore l&#8217;absence de représentant malgache, snif.</p>
-
-<p>Pour l&#8217;anecdote, sachez que l&#8217;<a href="http://jerome.hubert1.perso.sfr.fr/Go/Histoire/world_ama.htm">édition 2007</a> a été remportée par un chinois de 13 ans !</p>
 ]]></content>
   </entry>
   
