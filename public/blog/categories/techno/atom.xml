@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : techno | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/techno/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-10-09T10:34:06+02:00</updated>
+  <updated>2012-10-10T10:58:59+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le graphisme d'information]]></title>
+    <link href="http://zenigata.heroku.com//le-graphisme-dinformation/"/>
+    <updated>2012-10-10T11:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//le-graphisme-dinformation</id>
+    <content type="html"><![CDATA[<p>À l'aube d'un changement de paradigme, que dis-je, d'une explosion démographique, je me fais le chantre de la première de mes vies qui s'achève. À cette occasion je vous propose un <a href="http://fr.wikipedia.org/wiki/Graphisme_d%27information">graphisme d'information</a>, ou <em>infographic</em> en anglais, comme on peut en voir <a href="http://www.ufunk.net/insolite/sex-toys-infography/">çà</a> et <a href="http://theoatmeal.com/comics/cats_actually_kill">là</a>.</p>
+
+<!--more-->
+
+
+
+
+<iframe src="http://infogr.am/1349392808-442687" width="550px" height="3790px" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Je crée le site de mon club]]></title>

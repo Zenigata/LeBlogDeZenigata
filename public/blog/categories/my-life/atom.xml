@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : my life | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/my-life/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-10-09T10:34:06+02:00</updated>
+  <updated>2012-10-10T10:58:59+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le graphisme d'information]]></title>
+    <link href="http://zenigata.heroku.com//le-graphisme-dinformation/"/>
+    <updated>2012-10-10T11:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//le-graphisme-dinformation</id>
+    <content type="html"><![CDATA[<p>À l'aube d'un changement de paradigme, que dis-je, d'une explosion démographique, je me fais le chantre de la première de mes vies qui s'achève. À cette occasion je vous propose un <a href="http://fr.wikipedia.org/wiki/Graphisme_d%27information">graphisme d'information</a>, ou <em>infographic</em> en anglais, comme on peut en voir <a href="http://www.ufunk.net/insolite/sex-toys-infography/">çà</a> et <a href="http://theoatmeal.com/comics/cats_actually_kill">là</a>.</p>
+
+<!--more-->
+
+
+
+
+<iframe src="http://infogr.am/1349392808-442687" width="550px" height="3790px" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[À l'assaut de la forteresse]]></title>
@@ -188,26 +205,6 @@ Des pompes, des abdos, des marches en canard, des roulades, de la boxe. Même de
 <p>4h d’examen à plus de 100 dans un gymnase scolaire. Un peu de tension dans l’air, mais la fierté d'appartenir à une grande famille qui se constitue de jour en jour. Puis des souvenirs inoubliables immortalisées par une photo de groupe.</p>
 
 <p><strong>Bref.</strong> Je suis ceinture jaune de <strong>krav maga</strong>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Janvier c'est blindé]]></title>
-    <link href="http://zenigata.heroku.com//janvier-cest-blinde/"/>
-    <updated>2012-01-06T17:58:00+01:00</updated>
-    <id>http://zenigata.heroku.com//janvier-cest-blinde</id>
-    <content type="html"><![CDATA[<p><em>Un mois de janvier sans gelée, jamais n’amène bonne année.</em></p>
-
-<p>Exceptionnellement chaud cette année, janvier est aussi globalement le mois le plus chargé.<br/>
-Bien sûr, on a tous pris cher avec les fêtes de décembre. N'empêche.</p>
-
-<p>Car janvier c’est déjà le mois des soldes. Ça chauffe dans les starting blocks...<br/>
-Janvier c’est aussi le grand moment des augmentations annuelles ; et je vais me battre !<br/>
-Mais janvier c’est surtout la période de la glisse et de la blanche neige. Dix jours de ski. Le minimum vital.<br/>
-Indubitablement janvier est le mois des anniversaires. Un coucou d'horloge qui réunit joies, peines et indifférences, selon la tranche d'âge. Moi ça va.<br/>
-Pour finir, janvier cette année s’annonce encore plus chargé : retour d’expérience <em>Agile Tour</em> à faire, lancement de ce blog, passage de ceinture jaune de krav maga, des résolutions à tenir, une recherche d'appartements...</p>
-
-<p>Vivement la retraite !</p>
 ]]></content>
   </entry>
   

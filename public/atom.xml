@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-10-09T10:34:06+02:00</updated>
+  <updated>2012-10-10T10:58:59+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le graphisme d'information]]></title>
+    <link href="http://zenigata.heroku.com//le-graphisme-dinformation/"/>
+    <updated>2012-10-10T11:00:00+02:00</updated>
+    <id>http://zenigata.heroku.com//le-graphisme-dinformation</id>
+    <content type="html"><![CDATA[<p>À l&#8217;aube d&#8217;un changement de paradigme, que dis-je, d&#8217;une explosion démographique, je me fais le chantre de la première de mes vies qui s&#8217;achève. À cette occasion je vous propose un <a href="http://fr.wikipedia.org/wiki/Graphisme_d%27information">graphisme d&#8217;information</a>, ou <em>infographic</em> en anglais, comme on peut en voir <a href="http://www.ufunk.net/insolite/sex-toys-infography/">çà</a> et <a href="http://theoatmeal.com/comics/cats_actually_kill">là</a>.</p>
+
+<!--more-->
+
+
+
+
+<iframe src="http://infogr.am/1349392808-442687" width="550px" height="3790px" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Avoir une touche et se prendre une barre]]></title>
@@ -1217,86 +1234,6 @@ Sous le pont Mirabeau coule la Seine</p>
 &nbsp;&nbsp;&nbsp;&nbsp;Les jours s&#8217;en vont je demeure</p>
 
 <p>Guillaume APOLINAIRE, <em>Alcools</em> (1912)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[XML, JSON et YAML sont sur un bateau]]></title>
-    <link href="http://zenigata.heroku.com//xml/"/>
-    <updated>2012-05-16T17:00:00+02:00</updated>
-    <id>http://zenigata.heroku.com//xml</id>
-    <content type="html"><![CDATA[<p>Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d&#8217;application. Connaissez-vous le très explicite YAML ?</p>
-
-<h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="nt">&lt;livre</span> <span class="na">langage=</span><span class="s">”fr”</span> <span class="na">disponible=</span><span class="s">true</span><span class="nt">&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;titre&gt;</span>Comme on dit en Afrique...<span class="nt">&lt;/titre&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;auteurs&gt;</span>
-</span><span class='line'>    <span class="nt">&lt;auteur&gt;</span>Joseph Andjou<span class="nt">&lt;/auteur&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;/auteurs&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;date&gt;</span>2003/05/28<span class="nt">&lt;/date&gt;</span>
-</span><span class='line'><span class="nt">&lt;/livre&gt;</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<h2>En <a href="http://fr.wikipedia.org/wiki/JSON">JSON</a></h2>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="p">{</span>
-</span><span class='line'>  <span class="nx">livre</span> <span class="o">:</span>
-</span><span class='line'>  <span class="p">{</span>
-</span><span class='line'>    <span class="nx">langage</span> <span class="o">:</span> <span class="err">“</span><span class="nx">fr</span><span class="err">”</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">disponible</span> <span class="o">:</span> <span class="kc">true</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">titre</span> <span class="o">:</span> <span class="err">“</span><span class="nx">Comme</span> <span class="nx">on</span> <span class="nx">dit</span> <span class="nx">en</span> <span class="nx">Afrique</span><span class="p">...</span><span class="err">”</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">auteurs</span> <span class="o">:</span>
-</span><span class='line'>    <span class="p">[</span>
-</span><span class='line'>      <span class="err">“</span><span class="nx">Joseph</span> <span class="nx">Andjou</span><span class="err">”</span>
-</span><span class='line'>    <span class="p">],</span>
-</span><span class='line'>    <span class="nx">date</span> <span class="o">:</span> <span class="err">“</span><span class="mi">28</span> <span class="nx">mai</span> <span class="mi">2003</span><span class="err">”</span>
-</span><span class='line'>  <span class="p">}</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<h2>En <a href="http://fr.wikipedia.org/wiki/YAML">YAML</a></h2>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class='yaml'><span class='line'><span class="nn">---</span>
-</span><span class='line'><span class="l-Scalar-Plain">langage</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">fr</span>
-</span><span class='line'><span class="l-Scalar-Plain">disponible</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">true</span>
-</span><span class='line'><span class="l-Scalar-Plain">titre</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">“Comme on dit en Afrique...”</span>
-</span><span class='line'><span class="l-Scalar-Plain">auteurs</span><span class="p-Indicator">:</span> <span class="p-Indicator">[</span><span class="nv">Joseph Andjou</span><span class="p-Indicator">]</span>
-</span><span class='line'><span class="l-Scalar-Plain">date</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2003-05-28</span>
-</span><span class='line'><span class="nn">---</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
 ]]></content>
   </entry>
   
