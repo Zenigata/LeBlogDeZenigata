@@ -17,5 +17,5 @@ Ayez le réflexe __The Resistance__ ! »
 « Disponible dans tous les magasins de jeux. »
 
 __♪♫ jingle pub ♪♫__
-
+***
 [The Resistance](http://www.indieboardsandcards.com/resistance.php) est un jeu d'ambiance de __Don Eskridge__ sorti en 2009, similaire aux _Loups-Garous de Thiercelieux_.

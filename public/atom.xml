@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-10-26T16:03:33+02:00</updated>
+  <updated>2012-10-26T16:56:59+02:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La 3e minute sportive]]></title>
+    <link href="http://zenigata.heroku.com//la-3e-minute-sportive/"/>
+    <updated>2012-10-30T16:39:00+01:00</updated>
+    <id>http://zenigata.heroku.com//la-3e-minute-sportive</id>
+    <content type="html"><![CDATA[<p><em>Ce programme vous est présenté par la sympathique Charlotte.</em></p>
+
+<p>Bonjour à tous ! L’été arrive à grands pas, êtes-vous en forme ?<br/>
+Pour garder la ligne et rentrer dans nos maillots, nous devons redoubler d’efforts. Allez, enfilez votre tenue et échauffez-vous : aujourd’hui je vous propose de travailler <strong>les abdos</strong> avec <strong>un partenaire</strong>.</p>
+
+<p>L’idée est simple. Couchez-vous sur le dos pendant que votre partenaire se positionne juste derrière votre tête, en station debout, relâché. Vous devez désormais former un beau <strong>L</strong>. Maintenant relevez les jambes à la verticale de sorte que votre partenaire puisse attraper vos pieds ou vos tibias. Vous pouvez également attraper ses tibias à lui pour vous aider. Voilà, tout est en place !<br/>
+L’exercice peut commencer : votre partenaire va projeter vos jambes dans la direction de son choix (devant lui ou sur les côtés), à vous de résister pour ne pas toucher le sol et remonter vos jambes, toujours le plus tendues possible, pour qu’il recommence une vingtaine de fois !</p>
+
+<p>Prenez un bon rythme et alternez régulièrement. La piscine et la bronzette ne sont pas loin, courage !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Love is our resistance]]></title>
@@ -30,6 +47,8 @@ Ayez le réflexe <strong>The Resistance</strong> ! »<br/>
 <p>« Disponible dans tous les magasins de jeux. »</p>
 
 <p><strong>♪♫ jingle pub ♪♫</strong></p>
+
+<hr />
 
 <p><a href="http://www.indieboardsandcards.com/resistance.php">The Resistance</a> est un jeu d&#8217;ambiance de <strong>Don Eskridge</strong> sorti en 2009, similaire aux <em>Loups-Garous de Thiercelieux</em>.</p>
 ]]></content>
@@ -1161,30 +1180,6 @@ Dans la jungle actuelle des <strong>podcasts</strong> j&#8217;ai réalisé pour 
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La navigation par onglets]]></title>
-    <link href="http://zenigata.heroku.com//la-navigation-par-onglets/"/>
-    <updated>2012-06-01T17:59:00+02:00</updated>
-    <id>http://zenigata.heroku.com//la-navigation-par-onglets</id>
-    <content type="html"><![CDATA[<p><em>&#8212; Hé Papy Ngoubou, tu m’impressionnes. Tu es comme un poisson dans l’eau sur Internet, tu vas trop vite ! Mais comment fais-tu ?</em></p>
-
-<p>Salut la nièce, ça va par chez toi ? Ah tu t’es mise à Internet toi aussi, alors je vais te dire : j’utilise la navigation par onglets. Voilà le secret de ma cuisine ; et elle comporte deux ingrédients.</p>
-
-<p><em>&#8212; Ah ? Ce n’est pas <a href="http://www.maggi.fr/">Maggi</a> au moins ?</em></p>
-
-<p>Toi aussi ! Non, ma première astuce concerne l’utilisation de la <strong>souris</strong>, plus précisément du <strong>bouton du milieu</strong>. Si tu l’utilises sur un lien dans une page, <em>celui-ci va s’ouvrir dans un nouvel onglet</em>. Si tu l’utilises sur les titres des onglets, tout en haut, <em>la page concernée se ferme</em>.<br/>
-Vas-y, entraîne-toi !</p>
-
-<p><em>&#8212; J’ouvre trop d’onglets maintenant ! C’est quoi ta seconde astuce ?</em></p>
-
-<p>Ça concerne le <strong>clavier</strong>. <em>Onglet</em> se dit <strong>tab</strong> en anglais, donc pour ouvrir un nouvel onglet vierge, utilise la combinaison de touches <strong>Ctrl+T</strong>. Mais le plus fort, c’est quand tu fermes par mégarde la page qui t’intéressait. Au lieu de perdre ton temps dans l’historique, utilise la combinaison <strong>Ctrl+Shift+T</strong> ; tu peux même remonter ainsi l’historique de ta navigation. Voilà ! J’espère que j’ai pu t’aider.</p>
-
-<p><em>&#8212; Merci Papy. Comment te remercier ?</em></p>
-
-<p>La prochaine fois que tu m’invites à manger ma chère, fais-moi ton spécial <a href="http://www.paspourdesprunes.com/burkina-faso/poulet-bicyclette">poulet bicyclette</a> !</p>
 ]]></content>
   </entry>
   
