@@ -1,17 +1,25 @@
 ---
 layout: post
 title: "La 3e minute sportive"
-date: 2012-10-30 16:39
+date: 2012-11-06 10:00
 comments: true
 categories: [sport]
 published: false
 ---
-_Ce programme vous est présenté par la sympathique Charlotte._
+_Ce programme vous est présenté par l'incroyable Charlotte._
 
-Bonjour à tous ! L’été arrive à grands pas, êtes-vous en forme ?  
-Pour garder la ligne et rentrer dans nos maillots, nous devons redoubler d’efforts. Allez, enfilez votre tenue et échauffez-vous : aujourd’hui je vous propose de travailler __les abdos__ avec __un partenaire__.
+C'est l'automne les cocos ! Il commence à faire froid... il faut donc se _bou-ger_ ! Allez !  
+La bonne idée du jour est un __jeu de force et d'endurance__ avec __un partenaire__ de votre choix.
 
-L’idée est simple. Couchez-vous sur le dos pendant que votre partenaire se positionne juste derrière votre tête, en station debout, relâché. Vous devez désormais former un beau __L__. Maintenant relevez les jambes à la verticale de sorte que votre partenaire puisse attraper vos pieds ou vos tibias. Vous pouvez également attraper ses tibias à lui pour vous aider. Voilà, tout est en place !  
-L’exercice peut commencer : votre partenaire va projeter vos jambes dans la direction de son choix (devant lui ou sur les côtés), à vous de résister pour ne pas toucher le sol et remonter vos jambes, toujours le plus tendues possible, pour qu’il recommence une vingtaine de fois !
+Installez-vous en position classique de pompes, jambes serrées. Votre partenaire agit de même, face à vous. Attention à ne pas vous cogner la tête !  
+Êtes-vous prêt ?
 
-Prenez un bon rythme et alternez régulièrement. La piscine et la bronzette ne sont pas loin, courage !
+Le but du jeu est de faire tomber l'adversaire en utilisant vos mains pour faucher ses bras. C'est parti !
+
+Ne restez pas inactif trop longtemps, vous laissez votre partenaire récupérer. C'est un jeu de gros bras je vous l'accorde, il faut au moins ça pour affronter l'hiver qui arrive{% fn_ref 1 %} ! Vous pouvez faire plusieurs manches si vous le voulez, et si vous le pouvez...
+
+***
+
+{% footnotes %}
+  {% fn Winter is coming %}
+{% endfootnotes%}

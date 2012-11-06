@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-10-26T17:00:44+02:00</updated>
+  <updated>2012-11-06T09:51:14+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La 3e minute sportive]]></title>
+    <link href="http://zenigata.heroku.com//la-3e-minute-sportive/"/>
+    <updated>2012-11-06T10:00:00+01:00</updated>
+    <id>http://zenigata.heroku.com//la-3e-minute-sportive</id>
+    <content type="html"><![CDATA[<p><em>Ce programme vous est présenté par l&#8217;incroyable Charlotte.</em></p>
+
+<p>C&#8217;est l&#8217;automne les cocos ! Il commence à faire froid&#8230; il faut donc se <em>bou-ger</em> ! Allez !<br/>
+La bonne idée du jour est un <strong>jeu de force et d&#8217;endurance</strong> avec <strong>un partenaire</strong> de votre choix.</p>
+
+<p>Installez-vous en position classique de pompes, jambes serrées. Votre partenaire agit de même, face à vous. Attention à ne pas vous cogner la tête !<br/>
+Êtes-vous prêt ?</p>
+
+<p>Le but du jeu est de faire tomber l&#8217;adversaire en utilisant vos mains pour faucher ses bras. C&#8217;est parti !</p>
+
+<p>Ne restez pas inactif trop longtemps, vous laissez votre partenaire récupérer. C&#8217;est un jeu de gros bras je vous l&#8217;accorde, il faut au moins ça pour affronter l&#8217;hiver qui arrive<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> ! Vous pouvez faire plusieurs manches si vous le voulez, et si vous le pouvez&#8230;</p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>Winter is coming <a href='#fnref:1' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Love is our resistance]]></title>
@@ -1163,30 +1193,6 @@ Dans la jungle actuelle des <strong>podcasts</strong> j&#8217;ai réalisé pour 
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La navigation par onglets]]></title>
-    <link href="http://zenigata.heroku.com//la-navigation-par-onglets/"/>
-    <updated>2012-06-01T17:59:00+02:00</updated>
-    <id>http://zenigata.heroku.com//la-navigation-par-onglets</id>
-    <content type="html"><![CDATA[<p><em>&#8212; Hé Papy Ngoubou, tu m’impressionnes. Tu es comme un poisson dans l’eau sur Internet, tu vas trop vite ! Mais comment fais-tu ?</em></p>
-
-<p>Salut la nièce, ça va par chez toi ? Ah tu t’es mise à Internet toi aussi, alors je vais te dire : j’utilise la navigation par onglets. Voilà le secret de ma cuisine ; et elle comporte deux ingrédients.</p>
-
-<p><em>&#8212; Ah ? Ce n’est pas <a href="http://www.maggi.fr/">Maggi</a> au moins ?</em></p>
-
-<p>Toi aussi ! Non, ma première astuce concerne l’utilisation de la <strong>souris</strong>, plus précisément du <strong>bouton du milieu</strong>. Si tu l’utilises sur un lien dans une page, <em>celui-ci va s’ouvrir dans un nouvel onglet</em>. Si tu l’utilises sur les titres des onglets, tout en haut, <em>la page concernée se ferme</em>.<br/>
-Vas-y, entraîne-toi !</p>
-
-<p><em>&#8212; J’ouvre trop d’onglets maintenant ! C’est quoi ta seconde astuce ?</em></p>
-
-<p>Ça concerne le <strong>clavier</strong>. <em>Onglet</em> se dit <strong>tab</strong> en anglais, donc pour ouvrir un nouvel onglet vierge, utilise la combinaison de touches <strong>Ctrl+T</strong>. Mais le plus fort, c’est quand tu fermes par mégarde la page qui t’intéressait. Au lieu de perdre ton temps dans l’historique, utilise la combinaison <strong>Ctrl+Shift+T</strong> ; tu peux même remonter ainsi l’historique de ta navigation. Voilà ! J’espère que j’ai pu t’aider.</p>
-
-<p><em>&#8212; Merci Papy. Comment te remercier ?</em></p>
-
-<p>La prochaine fois que tu m’invites à manger ma chère, fais-moi ton spécial <a href="http://www.paspourdesprunes.com/burkina-faso/poulet-bicyclette">poulet bicyclette</a> !</p>
 ]]></content>
   </entry>
   
