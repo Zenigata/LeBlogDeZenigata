@@ -7,7 +7,7 @@ categories: [photo]
 ---
 Certains prennent des cours de photographie, d'autres achètent des manuels thématiques. Cependant, à l'instar du bûcheron, c'est en photographiant qu'on devient photographe.
 
-Prenez votre appareil, sortez avec des amis, __shootez__, montrez votre travail, faîtes-le commenter, puis __shootez à nouveau__. Vous progresserez indubitablement. Et pour trouver des idées, __Internet__ foisonne de __contenu gratuit__ accessible à tout amateur. En voici des valeurs sûres.
+Prenez votre appareil, sortez avec des amis, __shootez__, montrez votre travail, faites-le commenter, puis __shootez à nouveau__. Vous progresserez indubitablement. Et pour trouver des idées, __Internet__ foisonne de __contenu gratuit__ accessible à tout amateur. En voici des valeurs sûres.
 <!--more-->
 
 [Apprendre la photo](http://apprendre-la-photo.fr/best-of/)
