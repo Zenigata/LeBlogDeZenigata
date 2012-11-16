@@ -9,7 +9,7 @@ _Pourquoi faire simple quand on peut faire compliqué ?_
 
 Principe du [jeu](http://www.franceculture.fr/tags/periphrases) : une personne choisit une phrase à faire deviner à un joueur. Cependant, ladite phrase est auparavant altérée par des joueurs intermédiaires dont l'action est de __transformer successivement trois substantifs en périphrases__. À la fin le joueur reçoit une phrase alambiquée mêlant circonvolutions et définitions poétiques qu'il doit raccourcir en espérant retrouver la phrase initiale. Essayons.
 <!--more-->
-Merci à _wiktionary.org_, au _Centre National de Ressources Textuelles et Lexicales_ et au joueur inconnu pour leur participation.
+Merci à _wiktionary.org_, au _Centre National de Ressources Textuelles et Lexicales_ et au joueur inconnu pour leur participation !
 
 ## La phrase de départ :
 
