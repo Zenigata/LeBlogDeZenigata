@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : dixit | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/dixit/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-11-09T10:58:39+01:00</updated>
+  <updated>2012-11-16T17:18:26+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La périphrase de trop]]></title>
+    <link href="http://zenigata.heroku.com//la-periphrase-de-trop/"/>
+    <updated>2012-11-16T17:35:00+01:00</updated>
+    <id>http://zenigata.heroku.com//la-periphrase-de-trop</id>
+    <content type="html"><![CDATA[<p><em>Pourquoi faire simple quand on peut faire compliqué ?</em></p>
+
+<p>Principe du <a href="http://www.franceculture.fr/tags/periphrases">jeu</a> : une personne choisit une phrase à faire deviner à un joueur. Cependant, ladite phrase est auparavant altérée par des joueurs intermédiaires dont l'action est de <strong>transformer successivement trois substantifs en périphrases</strong>. À la fin le joueur reçoit une phrase alambiquée mêlant circonvolutions et définitions poétiques qu'il doit raccourcir en espérant retrouver la phrase initiale. Essayons.</p>
+
+<!--more-->
+
+
+<p>Merci à <em>wiktionary.org</em>, au <em>Centre National de Ressources Textuelles et Lexicales</em> et au joueur inconnu pour leur participation.</p>
+
+<h2>La phrase de départ :</h2>
+
+<p>Malgré les <a href="http://fr.wiktionary.org/wiki/blandices">blandices</a> de mes <a href="http://fr.wiktionary.org/wiki/labadens">labadens</a>, cette <a href="http://fr.wiktionary.org/wiki/saudade">saudade</a> m'a rendu plus <a href="http://fr.wiktionary.org/wiki/babilan">babilan</a> que jamais.</p>
+
+<h2>La phrase altérée une première fois :</h2>
+
+<p>Malgré les <strong>flatteries artificieuses et les caresses charmantes et séduisantes</strong> de mes labadens, ce <strong>sentiment de solitude, de regret, après la perte de ce qui réjouissait le cœur : patrie, maison, amis ou amant</strong>, m'a rendu plus <strong>homme incapable à assurer l'acte sexuel</strong> que jamais.</p>
+
+<h2>La phrase altérée une deuxième fois :</h2>
+
+<p>Malgré les flatteries artificieuses et les caresses charmantes et séduisantes de mes <strong>camarades de classe</strong>, ce sentiment d' <strong>atmosphère silencieuse, sereine d'un lieu à un moment, à une époque où l'agitation se réduit ou cesse</strong><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup>, de regret, après la perte de ce qui réjouissait le <strong>fond secret d'un être, dans son unité et sa vérité primitives, cachées sous les apparences ou se révélant dans un élan de spontanéité, de sincérité</strong><sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup> : patrie, maison, amis ou amant, m'a rendu plus homme incapable à assurer l'acte sexuel que jamais.</p>
+
+<h2>La phrase altérée une troisième et dernière fois :</h2>
+
+<p>Malgré les <strong>louanges artificieuses, fausses ou exagérées, données dans le dessein de plaire, de séduire, d’exploiter</strong><sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup> et les caresses charmantes et séduisantes de mes camarades de classe, ce sentiment d' atmosphère silencieuse, sereine d'un lieu à un moment, à une époque où la <strong>qualité de ce qui donne une impression de vivacité</strong><sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup> se réduit ou cesse, de regret, après la perte de ce qui réjouissait le fond secret d'un être, dans son unité et sa vérité primitives, cachées sous les apparences ou se révélant dans un élan de spontanéité, de sincérité : patrie, maison, amis ou amant, m'a rendu plus <strong>créature à deux pieds et ingrate</strong><sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup> incapable à assurer l'acte sexuel que jamais.</p>
+
+<h2>Ce que le joueur inconnu a deviné :</h2>
+
+<p>Malgré les flatteries et les effleurements de mes camarades de classe, cette dépression m'a rendu plus impuissant que jamais.</p>
+
+<hr />
+
+<p><div class="footnotes">
+	<ol>
+		<li id='fn:1'>Définition de <a href="http://cnrtl.fr/definition/solitude">solitude</a> sur le site du CNRTL <a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'>Définition de <a href="http://cnrtl.fr/definition/coeur">cœur</a> sur le site du CNRTL <a href='#fnref:2' rev='footnote'>↩</a></li><li id='fn:3'>Définition de <a href="http://cnrtl.fr/definition/flatterie">flatterie</a> sur le site du CNRTL <a href='#fnref:3' rev='footnote'>↩</a></li><li id='fn:4'>Définition d'<a href="http://cnrtl.fr/definition/agitation">agitation</a> sur le site du CNRTL <a href='#fnref:4' rev='footnote'>↩</a></li><li id='fn:5'>« Je crois que la meilleure définition de l'homme serait : créature à deux pieds et ingrate. », Fiodor Dostoïevski <a href='#fnref:5' rev='footnote'>↩</a></li>
+	</ol>
+</div>
+</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[La puissance gogol]]></title>
