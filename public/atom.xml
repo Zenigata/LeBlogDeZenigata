@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-11-23T18:09:12+01:00</updated>
+  <updated>2012-11-27T18:08:02+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mes 10 commandements]]></title>
+    <link href="http://zenigata.heroku.com//mes-10-commandements/"/>
+    <updated>2012-11-27T18:15:00+01:00</updated>
+    <id>http://zenigata.heroku.com//mes-10-commandements</id>
+    <content type="html"><![CDATA[<ol>
+<li>Tu ne couperas pas la parole.</li>
+<li>Tu éviteras toute tâche administrative.</li>
+<li>Tu garderas tes mains propres en toute occasion.</li>
+<li>En sa présence, tu éviteras de parler de ton prochain à la troisième personne.</li>
+<li>Tu serviras uniquement de l’eau bien fraîche.</li>
+<li>Tu ne mâcheras pas la bouche ouverte.</li>
+<li>Tu utiliseras le téléphone avec parcimonie.</li>
+<li>Tu ne dérangeras pas celui qui mange.</li>
+<li>Tu ne mangeras pas de champignon.</li>
+<li>Tu ne claqueras pas de strapontin.</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[La ferme des animaux]]></title>
@@ -119,37 +140,6 @@ Entrez donc dans l&#8217;univers d&#8217;<strong>Agricola</strong> ! »<br/>
 <p><em>« Welcome to Digital Photography School! Discover how to use your digital camera with our Digital Photography Tips. We are a community of photographers of all experience levels who come together to learn, share and grow in our understanding of photography. »</em></p>
 
 <p>En anglais mais aussi clair qu&#8217;accessible, et terriblement bien vulgarisé.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La 3e minute sportive]]></title>
-    <link href="http://zenigata.heroku.com//la-3e-minute-sportive/"/>
-    <updated>2012-11-06T10:00:00+01:00</updated>
-    <id>http://zenigata.heroku.com//la-3e-minute-sportive</id>
-    <content type="html"><![CDATA[<p><em>Ce programme vous est présenté par l&#8217;incroyable Charlotte.</em></p>
-
-<p>C&#8217;est l&#8217;automne les cocos ! Il commence à faire froid&#8230; il faut donc se <em>bou-ger</em> ! Allez !<br/>
-La bonne idée du jour est un <strong>jeu de force et d&#8217;endurance</strong> avec <strong>un partenaire</strong> de votre choix.</p>
-
-<p>Installez-vous en position classique de pompes, jambes serrées. Votre partenaire fait de même, face à vous. Attention à ne pas vous cogner la tête !<br/>
-Êtes-vous prêt ?</p>
-
-<p>Le but du jeu est de faire tomber l&#8217;adversaire en utilisant vos mains pour faucher ses bras.<br/>
-C&#8217;est parti !</p>
-
-<p>Ne restez pas inactif trop longtemps, vous laissez votre partenaire récupérer. C&#8217;est un jeu de gros bras je vous l&#8217;accorde, il faut au moins ça pour affronter l&#8217;hiver qui arrive<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> ! Vous pouvez faire plusieurs manches si vous le voulez, et si vous le pouvez&#8230;</p>
-
-<hr />
-
-<div class="footnotes">
-    <ol>
-        <li id='fn:1'>Winter is coming <a href='#fnref:1' rev='footnote'>↩</a></li>
-    </ol>
-</div>
-
-
-
 ]]></content>
   </entry>
   
