@@ -3,7 +3,7 @@ layout: post
 title: "Hello World!"
 date: 2012-01-05 15:42
 comments: true
-categories: meta
+categories:
 ---
 2011 s'achève.  
   
