@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : banane | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/banane/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-11-27T18:08:02+01:00</updated>
+  <updated>2012-11-28T15:57:41+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La musique bananière]]></title>
+    <link href="http://zenigata.heroku.com//la-musique-bananiere/"/>
+    <updated>2012-11-28T16:00:00+01:00</updated>
+    <id>http://zenigata.heroku.com//la-musique-bananiere</id>
+    <content type="html"><![CDATA[<p>Le FLB<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> a son propre hymne !</p>
+
+<!--more-->
+
+
+
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cg4PYFu5STA" frameborder="0" allowfullscreen></iframe>
+
+
+<p><a href="http://www.ecrans.fr/Ecoutez-la-banane,14804.html">source</a></p>
+
+<hr />
+
+<p><div class="footnotes">
+	<ol>
+		<li id='fn:1'>Front de Libération de la Banane <a href='#fnref:1' rev='footnote'>↩</a></li>
+	</ol>
+</div>
+</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Un pêle-mêle de bananes]]></title>

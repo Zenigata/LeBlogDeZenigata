@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-11-27T18:08:02+01:00</updated>
+  <updated>2012-11-28T15:57:41+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La musique bananière]]></title>
+    <link href="http://zenigata.heroku.com//la-musique-bananiere/"/>
+    <updated>2012-11-28T16:00:00+01:00</updated>
+    <id>http://zenigata.heroku.com//la-musique-bananiere</id>
+    <content type="html"><![CDATA[<p>Le FLB<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> a son propre hymne !</p>
+
+<!--more-->
+
+
+
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cg4PYFu5STA" frameborder="0" allowfullscreen></iframe>
+
+
+<p><a href="http://www.ecrans.fr/Ecoutez-la-banane,14804.html">source</a></p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>Front de Libération de la Banane <a href='#fnref:1' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mes 10 commandements]]></title>
@@ -140,6 +170,37 @@ Entrez donc dans l&#8217;univers d&#8217;<strong>Agricola</strong> ! »<br/>
 <p><em>« Welcome to Digital Photography School! Discover how to use your digital camera with our Digital Photography Tips. We are a community of photographers of all experience levels who come together to learn, share and grow in our understanding of photography. »</em></p>
 
 <p>En anglais mais aussi clair qu&#8217;accessible, et terriblement bien vulgarisé.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La 3e minute sportive]]></title>
+    <link href="http://zenigata.heroku.com//la-3e-minute-sportive/"/>
+    <updated>2012-11-06T10:00:00+01:00</updated>
+    <id>http://zenigata.heroku.com//la-3e-minute-sportive</id>
+    <content type="html"><![CDATA[<p><em>Ce programme vous est présenté par l&#8217;incroyable Charlotte.</em></p>
+
+<p>C&#8217;est l&#8217;automne les cocos ! Il commence à faire froid&#8230; il faut donc se <em>bou-ger</em> ! Allez !<br/>
+La bonne idée du jour est un <strong>jeu de force et d&#8217;endurance</strong> avec <strong>un partenaire</strong> de votre choix.</p>
+
+<p>Installez-vous en position classique de pompes, jambes serrées. Votre partenaire fait de même, face à vous. Attention à ne pas vous cogner la tête !<br/>
+Êtes-vous prêt ?</p>
+
+<p>Le but du jeu est de faire tomber l&#8217;adversaire en utilisant vos mains pour faucher ses bras.<br/>
+C&#8217;est parti !</p>
+
+<p>Ne restez pas inactif trop longtemps, vous laissez votre partenaire récupérer. C&#8217;est un jeu de gros bras je vous l&#8217;accorde, il faut au moins ça pour affronter l&#8217;hiver qui arrive<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> ! Vous pouvez faire plusieurs manches si vous le voulez, et si vous le pouvez&#8230;</p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>Winter is coming <a href='#fnref:1' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+
+
 ]]></content>
   </entry>
   
@@ -849,61 +910,6 @@ zip -Xr zenigata.epub mimetype META-INF EPUB
 
 
 <p>Sources : <a href="http://www.ufunk.net/artistes/vitamin-bomb/">ufunk.net</a>, <a href="http://www.break.com/pictures/banana-paint-2001435">break.com</a>, <a href="http://designyoutrust.com/2012/07/banana-chair/">designyoutrust.com</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cherche vénus callipyge pour l'été]]></title>
-    <link href="http://zenigata.heroku.com//cherche-venus-callipyge-pour-l-ete/"/>
-    <updated>2012-07-23T18:00:00+02:00</updated>
-    <id>http://zenigata.heroku.com//cherche-venus-callipyge-pour-l-ete</id>
-    <content type="html"><![CDATA[<p>Le <strong>DiXIt</strong> s&#8217;enorgueillit d&#8217;un nouveau mot, l&#8217;adjectif <a href="http://fr.wiktionary.org/wiki/callipyge">callipyge</a>&nbsp;:
-<em>qui a de superbes fesses.</em></p>
-
-<p>Voici une tentative de <a href="http://fr.wikipedia.org/wiki/Ha%C3%AFku">haïku</a> pour illustrer cette entrée :</p>
-
-<p><em>Seul sur le sable<br/>
-Je contemple les reflets<br/>
-Callipyges.</em></p>
-
-<p>Amis aoûtiens sachez sortir ce mot au bon moment pour le plus bel effet, que vous cherchiez votre <a href="http://fr.wikipedia.org/wiki/V%C3%A9nus_callipyge">vénus callipyge</a> au teint bronzé, votre apollon <a href="http://fr.wiktionary.org/wiki/cacopyge">cacopyge</a> mais si viril, ou tout simplement une bonne bouteille d&#8217;<a href="http://callipyge.org/">absinthe</a> si vous possédez déjà les deux.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Embrassez vos envies]]></title>
-    <link href="http://zenigata.heroku.com//embrassez-vos-envies/"/>
-    <updated>2012-07-19T11:04:00+02:00</updated>
-    <id>http://zenigata.heroku.com//embrassez-vos-envies</id>
-    <content type="html"><![CDATA[<p><strong>Solidays</strong> s’est terminé ce dimanche,<br/>
-Certains ont enchaîné les nuits blanches,<br/>
-Quant à moi j’ai les oreilles qui bourdonnent<br/>
-Et les jambent qui pèsent des tonnes.</p>
-
-<p>Pourtant j’adore ce festival !<br/>
-En ce début de période estivale<br/>
-C’est vraiment l’idéal pour sortir,<br/>
-S’amuser et se faire plaisir.</p>
-
-<p>Que ça soit <a href="http://www.shakaponk.com/SHKPNK">Shaka Ponk</a> ou <a href="http://www.skiptheusemusic.com/">Skip the Use</a><br/>
-Pas de pitié pour la pelouse !<br/>
-Bien que le festivalier moyen<br/>
-Soit majoritairement jeune et féminin&#8230;</p>
-
-<p>Solidays se bat contre le Sida<br/>
-Grâce entre autres au volontariat,<br/>
-À l’engagement éco-responsable<br/>
-Et solidaire d’intervenants capables.</p>
-
-<p>Booster son inspiration, sa créativité,<br/>
-Confronter les cultures par t-shirts interposés,<br/>
-Ou chercher la solitude au sein de la multitude,<br/>
-Il s’agit de célébrer en ce lieu toutes formes de vicissitude.</p>
-
-<p>Finalement quand la fièvre s’éteint,<br/>
-Quand la pluie noie de boue le terrain,<br/>
-Quand l’heure de rentrer a sonné<br/>
-On a tout d’un coup très mal aux pieds.</p>
 ]]></content>
   </entry>
   
