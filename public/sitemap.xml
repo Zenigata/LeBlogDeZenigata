@@ -169,10 +169,6 @@
         <lastmod>2012-10-26T16:56:59+02:00</lastmod>
     </url>
     <url>
-        <loc>http://zenigata.heroku.com//la-3e-minute-sportive/</loc>
-        <lastmod>2012-11-06T09:59:05+01:00</lastmod>
-    </url>
-    <url>
         <loc>http://zenigata.heroku.com//affuter-son-regard/</loc>
         <lastmod>2012-11-09T10:58:38+01:00</lastmod>
     </url>
@@ -193,12 +189,16 @@
         <lastmod>2012-11-28T15:57:41+01:00</lastmod>
     </url>
     <url>
+        <loc>http://zenigata.heroku.com//kikadikoi/</loc>
+        <lastmod>2012-11-30T17:30:11+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://zenigata.heroku.com//404.html</loc>
         <lastmod>2012-01-06T11:43:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://zenigata.heroku.com//blog/archives/</loc>
-        <lastmod>2012-11-28T16:15:40+01:00</lastmod>
+        <lastmod>2012-11-30T17:30:11+01:00</lastmod>
     </url>
     <url>
         <loc>http://zenigata.heroku.com//maintenance/</loc>
@@ -206,7 +206,7 @@
     </url>
     <url>
         <loc>http://zenigata.heroku.com//</loc>
-        <lastmod>2012-11-28T16:15:40+01:00</lastmod>
+        <lastmod>2012-11-30T17:30:11+01:00</lastmod>
     </url>
     <url>
         <loc>http://zenigata.heroku.com//about/</loc>
