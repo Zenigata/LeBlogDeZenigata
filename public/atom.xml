@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2012-12-03T18:14:41+01:00</updated>
+  <updated>2013-01-07T11:11:51+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[51<sup>e</sup> État]]></title>
+    <link href="http://zenigata.heroku.com//51e-etat/"/>
+    <updated>2013-01-07T11:30:00+01:00</updated>
+    <id>http://zenigata.heroku.com//51e-etat</id>
+    <content type="html"><![CDATA[<p>À la création de ce blog, il y a tout juste un an, je m&#8217;imposai un rythme d&#8217;un article par semaine. Fêtons le 51<sup>e</sup> en vidéo !</p>
+
+<!--more-->
+
+
+
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/fwNH8sw_g8w" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Je vous souhaite une année 2013 remplie d&#8217;<a href="http://fr.wiktionary.org/wiki/%C3%A9pectase">épectases</a>, que ce soit entre <a href="http://fr.wiktionary.org/wiki/gourgandine">gourgandines</a> ou <a href="http://fr.wiktionary.org/wiki/marlou">marlous</a>&nbsp;!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Le pain quotidien]]></title>
@@ -845,85 +864,6 @@ On fait surtout la rencontre de joueurs de tous horizons, petits et grands, qui 
 
 <p>Son interlocuteur n&#8217;est autre que son némésis, le <strong>bêta-testeur</strong>. À l&#8217;inverse, lui ne cherche que des coups originaux, des séquences exotiques, l&#8217;aventure avec un grand <strong>A</strong>. Avec lui on compte rarement les points : c&#8217;est tout ou rien, blanc ou noir, tué ou être tué. Oubliée la théorie, bienvenus les combats épiques en pur free style.<br/>
 <em>Conseil : contre lui jouez solide, préférez les séquences simples que vous maîtrisez.</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mon premier livre numérique]]></title>
-    <link href="http://zenigata.heroku.com//mon-premier-livre-numerique/"/>
-    <updated>2012-08-08T18:10:00+02:00</updated>
-    <id>http://zenigata.heroku.com//mon-premier-livre-numerique</id>
-    <content type="html"><![CDATA[<p>Qu&#8217;entend-on par <a href="http://fr.wikipedia.org/wiki/Livre_num%C3%A9rique">livre numérique</a> ?<br/>
-Certainement beaucoup de choses ! rien qu&#8217;au niveau des formats disponibles : <em>.txt</em>, <em>.html</em> ou <em>.pdf</em> pour n&#8217;en citer que quelques-uns. Et bien je vais vous montrer comment réaliser votre premier&nbsp;<em><a href="http://fr.wikipedia.org/wiki/EPUB_(format)">.epub</a></em>. Ce format ouvert et standardisé tend à s&#8217;imposer. Vous pouvez par exemple en récupérer plein de gratuits au sein du <a href="http://www.gutenberg.org/wiki/FR_Principal">Projet Gutenberg</a>.</p>
-
-<!--more-->
-
-
-<p>Vous trouverez sur Internet les <a href="http://idpf.org/epub/30/spec/epub30-overview.html">spécifications du format</a>, ainsi que de nombreux <a href="http://www.ebouquin.fr/2010/02/04/comment-creer-un-fichier-epub/">tutoriaux</a>.</p>
-
-<h2>L&#8217;archive</h2>
-
-<p>Un fichier <em>epub</em>, c&#8217;est juste une archive <strong>zip</strong> qui contient des pages <strong>html</strong> et des <strong>métadonnées</strong> au sujet de votre livre. Voilà tout.</p>
-
-<p>Je vous ai concocté un <a href="https://docs.google.com/open?id=0B-NsvDqymweIU1RXS3VqOEJjbTg">exemple</a> :</p>
-
-<pre>
-zenigata.epub
-├── EPUB
-│   ├── content.opf
-│   ├── css
-│   │   └── epub.css
-│   ├── images
-│   │   └── zenigata.jpg
-│   ├── text
-│   │   ├── 01-poemes.xhtml
-│   │   ├── 02-fables.xhtml
-│   │   ├── nav.xhtml
-│   │   └── titre.xhtml
-│   └── toc.ncx
-├── META-INF
-│   └── container.xml
-└── mimetype
-</pre>
-
-
-<h2>Les fichiers</h2>
-
-<p>Les fichiers <strong>mimetype</strong> et <strong>container.xml</strong> sont les mêmes pour tous les livres.</p>
-
-<h4><em>content.opf</em></h4>
-
-<p>Ce fichier contient les <strong>métadonnées</strong> liées à l&#8217;ouvrage : auteur, date de parution, éditeur, genre, nombre de pages, etc.<br/>
-Il décrit également le contenu exhaustif de l&#8217;archive.</p>
-
-<h4><em>toc.ncx</em></h4>
-
-<p>Ce fichier facultatif peut être utilisé pour créer une <strong>table des matières</strong> accessible à tout moment (sur le <em>Sony PRS-T1</em> il faut faire <em>menu -> Naviguer page -> Table des matières</em>).</p>
-
-<h4><em>code html</em></h4>
-
-<p>Le reste des fichiers représente du code html basique avec du css et une image pour la couverture.</p>
-
-<p>Il ne reste plus qu&#8217;à créer l&#8217;archive :</p>
-
-<pre>
-zip -Xr zenigata.epub mimetype META-INF EPUB
-</pre>
-
-
-<h2>FAQ</h2>
-
-<p>Pour tester votre livre numérique, de nombreux <a href="http://blog.kowalczyk.info/articles/epub-ebook-reader-viewer-for-windows.html">visionneurs d&#8217;epub</a> sont disponibles selon votre système d&#8217;exploitation.</p>
-
-<p>Un outil utile : le <a href="http://code.google.com/p/epubcheck/">validateur d&#8217;epub</a>. Très pratique !</p>
-
-<p>Pensez à écrire <em>&lt;!DOCTYPE html></em> et non <em>&lt;!doctype html></em> si vous faites du <strong>html 5</strong>.</p>
-
-<p>Vous trouverez des exemples d&#8217;epub fonctionnels à cet <a href="http://code.google.com/p/epub-samples/">endroit</a>.</p>
-
-<p>Si les spécifications en ligne ne sont pas assez claires, jetez un œil sur ce <a href="http://matt.garrish.ca/epub3/guidelines/">site</a>.</p>
-
-<h4>À vous les joies de l&#8217;édition !</h4>
 ]]></content>
   </entry>
   

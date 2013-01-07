@@ -9,7 +9,8 @@
   <meta name="author" content="Zenigata">
 
   
-  <meta name="description" content="Quelques nouvelles du front de libération de la banane avec ces clichés : ">
+  <meta name="description" content="Qu&#8217;entend-on par livre numérique ?
+Certainement beaucoup de choses ! rien qu&#8217;au niveau des formats disponibles : .txt, .html ou .pdf pour &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -95,6 +96,48 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/mon-premier-livre-numerique/">Mon premier livre numérique</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-08-08T18:10:00+02:00" pubdate data-updated="true">Aug 8<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Qu&#8217;entend-on par <a href="http://fr.wikipedia.org/wiki/Livre_num%C3%A9rique">livre numérique</a> ?<br/>
+Certainement beaucoup de choses ! rien qu&#8217;au niveau des formats disponibles : <em>.txt</em>, <em>.html</em> ou <em>.pdf</em> pour n&#8217;en citer que quelques-uns. Et bien je vais vous montrer comment réaliser votre premier&nbsp;<em><a href="http://fr.wikipedia.org/wiki/EPUB_(format)">.epub</a></em>. Ce format ouvert et standardisé tend à s&#8217;imposer. Vous pouvez par exemple en récupérer plein de gratuits au sein du <a href="http://www.gutenberg.org/wiki/FR_Principal">Projet Gutenberg</a>.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/mon-premier-livre-numerique/">Continuez &rarr;</a>
+    </footer>
+  
+
+
+    </article>
   
   
     <article>
@@ -506,113 +549,6 @@ Analysons quelques <strong>idées reçues</strong> sur la photographie.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/xml/">XML, JSON et YAML sont sur un bateau</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-05-16T17:00:00+02:00" pubdate data-updated="true">May 16<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d&#8217;application. Connaissez-vous le très explicite YAML ?</p>
-
-<h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="nt">&lt;livre</span> <span class="na">langage=</span><span class="s">”fr”</span> <span class="na">disponible=</span><span class="s">true</span><span class="nt">&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;titre&gt;</span>Comme on dit en Afrique...<span class="nt">&lt;/titre&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;auteurs&gt;</span>
-</span><span class='line'>    <span class="nt">&lt;auteur&gt;</span>Joseph Andjou<span class="nt">&lt;/auteur&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;/auteurs&gt;</span>
-</span><span class='line'>  <span class="nt">&lt;date&gt;</span>2003/05/28<span class="nt">&lt;/date&gt;</span>
-</span><span class='line'><span class="nt">&lt;/livre&gt;</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<h2>En <a href="http://fr.wikipedia.org/wiki/JSON">JSON</a></h2>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="p">{</span>
-</span><span class='line'>  <span class="nx">livre</span> <span class="o">:</span>
-</span><span class='line'>  <span class="p">{</span>
-</span><span class='line'>    <span class="nx">langage</span> <span class="o">:</span> <span class="err">“</span><span class="nx">fr</span><span class="err">”</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">disponible</span> <span class="o">:</span> <span class="kc">true</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">titre</span> <span class="o">:</span> <span class="err">“</span><span class="nx">Comme</span> <span class="nx">on</span> <span class="nx">dit</span> <span class="nx">en</span> <span class="nx">Afrique</span><span class="p">...</span><span class="err">”</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">auteurs</span> <span class="o">:</span>
-</span><span class='line'>    <span class="p">[</span>
-</span><span class='line'>      <span class="err">“</span><span class="nx">Joseph</span> <span class="nx">Andjou</span><span class="err">”</span>
-</span><span class='line'>    <span class="p">],</span>
-</span><span class='line'>    <span class="nx">date</span> <span class="o">:</span> <span class="err">“</span><span class="mi">28</span> <span class="nx">mai</span> <span class="mi">2003</span><span class="err">”</span>
-</span><span class='line'>  <span class="p">}</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<h2>En <a href="http://fr.wikipedia.org/wiki/YAML">YAML</a></h2>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class='yaml'><span class='line'><span class="nn">---</span>
-</span><span class='line'><span class="l-Scalar-Plain">langage</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">fr</span>
-</span><span class='line'><span class="l-Scalar-Plain">disponible</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">true</span>
-</span><span class='line'><span class="l-Scalar-Plain">titre</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">“Comme on dit en Afrique...”</span>
-</span><span class='line'><span class="l-Scalar-Plain">auteurs</span><span class="p-Indicator">:</span> <span class="p-Indicator">[</span><span class="nv">Joseph Andjou</span><span class="p-Indicator">]</span>
-</span><span class='line'><span class="l-Scalar-Plain">date</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2003-05-28</span>
-</span><span class='line'><span class="nn">---</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/4/">&larr; Older</a>
@@ -632,6 +568,10 @@ Analysons quelques <strong>idées reçues</strong> sur la photographie.</p>
 <section>
   <h1>Au Menu :</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/51e-etat/">51<sup>e</sup> État</a>
+      </li>
     
       <li class="post">
         <a href="/le-pain-quotidien/">Le pain quotidien</a>
@@ -669,10 +609,6 @@ Analysons quelques <strong>idées reçues</strong> sur la photographie.</p>
         <a href="/chanson-dautomne/">Chanson d&#8217;automne</a>
       </li>
     
-      <li class="post">
-        <a href="/le-graphisme-dinformation/">Le graphisme d&#8217;information</a>
-      </li>
-    
   </ul>
 </section>
 
@@ -700,7 +636,7 @@ Analysons quelques <strong>idées reçues</strong> sur la photographie.</p>
 
 <section>
   <h1>Catégories :</h1>
-    <span id="tag-cloud"><a href='/blog/categories/banane' style='font-size: 134.28571428571428%'>banane</a> <a href='/blog/categories/bon-plan' style='font-size: 108.57142857142857%'>bon plan</a> <a href='/blog/categories/code' style='font-size: 108.57142857142857%'>code</a> <a href='/blog/categories/dixit' style='font-size: 134.28571428571428%'>dixit</a> <a href='/blog/categories/ff' style='font-size: 117.14285714285714%'>ff</a> <a href='/blog/categories/javascript' style='font-size: 117.14285714285714%'>javascript</a> <a href='/blog/categories/jeu-de-go' style='font-size: 134.28571428571428%'>jeu de go</a> <a href='/blog/categories/jeu-de-societe' style='font-size: 125.71428571428572%'>jeu de societe</a> <a href='/blog/categories/krav' style='font-size: 117.14285714285714%'>krav</a> <a href='/blog/categories/litterature' style='font-size: 151.42857142857144%'>litterature</a> <a href='/blog/categories/my-life' style='font-size: 160.0%'>my life</a> <a href='/blog/categories/ngoubou' style='font-size: 125.71428571428572%'>ngoubou</a> <a href='/blog/categories/oueb' style='font-size: 117.14285714285714%'>oueb</a> <a href='/blog/categories/papous' style='font-size: 125.71428571428572%'>papous</a> <a href='/blog/categories/photo' style='font-size: 142.85714285714286%'>photo</a> <a href='/blog/categories/podcast' style='font-size: 134.28571428571428%'>podcast</a> <a href='/blog/categories/recette' style='font-size: 108.57142857142857%'>recette</a> <a href='/blog/categories/sport' style='font-size: 117.14285714285714%'>sport</a> <a href='/blog/categories/techno' style='font-size: 142.85714285714286%'>techno</a> </span>
+    <span id="tag-cloud"><a href='/blog/categories/banane' style='font-size: 130.0%'>banane</a> <a href='/blog/categories/bon-plan' style='font-size: 107.5%'>bon plan</a> <a href='/blog/categories/code' style='font-size: 107.5%'>code</a> <a href='/blog/categories/dixit' style='font-size: 130.0%'>dixit</a> <a href='/blog/categories/ff' style='font-size: 115.0%'>ff</a> <a href='/blog/categories/javascript' style='font-size: 115.0%'>javascript</a> <a href='/blog/categories/jeu-de-go' style='font-size: 130.0%'>jeu de go</a> <a href='/blog/categories/jeu-de-societe' style='font-size: 122.5%'>jeu de societe</a> <a href='/blog/categories/krav' style='font-size: 115.0%'>krav</a> <a href='/blog/categories/litterature' style='font-size: 145.0%'>litterature</a> <a href='/blog/categories/my-life' style='font-size: 160.0%'>my life</a> <a href='/blog/categories/ngoubou' style='font-size: 122.5%'>ngoubou</a> <a href='/blog/categories/oueb' style='font-size: 115.0%'>oueb</a> <a href='/blog/categories/papous' style='font-size: 122.5%'>papous</a> <a href='/blog/categories/photo' style='font-size: 137.5%'>photo</a> <a href='/blog/categories/podcast' style='font-size: 130.0%'>podcast</a> <a href='/blog/categories/recette' style='font-size: 107.5%'>recette</a> <a href='/blog/categories/sport' style='font-size: 115.0%'>sport</a> <a href='/blog/categories/techno' style='font-size: 137.5%'>techno</a> </span>
 </section>
 
   
@@ -709,7 +645,7 @@ Analysons quelques <strong>idées reçues</strong> sur la photographie.</p>
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2012 - Zenigata -
+  Copyright &copy; 2013 - Zenigata -
   <span class="credit">Propulsé par <a href="http://octopress.org">Octopress</a></span>
 </p>
 
