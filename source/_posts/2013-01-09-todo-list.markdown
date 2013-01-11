@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Todo list"
+date: 2013-01-11 18:30
+comments: true
+categories: [oueb]
+---
+Faire des listes, c'est vachement cool.  
+D'ailleurs où ai-je pu mettre ma [liste de courses](http://www.senscritique.com/Zenigata/collection/shopping) ? J'ai parfois la mémoire qui flanche alors je la travaille, je l'entretiens, je la soulage. Au fond, une liste c'est souvent très [utile](http://www.senscritique.com/liste/Grands_films_disponibles_gratuitement_et_legalement_sur_Yout/57648), mais quelque fois un peu [moins](http://www.senscritique.com/liste/Regarder_integralement_cette_serie_vous_prendra/133004). J'en vois qui font le beau avec leurs fameux [top 10](http://www.senscritique.com/liste/Top_10_BD/97669) ou [top 15](http://www.senscritique.com/liste/Top_15_Courts_Metrages_d_Animation/4535). Je préfère les listes à [thème](http://www.senscritique.com/liste/Comment_ca_Napoleon_n_a_pas_gagne_a_Waterloo_Vous_en_etes_su/22503), on peut y étaler sa [science](http://www.senscritique.com/liste/Esthetiques_identites_visuelles/43039) sans [conscience](http://www.senscritique.com/liste/livres_pour_enfant_n_aimant_pas_lire/158416). Comme faire des guides pour les néophytes : [comics](http://www.senscritique.com/liste/Les_comics_pour_les_nuls/21575), [manga](http://www.senscritique.com/liste/Classement_d_apprentissage_Mangas/49872), [anime](http://www.senscritique.com/liste/La_japanime_autrement_serie/52278), [jazz](http://www.senscritique.com/liste/Les_10_albums_de_jazz_a_ecouter_avant_de_mourir/147863), etc. Pourtant, c'est plus [fun](http://www.senscritique.com/liste/Les_titres_de_livres_WTF/23936) quand c'est [drôle](http://www.senscritique.com/liste/Oscars_du_pitch_WTF/9586), voire [très drôle](http://www.senscritique.com/liste/Top_Titres_de_film_asiatique_borderlines/78239), ou même carrément [original](http://www.senscritique.com/liste/Monsieur_Chatouille_convoite_ces_ovnis_videoludiques/58097) ! Bref. Au final j'en reviens toujours au [pense-bête](http://www.senscritique.com/liste/Madame_Acrobate_saute_de_blog_BD_en_blog_BD/172771).
+
+Listez vos bonnes résolutions !
