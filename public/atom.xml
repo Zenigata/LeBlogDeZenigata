@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2013-01-25T17:00:39+01:00</updated>
+  <updated>2013-01-28T14:40:08+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Qui suis-je ?]]></title>
+    <link href="http://zenigata.heroku.com//qui-suis-je/"/>
+    <updated>2013-01-28T14:43:00+01:00</updated>
+    <id>http://zenigata.heroku.com//qui-suis-je</id>
+    <content type="html"><![CDATA[<p><em>Un certain Julien L. prend la parole.</em></p>
+
+<p>Je suis l’animal le plus dangereux d’Afrique. Mes ancêtres peuplaient également l’Europe et l’Asie. Mon plus proche parent est la baleine. Les égyptiens me représentaient sous les traits de la <em>Déesse Taouret</em>, symbole de fertilité, alors que les Hébreux m’associaient au <em>Béhémoth</em>.</p>
+
+<p>Ma puissante mâchoire peut s’ouvrir à 150° et mes canines mesurer plus de 60 cm. Je ne me nourris qu’après le coucher du soleil. Je peux battre l’homme à la course bien que je sois le mammifère terrestre le plus lourd après l’éléphant et le rhinocéros. On me surnomme le <em>cheval du fleuve</em>.</p>
+
+<p>Je <a href="http://www.youtube.com/watch?v=3J45ojsP6Dc">suis</a>&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[L'estimation démystifiée]]></title>
@@ -321,37 +336,6 @@ Entrez donc dans l&#8217;univers d&#8217;<strong>Agricola</strong> ! »<br/>
 <p><em>« Welcome to Digital Photography School! Discover how to use your digital camera with our Digital Photography Tips. We are a community of photographers of all experience levels who come together to learn, share and grow in our understanding of photography. »</em></p>
 
 <p>En anglais mais aussi clair qu&#8217;accessible, et terriblement bien vulgarisé.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La 3e minute sportive]]></title>
-    <link href="http://zenigata.heroku.com//la-3e-minute-sportive/"/>
-    <updated>2012-11-06T10:00:00+01:00</updated>
-    <id>http://zenigata.heroku.com//la-3e-minute-sportive</id>
-    <content type="html"><![CDATA[<p><em>Ce programme vous est présenté par l&#8217;incroyable Charlotte.</em></p>
-
-<p>C&#8217;est l&#8217;automne les cocos ! Il commence à faire froid&#8230; il faut donc se <em>bou-ger</em> ! Allez !<br/>
-La bonne idée du jour est un <strong>jeu de force et d&#8217;endurance</strong> avec <strong>un partenaire</strong> de votre choix.</p>
-
-<p>Installez-vous en position classique de pompes, jambes serrées. Votre partenaire fait de même, face à vous. Attention à ne pas vous cogner la tête !<br/>
-Êtes-vous prêt ?</p>
-
-<p>Le but du jeu est de faire tomber l&#8217;adversaire en utilisant vos mains pour faucher ses bras.<br/>
-C&#8217;est parti !</p>
-
-<p>Ne restez pas inactif trop longtemps, vous laissez votre partenaire récupérer. C&#8217;est un jeu de gros bras je vous l&#8217;accorde, il faut au moins ça pour affronter l&#8217;hiver qui arrive<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> ! Vous pouvez faire plusieurs manches si vous le voulez, et si vous le pouvez&#8230;</p>
-
-<hr />
-
-<div class="footnotes">
-    <ol>
-        <li id='fn:1'>Winter is coming <a href='#fnref:1' rev='footnote'>↩</a></li>
-    </ol>
-</div>
-
-
-
 ]]></content>
   </entry>
   

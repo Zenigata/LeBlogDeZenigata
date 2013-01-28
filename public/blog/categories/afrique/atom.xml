@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Catégorie : afrique | Zenigata]]></title>
+  <link href="http://zenigata.heroku.com//blog/categories/afrique/atom.xml" rel="self"/>
+  <link href="http://zenigata.heroku.com//"/>
+  <updated>2013-01-28T14:40:08+01:00</updated>
+  <id>http://zenigata.heroku.com//</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Qui suis-je ?]]></title>
+    <link href="http://zenigata.heroku.com//qui-suis-je/"/>
+    <updated>2013-01-28T14:43:00+01:00</updated>
+    <id>http://zenigata.heroku.com//qui-suis-je</id>
+    <content type="html"><![CDATA[<p><em>Un certain Julien L. prend la parole.</em></p>
+
+<p>Je suis l’animal le plus dangereux d’Afrique. Mes ancêtres peuplaient également l’Europe et l’Asie. Mon plus proche parent est la baleine. Les égyptiens me représentaient sous les traits de la <em>Déesse Taouret</em>, symbole de fertilité, alors que les Hébreux m’associaient au <em>Béhémoth</em>.</p>
+
+<p>Ma puissante mâchoire peut s’ouvrir à 150° et mes canines mesurer plus de 60 cm. Je ne me nourris qu’après le coucher du soleil. Je peux battre l’homme à la course bien que je sois le mammifère terrestre le plus lourd après l’éléphant et le rhinocéros. On me surnomme le <em>cheval du fleuve</em>.</p>
+
+<p>Je <a href="http://www.youtube.com/watch?v=3J45ojsP6Dc">suis</a>...</p>
+]]></content>
+  </entry>
+  
+</feed>
