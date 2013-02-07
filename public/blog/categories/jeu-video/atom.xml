@@ -1,14 +1,30 @@
----
-layout: post
-title: "20 game designers"
-date: 2013-02-07 16:50
-comments: true
-categories: [jeu video]
----
-Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-creators/index.html)_ à connaître !
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Catégorie : jeu video | Zenigata]]></title>
+  <link href="http://zenigata.heroku.com//blog/categories/jeu-video/atom.xml" rel="self"/>
+  <link href="http://zenigata.heroku.com//"/>
+  <updated>2013-02-07T16:44:57+01:00</updated>
+  <id>http://zenigata.heroku.com//</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[20 game designers]]></title>
+    <link href="http://zenigata.heroku.com//game-designers/"/>
+    <updated>2013-02-07T16:50:00+01:00</updated>
+    <id>http://zenigata.heroku.com//game-designers</id>
+    <content type="html"><![CDATA[<p>Les maîtres du jeu : 20 <em><a href="http://uk.games.ign.com/top-100-game-creators/index.html">game designers</a></em> à connaître !</p>
+
 <!--more-->
 
-## [1. Shigeru Miyamoto](http://fr.wikipedia.org/wiki/Shigeru_Miyamoto)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Shigeru_Miyamoto">1. Shigeru Miyamoto</a></h2>
+
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/8/8f/Dkong_end.png" data-fancybox-group="miyamoto" title="Donkey Kong"><img src="http://upload.wikimedia.org/wikipedia/en/8/8f/Dkong_end.png" alt="Donkey Kong" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/5/50/NES_Super_Mario_Bros.png" data-fancybox-group="miyamoto" title="Super Mario Bros"><img src="http://upload.wikimedia.org/wikipedia/en/5/50/NES_Super_Mario_Bros.png" alt="Super Mario Bros" style="height:100px;" /></a>
@@ -19,7 +35,9 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/1/13/Pikmin_cover_art.jpg" data-fancybox-group="miyamoto" title="Pikmin"><img src="http://upload.wikimedia.org/wikipedia/en/1/13/Pikmin_cover_art.jpg" alt="Pikmin" style="height:100px;" /></a>
 </p>
 
-## [2. Hironobu Sakaguchi](http://fr.wikipedia.org/wiki/Hironobu_Sakaguchi)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Hironobu_Sakaguchi">2. Hironobu Sakaguchi</a></h2>
+
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/0/04/Final_Fantasy_I_Lich_Battle.png" data-fancybox-group="sakaguchi" title="Final Fantasy"><img src="http://upload.wikimedia.org/wikipedia/en/0/04/Final_Fantasy_I_Lich_Battle.png" alt="Final Fantasy" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/d/df/WikibattleFF6.PNG" data-fancybox-group="sakaguchi" title="Final Fantasy VI"><img src="http://upload.wikimedia.org/wikipedia/en/d/df/WikibattleFF6.PNG" alt="Final Fantasy VI" style="height:100px;" /></a>
@@ -31,7 +49,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/9/9a/LostOdyssey.jpg" data-fancybox-group="sakaguchi" title="Lost Odyssey"><img src="http://upload.wikimedia.org/wikipedia/en/9/9a/LostOdyssey.jpg" alt="Lost Odyssey" style="height:100px;" /></a>
 </p>
 
-## [3. Hideo Kojima](http://fr.wikipedia.org/wiki/Hideo_Kojima)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Hideo_Kojima">3. Hideo Kojima</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/2/24/Mgear.png" data-fancybox-group="kojima" title="Metal Gear"><img src="http://upload.wikimedia.org/wikipedia/en/2/24/Mgear.png" alt="Metal Gear" style="height:100px;" /></a>
@@ -42,7 +61,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/5/59/Metal_Gear_Solid_4_gameplay.jpg" data-fancybox-group="kojima" title="Metal Gear Solid 4: Guns of the Patriots"><img src="http://upload.wikimedia.org/wikipedia/en/5/59/Metal_Gear_Solid_4_gameplay.jpg" alt="Metal Gear Solid 4: Guns of the Patriots" style="height:100px;" /></a>
 </p>
 
-## [4. Shinji Mikami](http://fr.wikipedia.org/wiki/Shinji_Mikami)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Shinji_Mikami">4. Shinji Mikami</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/6/63/GoofTroopSNESFirstLevel.jpg" data-fancybox-group="mikami" title="Goof Troop"><img src="http://upload.wikimedia.org/wikipedia/en/6/63/GoofTroopSNESFirstLevel.jpg" alt="Goof Troop" style="height:100px;" /></a>
@@ -52,7 +72,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/3/38/Dino_Crisis.jpg" data-fancybox-group="mikami" title="Dino Crisis"><img src="http://upload.wikimedia.org/wikipedia/en/3/38/Dino_Crisis.jpg" alt="Dino Crisis" style="height:100px;" /></a>
 </p>
 
-## [5. Yū Suzuki](http://fr.wikipedia.org/wiki/Y%C5%AB_Suzuki)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Y%C5%AB_Suzuki">5. Yū Suzuki</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/commons/b/b9/Sega_Daytona_USA_Arcarde.jpg" data-fancybox-group="suzuki" title="Daytona USA"><img src="http://upload.wikimedia.org/wikipedia/commons/b/b9/Sega_Daytona_USA_Arcarde.jpg" alt="Daytona USA" style="height:100px;" /></a>
@@ -61,7 +82,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/2/25/Shenmue_quicktimeevent.jpg" data-fancybox-group="suzuki" title="Shenmue"><img src="http://upload.wikimedia.org/wikipedia/en/2/25/Shenmue_quicktimeevent.jpg" alt="Shenmue" style="height:100px;" /></a>
 </p>
 
-## [6. Sid Meier](http://fr.wikipedia.org/wiki/Sid_Meier)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Sid_Meier">6. Sid Meier</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/4/46/Sid_Meier%27s_Pirates%21_%281987%29_Coverart.png" data-fancybox-group="meier" title="Sid Meier’s Pirates!"><img src="http://upload.wikimedia.org/wikipedia/en/4/46/Sid_Meier%27s_Pirates%21_%281987%29_Coverart.png" alt="Sid Meier’s Pirates!" style="height:100px;" /></a>
@@ -71,7 +93,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/3/38/SMACx-DiploScreenshot1.jpg" data-fancybox-group="meier" title="Alpha Centauri"><img src="http://upload.wikimedia.org/wikipedia/en/3/38/SMACx-DiploScreenshot1.jpg" alt="Alpha Centauri" style="height:100px;" /></a>
 </p>
 
-## [7. John D. Carmack](http://fr.wikipedia.org/wiki/John_Carmack)
+
+<h2><a href="http://fr.wikipedia.org/wiki/John_Carmack">7. John D. Carmack</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/6/69/Wolf3d_pc.png" data-fancybox-group="carmack" title="Wolfenstein 3D"><img src="http://upload.wikimedia.org/wikipedia/en/6/69/Wolf3d_pc.png" alt="Wolfenstein 3D" style="height:100px;" /></a>
@@ -83,7 +106,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/b/bd/Rage_cover.jpg" data-fancybox-group="carmack" title="Rage"><img src="http://upload.wikimedia.org/wikipedia/en/b/bd/Rage_cover.jpg" alt="Rage" style="height:100px;" /></a>
 </p>
 
-## [8. Gabe Newell](http://fr.wikipedia.org/wiki/Gabe_Newell)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Gabe_Newell">8. Gabe Newell</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/6/65/Halflife_ingame.jpg" data-fancybox-group="newell" title="Half-Life"><img src="http://upload.wikimedia.org/wikipedia/en/6/65/Halflife_ingame.jpg" alt="Half-Life" style="height:100px;" /></a>
@@ -93,7 +117,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/5/52/Left_4_Dead_Revised_Cast.jpg" data-fancybox-group="newell" title="Left 4 Dead"><img src="http://upload.wikimedia.org/wikipedia/en/5/52/Left_4_Dead_Revised_Cast.jpg" alt="Left 4 Dead" style="height:100px;" /></a>
 </p>
 
-## [9. Will Wright](http://fr.wikipedia.org/wiki/Will_Wright)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Will_Wright">9. Will Wright</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/commons/6/6d/Micropolis_-_big_city.png" data-fancybox-group="wright" title="SimCity"><img src="http://upload.wikimedia.org/wikipedia/commons/6/6d/Micropolis_-_big_city.png" alt="SimCity" style="height:100px;" /></a>
@@ -102,7 +127,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/7/73/Spore_civphase.jpg" data-fancybox-group="wright" title="Spore"><img src="http://upload.wikimedia.org/wikipedia/en/7/73/Spore_civphase.jpg" alt="Spore" style="height:100px;" /></a>
 </p>
 
-## [10. Peter Molyneux](http://fr.wikipedia.org/wiki/Peter_Molyneux)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Peter_Molyneux">10. Peter Molyneux</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/2/2d/Amiga_Populous.png" data-fancybox-group="molyneux" title="Populous"><img src="http://upload.wikimedia.org/wikipedia/en/2/2d/Amiga_Populous.png" alt="Populous" style="height:100px;" /></a>
@@ -113,7 +139,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/7/7f/Fable_II.jpg" data-fancybox-group="molyneux" title="Fable II"><img src="http://upload.wikimedia.org/wikipedia/en/7/7f/Fable_II.jpg" alt="Fable II" style="height:100px;" /></a>
 </p>
 
-## [11. Warren Spector](http://fr.wikipedia.org/wiki/Warren_Spector)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Warren_Spector">11. Warren Spector</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/d/d1/WingCommanderBox-front.jpg" data-fancybox-group="spector" title="Wing Commander"><img src="http://upload.wikimedia.org/wikipedia/en/d/d1/WingCommanderBox-front.jpg" alt="Wing Commander" style="height:100px;" /></a>
@@ -124,7 +151,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/5/59/Epic_Mickey.jpg" data-fancybox-group="spector" title="Epic Mickey"><img src="http://upload.wikimedia.org/wikipedia/en/5/59/Epic_Mickey.jpg" alt="Epic Mickey" style="height:100px;" /></a>
 </p>
 
-## [12. Tim Schafer](http://fr.wikipedia.org/wiki/Tim_Schafer)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Tim_Schafer">12. Tim Schafer</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/7/76/Maniac_Mansion.png" data-fancybox-group="schafer" title="Maniac Mansion"><img src="http://upload.wikimedia.org/wikipedia/en/7/76/Maniac_Mansion.png" alt="Maniac Mansion" style="height:100px;" /></a>
@@ -137,7 +165,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/1/19/Stacking-screenshot.jpg" data-fancybox-group="schafer" title="Stacking"><img src="http://upload.wikimedia.org/wikipedia/en/1/19/Stacking-screenshot.jpg" alt="Stacking" style="height:100px;" /></a>
 </p>
 
-## [13. Ron Gilbert](http://fr.wikipedia.org/wiki/Ron_Gilbert)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Ron_Gilbert">13. Ron Gilbert</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/7/76/Maniac_Mansion.png" data-fancybox-group="gilbert" title="Maniac Mansion"><img src="http://upload.wikimedia.org/wikipedia/en/7/76/Maniac_Mansion.png" alt="Maniac Mansion" style="height:100px;" /></a>
@@ -147,7 +176,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/4/49/The_cave_video_game_cover.png" data-fancybox-group="gilbert" title="The Cave"><img src="http://upload.wikimedia.org/wikipedia/en/4/49/The_cave_video_game_cover.png" alt="The Cave" style="height:100px;" /></a>
 </p>
 
-## [14. Frédéric Raynal](http://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9rick_Raynal)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9rick_Raynal">14. Frédéric Raynal</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/7/7b/AITDscreenshot.gif" data-fancybox-group="raynal" title="Alone in the Dark"><img src="http://upload.wikimedia.org/wikipedia/en/7/7b/AITDscreenshot.gif" alt="Alone in the Dark" style="height:100px;" /></a>
@@ -156,7 +186,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/2/22/Little_Big_Adventure_2_cover.jpg" data-fancybox-group="raynal" title="Little Big Adventure 2"><img src="http://upload.wikimedia.org/wikipedia/en/2/22/Little_Big_Adventure_2_cover.jpg" alt="Little Big Adventure 2" style="height:100px;" /></a>
 </p>
 
-## [15. Jordan Mechner](http://fr.wikipedia.org/wiki/Jordan_Mechner)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Jordan_Mechner">15. Jordan Mechner</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/2/24/Karateka_Fighting_Akuma.png" data-fancybox-group="mechner" title="Karateka"><img src="http://upload.wikimedia.org/wikipedia/en/2/24/Karateka_Fighting_Akuma.png" alt="Karateka" style="height:100px;" /></a>
@@ -165,7 +196,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/b/b2/Prince_of_Persia_SOT_Fighting.png" data-fancybox-group="mechner" title="Prince of Persia: The Sands of Time"><img src="http://upload.wikimedia.org/wikipedia/en/b/b2/Prince_of_Persia_SOT_Fighting.png" alt="Prince of Persia: The Sands of Time" style="height:100px;" /></a>
 </p>
 
-## [16. David Perry](http://fr.wikipedia.org/wiki/David_Perry_\(programmeur\))
+
+<h2><a href="http://fr.wikipedia.org/wiki/David_Perry_(programmeur)">16. David Perry</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/0/0d/Cool_Spot.png" data-fancybox-group="perry" title="Cool Spot"><img src="http://upload.wikimedia.org/wikipedia/en/0/0d/Cool_Spot.png" alt="Cool Spot" style="height:100px;" /></a>
@@ -175,7 +207,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/b/bf/Pathofneobox.jpg" data-fancybox-group="perry" title="The Matrix: Path of Neo"><img src="http://upload.wikimedia.org/wikipedia/en/b/bf/Pathofneobox.jpg" alt="The Matrix: Path of Neo" style="height:100px;" /></a>
 </p>
 
-## [17. Michel Ancel](http://fr.wikipedia.org/wiki/Michel_Ancel)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Michel_Ancel">17. Michel Ancel</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/0/0b/Rayman_PSX_-_Band_Land.png" data-fancybox-group="ancel" title="Rayman"><img src="http://upload.wikimedia.org/wikipedia/en/0/0b/Rayman_PSX_-_Band_Land.png" alt="Rayman" style="height:100px;" /></a>
@@ -185,7 +218,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/7/75/Rayman_and_Betilla_%28Rayman_Origins%29.jpg" data-fancybox-group="ancel" title="Rayman Origins"><img src="http://upload.wikimedia.org/wikipedia/en/7/75/Rayman_and_Betilla_%28Rayman_Origins%29.jpg" alt="Rayman Origins" style="height:100px;" /></a>
 </p>
 
-## [18. Brian Fargo](http://fr.wikipedia.org/wiki/Brian_Fargo)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Brian_Fargo">18. Brian Fargo</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/5/50/ST_Battle_Chess.png" data-fancybox-group="fargo" title="Battle Chess"><img src="http://upload.wikimedia.org/wikipedia/en/5/50/ST_Battle_Chess.png" alt="Battle Chess" style="height:100px;" /></a>
@@ -194,7 +228,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/a/a9/The-bards-tale-screenshot.jpg" data-fancybox-group="fargo" title="The Bard’s Tale"><img src="http://upload.wikimedia.org/wikipedia/en/a/a9/The-bards-tale-screenshot.jpg" alt="The Bard’s Tale" style="height:100px;" /></a>
 </p>
 
-## [19. Paul Cuisset](http://fr.wikipedia.org/wiki/Paul_Cuisset)
+
+<h2><a href="http://fr.wikipedia.org/wiki/Paul_Cuisset">19. Paul Cuisset</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/a/a9/Amiga-Cruise-For-A-Corpse.jpg" data-fancybox-group="cuisset" title="Coisière pour un cadavre"><img src="http://upload.wikimedia.org/wikipedia/en/a/a9/Amiga-Cruise-For-A-Corpse.jpg" alt="Coisière pour un cadavre" style="height:100px;" /></a>
@@ -203,7 +238,8 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/8/87/Fade_to_Black_PC_box_art.jpg" data-fancybox-group="cuisset" title="Fade to Black"><img src="http://upload.wikimedia.org/wikipedia/en/8/87/Fade_to_Black_PC_box_art.jpg" alt="Fade to Black" style="height:100px;" /></a>
 </p>
 
-## [20. Éric Chahi](http://fr.wikipedia.org/wiki/%C3%89ric_Chahi)
+
+<h2><a href="http://fr.wikipedia.org/wiki/%C3%89ric_Chahi">20. Éric Chahi</a></h2>
 
 <p>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/8/81/Megadrive_another_world.png" data-fancybox-group="chahi" title="Another World"><img src="http://upload.wikimedia.org/wikipedia/en/8/81/Megadrive_another_world.png" alt="Another World" style="height:100px;" /></a>
@@ -211,5 +247,11 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/a/ad/FromDustTribe.png" data-fancybox-group="chahi" title="From Dust"><img src="http://upload.wikimedia.org/wikipedia/en/a/ad/FromDustTribe.png" alt="From Dust" style="height:100px;" /></a>
 </p>
 
----
-Toutes les images proviennent de Wikipedia.
+
+<hr />
+
+<p>Toutes les images proviennent de Wikipedia.</p>
+]]></content>
+  </entry>
+  
+</feed>
