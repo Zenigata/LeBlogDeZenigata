@@ -55,7 +55,7 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
 ## [5. Yū Suzuki](http://fr.wikipedia.org/wiki/Y%C5%AB_Suzuki)
 
 <p>
-  <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/commons/b/b9/Sega_Daytona_USA_Arcarde.jpg" data-fancybox-group="suzuki" title="Daytona USA"><img src="http://upload.wikimedia.org/wikipedia/commons/b/b9/Sega_Daytona_USA_Arcarde.jpg" alt="Daytona USA" style="height:100px;" /></a>
+  <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sega_Daytona_USA_Arcarde.jpg/358px-Sega_Daytona_USA_Arcarde.jpg" data-fancybox-group="suzuki" title="Daytona USA"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sega_Daytona_USA_Arcarde.jpg/358px-Sega_Daytona_USA_Arcarde.jpg" alt="Daytona USA" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/2/22/Virtua_Fighter.png" data-fancybox-group="suzuki" title="Virtua Fighter"><img src="http://upload.wikimedia.org/wikipedia/en/2/22/Virtua_Fighter.png" alt="Virtua Fighter" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/c/ca/Virtuacop.jpg" data-fancybox-group="suzuki" title="Virtua Cop"><img src="http://upload.wikimedia.org/wikipedia/en/c/ca/Virtuacop.jpg" alt="Virtua Cop" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/2/25/Shenmue_quicktimeevent.jpg" data-fancybox-group="suzuki" title="Shenmue"><img src="http://upload.wikimedia.org/wikipedia/en/2/25/Shenmue_quicktimeevent.jpg" alt="Shenmue" style="height:100px;" /></a>
@@ -96,7 +96,7 @@ Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-
 ## [9. Will Wright](http://fr.wikipedia.org/wiki/Will_Wright)
 
 <p>
-  <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/commons/6/6d/Micropolis_-_big_city.png" data-fancybox-group="wright" title="SimCity"><img src="http://upload.wikimedia.org/wikipedia/commons/6/6d/Micropolis_-_big_city.png" alt="SimCity" style="height:100px;" /></a>
+  <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Micropolis_-_big_city.png/640px-Micropolis_-_big_city.png" data-fancybox-group="wright" title="SimCity"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Micropolis_-_big_city.png/640px-Micropolis_-_big_city.png" alt="SimCity" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/e/e5/Sc2kscr.png" data-fancybox-group="wright" title="SimCity 2000"><img src="http://upload.wikimedia.org/wikipedia/en/e/e5/Sc2kscr.png" alt="SimCity 2000" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/9/91/SimsSS.jpg" data-fancybox-group="wright" title="Les Sims"><img src="http://upload.wikimedia.org/wikipedia/en/9/91/SimsSS.jpg" alt="Les Sims" style="height:100px;" /></a>
   <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/en/7/73/Spore_civphase.jpg" data-fancybox-group="wright" title="Spore"><img src="http://upload.wikimedia.org/wikipedia/en/7/73/Spore_civphase.jpg" alt="Spore" style="height:100px;" /></a>
