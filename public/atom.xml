@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2013-02-07T16:44:57+01:00</updated>
+  <updated>2013-02-08T16:54:35+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Free bananas!]]></title>
+    <link href="http://zenigata.heroku.com//free-bananas/"/>
+    <updated>2013-02-08T17:00:00+01:00</updated>
+    <id>http://zenigata.heroku.com//free-bananas</id>
+    <content type="html"><![CDATA[<p><em>Ceci est un communiqué officiel du <strong>Front de Libération de la Banane</strong></em>.</p>
+
+<p><strong>♪♫ jingle ♪♫</strong></p>
+
+<p>« <em>¡Muchachos!</em><br/>
+Nous adressons ce message au gouvernement <a href="http://fr.wikipedia.org/wiki/Stochocratie">stochocratique</a> de ce blog où chaque nouvel article semble choisi aléatoirement. Cela ne peut durer ! <em>¡No, claro que no!</em> Sinon nous commencerons impitoyablement nos exactions.<br/>
+<em>¡Caramba!</em><br/>
+Voici nos revendications : nous exigeons la libération totale et immédiate de tous nos camarades <a href="http://zenigata.heroku.com//blog/categories/banane">bananes</a> dudit blog. Ceci est non négociable.</p>
+
+<p>¡Hasta la victoria, siempre! »</p>
+
+<p><strong>♪♫ jingle ♪♫</strong></p>
+
+<p><em>Split</em><br/>
+porte-parole du <em>FLB</em></p>
+
+<hr />
+
+<p><em>Les revendications ont été entendues et les bananes libérées sur <a href="http://lflb.tumblr.com/tagged/banane">Tumblr</a></em>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[20 game designers]]></title>
@@ -858,73 +885,6 @@ Google s&#8217;en est encore inspiré, cette fois pour le nom du siège de l&#82
 <h4><a href="http://www.franceculture.fr/podcast/4455831">Mon œil !</a></h4>
 
 <p>Autre édition limitée et autre cépage. Disponible dans le monde entier.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Je crée le site de mon club]]></title>
-    <link href="http://zenigata.heroku.com//je-cree-le-site-de-mon-club/"/>
-    <updated>2012-09-03T10:30:00+02:00</updated>
-    <id>http://zenigata.heroku.com//je-cree-le-site-de-mon-club</id>
-    <content type="html"><![CDATA[<p><em>Bonjour Monsieur B.<br/>
-Votre mission, si toutefois vous l&#8217;acceptez, est de réaliser le site de votre club pour la rentrée.</em></p>
-
-<!--more-->
-
-
-<p>Mission acceptée et achevée en 10 étapes.</p>
-
-<h3>1. Un site de club, pas un blog</h3>
-
-<p>Tout d&#8217;abord je fais le tour des besoins et des fonctionnalités attendues.<br/>
-La <strong>date de livraison</strong> est la priorité absolue.</p>
-
-<h3>2. Un minimum d&#8217;organisation</h3>
-
-<p>Pour mettre en forme les différentes étapes du projet et gérer les tâches j&#8217;utilise l&#8217;outil en ligne <a href="http://www.trello.com/">Trello</a>.</p>
-
-<p>
-  <a class="fancybox" href="https://lh5.googleusercontent.com/-AdF-BvxBmUo/UEDgBh5KXpI/AAAAAAAADqE/GSrd4GTznZ0/s1280/trello.png" data-fancybox-group="wordpress" title="Trello"><img src="https://lh5.googleusercontent.com/-AdF-BvxBmUo/UEDgBh5KXpI/AAAAAAAADqE/GSrd4GTznZ0/s128/trello.png" alt="Trello" /></a>
-</p>
-
-
-<h3>3. Un <a href="http://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_contenu">CMS</a> que je maîtrise</h3>
-
-<p><a href="http://wordpress.org/">Wordpress</a> est parfaitement adapté à mes besoins.<br/>
-J&#8217;installe directement la dernière version sur l&#8217;espace alloué.</p>
-
-<h3>4. Un template adéquat et gratuit</h3>
-
-<p>Je <a href="http://wp.smashingmagazine.com/tag/themes/">recherche</a> et <a href="http://www.webdesignerdepot.com/2012/06/101-awesome-new-wordpress-themes/">sélectionne</a> le template qui me plaît.<br/>
-Je récupère les différentes <a href="http://www.smashingmagazine.com/tag/icons/">icônes</a> dont j&#8217;ai besoin.</p>
-
-<h3>5. De la configuration aux petits oignons</h3>
-
-<p>Il faut personnaliser le template : <strong>nom du site</strong>, choix des widgets, structure du footer, traductions manquantes ainsi que toutes les autres options globales de la page d&#8217;administration.</p>
-
-<h3>6. Au menu : des pages</h3>
-
-<p>Je commence à insérer du contenu : je crée les différents menus avec les <strong>pages statiques principales</strong>. Je configure le slider du template pour qu&#8217;il pointe vers ces pages.</p>
-
-<h3>7. Au menu : des articles</h3>
-
-<p>Ajoutons plus de contenu !<br/>
-J&#8217;écris quelques articles, je teste les commentaires ainsi que le formulaire de contact.<br/>
-Pour les images dont j&#8217;ai besoin j&#8217;essaie d&#8217;utiliser au maximum les <a href="http://www.flickr.com/creativecommons/">Creative Commons</a>.</p>
-
-<h3>8. Fignolages en tout genre</h3>
-
-<p>Le site est fonctionnel, mais il reste de nombreux ajustements : favicon, 404 personnalisée, recherche mots-clés&#8230;</p>
-
-<h3>9. Recette épicée</h3>
-
-<p>On montre ce qu&#8217;on a fait, on teste tout et on corrige ce qui ne convient pas.</p>
-
-<h3>10. Le jour J</h3>
-
-<p>Je mets le site <a href="http://boulogne.jeudego.org">en ligne</a> et je m&#8217;envole vers un autre projet.</p>
-
-<p><em>Mission cleared!</em></p>
 ]]></content>
   </entry>
   

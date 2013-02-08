@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : oueb | Zenigata]]></title>
   <link href="http://zenigata.heroku.com//blog/categories/oueb/atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2013-02-07T16:44:57+01:00</updated>
+  <updated>2013-02-08T16:54:35+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Free bananas!]]></title>
+    <link href="http://zenigata.heroku.com//free-bananas/"/>
+    <updated>2013-02-08T17:00:00+01:00</updated>
+    <id>http://zenigata.heroku.com//free-bananas</id>
+    <content type="html"><![CDATA[<p><em>Ceci est un communiqué officiel du <strong>Front de Libération de la Banane</strong></em>.</p>
+
+<p><strong>♪♫ jingle ♪♫</strong></p>
+
+<p>« <em>¡Muchachos!</em><br/>
+Nous adressons ce message au gouvernement <a href="http://fr.wikipedia.org/wiki/Stochocratie">stochocratique</a> de ce blog où chaque nouvel article semble choisi aléatoirement. Cela ne peut durer ! <em>¡No, claro que no!</em> Sinon nous commencerons impitoyablement nos exactions.<br/>
+<em>¡Caramba!</em><br/>
+Voici nos revendications : nous exigeons la libération totale et immédiate de tous nos camarades <a href="/blog/categories/banane">bananes</a> dudit blog. Ceci est non négociable.</p>
+
+<p>¡Hasta la victoria, siempre! »</p>
+
+<p><strong>♪♫ jingle ♪♫</strong></p>
+
+<p><em>Split</em><br/>
+porte-parole du <em>FLB</em></p>
+
+<hr />
+
+<p><em>Les revendications ont été entendues et les bananes libérées sur <a href="http://lflb.tumblr.com/tagged/banane">Tumblr</a></em>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Todo list]]></title>
