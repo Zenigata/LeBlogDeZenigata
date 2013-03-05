@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.heroku.com//atom.xml" rel="self"/>
   <link href="http://zenigata.heroku.com//"/>
-  <updated>2013-02-25T14:16:37+01:00</updated>
+  <updated>2013-03-05T17:54:16+01:00</updated>
   <id>http://zenigata.heroku.com//</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Harmonie du soir]]></title>
+    <link href="http://zenigata.heroku.com//harmonie-du-soir/"/>
+    <updated>2013-03-05T18:00:00+01:00</updated>
+    <id>http://zenigata.heroku.com//harmonie-du-soir</id>
+    <content type="html"><![CDATA[<p>Ce poème vient régulièrement hanter mes pensées, imbriquant ses vers dans ma mémoire comme autant d&#8217;esquifs échoués et oubliés de mon bac de français. Outre sa <a href="http://www.bacdefrancais.net/harmonie.php">dimension religieuse</a>, c&#8217;est son atmosphère intimiste et mystique qui me séduit. Ce <a href="http://fr.wikipedia.org/wiki/Pantoum#Harmonie_du_soir.2C_faux_pantoum_de_Baudelaire">pseudo pantoum</a> sublime l&#8217;instant crépusculaire avec notamment cet alexandrin délicieux&nbsp;: «&nbsp;Le soleil s&#8217;est noyé dans son sang qui se fige&nbsp;».<br/>
+Allons jeter un coup d&#8217;œil aux <a href="http://fleursdumal.org/poem/142">traductions</a> et <a href="http://www.youtube.com/watch?v=9aUY39nHDoo">adaptations</a>.</p>
+
+<!--more-->
+
+
+<h2>Harmonie du soir</h2>
+
+<p>Voici venir les temps où vibrant sur sa tige<br/>
+Chaque fleur s&#8217;évapore ainsi qu&#8217;un encensoir&nbsp;;<br/>
+Les sons et les parfums tournent dans l&#8217;air du soir&nbsp;;<br/>
+Valse mélancolique et langoureux vertige&nbsp;!</p>
+
+<p>Chaque fleur s&#8217;évapore ainsi qu&#8217;un encensoir&nbsp;;<br/>
+Le violon frémit comme un cœur qu&#8217;on afflige&nbsp;;<br/>
+Valse mélancolique et langoureux vertige&nbsp;!<br/>
+Le ciel est triste et beau comme un grand reposoir.</p>
+
+<p>Le violon frémit comme un cœur qu&#8217;on afflige,<br/>
+Un cœur tendre, qui hait le néant vaste et noir&nbsp;!<br/>
+Le ciel est triste et beau comme un grand reposoir&nbsp;;<br/>
+Le soleil s&#8217;est noyé dans son sang qui se fige.</p>
+
+<p>Un cœur tendre, qui hait le néant vaste et noir,<br/>
+Du passé lumineux recueille tout vestige&nbsp;!<br/>
+Le soleil s&#8217;est noyé dans son sang qui se fige…<br/>
+Ton souvenir en moi luit comme un ostensoir&nbsp;!</p>
+
+<p>Charles BEAUDELAIRE, <em>Les Fleurs du mal</em> (1857)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Je suis un animal...]]></title>
@@ -731,29 +768,6 @@ Pareil à la<br/>
 
 <iframe src="http://infogr.am/1349392808-442687" width="550px" height="3790px" scrolling="no" frameborder="0" style="border:none;"></iframe>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Avoir une touche et se prendre une barre]]></title>
-    <link href="http://zenigata.heroku.com//avoir-une-touche-et-se-prendre-une-barre/"/>
-    <updated>2012-10-09T10:40:00+02:00</updated>
-    <id>http://zenigata.heroku.com//avoir-une-touche-et-se-prendre-une-barre</id>
-    <content type="html"><![CDATA[<p><em>&#8212; Timothée dit que je ne tape jamais assez vite dans la barre d&#8217;adresse. Il dit même que les sites Internet ont le temps de faire faillite avant que je n&#8217;arrive dessus ! Tu peux m&#8217;aider dis, Papy Ngoubou ?</em></p>
-
-<p>Ma chère Solange, ne te laisse pas influencer par ton frère. Lui-même croît qu&#8217;il s&#8217;y connaît alors qu&#8217;il ne sait rien ! Je vais te donner quelques astuces. Premièrement appuie sur <strong>Ctrl+L</strong>.</p>
-
-<p><em>&#8212; Ah ça m&#8217;envoie directement sur la barre d&#8217;adresse. Plus besoin d&#8217;utiliser la souris !</em></p>
-
-<p>Tu as tout compris. Tu peux aussi utiliser la touche <strong>F6</strong>. Ensuite, pour consulter ta messagerie tu peux taper « <em>gmail</em> » et valider en appuyant sur <strong>Ctrl+Entrée</strong>.</p>
-
-<p><em>&#8212; Ça marche ! Il a rajouté le début « <strong>http://www.</strong> » et la fin « <strong>.com</strong> » tout seul&#8230;</em></p>
-
-<p>C&#8217;est ça même. Et si tu navigues via Firefox tu peux aussi utiliser les combinaisons <strong>Shift+Entrée</strong> et <strong>Ctrl+Shift+Entrée</strong> respectivement pour « <em>.net</em> » et « <em>.org</em> ». Tu gagnes du temps.</p>
-
-<p><em>&#8212; Je vais tâcher de prendre ces bonnes habitudes-là. Timothée, tu n&#8217;as qu&#8217;à bien te tenir !</em></p>
-
-<p>N&#8217;oublie pas d&#8217;utiliser à bon escient l&#8217;<strong>historique</strong> et les <strong>marque-pages</strong> de ton navigateur. De plus, pour effectuer une recherche sur Internet tu peux directement taper tes mots-clés dans la barre d&#8217;adresse sans passer par les différents formulaires. Penses-y !</p>
 ]]></content>
   </entry>
   
