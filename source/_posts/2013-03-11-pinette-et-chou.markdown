@@ -16,7 +16,7 @@ C'est Pinette et Chou
 C'est Chou et Pinette  
 Quand leur bout’d’chou  
 A perdu son doudou  
-Deux heures pour le ‘rtrouver  
+Deux heures pour le r'trouver  
 Deux heures pour la bercer  
 Quelle bataille,  
 Ces jeunes parents qui bâillent, bâillent, bâillent, bâillent, bâillent, bâillent, bâillent, bâillent, bâillent.
