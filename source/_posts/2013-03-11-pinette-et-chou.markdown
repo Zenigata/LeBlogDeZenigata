@@ -14,7 +14,7 @@ _Certains se reconnaîtront dans les paroles de cette chanson (à chanter sur un
 ♪♫  
 C'est Pinette et Chou  
 C'est Chou et Pinette  
-Quand leur bout’d’chou  
+Quand leur bout d’chou  
 A perdu son doudou  
 Deux heures pour le r'trouver  
 Deux heures pour la bercer  
