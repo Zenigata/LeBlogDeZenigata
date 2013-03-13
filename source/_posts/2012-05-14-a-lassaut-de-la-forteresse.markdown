@@ -3,7 +3,7 @@ layout: post
 title: "À l'assaut de la forteresse"
 date: 2012-05-14 11:56
 comments: true
-categories: [krav, my life]
+categories: [sport]
 ---
 Ceci est une fiction basée sur des faits réels légèrement exagérés.
 

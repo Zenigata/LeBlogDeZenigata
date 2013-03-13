@@ -3,7 +3,7 @@ layout: post
 title: "20 game designers"
 date: 2013-02-07 16:50
 comments: true
-categories: [jeu video]
+categories: [compil]
 ---
 Les maîtres du jeu : 20 _[game designers](http://uk.games.ign.com/top-100-game-creators/index.html)_ à connaître !
 <!--more-->

@@ -1,0 +1,38 @@
+---
+layout: post
+title: "20 romans de SF"
+date: 2013-03-13 10:40
+comments: true
+categories: [compil]
+---
+Le genre narratif de la science-fiction me frappe de plein fouet. J'en prends plein la gueule, j'encaisse. Et je kiffe.
+<!--more-->
+
+### 10 œuvres que je recommande, triées par préférence :
+<p>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000139248/150/Hyperion_Les_Cantos_d_Hyperion_tome_1.jpg" data-fancybox-group="previous" title="Hypérion 1"><img src="http://mv.sens.sc/media/000000139248/150/Hyperion_Les_Cantos_d_Hyperion_tome_1.jpg" alt="Hypérion 1"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000004247490/150/1984.jpg" data-fancybox-group="previous" title="1984"><img src="http://mv.sens.sc/media/000004247490/150/1984.jpg" alt="1984"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000005203/150/Le_Guide_du_voyageur_galactique_H2G2_tome_1.jpg" data-fancybox-group="previous" title="H2G2 1"><img src="http://mv.sens.sc/media/000000005203/150/Le_Guide_du_voyageur_galactique_H2G2_tome_1.jpg" alt="H2G2 1"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000164881/150/La_Strategie_Ender_Le_Cycle_d_Ender_tome_1.jpg" data-fancybox-group="previous" title="Le cycle d'Ender 1"><img src="http://mv.sens.sc/media/000000164881/150/La_Strategie_Ender_Le_Cycle_d_Ender_tome_1.jpg" alt="Le cycle d'Ender 1"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000077801/150/La_Nuit_des_temps.jpg" data-fancybox-group="previous" title="La nuit des temps"><img src="http://mv.sens.sc/media/000000077801/150/La_Nuit_des_temps.jpg" alt="La nuit des temps"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000001064/150/Le_Meilleur_des_mondes.jpg" data-fancybox-group="previous" title="Le meilleur des mondes"><img src="http://mv.sens.sc/media/000000001064/150/Le_Meilleur_des_mondes.jpg" alt="Le meilleur des mondes"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000126234/150/Basilica_Terre_des_origines_tome_1.jpg" data-fancybox-group="previous" title="Terre des Origines 1"><img src="http://mv.sens.sc/media/000000126234/150/Basilica_Terre_des_origines_tome_1.jpg" alt="Terre des Origines 1"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000060344/150/Niourk.jpg" data-fancybox-group="previous" title="Niourk"><img src="http://mv.sens.sc/media/000000060344/150/Niourk.jpg" alt="Niourk"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000116554/150/Colomb_de_la_lune.jpg" data-fancybox-group="previous" title="Colomb de la lune"><img src="http://mv.sens.sc/media/000000116554/150/Colomb_de_la_lune.jpg" alt="Colomb de la lune"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000066240/150/La_Nuit_des_enfants_rois.jpg" data-fancybox-group="previous" title="La Nuit des enfants rois"><img src="http://mv.sens.sc/media/000000066240/150/La_Nuit_des_enfants_rois.jpg" alt="La Nuit des enfants rois"/></a>
+</p>
+
+### 10 œuvres dans ma ligne de mire, triées par envie :
+
+<p>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000041444/150/Fahrenheit_451.jpg" data-fancybox-group="next" title="Fahrenheit 451"><img src="http://mv.sens.sc/media/000000041444/150/Fahrenheit_451.jpg" alt="Fahrenheit 451"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000063856/150/Les_Androides_revent_ils_de_moutons_electriques_Blade_Runner.jpg" data-fancybox-group="next" title="Blade runner"><img src="http://mv.sens.sc/media/000000063856/150/Les_Androides_revent_ils_de_moutons_electriques_Blade_Runner.jpg" alt="Blade runner"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000004231694/150/La_ferme_des_animaux.jpg" data-fancybox-group="next" title="La ferme des animaux"><img src="http://mv.sens.sc/media/000004231694/150/La_ferme_des_animaux.jpg" alt="La ferme des animaux"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000135575/150/Fondation_Le_Cycle_de_Fondation_tome_1.jpg" data-fancybox-group="next" title="Le cycle de Fondation 1"><img src="http://mv.sens.sc/media/000000135575/150/Fondation_Le_Cycle_de_Fondation_tome_1.jpg" alt="Le cycle de Fondation 1"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000046115/150/Dune_Le_Cycle_de_Dune_tome_1.jpg" data-fancybox-group="next" title="Dune 1"><img src="http://mv.sens.sc/media/000000046115/150/Dune_Le_Cycle_de_Dune_tome_1.jpg" alt="Dune 1"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000114885/150/Les_Guerriers_du_silence_tome_1.jpg" data-fancybox-group="next" title="Les guerriers du silence 1"><img src="http://mv.sens.sc/media/000000114885/150/Les_Guerriers_du_silence_tome_1.jpg" alt="Les guerriers du silence 1"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000019344/150/Malevil.jpg" data-fancybox-group="next" title="Malevil"><img src="http://mv.sens.sc/media/000000019344/150/Malevil.jpg" alt="Malevil"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000015233/150/Les_Monades_urbaines.jpg" data-fancybox-group="next" title="Les monades urbaines"><img src="http://mv.sens.sc/media/000000015233/150/Les_Monades_urbaines.jpg" alt="Les monades urbaines"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000128065/150/L_Age_de_diamant.jpg" data-fancybox-group="next" title="L'âge de diamant"><img src="http://mv.sens.sc/media/000000128065/150/L_Age_de_diamant.jpg" alt="L'âge de diamant"/></a>
+  <a class="fancybox" href="http://mv.sens.sc/media/000000157384/150/Le_Grand_Secret.jpg" data-fancybox-group="next" title="Le grand secret"><img src="http://mv.sens.sc/media/000000157384/150/Le_Grand_Secret.jpg" alt="Le grand secret"/></a>
+</p>

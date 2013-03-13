@@ -3,7 +3,7 @@ layout: post
 title: "C'est l'histoire d'un flyer"
 date: 2012-03-22 16:44
 comments: true
-categories: [my life, jeu de societe]
+categories: [jeu de societe]
 ---
 C'est l'histoire d'un flyer pour une soirée que je me propose d'organiser. Alors voilà le topo : je cite quelques jeux que je suis suceptible d'apporter et ils me pondent un flyer à mailer à toute l'entreprise. Belle publicité. Soyons francs, je ne suis ni designer, ni graphiste, et bien que je revendique un intérêt particulier pour ces domaines, mes connaissances sont ridicules. Attention, loin de moi l'idée de décrier telle ou telle personne, le but ici est de discuter un peu mise en forme.
 <!--more-->
