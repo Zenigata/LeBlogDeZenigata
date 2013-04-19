@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Cher Scrum Day 2013"
+date: 2013-04-19 11:30
+comments: true
+categories: [agile]
+---
+Cher [Scrum Day](http://www.scrumday.fr/),
+
+je t'attendais, je t'espérais. Tu m'as accueilli à bras ouverts. Notre rencontre était inévitable ou –&nbsp;pour parodier d'illustres inconnus&nbsp;– je dirai même que notre rencontre c'était fatal.
+
+Aujourd'hui je prends la liberté de te juger et de t'attribuer la note de __6/10__.  
+Ceci est un [perfection game](http://www.perfectiongame.org/#learn_more).
+<!--more-->
+Tout d'abord ton accueil m'a enchanté. Imaginez donc, le _Forum Center IBM_ avec ses hôtesses, son cadre moderne et élégant, les stands hauts en couleurs des _sponsors_, les _goodies_, le sac du visiteur, la nourriture raffinée… Même ton site Internet est agréable et fonctionnel.
+
+L'éloge ne s'arrête pas là car la renommée de tes ateliers t'a précédé. Oui, la force de Scrum Day ce sont ces sessions en petit comité avec une proximité inédite, des échanges personnalisés, cette notion de pragmatisme si chère à la méthodologie Agile. Et c'est très appréciable.
+
+Mieux encore, tu donnes une chance à tout _speaker_, certifié ou non, réputé ou star en devenir, expert ou débutant. Des passionnés qui s'adressent à d'autres passionnés dans une ambiance de camaraderie. Attends, ce n'est pas fini. Tu t'es engagé à filmer les sessions de quatre salles pour mettre à disposition les enregistrements obtenus. Et cerise sur le gâteau, devant chaque salle un panneau d'affichage rappelle le programme en cours ou à venir. Extra.
+
+Pourtant j'ai lâché un 6. Pourquoi pas 10&nbsp;?
+
+Certes il y a des choses à améliorer. Je pense à ce _wifi_ inaccessible tel un supplice de Tantale des temps modernes, ou à ces supports de présentation trop scolaires (spécial _combo_ fautes d'orthographe et _bullet points_). Que dire du fameux onglet «&nbsp;salle 7 à 12&nbsp;» invisible sur le site&nbsp;?
+
+Ok le choix des sessions en _call for papers_ ne me regarde pas mais peut-être pourrais-tu demander les _slides_ des candidats avant de prendre une décision. D'ailleurs je te conseille de mettre en place des feuilles de _ROTI_ à la sortie de chaque session. Ça c'est du _feedback_ rapide et une volonté de se challenger et de s'améliorer&nbsp;!
+
+Passons aux choses sérieuses mon bel ami. Parlons d'organisation. Je respecte l'ambition de tout tenir en une journée, mais donne-toi les moyens d'éviter tout retard, tout débordement de séance et de permettre à chacun d'assister à la session désirée. Comment&nbsp;? Peut-être en utilisant des pré-inscriptions ou des retransmissions. Ou bien en laissant des marges de cinq minutes entre chaque créneau. Enfin, ne peut-on optimiser le temps vide entre 16h30 et 17h15&nbsp;? Car attendre une _keynote_ si longuement entraîne indubitablement une invitation au départ, si ce n’est au voyage.
+
+Tu auras compris mon souci du détail, mais quant à se professionnaliser autant viser la perfection&nbsp;!
+
+Sans rancune, on reste en contact hein&nbsp;?{% fn_ref 1 %}
+
+***
+
+{% footnotes %}
+  {% fn Cet article a initialement été écrit <a href="http://blogtechno.novediagroup.com/perfection-game-scrum-day-2013/">ici</a>. %}
+{% endfootnotes%}
