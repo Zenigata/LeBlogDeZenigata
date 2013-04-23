@@ -30,4 +30,4 @@ Du passé lumineux recueille tout vestige&nbsp;!
 Le soleil s'est noyé dans son sang qui se fige…  
 Ton souvenir en moi luit comme un ostensoir&nbsp;!
 
-Charles BEAUDELAIRE, _Les Fleurs du mal_ (1857)
+Charles BAUDELAIRE, _Les Fleurs du mal_ (1857)
