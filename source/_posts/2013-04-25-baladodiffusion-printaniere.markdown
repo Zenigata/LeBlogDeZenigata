@@ -31,7 +31,7 @@ Laissez-vous emporter par les flots du temps à travers le décodage éclairant 
 
 __[Eclectik](http://www.franceinter.fr/emission-eclectik)__  
 _45mn hebdomadaires avec une célébrité_  
-Aller à la rencontre d'une personnalité jusque dans sa maison et son intimité, c'est le plaisir que nous donne Rébecca Manzoni depuis presque neuf ans.
+Aller à la rencontre d'une personnalité jusque dans sa maison et dans son intimité, c'est le plaisir que nous donne Rébecca Manzoni depuis presque neuf ans.
 
 __[Geek Me Five](http://www.radiocampusparis.org/geekmefive/)__  
 _1h bimensuelle de culture populaire_  
@@ -39,7 +39,7 @@ Des passionnés, de la bonne humeur, un sujet original et c'est parti pour une h
 
 __[Studio 404](http://studio404.skyrock.com/)__  
 _1h mensuelle de culture numérique_  
-Prenez mon gourou [FibreTigre](/2012-08-14-bonjour-cest-fibretigre), mon mentor [Lâm Hua](/2012-06-12-un-mec-qui-tient-un-blog-de-fille) et d'autres stars de la blogosphère, et vous obtenez une émission très inspirée qui parle à votre quotidien.
+Prenez mon gourou [FibreTigre](/bonjour-cest-fibretigre), mon mentor [Lâm Hua](/un-mec-qui-tient-un-blog-de-fille) et d'autres stars de la blogosphère, et vous obtenez une émission très inspirée qui parle à votre quotidien.
 
 __[The Walking Web](http://www.thewalkingweb.fr/)__  
 _1h mensuelle sur le design_  
