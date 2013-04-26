@@ -46,5 +46,5 @@ _1h mensuelle sur le design_
 Les publications de Geoffrey Dorne forment une de mes principales sources d'inspiration, alors quand il lance son podcast avec des designers réputés je ne peux qu'applaudir des deux mains. Une bouffée d'inspiration brute&nbsp;!
 
 __[Allô quoi&nbsp;!](http://zqsd.fr/category/podcast/)__  
-_2h mensuelles de culture populaire_  
+_2h mensuelles autour du jeu vidéo_  
 Les anciens de _Joystick_ de ZQSD ont lancé leur podcast et je suis agréablement surpris. Ok c'est un poil long et ça part dans tous les sens mais c'est intelligemment drôle et passionnant. J'attends de voir la suite.
