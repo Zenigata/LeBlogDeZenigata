@@ -8,7 +8,7 @@ categories: [compil]
 Le genre narratif de la science-fiction me frappe de plein fouet. J'en prends plein la gueule, j'encaisse. Et je kiffe.
 <!--more-->
 
-### 10 œuvres que je recommande, triées par préférence :
+### 10 œuvres que je recommande, triées par préférence&nbsp;:
 <p>
   <a class="fancybox" href="http://mv.sens.sc/media/000000139248/150/Hyperion_Les_Cantos_d_Hyperion_tome_1.jpg" data-fancybox-group="previous" title="Hypérion 1"><img src="http://mv.sens.sc/media/000000139248/150/Hyperion_Les_Cantos_d_Hyperion_tome_1.jpg" alt="Hypérion 1"/></a>
   <a class="fancybox" href="http://mv.sens.sc/media/000004247490/150/1984.jpg" data-fancybox-group="previous" title="1984"><img src="http://mv.sens.sc/media/000004247490/150/1984.jpg" alt="1984"/></a>
@@ -22,7 +22,7 @@ Le genre narratif de la science-fiction me frappe de plein fouet. J'en prends pl
   <a class="fancybox" href="http://mv.sens.sc/media/000000066240/150/La_Nuit_des_enfants_rois.jpg" data-fancybox-group="previous" title="La Nuit des enfants rois"><img src="http://mv.sens.sc/media/000000066240/150/La_Nuit_des_enfants_rois.jpg" alt="La Nuit des enfants rois"/></a>
 </p>
 
-### 10 œuvres dans ma ligne de mire, triées par envie :
+### 10 œuvres dans ma ligne de mire, triées par envie&nbsp;:
 
 <p>
   <a class="fancybox" href="http://mv.sens.sc/media/000000041444/150/Fahrenheit_451.jpg" data-fancybox-group="next" title="Fahrenheit 451"><img src="http://mv.sens.sc/media/000000041444/150/Fahrenheit_451.jpg" alt="Fahrenheit 451"/></a>

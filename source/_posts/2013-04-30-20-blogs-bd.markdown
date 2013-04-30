@@ -1,0 +1,41 @@
+---
+layout: post
+title: "20 blogs BD"
+date: 2013-04-30 16:15
+comments: true
+categories: [compil]
+---
+Parce qu'un plaisir quotidien -- même solitaire -- ne se refuse pas.  
+Parce qu'être créatif, drôle et gratuit mérite d'être partagé.  
+Parce qu'il faut malheureusement en faire une sélection.  
+Voici 20 blogs de bande dessinée.
+<!--more-->
+
+### 15 blogs pour une histoire à chaque dessin, à lire au quotidien&nbsp;:
+<p>
+  <a href="http://www.xkcd.com/" title="xkcd"><img src="http://imgs.xkcd.com/comics/sandwich.png" alt="xkcd" style="height:200px;"/></a>
+  <a href="http://vidberg.blog.lemonde.fr/" title="L'actu en patates"><img src="http://vidberg.blog.lemonde.fr/files/2012/12/ann%C3%A9e.gif" alt="L'actu en patates" style="height:200px;"/></a>
+  <a href="http://theoatmeal.com/" title="The Oatmeal"><img src="http://s3.amazonaws.com/theoatmeal-img/thumbnails/dog_paradox.png" alt="The Oatmeal" style="height:200px;"/></a>
+  <a href="http://tumourrasmoinsbete.blogspot.fr/" title="Tu mourras moins bête"><img src="http://3.bp.blogspot.com/-c13kGlyb3dM/UJJBOLZqwEI/AAAAAAAACO8/YbuQKRlxcTc/s195/gifouvT2%2Bcopie.jpg" alt="Tu mourras moins bête"/></a>
+  <a href="http://www.smbc-comics.com/" title="Saturday Morning Breakfast Cereal"><img src="http://cdn.shopify.com/s/files/1/0066/2852/products/most_dangerous_game_book_large_medium.jpg?1783" alt="Saturday Morning Breakfast Cereal" style="height:200px;"/></a>
+  <a href="http://geekandpoke.typepad.com/" title="Geek And Poke"><img src="http://geekandpoke.typepad.com/aboutcoders.jpeg" alt="Geek And Poke" style="height:200px;"/></a>
+  <a href="http://www.bouletcorp.com/" title="Boulet Corp"><img src="http://le75020.fr/wp-content/uploads/2009/12/gros-plan-boulet1.jpg" alt="Boulet Corp" style="height:200px;"/></a>
+  <a href="http://www.dilbert.com/strips/" title="Dilbert"><img src="http://www.actuabd.com/IMG/jpg/dilbert.jpg" alt="Dilbert" style="height:200px;"/></a>
+  <a href="http://long.blog.lemonde.fr/" title="À boire et à manger"><img src="http://long.blog.lemonde.fr/files/2013/01/196c.gif" alt="À boire et à manger"/></a>
+  <a href="http://maesterbd.wordpress.com/" title="La Grande Tambouille de Maëster"><img src="http://maesterbd.files.wordpress.com/2012/08/couv_finale-petit.jpg?w=200&h=200" alt="La Grande Tambouille de Maëster"/></a>
+  <a href="http://www.incidentalcomics.com/" title="Incidental Comics"><img src="http://2.bp.blogspot.com/_YgWB_4Xz5_E/S1tgBOsoLcI/AAAAAAAAAu0/dv3crV27JT4/s400/ramencoke-blog.jpg" alt="Incidental Comics"/></a>
+  <a href="http://www.lewistrondheim.com/blog/" title="Les petits riens de Lewis Trondheim"><img src="http://www.lewistrondheim.com/blog/images/BlogTitre.jpg" alt="Les petits riens de Lewis Trondheim"/></a>
+  <a href="http://saboten.canalblog.com/" title="L'hypopothèque"><img src="http://p8.storage.canalblog.com/85/00/336868/22346815.gif" alt="L'hypopothèque" style="height:200px;"/></a>
+  <a href="http://www.vincentcaut.com/" title="Vincent Caut"><img src="http://nsa34.casimages.com/img/2013/03/29/130329012902423384.png" alt="Vincent Caut"/></a>
+  <a href="http://www.yodablog.net/" title="Yodablog"><img src="http://www.yodablog.net/wp-content/uploads/2009/12/Profile-Pic.jpg" alt="Yodablog"/></a>
+</p>
+
+### 5 blogs pour une histoire filée, à lire depuis le début&nbsp;:
+
+<p>
+  <a href="http://www.dragonball-multiverse.com/fr/accueil.html" title="Dragon Ball Multiverse"><img src="http://www.dragonball-multiverse.com/fr/pages/small/0000.jpg" alt="Dragon Ball Multiverse" style="height:200px;"/></a>
+  <a href="http://www.marcdubuisson.com/lanostalgiededieu/" title="La Nostalgie de Dieu"><img src="http://img.bd-sanctuary.com/bds/la-nostalgie-de-dieu-bd-volume-2-simple-10270.gif" alt="La Nostalgie de Dieu"/></a>
+  <a href="http://www.acupoftim.com/" title="A Cup of Tim"><img src="http://www.tim-illustrateur.com/images/blog/menu/menu.cv.gif" alt="A Cup of Tim" style="height:200px;"/></a>
+  <a href="http://www.lerubanbleu.com/index.php?strip=2&l=" title="Le Ruban Bleu"><img src="https://si0.twimg.com/profile_images/3231077668/19c1b97c98f487f53565208b1087136c.jpeg" alt="" style="height:200px;"/></a>
+  <a href="http://www.mediaentity.net/fr/episodes.php" title="MediaEntity"><img src="http://www.mediaentity.net/fr/images/integrale_ferme.png" alt="MediaEntity"/></a>
+</p>
