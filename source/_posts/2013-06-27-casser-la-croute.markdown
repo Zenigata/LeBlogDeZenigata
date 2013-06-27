@@ -5,7 +5,7 @@ date: 2013-06-27 18:10
 comments: true
 categories: [agile, javascript]
 ---
-Appelez-le comme vous voulez --&nbsp;_Midi techniques_, _12@13_ ou _[Brown Bag Lunch](http://www.brownbaglunch.fr/)_&nbsp;--
+Appelez-la comme vous voulez --&nbsp;_Midi techniques_, _12@13_ ou _[Brown Bag Lunch](http://www.brownbaglunch.fr/)_&nbsp;--
 mais la mise à profit de la pause déjeuner pour échanger sur un sujet précis me tient particulièrement à cœur.
 Prenez votre sandwich, ramenez vos collègues et c'est parti pour une heure informelle de partage.
 <!--more-->
