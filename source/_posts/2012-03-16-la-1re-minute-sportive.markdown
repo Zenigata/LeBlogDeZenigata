@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La 1ère minute sportive"
+title: "La 1re minute sportive"
 date: 2012-03-19 11:15
 comments: true
 categories: [sport]
