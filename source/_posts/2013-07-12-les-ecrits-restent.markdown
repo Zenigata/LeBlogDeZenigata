@@ -5,7 +5,7 @@ date: 2013-07-15 10:00
 comments: true
 categories: [litterature]
 ---
-_J'ai désormais la facheuse manie de noter des passages des livres que [je lis](http://www.senscritique.com/Zenigata/critiques)._
+_J'ai désormais la fâcheuse manie de noter des passages des livres que [je lis](http://www.senscritique.com/Zenigata/critiques)._
 _En voici un [spicilège](http://fr.wiktionary.org/wiki/spicil%C3%A8ge) personnel._
 <!--more-->
 
