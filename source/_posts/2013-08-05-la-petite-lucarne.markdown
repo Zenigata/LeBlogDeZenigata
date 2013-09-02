@@ -36,7 +36,7 @@ Un peu de gourmandise dans ce monde de brute.
 
 ####[Le Vinvinteur](http://levinvinteur.com/)
 
-À regarder de toute urgence, depuis le début (tout est accessible en ligne).
+À regarder de toute urgence depuis le début (tout est accessible en ligne).
 
 ## Arte
 
