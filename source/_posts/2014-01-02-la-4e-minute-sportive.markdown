@@ -15,10 +15,10 @@ que vous pourrez ainsi réaliser pour terminer chaque session sportive.
 
 C'est parti, on se met à genoux. Hop hop, allez&nbsp;! Les mains sont posées à plat sur le sol.
 Je ne vous demande pas de prier, mais de bien vous cambrer en tendant les bras, paumes toujours au sol.
-Ça fait du bien au dos, non&nbsp;? Restez ainsi quelques secondes sans reposer la tête au sol.
+Ça fait du bien au dos, non&nbsp;? Restez ainsi quelques secondes.
 
-Ensuite on relève les genoux afin de poser les talons bien au sol.
-On fait la cloche, les fesses bien en l'air&nbsp;!
+Ensuite on relève les genoux afin de poser les talons au sol.
+On fait la cloche, les fesses en l'air&nbsp;!
 Tenez quelques secondes et essayez de garder les talons bien à plat.
 
 Puis on ramène les bras vers les pieds jusqu'à prendre entièrement appui sur les jambes en les gardant toujours droites et tendues.
