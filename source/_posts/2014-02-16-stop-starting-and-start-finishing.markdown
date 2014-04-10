@@ -5,7 +5,7 @@ date: 2014-02-17 14:00
 comments: true
 categories: [agile]
 ---
-Trente minutes de présentation sur la méthode _Lean Kanban_&nbsp;: _challenge accepted!_
+Trente minutes de présentation sur la méthode _Lean Kanban_. _Challenge accepted!_
 <!--more-->
 
 <iframe src="//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -15,7 +15,7 @@ je ne l’ai pas directement expérimentée moi-même, sauf sous son aspect _Scr
 
 D’où vient le terme&nbsp;? À l’origine _kanban_ est un mot japonais qui désignait les fiches cartonnées
 que l’on fixait sur les bacs de pièces dans une ligne d’assemblage. Comme celle-ci.
-Et très vite toute un ensemble de pratiques ont vu le jour au sein du _Lean_ chez Toyota, des pratiques basées sur le management visuel.
+Et très vite tout un ensemble de pratiques ont vu le jour au sein du _Lean_ chez Toyota, des pratiques basées sur le management visuel.
 
 Celles-ci sont aujourd’hui adaptées à l’environnement IT, et sa formalisation par David Anderson est toute récente (2010).
 À ce propos je vous recommande la lecture de ce livre de référence en français écrit par Laurent Morisseau.
@@ -33,7 +33,7 @@ Toutes les tâches sont visibles et leur cycle de vie traverse des états repré
 Sur les tableaux _kanban_ on parle plutôt de _minimal marketable feature_ au lieu de _User Story_.
 Ces _MMF_ représentent le plus petit incrément de valeur livrable en production.
 On utilise des cartes _kanban_ pour les afficher et les manipuler.
-Ces cartes présentent diverses informations comme la date d’entrée ou une description succinte.
+Ces cartes présentent diverses informations comme la date d’entrée ou une description succincte.
 
 En voici un autre exemple. On peut notamment jouer avec les couleurs et les lignes pour que l’information soit la plus claire et efficace possible.
 Et il y a des chiffres au niveau des noms de colonne.
