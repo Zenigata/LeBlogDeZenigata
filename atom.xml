@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Zenigata]]></title>
+  <link href="http://zenigata.fr/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-04-26T16:43:47+02:00</updated>
+  <id>http://zenigata.fr/</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Je suis le plus grand carnivore d'Afrique]]></title>
+    <link href="http://zenigata.fr/je-suis-le-plus-grand-carnivore-dafrique/"/>
+    <updated>2014-04-26T16:30:00+02:00</updated>
+    <id>http://zenigata.fr/je-suis-le-plus-grand-carnivore-dafrique</id>
+    <content type="html"><![CDATA[<p><em>La cagnotte est à portée de buzzer. Julien L. enchaîne avec la question suivante&nbsp;:</em></p>
+
+<p>Je suis le plus grand carnivore d’Afrique. Originaire d&#8217;Afrique centrale et orientale, les membres de mes colonies sont tous aveugles.
+Redoutable prédateur, ma morsure peut être très douloureuse.
+Comme je ne lâche jamais prise, certains peuples tels les Pygmées m’utilisent comme points de suture pour refermer leurs plaies.</p>
+
+<p>De taille minuscule, je peux tout de même être dangereux pour l’homme.
+On m’a vu dévorer des bœufs entiers en moins d’une heure. Lorsque je traverse un village, ses habitants l’abandonnent temporairement.
+On me surnomme les Huns du monde des insectes.</p>
+
+<p>Ma couleur varie du noir foncé au jaune orangé.
+Je me déplace quotidiennement avec mes sœurs dont le nombre peut atteindre vingt millions.
+Certains m&#8217;appellent alors <em>marabunta</em>. J’apporte la mort sur mon passage.</p>
+
+<p>Ma société s’articule autour de castes, et mon efficacité m’a valu le surnom de légionnaire.<br/>
+<a href="http://fourmis.lenoir.pagesperso-orange.fr/Doc_fourmis/Especes/Magnans/Fourmi-magnan-exterminatrice.pdf">Je suis…</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Stop starting and start finishing]]></title>
+    <link href="http://zenigata.fr/stop-starting-and-start-finishing/"/>
+    <updated>2014-02-17T14:00:00+01:00</updated>
+    <id>http://zenigata.fr/stop-starting-and-start-finishing</id>
+    <content type="html"><![CDATA[<p>Trente minutes de présentation sur la méthode <em>Lean Kanban</em>. <em>Challenge accepted!</em></p>
+
+<!--more-->
+
+
+
+
+<iframe src="http://zenigata.fr//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p>Maintenant je vais vous faire un tour d’horizon de cette fameuse méthode. Par contre, soyez indulgents,
+je ne l’ai pas directement expérimentée moi-même, sauf sous son aspect <em>Scrumban</em> –&nbsp;un mix entre <em>Scrum</em> et <em>Kanban</em> qui a le vent en poupe.</p>
+
+<p>D’où vient le terme&nbsp;? À l’origine <em>kanban</em> est un mot japonais qui désignait les fiches cartonnées
+que l’on fixait sur les bacs de pièces dans une ligne d’assemblage. Comme celle-ci.
+Et très vite tout un ensemble de pratiques ont vu le jour au sein du <em>Lean</em> chez Toyota, des pratiques basées sur le management visuel.</p>
+
+<p>Celles-ci sont aujourd’hui adaptées à l’environnement IT, et sa formalisation par David Anderson est toute récente (2010).
+À ce propos je vous recommande la lecture de ce livre de référence en français écrit par Laurent Morisseau.</p>
+
+<p>Mais concrètement, le management visuel ça donne quoi&nbsp;? Eh bien ça donne ça, ou ça. Ça ne vous rappelle rien&nbsp;?
+Et oui, les tableaux de tâches <em>Scrum</em> sont des tableaux <em>kanban</em> simplifiés et adaptés.</p>
+
+<p>En gros, <em>Kanban</em> propose une méthode d&#8217;amélioration continue par des processus que j’évoquerai plus loin.
+Celle-ci cherche à fluidifier le travail en le rendant visuel, en le contraignant par des limites et en cherchant la bonne séquence d&#8217;activités.
+Elle est non prescriptive, peut être appliquée à n’importe quelle méthode déjà en place, et se construit principalement de manière empirique.
+Il n’y a pas de rôle défini comme dans <em>Scrum</em>, mais <em>Kanban</em> partage les valeurs agiles.</p>
+
+<p>Je parlais de management visuel pour observer le flux d’activités dans son ensemble. En voici un exemple sur une équipe de réalisation.
+Toutes les tâches sont visibles et leur cycle de vie traverse des états représentés ici par des colonnes.
+Sur les tableaux <em>kanban</em> on parle plutôt de <em>minimal marketable feature</em> au lieu de <em>User Story</em>.
+Ces <em>MMF</em> représentent le plus petit incrément de valeur livrable en production.
+On utilise des cartes <em>kanban</em> pour les afficher et les manipuler.
+Ces cartes présentent diverses informations comme la date d’entrée ou une description succincte.</p>
+
+<p>En voici un autre exemple. On peut notamment jouer avec les couleurs et les lignes pour que l’information soit la plus claire et efficace possible.
+Et il y a des chiffres au niveau des noms de colonne.</p>
+
+<p>Ces chiffres sont là pour limiter le <em>WIP</em>. <em>WIP</em> signifie <em>Work In Progress</em> ou <em>Work In Process</em>, qui a été traduit par Travaux À Faire.
+Des études montrent que le multitâche est contre-productif. Le <em>context switching</em> fait perdre beaucoup de temps.
+C’est pour ça qu’un des principes de base de <em>Kanban</em> est de limiter le travail en cours en posant des limites sur certaines colonnes ou groupes de colonnes.
+On ne peut commencer une nouvelle tâche si le nombre maximum de tâches en cours est atteint. Il faut d’abord libérer de la place en terminant des éléments.
+<em>Stop starting and start finishing</em>. Ces limites sont appelées limites hautes.
+Il existe aussi des limites basses qu’on peut utiliser pour déclencher certains événements.
+Par exemple si j’ai moins de deux tâches prêtes on peut déclencher une phase d’alimentation de la colonne Prête.</p>
+
+<p>Tout ceci tend à fluidifier le flux d’activités et à éviter les files d’attente et les stocks.
+En effet, la principale préoccupation de <em>Kanban</em> est d’optimiser le flux de valeur et de réduire le <em>time to market</em>.
+Le système <em>Kanban</em> peut embrasser tous les cycles de vie d’une <em>MMF</em>, depuis sa conception jusqu’à sa livraison en production.
+Mais qu’est-ce qui se passe quand ça coince&nbsp;?</p>
+
+<p>Des goulets d’étranglement peuvent se former comme des files d’attente, donc du stock.
+Ces problèmes apparaîtront clairement dans le système, et il faudra les purger,
+par exemple en ajustant les limites ou en modifiant les règles comme ne jamais commencer un travail s’il y a un risque probable de blocage.</p>
+
+<p>Pour cela <em>Kanban</em> fait émerger un système en flux tiré au lieu du classique flux poussé.
+On parle bien du mouvement des élements dans le système <em>kanban</em>. Prenons un exemple.
+En flux poussé, le responsable fonctionnel peut écrire toutes les specs dès qu’il a le temps. Comme lors du cycle en V.
+En flux tiré, il le fera quand le développeur en aura besoin, par exemple quelques jours avant.
+On peut dire que l’activité en amont est calée sur l’activité en aval. J’ai inséré un exemple que vous pourrez lire à tête reposée.</p>
+
+<p>Le jeu est d’être transparent et d’afficher tous les indicateurs, limites ou règles,
+sur le tableau <em>kanban</em> pour que tout le monde se les approprient et les fassent évoluer.
+Par exemple, que fait-on quand un élément est bloqué depuis plusieurs jours&nbsp;? ou quand il avance trop lentement&nbsp;?
+Quels sont les critères de changement de colonne&nbsp;? Quel élément sélectionne-t-on au sein d’une file d’attente&nbsp;?</p>
+
+<p>Le temps pris pour réaliser une <em>MMF</em> s’appelle le temps de cycle.
+On parle de temps de traversée concernant le système complet, de la demande client à la livraison.
+En notant les temps de cycle on peut dessiner des cartes de contrôle et repérer a posteriori les éléments les plus problématiques.
+On pourra aussi calculer le débit moyen du système pour pouvoir planifier à moyen et long terme.
+On pourra également mesurer le niveau de performance à la date d’échéance, c’est-à-dire entre le temps initialement prévu et le temps effectif.
+Avec ces indicateurs on peut établir des diagrammes de flux cumulé qui permettent de contrôler l’état du système.
+Certains mettent même en place des <em>obeyas</em>, des tableaux de bords riches qui, des fois, remplissent carrément toute une salle.</p>
+
+<p>La méthode <em>Kanban</em> est empirique. On ajuste en permanence les contraintes et les règles. L’amélioration continue est au cœur du système.
+En ce sens <em>Kanban</em> s’inscrit totalement dans la philosophie <em>Kaizen</em> et suis le modèle <em>PDSA</em> : <em>Plan</em>, <em>Do</em>, <em>Study</em> et <em>Act</em>
+pour obtenir régulièrement du <em>feedback</em> et s’améliorer le plus rapidement possible.
+Vous en verrez un exemple dans l’atelier qui suit cette présentation.</p>
+
+<p>Pour aller plus loin, l’expérience acquise dans l’univers industriel pour les flux d’activités nous permet d’utiliser des méthodes scientifiques
+pour améliorer notre système. Je ne vais pas les expliciter ici car ça devient un peu technique.</p>
+
+<p>Voici un rappel des itérations <em>Scrum</em> qui regroupent en un même rythme la priorisation des tâches, la démo client, la rétrospective et la livraison.
+En <em>Kanban</em> ces cadences sont découplées et s’adaptent au projet. Il n’y a certes pas d’itération mais un flux en continu qui applique le modèle <em>PDSA</em>.
+Parmi les rituels récurrents on peut aussi citer l’injection des éléments, le triage des files d’attente ou la livraison des <em>MMF</em>.
+Dans les systèmes les plus optimisés on peut viser le juste-à-temps afin d’obtenir un flux tendu total. Pas de stock.</p>
+
+<p>Pour mettre en œuvre tout ce qu’on a vu, <em>Kanban</em> propose quatre principes de base.
+<em>Start with what you do now</em>&nbsp;: ce qui veut dire qu’on peut mettre en place <em>Kanban</em> conjointement avec n’importe quelle méthode de gestion de projet déjà en place.
+<em>Agree to pursue incremental, evolutionary change</em>&nbsp;: s’améliorer en continue, de manière incrémentale.
+<em>Respect the current process, roles, responsibilities and titles</em>&nbsp;: le changement se fait en douceur, à chaque nouvelle amélioration.
+Pas de changement de paradigme comme c’est le cas de <em>Scrum</em>. <em>Encourage acts of leadership at all levels</em>&nbsp;:
+pour des équipes responsables qui ajustent le système à tous les niveaux et à leur initiative.</p>
+
+<p>Ces principes sont déclinés en six pratiques que nous venons de voir.
+On peut résumer tout ça sur un tableau <em>kanban</em> en visualisant les contraintes, les règles et les cadences.</p>
+
+<p>Un des buts du management visuel est l’appropriation du système par l’équipe. Si le <em>kanban</em> n’évolue pas régulièrement, c’est mauvais signe.
+Voici un exemple de tableau vertical, puis un autre plus exotique encore. Celui-ci est utilisé pour faire mûrir un <em>backlog</em>.
+Ici nous avons un portefeuille de projets. Des services comme le <em>marketing</em>, la <em>TMA</em> ou l’exploitation sont aussi friands de <em>Kanban</em>.
+Un autre exemple sur la gestion d’une cave à vin.
+Un autre sur une consommation de jeux vidéo, et pour finir un exemple de <em>Kanban</em> personnel pour gérer ses tâches quotidiennes.</p>
+
+<p>En conclusion, je dirai que la force de <em>Kanban</em> est son adaptation à tous les environnements grâce à son développement en flux
+qui vise à optimiser la production de valeur et à minimiser le gaspillage, le tout de manière empirique et sans changement radical de vos process.</p>
+
+<p>Merci pour votre attention.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20 listes d'œuvres]]></title>
+    <link href="http://zenigata.fr/20-listes-doeuvres/"/>
+    <updated>2014-02-16T13:00:00+01:00</updated>
+    <id>http://zenigata.fr/20-listes-doeuvres</id>
+    <content type="html"><![CDATA[<p><em>Aujourd&#8217;hui je vous propose vingt listes subjectives regroupées en cinq thèmes approximatifs, le tout sponsorisé par mon réseau social préféré.</em></p>
+
+<!--more-->
+
+
+<h3>L&#8217;imagination au pouvoir</h3>
+
+<p>
+  <a href="http://www.senscritique.com/liste/La_veritable_fin_des_contes_de_fees/336752" title="La véritable fin des contes de fées"><img src="http://media.senscritique.com/media/000006120481/150/Blanche_Neige_et_les_Sept_Nains.jpg" alt="La véritable fin des contes de fées"/></a>
+  <a href="http://www.senscritique.com/liste/Comptines_classees_X/328046" title="Comptines classées X"><img src="http://media.senscritique.com/media/000002242594/150/A_la_peche_aux_moules.jpg" alt="Comptines classées X"/></a>
+  <a href="http://www.senscritique.com/liste/Les_langues_imaginaires_au_cinema/286142" title="Les langues imaginaires au cinéma"><img src="http://media.senscritique.com/media/000000077715/150/H2G2_Le_Guide_du_voyageur_galactique.jpg" alt="Les langues imaginaires au cinéma"/></a>
+</p>
+
+
+<h3>Entre performance et improvisation</h3>
+
+<p>
+  <a href="http://www.senscritique.com/liste/L_acteur_reprend_une_chanson_connue_avec_panache/242128" title="L'acteur reprend une chanson connue avec panache !"><img src="http://media.senscritique.com/media/000005571981/150/OSS_117_Le_Caire_nid_d_espions.jpg" alt="L'acteur reprend une chanson connue avec panache !"/></a>
+  <a href="http://www.senscritique.com/liste/Top_Labels_les_genres_representes_et_les_artistes_associes/156334" title="Top Labels, les genres représentés et les artistes associés !"><img src="http://media.senscritique.com/media/000004865623/150/Johnny_Cash_With_His_Hot_and_Blue_Guitar.jpg" alt="Top Labels, les genres représentés et les artistes associés !"/></a>
+  <a href="http://www.senscritique.com/liste/Les_25_plus_grandes_impros_du_cinema/51119" title="Les (25) plus grandes impros du cinéma"><img src="http://media.senscritique.com/media/000004871243/150/Taxi_Driver.jpg" alt="Les (25) plus grandes impros du cinéma"/></a>
+</p>
+
+
+<h3>Rendez-vous avec l&#8217;histoire</h3>
+
+<p>
+  <a href="http://www.senscritique.com/liste/Les_records_du_cinema/91464" title="Les records du cinéma !"><img src="http://media.senscritique.com/media/000000139373/150/Night_of_the_Day_of_the_Dawn_of_the_Son_of_the_Bride_of_the.jpg" alt="Les records du cinéma !"/></a>
+  <a href="http://www.senscritique.com/liste/Les_records_du_monde_des_jeux_video/151420" title="Les records du monde des jeux vidéo"><img src="http://media.senscritique.com/media/000004348272/150/The_Legend_of_Zelda.jpg" alt="Les records du monde des jeux vidéo"/></a>
+  <a href="http://www.senscritique.com/liste/Le_jeu_video_le_plus_vendu_par_console/304716" title="Le jeu vidéo le plus vendu par console"><img src="http://media.senscritique.com/media/000006167726/150/Donkey_Kong.jpg" alt="Le jeu vidéo le plus vendu par console"/></a>
+  <a href="http://www.senscritique.com/liste/Une_etape_remarquable_dans_l_histoire_du_jeu_video/293" title="Une étape remarquable dans l'histoire du jeu vidéo"><img src="http://media.senscritique.com/media/000000156736/150/Maniac_Mansion.jpg" alt="Une étape remarquable dans l'histoire du jeu vidéo"/></a>
+</p>
+
+
+<h3>Les dessous de la culture</h3>
+
+<p>
+  <a href="http://www.senscritique.com/liste/Les_anecdotes_sordides/329440" title="Les anecdotes sordides"><img src="http://media.senscritique.com/media/000005713710/150/Le_Petit_Dinosaure_et_la_Vallee_des_merveilles.jpg" alt="Les anecdotes sordides"/></a>
+  <a href="http://www.senscritique.com/liste/Top_91_des_films_ayant_ete_censures_en_France/45294" title="Top 91 des films ayant été censurés… en France !"><img src="http://media.senscritique.com/media/000000171168/150/Le_Dictateur.jpg" alt="Top 91 des films ayant été censurés… en France !"/></a>
+  <a href="http://www.senscritique.com/liste/Les_developpeurs_ont_decide_d_etre_creatifs_pour_punir_les_v/331766" title="Les développeurs ont décidé d'être créatifs pour punir les vilains pirates."><img src="http://media.senscritique.com/media/000005870113/150/Zak_Mc_Kracken_and_the_Alien_Mindbenders.jpg" alt="Les développeurs ont décidé d'être créatifs pour punir les vilains pirates."/></a>
+  <a href="http://www.senscritique.com/liste/Une_histoire_de_problemes_religieux/145104" title="Une histoire de problèmes religieux…"><img src="http://media.senscritique.com/media/000000020236/150/Left_Behind_Eternal_Forces.jpg" alt="Une histoire de problèmes religieux…"/></a>
+  <a href="http://www.senscritique.com/liste/Clips_controverses/239705" title="Clips controversés"><img src="http://media.senscritique.com/media/000000623954/150/Justify_My_Love.jpg" alt="Clips controversés"/></a>
+  <a href="http://www.senscritique.com/liste/Les_cancers_du_rectum_de_la_bande_dessinee/142740" title="Les cancers du rectum de la bande dessinée"><img src="http://media.senscritique.com/media/000005102500/150/Dragon_Ball.jpg" alt="Les cancers du rectum de la bande dessinée"/></a>
+</p>
+
+
+<h3>Et si vous creusiez le sujet&nbsp;?</h3>
+
+<p>
+  <a href="http://www.senscritique.com/liste/Top_personnages_dont_les_gens_ignorent_ou_ecorchent_le_nom/152185" title="Top personnages dont les gens ignorent ou écorchent le nom"><img src="http://media.senscritique.com/media/000004263152/150/Bubble_Bobble.jpg" alt="Top personnages dont les gens ignorent ou écorchent le nom"/></a>
+  <a href="http://www.senscritique.com/liste/Decouvrir_la_litterature_japonaise_liste_commentee/41401" title="Découvrir la littérature japonaise (liste commentée)"><img src="http://media.senscritique.com/media/000000119508/150/Mille_ans_de_litterature_japonaise.jpg" alt="Découvrir la littérature japonaise (liste commentée)"/></a>
+  <a href="http://www.senscritique.com/liste/Trop_de_gens_ne_comprennent_pas_le_vrai_sens_de_cette_chanso/91219" title="Trop de gens ne comprennent pas le vrai sens de cette chanson"><img src="http://media.senscritique.com/media/000000357521/150/Enola_Gay.jpg" alt="Trop de gens ne comprennent pas le vrai sens de cette chanson"/></a>
+  <a href="http://www.senscritique.com/liste/A_tous_ces_musiciens_morts_qui_changerent_le_destin_de_leurs/267653" title="À tous ces musiciens morts qui changèrent le destin de leurs groupes"><img src="http://media.senscritique.com/media/000004798888/150/Master_of_Puppets.jpg" alt="À tous ces musiciens morts qui changèrent le destin de leurs groupes"/></a>
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Halte hivernale]]></title>
+    <link href="http://zenigata.fr/halte-hivernale/"/>
+    <updated>2014-01-15T14:00:00+01:00</updated>
+    <id>http://zenigata.fr/halte-hivernale</id>
+    <content type="html"><![CDATA[<p>L&#8217;actualité du moment, c&#8217;est dans le flash info.<br/>
+♪♫ jingle ♪♫</p>
+
+<!--more-->
+
+
+<p>L&#8217;événement de la semaine c&#8217;est la série d&#8217;anniversaires en cascade&nbsp;:
+le premier pour le <a href="http://lflb.tumblr.com/tagged/banane">Front de Libération de la Banane</a> –&nbsp;viva banana!&nbsp;–,
+le deuxième pour le blog, et le vingt-neuvième pour bibi. Janvier, le mois de l&#8217;incrément.</p>
+
+<p>La production du jour c&#8217;est la création du wiki <a href="https://github.com/Zenigata/pantoum/wiki/_pages">Pantoum</a>, en attendant un meilleur hôte pour ma tradition orale en construction.</p>
+
+<p>Dans l&#8217;actualité mondiale, j&#8217;ai participé au <a href="http://yome.ch/bilan-de-notre-papa-nawel-surprise-des-shaarlis/">Papa Nawel surprise des shaarlieurs</a>.
+Merci à mon bienfaiteur pour son superbe <a href="https://worksthatwork.com/">cadeau</a>&nbsp;!</p>
+
+<p>Sans transition, j&#8217;ai lu mon premier <a href="http://www.senscritique.com/livre/Kafka_sur_le_rivage/critique/12969541">Murakami</a> et je n&#8217;ai pas été charmé&#8230;</p>
+
+<p>Je continue à animer le <a href="http://boulogne.jeudego.org/">club de go de Boulogne-Billancourt</a>.
+D&#8217;ailleurs cette saison nous participons au challenge Île-de-France qui réunit six clubs de la région.
+À l&#8217;issue de la deuxième ronde nous sommes en tête. Yay&nbsp;!</p>
+
+<p>Ce week-end je suis parti skier près de la Suisse, j&#8217;ai fait le plein d&#8217;images et de souvenirs pour l&#8217;hiver.
+<a href="http://www.avoriaz.com/">Avoriaz</a> est vraiment une très belle station.</p>
+
+<p>Pour finir, Zoé a fait ses premiers pas. J&#8217;ai hâte de l&#8217;emmener en haut des pistes&#8230;</p>
+
+<p>Merci pour votre attention.<br/>
+♪♫ jingle ♪♫</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Extraits choisis]]></title>
+    <link href="http://zenigata.fr/extraits-choisis/"/>
+    <updated>2014-01-05T12:00:00+01:00</updated>
+    <id>http://zenigata.fr/extraits-choisis</id>
+    <content type="html"><![CDATA[<p><em>Pour fêter le cinquantième ouvrage que je lis dans sa version numérique,</em>
+<em>voici une nouvelle fournée de morceaux de littérature.</em></p>
+
+<!--more-->
+
+
+<p>«&nbsp;Franchou, [&#8230;] belle fille plantureuse et placide dont les yeux de vache, fixés dans le vide, ruminaient sans fin un rêve paisible.&nbsp;»<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
+
+<p>«&nbsp;Le cœur de cette fille était une cuisine vide, songea Bob Arctor&nbsp;: un sol carrelé et des canalisations, un égouttoir,
+masse pâle de surfaces récurées, avec au bord de l’évier un verre abandonné dont tout le monde se foutait.&nbsp;»<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup></p>
+
+<p>«&nbsp;Aussi attrapai-je au vol les mots brefs qu’elle m’adressait, comme un oiseau picore des miettes de pain, sans chercher à écarter les rideaux de silence qu’elle glissait entre nous.&nbsp;»<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup></p>
+
+<p>«&nbsp;Très brune, pâle, mince, avec d&#8217;immenses yeux noirs battus, elle avait l&#8217;air d&#8217;un ange garnement renvoyé sur la Terre pour avoir mis le bout de ses ailes dans son nez,
+et qui passe toutes ses nuits à pleurer le paradis perdu.&nbsp;»<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup></p>
+
+<p>«&nbsp;Une grande conférence est une occasion de plaisirs subtils pour les importants diplomates, d&#8217;avancement pour les petits, et une aubaine pour les agents de services secrets…
+Comme une vache morte sur la boue desséchée du Bihar. Chacun y arrache à son tour, selon son rang ou son habileté, son lambeau de nourriture.
+Et il reste un squelette de plus sur le grand désert de l&#8217;entente internationale.&nbsp;»<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup></p>
+
+<p>«&nbsp;on dit que mon père est bon comme du bon pain. Justement. Trop de mie, pas assez de croûte.&nbsp;»<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup></p>
+
+<p>«&nbsp;La conversation de Falvine se dévide comme un chapelet. Ou mieux, comme du papier hygiénique. On tire sur un bout et tout vient.
+[&#8230;] la Menou, dans ses bons jours, la compare à un moulin, à une chute d&#8217;eau, à une tronçonneuse, et dans ses mauvais jours, à une diarrhée.&nbsp;»<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup></p>
+
+<p>«&nbsp;C&#8217;est à ce moment-là que je me réveille. Je regarde autour de moi, rassemblant lentement les morceaux épars de ma conscience.&nbsp;»<sup id='fnref:6'><a href='#fn:6' rel='footnote'>6</a></sup></p>
+
+<p>«&nbsp;Dehors la nuit est sans lune. Le ciel est incendié d&#8217;étoiles.&nbsp;»<sup id='fnref:7'><a href='#fn:7' rel='footnote'>7</a></sup></p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'><em>Fortune de France, tome 1</em> de <strong>Robert Merle</strong>. <a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'><em>Substance Mort</em> de <strong>Philip K. Dick</strong>. Traduction par Robert Louit. <a href='#fnref:2' rev='footnote'>↩</a></li><li id='fn:3'><em>L&#8217;Apprenti assassin</em> de <strong>Robin Hobb</strong>. Traduction par A. Mousnier-Lompré. <a href='#fnref:3' rev='footnote'>↩</a></li><li id='fn:4'><em>Le Grand Secret</em> de <strong>René Barjavel</strong>. <a href='#fnref:4' rev='footnote'>↩</a></li><li id='fn:5'><em>Melevil</em> de <strong>Robert Merle</strong> <a href='#fnref:5' rev='footnote'>↩</a></li><li id='fn:6'><em>Kafka sur le rivage</em> de <strong>Haruki Murakami</strong>. Traduction par Corinne Atlan. <a href='#fnref:6' rev='footnote'>↩</a></li><li id='fn:7'><em>Les Monades urbaines</em> de <strong>Robert Silverberg</strong>. Traduction par Michel Rivelin. <a href='#fnref:7' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Peau de cast]]></title>
+    <link href="http://zenigata.fr/peau-de-cast/"/>
+    <updated>2014-01-04T12:00:00+01:00</updated>
+    <id>http://zenigata.fr/peau-de-cast</id>
+    <content type="html"><![CDATA[<p>Et si votre résolution 2014 c&#8217;était d&#8217;écouter plus d&#8217;émissions de qualité&nbsp;?</p>
+
+<!--more-->
+
+
+<h3><a href="http://www.agencetousgeeks.com/category/podcast/">Agence tous Geeks</a></h3>
+
+<p><em>2h mensuelles de culture geek</em><br/>
+Un peu long mais je ne m&#8217;en lasse pas. Ambiance au top et très divertissant.</p>
+
+<h3><a href="http://radio01.net/InferieurATrois">Inférieur à Trois</a></h3>
+
+<p><em>40mn mensuelles de jeux vidéo</em><br/>
+<a href="http://fibretigre.blogspot.fr/">FibreTigre</a> et <a href="http://bolossdesbelleslettres.tumblr.com/">Michel Pimpant</a> inside. Passionnant pour les mordus de jeux vidéo.</p>
+
+<h3><a href="http://www.improbablepodcast.fr/">L&#8217;Improbable Podcast</a></h3>
+
+<p><em>2h30 bimensuelles de news improbables</em><br/>
+Poilade assurée. Et en prime, on y apprend un tas de choses&nbsp;!</p>
+
+<h3><a href="http://www.franceinter.fr/emission-la-prochaine-fois-je-vous-le-chanterai">La prochaine fois je vous le chanterai</a></h3>
+
+<p><em>1h hebdomadaire de musique</em><br/>
+Rafraîchissant, agréable, nostalgique, chantant, élargit l&#8217;esprit. Chanson française uniquement.</p>
+
+<h3><a href="http://radio01.net/LateLateBoudoirGambetta">Late Late Boudoir Gambetta</a></h3>
+
+<p><em>1h mensuelle d&#8217;interview d&#8217;une personnalité du jeu vidéo</em><br/>
+Plus intime et musical que d&#8217;autres émissions du même genre, on ressent la passion des invités. Motivant.</p>
+
+<h3><a href="http://www.arteradio.com/dossier/616257/le_mike_et_l_enclume/">Le mike et l&#8217;enclume</a></h3>
+
+<p><em>25mn de critiques rap</em><br/>
+Ce n&#8217;est pas mon style de musique mais j&#8217;adore.
+Elle ferait presque de l&#8217;ombre à la <a href="http://www.franceinter.fr/emission-le-masque-et-la-plume">célèbre émission</a> de France Inter qu&#8217;elle parodie.</p>
+
+<h3><a href="http://radio01.net/LesDemonsDuMIDI">Les Démons du MIDI</a></h3>
+
+<p><em>1h30 mensuelle de musique de jeux vidéo</em><br/>
+Le péché mignon du joueur nostalgique. Coup de cœur assurément.</p>
+
+<h3><a href="http://www.franceinter.fr/emission-net-plus-ultra">Net plus Ultra</a></h3>
+
+<p><em>10mn hebdomadaires de culture Internet</em><br/>
+À écouter avant de parcourir le <a href="http://www.franceinter.fr/blog-net-plus-ultra">blog éponyme</a>. Court et intéressant.</p>
+
+<h3><a href="http://www.outilsdumanager.com/podcasts">Outils du Manager</a></h3>
+
+<p><em>30mn hebdomadaires de conseils en management</em><br/>
+Podcast spécialisé à mettre entre les mains de tout manager ou managé. Mon <em>n+2</em> le cite régulièrement&#8230;</p>
+
+<h3><a href="http://www.franceculture.fr/emission-place-de-la-toile">Place de la toile</a></h3>
+
+<p><em>45mn hebdomadaires de culture Internet</em><br/>
+Débats riches et vulgarisateurs sur les questions numériques actuelles. Bien foutu.</p>
+
+<h3><a href="http://unetassedethepodcast.com/">Une tasse de thé</a></h3>
+
+<p><em>15mn bimensuelles autour de Java</em><br/>
+Jeune et de qualité inégale, mais court et souvent inédit.</p>
+
+<hr />
+
+<p>Retrouvez la liste des émissions francophones que j&#8217;écoute –&nbsp;présentes, passées et disparues&nbsp;–
+<a href="https://docs.google.com/spreadsheet/ccc?key=0AuNsvDqymweIdGVkZklldUwtb09KVDF4bGJtSE9xcHc&amp;usp=sharing">en ligne</a>.<br/>
+RIP Winamp, bonjour <a href="http://www.foobar2000.org/">foobar2000</a>&nbsp;!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La 4e minute sportive]]></title>
+    <link href="http://zenigata.fr/la-4e-minute-sportive/"/>
+    <updated>2014-01-03T11:00:00+01:00</updated>
+    <id>http://zenigata.fr/la-4e-minute-sportive</id>
+    <content type="html"><![CDATA[<p><em>Ce programme vous est présenté par l&#8217;infatigable Charlotte.</em></p>
+
+<p>Bonne année 2014 à tous&nbsp;! Après les gloutonneries des fêtes,
+quoi de mieux qu&#8217;un bon exercice physique pour faire passer le surplus&nbsp;?</p>
+
+<!--more-->
+
+
+<p>Enfin, commençons l&#8217;année en douceur. Je vous propose une série d&#8217;étirements
+que vous pourrez ainsi réaliser pour terminer chaque session sportive.</p>
+
+<p>C&#8217;est parti, on se met à genoux. Hop hop, allez&nbsp;! Les mains sont posées à plat sur le sol.
+Je ne vous demande pas de prier, mais de bien vous cambrer en tendant les bras, paumes toujours au sol.
+Ça fait du bien au dos, non&nbsp;? Restez ainsi quelques secondes.</p>
+
+<p>Ensuite on relève les genoux afin de poser les talons au sol.
+On fait la cloche, les fesses en l&#8217;air&nbsp;!
+Tenez quelques secondes et essayez de garder les talons bien à plat.</p>
+
+<p>Puis on ramène les bras vers les pieds jusqu&#8217;à prendre entièrement appui sur les jambes en les gardant toujours droites et tendues.
+Vous savez, c&#8217;est comme lorsqu&#8217;on veut toucher le sol avec les doigts. Gardez la pose un instant.</p>
+
+<p>Enfin on remonte doucement les bras, on se redresse et on va toucher le ciel en se mettant sur la pointe des pieds.
+On tire, on tire&nbsp;! Puis on relâche tout.</p>
+
+<p>Voilà, faites attention aux courbatures les petits loulous.<br/>
+Je vous souhaite une merveilleuse année sportive à tous&nbsp;!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Le retour du flyer]]></title>
+    <link href="http://zenigata.fr/le-retour-du-flyer/"/>
+    <updated>2014-01-02T22:20:00+01:00</updated>
+    <id>http://zenigata.fr/le-retour-du-flyer</id>
+    <content type="html"><![CDATA[<p>Vingt mois après, le flyer fait son grand retour&nbsp;!</p>
+
+<p>Pour cette seconde soirée jeux que j&#8217;organisais au siège de ma boîte, l&#8217;expérience accumulée nous a bien aidés&nbsp;:
+meilleure organisation, timing plus adapté, ambiance festive mais également plus de joueurs dont certains passionnés apportant leurs propres jeux.</p>
+
+<!--more-->
+
+
+<p>Même le flyer fut convenable (au second jet hein).</p>
+
+<p>
+  <a class="fancybox" href="http://zenigata.fr//lh4.googleusercontent.com/-fXuoRfgzjAI/UsW0XaNQOjI/AAAAAAAAD_k/I5f6Hf1ozdY/w747-h420-no/jeux2013_02.jpg" data-fancybox-group="flyer2" title="flyer" style="margin-left:10%;"><img src="https://lh5.googleusercontent.com/MuAu55bylWyH0gmAPiTRgYZx5iAK1czUQIWOOXSSKr0=w368-h207-p-no" alt="flyer" /></a>
+</p>
+
+
+<p>Au final quinze joueurs ont partagé de bons moments autour de deux tables de jeu. De mémoire, en voici certains&nbsp;:</p>
+
+<p>
+  <a class="fancybox" href="http://www.jeuxdenim.be/images/jeux/Declic_large01.jpg" data-fancybox-group="jeux" title="Déclic !?"><img src="http://www.jeuxdenim.be/images/jeux/Declic_large01.jpg" alt="Déclic !?" style="height:200px;" /></a>
+  <a class="fancybox" href="http://www.jeuxdenim.be/images/jeux/ShadowHunters_large01.jpg" data-fancybox-group="jeux" title="Shadow Hunters"><img src="http://www.jeuxdenim.be/images/jeux/ShadowHunters_large01.jpg" alt="Shadow Hunters" style="height:200px;" /></a>
+  <a class="fancybox" href="http://boardsandbees.files.wordpress.com/2013/09/mascarade.jpg" data-fancybox-group="jeux" title="Mascarade"><img src="http://boardsandbees.files.wordpress.com/2013/09/mascarade.jpg" alt="Mascarade" style="height:200px;" /></a>
+  <a class="fancybox" href="http://www.bargaming.fr/wp-content/uploads/2011/04/couvertureSandwich-629x640.jpg" data-fancybox-group="jeux" title="Sandwich"><img src="http://www.bargaming.fr/wp-content/uploads/2011/04/couvertureSandwich-629x640.jpg" alt="Sandwich" style="height:200px;" /></a>
+  <a class="fancybox" href="http://www.gigamic.com/files/catalog/products/images/mainproduct/gigamic-drmit-_mito-box-right-bd.jpg" data-fancybox-group="jeux" title="Mito"><img src="http://www.gigamic.com/files/catalog/products/images/mainproduct/gigamic-drmit-_mito-box-right-bd.jpg" alt="Mito" style="height:200px;" /></a>
+  <a class="fancybox" href="http://upload.wikimedia.org/wikipedia/fr/1/10/Logo_Bang!.png" data-fancybox-group="jeux" title="Bang!"><img src="http://upload.wikimedia.org/wikipedia/fr/1/10/Logo_Bang!.png" alt="Bang!" style="height:200px;" /></a>
+  <a class="fancybox" href="http://www.gametableonline.com/wp-content/uploads/2013/05/RoboRally-412x260f.jpg" data-fancybox-group="jeux" title="RoboRally"><img src="http://www.gametableonline.com/wp-content/uploads/2013/05/RoboRally-412x260f.jpg" alt="RoboRally" style="height:200px;" /></a>
+</p>
+
+
+<p>Noël est passé mais les soldes arrivent, prenez le temps de renouveler votre ludothèque&nbsp;!
+Pour cela pensez aux sélections de <a href="http://gusandco.net/2013/12/04/les-jeux-de-noel-2013/">Gus&amp;Co</a>,
+de <a href="http://podcast.proxi-jeux.fr/2013/12/dossier-guide-dachat-noel-2013/">Proxi-Jeux</a>
+ou encore du <a href="http://www.laselectiondudimanche.com/2013-crazy-time-notre-jeu-de-lannee/">professeur Patashima</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[L'appel du 18 novembre]]></title>
+    <link href="http://zenigata.fr/lappel-du-18-novembre/"/>
+    <updated>2013-11-18T22:10:00+01:00</updated>
+    <id>http://zenigata.fr/lappel-du-18-novembre</id>
+    <content type="html"><![CDATA[<p><em>Il y a tout juste un an naissait Zoé, soixante ans après la mort de Paul Éluard. Coïncidence&nbsp;? Je ne crois pas.
+Petit hommage à ces trois cent soixante-cinq derniers jours de <a href="https://github.com/Zenigata/pantoum/wiki/Libert%C3%A9">liberté</a>.</em></p>
+
+<!--more-->
+
+
+<hr />
+
+<p>Quand tu ouvres tes grands yeux<br/>
+Quand tu nous cherches du regard<br/>
+Quand tu souris de tes six dents<br/>
+Je dis ton nom</p>
+
+<p>Quand tu engloutis ton biberon<br/>
+Quand tu dévores tes NaturNes,<br/>
+Une compote ou un biscuit<br/>
+Je dis ton nom</p>
+
+<p>Quand tu grimpes sur mes épaules<br/>
+Quand je te touche le nez<br/>
+Quand on joue à cache-cache<br/>
+Je dis ton nom</p>
+
+<p>Quand tu joues dans ton bain<br/>
+Quand tu exploses ta couche<br/>
+Quand tu fais pipi sur Maman<br/>
+Je dis ton nom</p>
+
+<p>Quand tu chantes en espagnol<br/>
+Quand tu écoutes <a href="http://www.generikids.fr/">Générikids</a><br/>
+Et <a href="http://www.superloustic.com/">Superloustic</a> avec Papa<br/>
+Je dis ton nom</p>
+
+<p>Quand tu tournes les mains<br/>
+Comme le font les marionettes<br/>
+Et que ça finit en chatouilles<br/>
+Je dis ton nom</p>
+
+<p>Quand tu joues avec Ouahiba,<br/>
+Fayçal, Mathieu, Maxime<br/>
+Ou Samira et Junior<br/>
+Je dis ton nom</p>
+
+<p>Quand tu cavales à trois pattes<br/>
+Quand tu donnes la main<br/>
+Pour te mettre debout<br/>
+Je dis ton nom</p>
+
+<p>Quand tu refuses de t’allonger<br/>
+Quand tu rejettes tes doudous<br/>
+Quand tu montes dans les aigus<br/>
+Je dis ton nom</p>
+
+<p>Quand tu grinces des dents<br/>
+Ou que ton nez est bouché,<br/>
+Voire&nbsp;: roséole, diarrhée<br/>
+Je dis ton nom</p>
+
+<p>Quand tu joues avec tes cousins<br/>
+Charlie, Malo, Gabrielle,<br/>
+Matthieu, Margaux et Joachim<br/>
+Je dis ton nom</p>
+
+<p>Quand tu poursuis monsieur le chat<br/>
+Quand tu prononces «&nbsp;maman&nbsp;»<br/>
+Mais jamais «&nbsp;papa&nbsp;»<br/>
+Je dis ton nom</p>
+
+<p>Et par le pouvoir d’un prénom<br/>
+Je recommence ma vie<br/>
+Je suis né pour te rencontrer<br/>
+Pour te connaître</p>
+
+<p><a href="https://drive.google.com/file/d/0B-NsvDqymweIM0xZcHB2WkFJVUk/edit?usp=sharing">Zoé</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Git c'est vachement bien]]></title>
+    <link href="http://zenigata.fr/git-cest-vachement-bien/"/>
+    <updated>2013-10-01T11:30:00+02:00</updated>
+    <id>http://zenigata.fr/git-cest-vachement-bien</id>
+    <content type="html"><![CDATA[<p>Mon dernier BBL vise à introduire Git et à donner les moyens de s&#8217;y mettre à ceux qui ne connaissent que SVN.
+En attendant une seconde partie plus technique&#8230;</p>
+
+<!--more-->
+
+
+<iframe src="http://slid.es/zenigata/git/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Un kanban peut en cacher un autre]]></title>
+    <link href="http://zenigata.fr/un-kanban-peut-en-cacher-un-autre/"/>
+    <updated>2013-09-28T11:30:00+02:00</updated>
+    <id>http://zenigata.fr/un-kanban-peut-en-cacher-un-autre</id>
+    <content type="html"><![CDATA[<p><em>Ce matin, après l’habituel daily meeting&nbsp;:</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
+
+<!--more-->
+
+
+<p>«&nbsp;Salut. Tu fais quoi&nbsp;?<br/>
+— Je me fais mon programme pour la semaine prochaine.<br/>
+— Ah il se passe quelque chose&nbsp;?<br/>
+— Affirmatif. Je vais assister à la seule conférence française sur un domaine qui me tient à cœur.<br/>
+— Laisse-moi deviner… une conférence sur l’extreme ironing<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup>&nbsp;? ou sur la méthode dite du canard en plastique<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup> peut-être&nbsp;?<br/>
+— Très drôle. Non, c’est sur le Lean Kanban.<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup> C’est la seconde édition<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup> d’ailleurs.<br/>
+— Le quoi&nbsp;?<br/>
+— Tu sais, la méthode de gestion de projet qui met l’accent sur le management visuel et le juste-à-temps.<br/>
+— Ah ça.<br/>
+— Oui, et c’est vachement efficace. La communication visuelle avant tout.<br/>
+— Et c’est quand&nbsp;?<br/>
+— L’événement est sur deux jours&nbsp;:&nbsp;jeudi 3 et vendredi 4 octobre. Ça se passe à la maison des associations du XIII<sup>e</sup>.<br/>
+— Ça vaut vraiment le coup&nbsp;?<br/>
+— Le casting est fort intéressant. Déjà, David J. Anderson nous fait l’honneur de sa présence. C’est lui qui a introduit la méthode au sein de l’écosystème informatique. Et de grands acteurs de la scène agile seront également présents.<br/>
+— De toute façon, je m’endors toujours dans ce genre de conférences.<br/>
+— Mais là il y en aura pour tous les goûts&nbsp;:&nbsp;keynotes, ateliers, jeux, table ronde et même du speed-coaching personnalisé.<sup id='fnref:6'><a href='#fn:6' rel='footnote'>6</a></sup> Et ce, jusqu’à trois sessions en parrallèle.<br/>
+— Et ça parlera de quoi&nbsp;?<br/>
+— Cette année les thèmes sont&nbsp;:&nbsp;amplifier l’apprentissage, poursuivre le perfectionnement et voir l’ensemble. Tout un programme.<sup id='fnref:7'><a href='#fn:7' rel='footnote'>7</a></sup><br/>
+— C’est vrai que mon tableau des tâches laisse un peu à désirer. Ce serait l’occasion de lui faire un lifting avec de nouvelles idées.<br/>
+— Carrément. Et tu peux même le prendre en photo<sup id='fnref:8'><a href='#fn:8' rel='footnote'>8</a></sup> pour bénéficier de commentaires d’experts et obtenir des pistes d’amélioration.<br/>
+— Et voilà, tu m’as convaincu. T’as intérêt à nous trouver un bon hôtel.<br/>
+— Compte sur moi. Au fait, pense à utiliser le code promo NOVE%ES lors de ton inscription.<sup id='fnref:9'><a href='#fn:9' rel='footnote'>9</a></sup> 20% de réduction, ça ne se refuse pas&nbsp;!&nbsp;»</p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>Cet article a initialement été écrit <a href="http://blogtechno.novediagroup.com/lean-kanban-france-2013/">ici</a>. <a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'><a href="http://fr.wikipedia.org/wiki/Repassage_extr%C3%AAme">Extreme ironing</a> <a href='#fnref:2' rev='footnote'>↩</a></li><li id='fn:3'><a href="http://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique">Canard en plastique</a> <a href='#fnref:3' rev='footnote'>↩</a></li><li id='fn:4'><a href="http://www.leankanban.fr/">Lean Kanban France 2013</a> <a href='#fnref:4' rev='footnote'>↩</a></li><li id='fn:5'><a href="http://www.youtube.com/watch?v=3JESBb_F_MQ">Lean Kanban France 2012</a> <a href='#fnref:5' rev='footnote'>↩</a></li><li id='fn:6'><a href="http://www.morisseauconsulting.com/2013/09/18/speed-consulting-scrum-kanban-demandez-le-coach/">Speed coaching</a> <a href='#fnref:6' rev='footnote'>↩</a></li><li id='fn:7'><a href="http://lanyrd.com/2013/lean-kanban-france/schedule/?day=oct-03&fullscreen=1&view=grid">Programme</a> <a href='#fnref:7' rev='footnote'>↩</a></li><li id='fn:8'><a href="http://lanyrd.com/2013/lean-kanban-france/scpmtr/">Improve your board</a> <a href='#fnref:8' rev='footnote'>↩</a></li><li id='fn:9'><a href="http://www.weezevent.com/lean-kanban-france-2013">Inscription</a> <a href='#fnref:9' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20 génériques jeunesse français]]></title>
+    <link href="http://zenigata.fr/20-generiques-jeunesse-francais/"/>
+    <updated>2013-09-06T15:30:00+02:00</updated>
+    <id>http://zenigata.fr/20-generiques-jeunesse-francais</id>
+    <content type="html"><![CDATA[<p>L&#8217;imagination au pouvoir.<br/>
+Voici ma sélection de ces génériques qu&#8217;on chante parfois à tue-tête (de toute la force de notre voix) et qui datent d&#8217;une époque insouciante et révolue.
+Je me souviens notamment de ces moments où je vendais des fruits de <a href="http://fr.wikipedia.org/wiki/Dialium_guineense">tamarinier noir</a> avec mes frère et sœur. Mais je m&#8217;égare.
+<a href="http://www.youtube.com/playlist?list=PLMAUNF7zuaqp_2R8abRezcrcFXyQQvptA">Musique molierissimo&nbsp;!</a></p>
+
+<!--more-->
+
+
+
+
+<p>
+  <a href="http://www.coucoucircus.org/da/701-Robin-des-Bois-(les-aventures-de)---G%C3%A9n%C3%A9rique" title="Les aventures de Robin des bois"><img src="http://mv.sens.sc/media/000000044976/150/Les_Aventures_de_Robin_des_Bois.jpg" alt="Les aventures de Robin des bois" /></a>
+  <a href="http://www.coucoucircus.org/da/41-Bioman-2-:--Maskman---G%C3%A9n%C3%A9rique---" title="Bioman 2"><img src="http://mv.sens.sc/media/000000064614/150/Bioman_2_Maskman.jpg" alt="Bioman 2" /></a>
+  <a href="http://www.coucoucircus.org/da/83-Cl%C3%A9mentine---G%C3%A9n%C3%A9rique" title="Clémentine"><img src="http://mv.sens.sc/media/000000117668/150/Clementine.jpg" alt="Clémentine" /></a>
+  <a href="http://www.coucoucircus.org/da/114-Edgar,-le-d%C3%A9tective-cambrioleur---G%C3%A9n%C3%A9rique" title="Edgar, le détective cambrioleur"><img src="http://mv.sens.sc/media/000004185710/150/Edgar_le_detective_cambrioleur.jpg" alt="Edgar, le détective cambrioleur"/></a>
+  <a href="http://www.coucoucircus.org/da/138-Galaxy-Express-999---G%C3%A9n%C3%A9rique" title="Galaxy Express 999"><img src="http://mv.sens.sc/media/000004475738/150/Galaxy_Express_999.jpg" alt="Galaxy Express 999" /></a>
+  <a href="http://www.coucoucircus.org/da/155-Gwendoline---G%C3%A9n%C3%A9rique" title="Gwendoline"><img src="http://mv.sens.sc/media/000000028259/150/Gwendoline.jpg" alt="Gwendoline" /></a>
+  <a href="http://www.coucoucircus.org/da/175-Il-Etait-une-Fois...-La-Vie---G%C3%A9n%C3%A9rique" title="Il était une fois la vie"><img src="http://mv.sens.sc/media/000000031126/150/Il_etait_une_fois_la_Vie.jpg" alt="Il était une fois la vie" /></a>
+  <a href="http://www.coucoucircus.org/da/188-Jayce-et-les-Conqu%C3%A9rants-de-la-Lumi%C3%A8re---G%C3%A9n%C3%A9rique" title="Jayce et les Conquérants de la Lumière"><img src="http://mv.sens.sc/media/000000071758/150/Jayce_et_les_Conquerants_de_la_lumiere.jpg" alt="Jayce et les Conquérants de la Lumière" /></a>
+  <a href="http://www.coucoucircus.org/da/211-Lucile-amour-et-rock'n-roll------G%C3%A9n%C3%A9rique" title="Lucile amour et rock’n roll"><img src="http://mv.sens.sc/media/000000094223/150/Embrasse_moi_Lucile.jpg" alt="Lucile amour et rock’n roll"/></a>
+  <a href="http://www.coucoucircus.org/da/234-Max-et-Compagnie---G%C3%A9n%C3%A9rique" title="Max et compagnie"><img src="http://mv.sens.sc/media/000000164378/150/Max_et_compagnie.jpg" alt="Max et compagnie"/></a>
+  <a href="http://www.coucoucircus.org/da/878-Moli%C3%A8rissimo---G%C3%A9n%C3%A9rique" title="Molierissimo"><img src="http://mv.sens.sc/media/000000149851/150/Molierissimo.jpg" alt="Molierissimo"/></a>
+  <a href="http://www.coucoucircus.org/da/256-Mondes-Engloutis-(les)---Chanson-:-Le-Flashbic" title="Les mondes engloutis - Le Flashbic"><img src="http://mv.sens.sc/media/000000009599/150/Les_Mondes_engloutis.jpg" alt="Les mondes engloutis - Le Flashbic"/></a>
+  <a href="http://www.coucoucircus.org/da/238-Myst%C3%A9rieuses-Cit%C3%A9s-d'Or-(les)-----G%C3%A9n%C3%A9rique" title="Les mystérieuses cités d’or"><img src="http://mv.sens.sc/media/000000150115/150/Les_Mysterieuses_cites_d_or.jpg" alt="Les mystérieuses cités d’or" /></a>
+  <a href="http://www.coucoucircus.org/da/581-Paul-le-P%C3%AAcheur---G%C3%A9n%C3%A9rique" title="Paul le pêcheur"><img src="http://mv.sens.sc/media/000000122203/150/Paul_le_pecheur.jpg" alt="Paul le pêcheur"/></a>
+  <a href="http://www.coucoucircus.org/da/325-Quatre-Filles-du-Docteur-March-(les)---La-Cinq---G%C3%A9n%C3%A9rique" title="Les quatre filles du docteur March - La Cinq"><img src="http://mv.sens.sc/media/000000106182/150/Les_Quatre_Filles_du_docteur_March.jpg" alt="Les quatre filles du docteur March - La Cinq"/></a>
+  <a href="http://www.coucoucircus.org/da/329-Rahan---G%C3%A9n%C3%A9rique" title="Rahan"><img src="http://mv.sens.sc/media/000000051104/150/Rahan_fils_des_ages_farouches.jpg" alt="Rahan"/></a>
+  <a href="http://www.coucoucircus.org/da/856-Sherlock-Holmes-(les-aventures-de)---G%C3%A9n%C3%A9rique" title="Sherlock Holmes"><img src="http://mv.sens.sc/media/000000135806/150/Sherlock_Holmes.jpg" alt="Sherlock Holmes"/></a>
+  <a href="http://www.coucoucircus.org/da/222-Lydie-(le-tour-du-monde-de)----G%C3%A9n%C3%A9rique" title="Le tour du monde de Lydie"><img src="http://mv.sens.sc/media/000000055220/150/Le_tour_du_monde_de_Lydie.jpg" alt="Le tour du monde de Lydie" /></a>
+  <a href="http://www.coucoucircus.org/da/360-Tour-du-Monde-en-80-Jours-(le)----G%C3%A9n%C3%A9rique" title="Le tour du monde en 80 jours"><img src="http://mv.sens.sc/media/000000147457/150/Le_Tour_du_Monde_en_80_Jours.jpg" alt="Le tour du monde en 80 jours"/></a>
+  <a href="http://www.coucoucircus.org/da/400-X-Or---G%C3%A9n%C3%A9rique" title="X-or"><img src="http://mv.sens.sc/media/000000080975/150/X_Or.jpg" alt="X-or"/></a>
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[L'été touche à sa faim]]></title>
+    <link href="http://zenigata.fr/lete-touche-a-sa-faim/"/>
+    <updated>2013-09-03T13:30:00+02:00</updated>
+    <id>http://zenigata.fr/lete-touche-a-sa-faim</id>
+    <content type="html"><![CDATA[<p>Entre plage abandonnée et chant des grillons, quand l&#8217;éphémère ne dure qu&#8217;un jour, ces podcasts-ci n&#8217;ont fleuri qu&#8217;un été.</p>
+
+<!--more-->
+
+
+<p><a href="http://www.franceinter.fr/emission-puisque-vous-partez-en-voyage">Puisque vous partez en voyage</a><br/>
+<em>2h quotidiennes en musique</em><br/>
+Quoi de mieux pour s&#8217;évader l&#8217;esprit que voyager musicalement au rythme d&#8217;une sélection inspirée&nbsp;?</p>
+
+<p><a href="http://www.franceinter.fr/emission-a-votre-ecoute-coute-que-coute-1">À votre écoute, coûte que coûte</a><br/>
+<em>7mn quotidiennes d&#8217;humour au téléphone</em><br/>
+On alterne entre fou rire et consternation mais on ne peut rester indifférent. À écouter de toute urgence.</p>
+
+<p><a href="http://www.franceinfo.fr/un-ete-en-super-heros">Un été en super héros</a><br/>
+<em>3mn quotidiennes présentant un super héros</em><br/>
+J&#8217;ai écouté la série d&#8217;une traite. J&#8217;en redemande.</p>
+
+<p><a href="http://www.franceinter.fr/emission-les-corps-intermediaires">Les corps intermédiaires</a><br/>
+<em>4mn quotidiennes d&#8217;érotisme</em><br/>
+Magnifiques moments d&#8217;intimité ou petites anecdotes croustillantes, c&#8217;est une excellente série. À ne pas rater.</p>
+
+<h3>La mer vous a creusé l&#8217;appétit&nbsp;? Voici une nouvelle fournée de podcasts pour une rentrée aventureuse.</h3>
+
+<p><a href="http://frenchspin.com/category/positron/">Positron</a><br/>
+<em>30mn bimensuelles de découverte culturelle</em><br/>
+Un peu mou, le nouveau podcast de Patrick Béja se laisse quand même écouter. À voir sur la durée.</p>
+
+<p><a href="http://www.franceinter.fr/emission-le-grand-bain">Le grand bain</a><br/>
+<em>1h hebdomadaire sur un thème culturel</em><br/>
+Émission très hétéroclite, il y en a pour tous les goûts. Piochez selon votre envie, vous ne serez pas déçu&nbsp;!</p>
+
+<p><a href="http://www.franceinter.fr/emission-le-temps-dun-bivouac">Le temps d’un bivouac</a><br/>
+<em>1h quotidienne d&#8217;aventures</em><br/>
+Véritable appel à l&#8217;aventure, cette émission nous plonge dans toutes les entreprises humaines,
+du grand large aux sommets enneigés en passant par l&#8217;espace. Et ça fait du bien.</p>
+
+<p>Et pour écouter tout ça j&#8217;utilise désormais <em><a href="https://github.com/danieloeh/AntennaPod">AntennaPod</a></em>.<br/>
+La <a href="https://docs.google.com/spreadsheet/ccc?key=0AuNsvDqymweIdGVkZklldUwtb09KVDF4bGJtSE9xcHc&amp;usp=sharing">liste</a> d&#8217;écoute a été mise à jour.</p>
+
+<p>Bonne rentrée&nbsp;!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Veille technique]]></title>
+    <link href="http://zenigata.fr/veille-technique/"/>
+    <updated>2013-09-02T12:00:00+02:00</updated>
+    <id>http://zenigata.fr/veille-technique</id>
+    <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
+problème suivant&nbsp;:&nbsp;je n&#8217;arrive pas à organiser mes marque-pages.</p>
+
+<!--more-->
+
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce que je n&#8217;ai pas été convaincu par des outils comme <em><a href="http://www.pearltrees.com/">Pearltrees</a></em> ou <em><a href="http://iceber.gs">Icebergs</a></em>.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce que je consulte quotidiennement de nombreux liens intéressants et que j&#8217;utilise plusieurs navigateurs sur différents terminaux informatiques.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce qu&#8217;Internet évolue si vite qu&#8217;on n&#8217;on ne peut temporiser sur une page&nbsp;:&nbsp;sitôt classée, sitôt oubliée.
+En un mot&nbsp;:&nbsp;<em>read or die</em>.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce qu&#8217;entre les flux RSS, les réseaux sociaux, les mails et autres forums on n&#8217;a pas le temps de tout lire sur le moment.
+J&#8217;ai essayé des outils comme <em>Read it later</em> (désormais <em><a href="http://getpocket.com/">pocket</a></em>) ou la fonctionnalité favoris du lecteur RSS, mais je n&#8217;arrive pas à trouver mon équilibre.</p>
+
+<h3>Pourquoi ?</h3>
+
+<p>Parce que je procrastine trop.</p>
+
+<h2>Que faire&nbsp;?</h2>
+
+<ol>
+<li>Consommer le lien sur le moment. Reporter le moins de choses possibles.</li>
+<li>Partager tout ce qui est intéressant.</li>
+<li>Organiser et classer les sites d&#8217;utilisation quotidienne.</li>
+</ol>
+
+
+<h2>En pratique</h2>
+
+<p>J&#8217;essaie de partager tout lien intéressant sur mon mur.
+Pour ma veille technique, j&#8217;utilise un <a href="http://aloco.free.fr/info/">shaarli</a>, histoire de ne pas trop polluer ledit mur.
+Pour les sites d&#8217;utilisation régulière, j&#8217;ai mis en place ce <a href="http://lhaagounet.free.fr">marque-liens</a> pour pouvoir y accéder depuis n&#8217;importe quel ordinateur,
+depuis un espace public par exemple.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La petite lucarne]]></title>
+    <link href="http://zenigata.fr/la-petite-lucarne/"/>
+    <updated>2013-08-06T18:00:00+02:00</updated>
+    <id>http://zenigata.fr/la-petite-lucarne</id>
+    <content type="html"><![CDATA[<p><em>Malgré la</em> TNT <em>et l&#8217;offre pléthorique des différents bouquets, on est nombreux à délaisser le petit écran &#8211;
+cet outil de propagande et de contrôle de la population dont les grands groupes se partagent l&#8217;audience.
+Pourtant tout n&#8217;est pas à jeter. Entre les spots de publicité insupportables, je regarde tout de même quelques émissions.</em></p>
+
+<!--more-->
+
+
+<h2>Canal+</h2>
+
+<p>N&#8217;ayant accès qu&#8217;aux programmes en clair, je ne regarde <em>Canal+</em> que pour du divertissement.</p>
+
+<h4><a href="http://www.canalplus.fr/c-divertissement/pid4672-c-le-grand-journal.html">Le Grand Journal</a></h4>
+
+<p>Bien sûr j&#8217;essaie de suivre régulièrement <em>le Zapping</em> et <em>les Guignols de l&#8217;info</em>, ainsi que <em>le Petit Journal</em>, bien que ses reportages soient souvent biaisés.</p>
+
+<h4><a href="http://www.canalplus.fr/c-infos-documentaires/pid4810-c-le-supplement.html">Le Supplément</a></h4>
+
+<p>En général je me concentre sur la chronique de Stéphane de Groodt intitulée <em>Retour vers le futur</em>.</p>
+
+<h2>France 5</h2>
+
+<p>Le service public n&#8217;est plus ce qu&#8217;il était. Heureusement la 5 sauve l&#8217;honneur.</p>
+
+<h4><a href="http://www.france5.fr/emissions/dr-cac">Dr CAC</a></h4>
+
+<p>Le monde de l&#8217;économie présenté de manière concise et décalée. Je viens de découvrir et j&#8217;adore.</p>
+
+<h4><a href="http://www.france5.fr/documentaires/fourchette-et-sac-dos/">Fourchette et sac à dos</a></h4>
+
+<p>Un peu de gourmandise dans ce monde de brute.</p>
+
+<h4><a href="http://levinvinteur.com/">Le Vinvinteur</a></h4>
+
+<p>À regarder de toute urgence depuis le début (tout est accessible en ligne).</p>
+
+<h2>Arte</h2>
+
+<p>Il faudrait d&#8217;autres chaînes comme <em>Arte</em>. Vraiment.</p>
+
+<h4><a href="http://ddc.arte.tv/">Le dessous des cartes</a></h4>
+
+<p>Une pédagogie à l&#8217;ancienne qui a fait ses preuves. Très efficace.</p>
+
+<h4><a href="http://www.arte.tv/fr/philosophie/2235124.html">Philosophie</a></h4>
+
+<p>J&#8217;ai même fait dédicacer les coffrets DVD par Raphaël Enthoven. J&#8217;ai craqué.</p>
+
+<h4><a href="http://www.arte.tv/guide/fr/emissions/XEN/x-enius">X:enius</a></h4>
+
+<p>Documentaires aux sujets très larges, parfois traités superficiellement, mais toujours de bonne qualité.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Je suis le plus grand arthopode terrestre]]></title>
+    <link href="http://zenigata.fr/je-suis-le-plus-grand-arthopode-terrestre/"/>
+    <updated>2013-08-05T15:30:00+02:00</updated>
+    <id>http://zenigata.fr/je-suis-le-plus-grand-arthopode-terrestre</id>
+    <content type="html"><![CDATA[<p><em>Face-à-face final&nbsp;:&nbsp;Julien L. annonce de sa voix claire qu&#8217;il s&#8217;agit d&#8217;un animal, puis lit la fiche.</em></p>
+
+<p>Je suis le plus grand arthropode terrestre.
+On me trouve sur de nombreux territoires bordant les océans Indien et Pacifique.
+Ayant une espérance de vie moyenne de trente ans, je m’aventure parfois à l’intérieur des habitations pour y dérober divers objets.
+Je possède un odorat très développé.</p>
+
+<p>À l&#8217;état de larve, appelée zoé, je flotte dans la mer mais après trois ans je perds la capacité de respirer dans l’eau.
+Je possède dix pattes et peux peser jusqu’à dix-sept kilogrammes.
+Mes yeux sont rouges et la couleur de mon corps varie d&#8217;un bleu violet à un rouge orangé.</p>
+
+<p>De la famille des bernard l&#8217;hermite je peux grimper aux arbres ou casser des noix de coco grâce à mes pinces.
+<a href="http://www.lemanger.fr/index.php/crabe-de-cocotier-a-la-japonaise/">Je suis…</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Les écrits restent]]></title>
+    <link href="http://zenigata.fr/les-ecrits-restent/"/>
+    <updated>2013-07-15T10:00:00+02:00</updated>
+    <id>http://zenigata.fr/les-ecrits-restent</id>
+    <content type="html"><![CDATA[<p><em>J&#8217;ai désormais la fâcheuse manie de noter des passages des livres que <a href="http://www.senscritique.com/Zenigata/critiques">je lis</a>.</em>
+<em>En voici un <a href="http://fr.wiktionary.org/wiki/spicil%C3%A8ge">spicilège</a> personnel.</em></p>
+
+<!--more-->
+
+
+<p>«&nbsp;Le navire gémissait et grondait sous lui comme un obèse constipé se battant pour chier.&nbsp;»<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
+
+<p>«&nbsp;C&#8217;était le milieu de la nuit, le ciel était sans nuages, couleur bleu ardoise. Le soleil rouge rampait sur l&#8217;horizon. D&#8217;énormes étoiles, aiguisées par le vent, piquaient le ciel.&nbsp;»<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup></p>
+
+<p>«&nbsp;Le bègue, dans ses efforts désespérés pour proférer le premier son, est comme un oiseau qui se débat pour se dégager d&#8217;une glu tenace
+(sa glu, à lui, c&#8217;est son univers intérieur)&nbsp;;&nbsp;et quand enfin il s&#8217;en dégage, c&#8217;est toujours trop tard.&nbsp;»<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup></p>
+
+<p>«&nbsp;Kashiwagi avait pour l&#8217;instinct et pour l&#8217;intellect un mépris égal.
+Comme une balle de forme bizarre, son existence allait toute seule, roulant, boulant, trébuchant, tâchant de démolir le mur du réel.&nbsp;»<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup></p>
+
+<p>«&nbsp;Le jour finissait et c’était l’heure dont je ne veux pas parler, l’heure sans nom, où les bruits du soir montaient de tous les étages de la prison dans un cortège de silence.&nbsp;»<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup></p>
+
+<p>«&nbsp;Les bons écrivains touchent souvent la vie du doigt. Les médiocres ne font que l’effleurer. Les mauvais la violent et l’abandonnent aux mouches.&nbsp;»<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup></p>
+
+<p>«&nbsp;Elle me plaît&nbsp;;&nbsp;je pourrais passer le reste de mes jours à la regarder. Elle a des seins qui sourient.&nbsp;»<sup id='fnref:6'><a href='#fn:6' rel='footnote'>6</a></sup></p>
+
+<p>«&nbsp;Elle enfonça ses orteils dans le sable, sentant l&#8217;infime et délicieuse douleur du frottement des minuscules grains entre ses doigts de pied.
+C&#8217;est la vie. Ça fait mal, c&#8217;est sale, mais c&#8217;est tellement bon.&nbsp;»<sup id='fnref:7'><a href='#fn:7' rel='footnote'>7</a></sup></p>
+
+<p>«&nbsp;Des mains de parchemin, jaunâtres et noueuses, comme l&#8217;arrière-train d&#8217;une dinde rôtie.&nbsp;»<sup id='fnref:8'><a href='#fn:8' rel='footnote'>8</a></sup></p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'><em>Les Dragons de Meereen</em> de <strong>Georges R. R. Martin</strong>. Traduction par Patrick Marcel. <a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'><em>La Nuit des temps</em> de <strong>René Barjavel</strong>. <a href='#fnref:2' rev='footnote'>↩</a></li><li id='fn:3'><em>Le Pavillon d&#8217;Or</em> de <strong>Yukio Mishima</strong>. Traduction par Marc Mécréant. <a href='#fnref:3' rev='footnote'>↩</a></li><li id='fn:4'><em>L&#8217;Étranger</em> d&#8217;<strong>Albert Camus</strong>. <a href='#fnref:4' rev='footnote'>↩</a></li><li id='fn:5'><em>Fahrenheit 451</em> de <strong>Ray Bradbury</strong>. Traduction par Jacques Chambon. <a href='#fnref:5' rev='footnote'>↩</a></li><li id='fn:6'><em>Do Androids Dream of Electric Sheep?</em> de <strong>Philip K. Dick</strong>. Traduction par Serge Quadruppani. <a href='#fnref:6' rev='footnote'>↩</a></li><li id='fn:7'><em>Les Enfants de l&#8217;esprit</em> d&#8217;<strong>Orson Scott Card</strong>. Traduction par Jean-Marc Chambon. <a href='#fnref:7' rev='footnote'>↩</a></li><li id='fn:8'><em>Ubik</em> de <strong>Philip K. Dick</strong>. Traduction par Alain Dorémieux. <a href='#fnref:8' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20 jeux gratuits]]></title>
+    <link href="http://zenigata.fr/20-jeux-gratuits/"/>
+    <updated>2013-07-12T12:00:00+02:00</updated>
+    <id>http://zenigata.fr/20-jeux-gratuits</id>
+    <content type="html"><![CDATA[<p>Les journées d&#8217;été sont longues. Pourquoi ne pas en profiter pour vous éclater sur ces excellents jeux gratuits à tout moment de la journée&nbsp;?
+Pour ceux qui en demandent toujours plus, allez donc suivre les <a href="http://www.ecrans.fr/-chronophages-.html">chronophages du jour</a> de <em>Camille</em>
+ou <a href="http://oujevipo.fr/">l&#8217;Oujevipo</a> de <em>Pierrec</em>.</p>
+
+<!--more-->
+
+
+<h3>Au réveil</h3>
+
+<p><a href="http://www.deconstructeam.com/games/gods-will-be-watching/">Gods Will Be Watching</a><br/>
+<a href="http://paperdino.com/games/save-the-date/">Save the Date</a><br/>
+<a href="http://souvenirgame.com/">Souvenir</a><br/>
+<a href="http://www.pastelportal.com/stories/the-submachines/">the Submachines</a><br/>
+<a href="http://tinywhitestones.wix.com/game">Tiny White Stones</a></p>
+
+<h3>À la sieste</h3>
+
+<p><a href="http://games.adultswim.com/burrito-bison-revenge-twitchy-online-game.html">Burriton Bison Revenge</a><br/>
+<a href="http://www.highgroundsgame.com/">Highgrounds</a><br/>
+<a href="http://www.kingdomrush.com/">Kingdom Rush</a><br/>
+<a href="http://qrostar.skr.jp/index.cgi?page=jelly&amp;lang=en">Jelly no Puzzle</a><br/>
+<a href="http://dukope.com/">Papers, Please</a></p>
+
+<h3>En soirée</h3>
+
+<p><a href="http://www.kongregate.com/games/kintogames/bit-dungeon">bit Dungeon</a><br/>
+<a href="http://crawl.develz.org/wordpress/">Dungeon Crawl Stone Soup</a><br/>
+<a href="http://megaphilx.com/?page_id=26">MegaMan Unlimited</a><br/>
+<a href="http://triplea.sourceforge.net/mywiki">TripleA</a><br/>
+<a href="http://rac7.com/YouMustEscape/">You Must Escape</a></p>
+
+<h3>Toute la nuit</h3>
+
+<p><a href="http://www.blackmesasource.com/">Black Mesa</a><br/>
+<a href="http://www.cry-of-fear.com/">Cry of Fear</a><br/>
+<a href="http://www.pathofexile.com/">Path of Exile</a><br/>
+<a href="https://account.hirezstudios.com/tribesascend/default.aspx">Tribes: Ascend</a><br/>
+<a href="http://ufoai.org/wiki/News">UFO: Alien Invasion</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Fin de saison]]></title>
+    <link href="http://zenigata.fr/fin-de-saison/"/>
+    <updated>2013-07-06T23:30:00+02:00</updated>
+    <id>http://zenigata.fr/fin-de-saison</id>
+    <content type="html"><![CDATA[<p>La saison 2012-2013 s&#8217;achève. Des émissions culturelles cultes <a href="http://www.lemonde.fr/culture/article/2013/06/02/mobilisation-sur-le-net-contre-l-arret-de-taratata-et-des-mots-de-minuit_3422569_3246.html">s&#8217;éteignent</a>,
+Michel Denisot <a href="http://www.ladepeche.fr/article/2013/06/28/1660915-derniere-drole-emouvante-michel-denisot-grand-journal.html">s&#8217;en va</a>,
+Roger Fédérer <a href="http://www.lemonde.fr/sport/article/2013/06/26/roger-federer-elimine-de-wimbledon-par-le-116e-joueur-mondial_3437244_3242.html">perd</a>. Fin d&#8217;une époque.
+Dressons un bilan de <a href="https://docs.google.com/spreadsheet/ccc?key=0AuNsvDqymweIdGVkZklldUwtb09KVDF4bGJtSE9xcHc&amp;usp=sharing">ma consommation</a> de podcasts.</p>
+
+<!--more-->
+
+
+<h2>Répartition par thème<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></h2>
+
+<div style="float:left;">
+    <canvas id="canvas-01" height="450" width="450"></canvas>
+</div>
+
+
+<div>
+    <span style="color:#F7464A;">7 chroniques</span><br/>
+    <span style="color:#46BFBD;">5 en musique</span><br/>
+    <span style="color:#FDB45C;">5 en numérique</span><br/>
+    <span style="color:#949FB1;">3 en science</span><br/>
+    <span style="color:#9b59b6;">3 en reportage</span><br/>
+    <span style="color:#3498db;">3 en jeu vidéo</span><br/>
+    <span style="color:#e67e22;">3 en littérature</span><br/>
+    <span style="color:#16a085;">3 en jeu de société</span><br/>
+    <span style="color:#4D5360;">10 en divers</span>
+</div>
+
+
+<div style="clear:both;"></div>
+
+
+<h2>Répartition par radio</h2>
+
+<div style="float:left;">
+    <canvas id="canvas-02" height="450" width="450"></canvas>
+</div>
+
+
+<div>
+    <span style="color:#F38630;">14 sur Internet</span><br/>
+    <span style="color:#E0E4CC;">10 sur France Inter</span><br/>
+    <span style="color:#69D2E7;">5 sur France Culture</span><br/>
+    <span style="color:#4D5360;">9 autres</span>
+</div>
+
+
+<div style="clear:both;"></div>
+
+
+<h2>Top 6 du temps d&#8217;écoute sur un mois (en minutes)</h2>
+
+<p><canvas id="canvas-03" height="450" width="700"></canvas></p>
+
+<h2>Analyse</h2>
+
+<p>Mes données sont imprécises&nbsp;:&nbsp;certaines sont extrapolées, d&#8217;autres limitées car fluctuantes selon les mois.
+Et puis il y a des épisodes que je saute (principalement des émissions quotidiennes) et d&#8217;autres que j&#8217;écoute plusieurs fois (<em>Arte Radio</em>, <em>Sur les épaules de Darwin</em>&#8230;),
+sans compter les émissions testées ou abandonnées.</p>
+
+<p>J&#8217;arrive tout de même à plus de <strong>135 heures</strong> d&#8217;écoute sur le seul mois de juin, soit <em>4,5 heures par jour</em>.</p>
+
+<p>Mes thèmes sont variés, et la radio dont je me sens le plus proche est <em>France Inter</em>, la radio <a href="http://blogs.rue89.com/liberaux-fiers/2013/07/01/oui-france-inter-est-bien-une-radio-bolchevique-230682">bolchévique</a>.</p>
+
+<p>Sans surprise, ce sont les émissions quotidiennes qui monopolisent le plus mon temps d&#8217;écoute.</p>
+
+<h2>Au bord du chemin</h2>
+
+<p>Adressons un hommage à ces émissions qui se sont malheureusement arrêtées cette année&nbsp;:</p>
+
+<ul>
+<li>La radio des jeux</li>
+<li>C&#8217;est quoi ce bordel ? avec <em>Laurent Baffie</em></li>
+<li>Le billet de Stéphane de Groodt</li>
+<li>La chronique de Joséphine Drai</li>
+</ul>
+
+
+<p>Et celles que j&#8217;ai volontairement arrêté de suivre&nbsp;:</p>
+
+<ul>
+<li>Podcast Science (trop long et trop lent)</li>
+<li>Mangavore (long et trop amateur)</li>
+<li>Les années lumière (long et centré sur le Canada)</li>
+</ul>
+
+
+<h2>2013-2014</h2>
+
+<p>Certains sont déjà adoptés, d&#8217;autres sont sur le banc d&#8217;essai, voici la fournée supplémentaire de podcasts pour la nouvelle saison&nbsp;:</p>
+
+<p><a href="http://www.agencetousgeeks.com/category/podcast/">Agence tous geeks</a><br/>
+<a href="http://cellulis.blogspot.fr/p/podcasts.html">La Cellule</a><br/>
+<a href="http://www.improbablepodcast.fr/">L&#8217;Improbable Podcast</a><br/>
+<a href="http://www.objectifnumerique.com/">Objectif numérique</a><br/>
+<a href="http://www.franceculture.fr/emission-place-de-la-toile">Place de la toile</a><br/>
+<a href="http://frenchspin.com/category/positron/">Positron</a><br/>
+<a href="http://www.franceinter.fr/emission-la-prochaine-fois-je-vous-le-chanterai">La prochaine fois je vous le chanterai</a><br/>
+<a href="http://unetassedethepodcast.com/a-propos-de-ce-podcast/">Une tasse de thé</a></p>
+
+<p>Je passe aussi beaucoup de temps à fureter sur <em>soundcloud</em>, c&#8217;est un vrai plaisir pour les oreilles&nbsp;!</p>
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>Pour les graphiques j&#8217;utilise la librairie <a href="http://www.chartjs.org/">Chart.js</a>. <a href='#fnref:1' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+
+
+
+<script type="text/javascript">
+  (function($) {
+$.ajax({url: "../javascripts/custom/chart.min.js", dataType: "script", success: draw});
+
+function draw() {
+    /* Top 10 en répartition par mois */
+    var barChartData = {
+        labels : ["LaTAC","LesPsT","LaMdlH","AteNum","P-Jeux","RdPresq"],
+        datasets : [
+            {
+                fillColor : "rgba(151,187,205,0.5)",
+                strokeColor : "rgba(151,187,205,1)",
+                data : [1077,638,600,480,383,330]
+            }
+        ]
+    }
+
+    /* Répartition par thème */
+    var doughnutData = [
+        {
+            // chronique
+            value: 7,
+            color:"#F7464A"
+        },
+        {
+            // musique
+            value : 5,
+            color : "#46BFBD"
+        },
+        {
+            // numérique
+            value : 5,
+            color : "#FDB45C"
+        },
+        {
+            // science
+            value : 3,
+            color : "#949FB1"
+        },
+        {
+            // reportage
+            value : 3,
+            color : "#9b59b6"
+        },
+        {
+            // jeu vidéo
+            value : 3,
+            color : "#3498db"
+        },
+        {
+            // littérature
+            value : 3,
+            color : "#e67e22"
+        },
+        {
+            // jeu de société
+            value : 3,
+            color : "#16a085"
+        },
+        {
+            // divers : BD, histoire, cinéma, people, code, design, théâtre
+            value : 10,
+            color : "#4D5360"
+        }
+    ];
+
+    /* Répartition par radio */
+    var pieData = [
+        {
+            // Internet
+            value: 14,
+            color:"#F38630"
+        },
+        {
+            // France Inter
+            value : 10,
+            color : "#E0E4CC"
+        },
+        {
+            // France Culture
+            value : 5,
+            color : "#69D2E7"
+        },
+        {
+            // autres
+            value : 9,
+            color : "#4D5360"
+        }
+    ];
+
+var myLine = new Chart(document.getElementById("canvas-03").getContext("2d")).Bar(barChartData);
+var myDoughnut = new Chart(document.getElementById("canvas-01").getContext("2d")).Doughnut(doughnutData);
+var myPie = new Chart(document.getElementById("canvas-02").getContext("2d")).Pie(pieData);
+}
+  })(jQuery)
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Casser la croûte]]></title>
+    <link href="http://zenigata.fr/casser-la-croute/"/>
+    <updated>2013-06-27T18:10:00+02:00</updated>
+    <id>http://zenigata.fr/casser-la-croute</id>
+    <content type="html"><![CDATA[<p>Appelez-la comme vous voulez &#8211;&nbsp;<em>Midi techniques</em>, <em>12@13</em> ou <em><a href="http://www.brownbaglunch.fr/">Brown Bag Lunch</a></em>&nbsp;&#8211;
+mais la mise à profit de la pause déjeuner pour échanger sur un sujet précis me tient particulièrement à cœur.
+Prenez votre sandwich, ramenez vos collègues et c&#8217;est parti pour une heure informelle de partage.</p>
+
+<!--more-->
+
+
+<p>Tout est bon à prendre&nbsp;: retour d&#8217;expérience, présentation formelle, débat ouvert, visionnage de vidéo ciblée,
+atelier divers, sortie photo, instant jeux de société, live coding, etc.</p>
+
+<p>Voici deux sessions que j&#8217;ai animées.</p>
+
+<h2>Du JavaScript propre</h2>
+
+<p>Aujourd&#8217;hui la maturité du langage <em>JavaScript</em> est impressionnante et il n&#8217;est plus raisonnable de faire du <em>inline</em>,
+de se passer de tests unitaires, ou de polluer l&#8217;espace de nommage. On est en 2013 mec.</p>
+
+<script async class="speakerdeck-embed" data-id="0ccc2980c16b013094e942d55316ac74" data-ratio="1.33333333333333" src="http://zenigata.fr//speakerdeck.com/assets/embed.js"></script>
+
+
+<h2>Les méthodes agiles</h2>
+
+<p>Retour aux sources avec cette présentation théorique qui prépare le terrain pour aborder de manière pragmatique tout l&#8217;univers <em>Scrum</em>.</p>
+
+<iframe src="http://slid.es/zenigata/les-methodes-agiles/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p>Tous ces nouveaux services <em>HTML5/CSS3/JS</em> pour réaliser un support de présentation ont actuellement ma préférence.</p>
+]]></content>
+  </entry>
+  
+</feed>

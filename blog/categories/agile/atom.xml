@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Catégorie : agile | Zenigata]]></title>
+  <link href="http://zenigata.fr/blog/categories/agile/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-04-26T16:43:47+02:00</updated>
+  <id>http://zenigata.fr/</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Stop starting and start finishing]]></title>
+    <link href="http://zenigata.fr/stop-starting-and-start-finishing/"/>
+    <updated>2014-02-17T14:00:00+01:00</updated>
+    <id>http://zenigata.fr/stop-starting-and-start-finishing</id>
+    <content type="html"><![CDATA[<p>Trente minutes de présentation sur la méthode <em>Lean Kanban</em>. <em>Challenge accepted!</em></p>
+
+<!--more-->
+
+
+
+
+<iframe src="http://zenigata.fr//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p>Maintenant je vais vous faire un tour d’horizon de cette fameuse méthode. Par contre, soyez indulgents,
+je ne l’ai pas directement expérimentée moi-même, sauf sous son aspect <em>Scrumban</em> –&nbsp;un mix entre <em>Scrum</em> et <em>Kanban</em> qui a le vent en poupe.</p>
+
+<p>D’où vient le terme&nbsp;? À l’origine <em>kanban</em> est un mot japonais qui désignait les fiches cartonnées
+que l’on fixait sur les bacs de pièces dans une ligne d’assemblage. Comme celle-ci.
+Et très vite tout un ensemble de pratiques ont vu le jour au sein du <em>Lean</em> chez Toyota, des pratiques basées sur le management visuel.</p>
+
+<p>Celles-ci sont aujourd’hui adaptées à l’environnement IT, et sa formalisation par David Anderson est toute récente (2010).
+À ce propos je vous recommande la lecture de ce livre de référence en français écrit par Laurent Morisseau.</p>
+
+<p>Mais concrètement, le management visuel ça donne quoi&nbsp;? Eh bien ça donne ça, ou ça. Ça ne vous rappelle rien&nbsp;?
+Et oui, les tableaux de tâches <em>Scrum</em> sont des tableaux <em>kanban</em> simplifiés et adaptés.</p>
+
+<p>En gros, <em>Kanban</em> propose une méthode d'amélioration continue par des processus que j’évoquerai plus loin.
+Celle-ci cherche à fluidifier le travail en le rendant visuel, en le contraignant par des limites et en cherchant la bonne séquence d'activités.
+Elle est non prescriptive, peut être appliquée à n’importe quelle méthode déjà en place, et se construit principalement de manière empirique.
+Il n’y a pas de rôle défini comme dans <em>Scrum</em>, mais <em>Kanban</em> partage les valeurs agiles.</p>
+
+<p>Je parlais de management visuel pour observer le flux d’activités dans son ensemble. En voici un exemple sur une équipe de réalisation.
+Toutes les tâches sont visibles et leur cycle de vie traverse des états représentés ici par des colonnes.
+Sur les tableaux <em>kanban</em> on parle plutôt de <em>minimal marketable feature</em> au lieu de <em>User Story</em>.
+Ces <em>MMF</em> représentent le plus petit incrément de valeur livrable en production.
+On utilise des cartes <em>kanban</em> pour les afficher et les manipuler.
+Ces cartes présentent diverses informations comme la date d’entrée ou une description succincte.</p>
+
+<p>En voici un autre exemple. On peut notamment jouer avec les couleurs et les lignes pour que l’information soit la plus claire et efficace possible.
+Et il y a des chiffres au niveau des noms de colonne.</p>
+
+<p>Ces chiffres sont là pour limiter le <em>WIP</em>. <em>WIP</em> signifie <em>Work In Progress</em> ou <em>Work In Process</em>, qui a été traduit par Travaux À Faire.
+Des études montrent que le multitâche est contre-productif. Le <em>context switching</em> fait perdre beaucoup de temps.
+C’est pour ça qu’un des principes de base de <em>Kanban</em> est de limiter le travail en cours en posant des limites sur certaines colonnes ou groupes de colonnes.
+On ne peut commencer une nouvelle tâche si le nombre maximum de tâches en cours est atteint. Il faut d’abord libérer de la place en terminant des éléments.
+<em>Stop starting and start finishing</em>. Ces limites sont appelées limites hautes.
+Il existe aussi des limites basses qu’on peut utiliser pour déclencher certains événements.
+Par exemple si j’ai moins de deux tâches prêtes on peut déclencher une phase d’alimentation de la colonne Prête.</p>
+
+<p>Tout ceci tend à fluidifier le flux d’activités et à éviter les files d’attente et les stocks.
+En effet, la principale préoccupation de <em>Kanban</em> est d’optimiser le flux de valeur et de réduire le <em>time to market</em>.
+Le système <em>Kanban</em> peut embrasser tous les cycles de vie d’une <em>MMF</em>, depuis sa conception jusqu’à sa livraison en production.
+Mais qu’est-ce qui se passe quand ça coince&nbsp;?</p>
+
+<p>Des goulets d’étranglement peuvent se former comme des files d’attente, donc du stock.
+Ces problèmes apparaîtront clairement dans le système, et il faudra les purger,
+par exemple en ajustant les limites ou en modifiant les règles comme ne jamais commencer un travail s’il y a un risque probable de blocage.</p>
+
+<p>Pour cela <em>Kanban</em> fait émerger un système en flux tiré au lieu du classique flux poussé.
+On parle bien du mouvement des élements dans le système <em>kanban</em>. Prenons un exemple.
+En flux poussé, le responsable fonctionnel peut écrire toutes les specs dès qu’il a le temps. Comme lors du cycle en V.
+En flux tiré, il le fera quand le développeur en aura besoin, par exemple quelques jours avant.
+On peut dire que l’activité en amont est calée sur l’activité en aval. J’ai inséré un exemple que vous pourrez lire à tête reposée.</p>
+
+<p>Le jeu est d’être transparent et d’afficher tous les indicateurs, limites ou règles,
+sur le tableau <em>kanban</em> pour que tout le monde se les approprient et les fassent évoluer.
+Par exemple, que fait-on quand un élément est bloqué depuis plusieurs jours&nbsp;? ou quand il avance trop lentement&nbsp;?
+Quels sont les critères de changement de colonne&nbsp;? Quel élément sélectionne-t-on au sein d’une file d’attente&nbsp;?</p>
+
+<p>Le temps pris pour réaliser une <em>MMF</em> s’appelle le temps de cycle.
+On parle de temps de traversée concernant le système complet, de la demande client à la livraison.
+En notant les temps de cycle on peut dessiner des cartes de contrôle et repérer a posteriori les éléments les plus problématiques.
+On pourra aussi calculer le débit moyen du système pour pouvoir planifier à moyen et long terme.
+On pourra également mesurer le niveau de performance à la date d’échéance, c’est-à-dire entre le temps initialement prévu et le temps effectif.
+Avec ces indicateurs on peut établir des diagrammes de flux cumulé qui permettent de contrôler l’état du système.
+Certains mettent même en place des <em>obeyas</em>, des tableaux de bords riches qui, des fois, remplissent carrément toute une salle.</p>
+
+<p>La méthode <em>Kanban</em> est empirique. On ajuste en permanence les contraintes et les règles. L’amélioration continue est au cœur du système.
+En ce sens <em>Kanban</em> s’inscrit totalement dans la philosophie <em>Kaizen</em> et suis le modèle <em>PDSA</em> : <em>Plan</em>, <em>Do</em>, <em>Study</em> et <em>Act</em>
+pour obtenir régulièrement du <em>feedback</em> et s’améliorer le plus rapidement possible.
+Vous en verrez un exemple dans l’atelier qui suit cette présentation.</p>
+
+<p>Pour aller plus loin, l’expérience acquise dans l’univers industriel pour les flux d’activités nous permet d’utiliser des méthodes scientifiques
+pour améliorer notre système. Je ne vais pas les expliciter ici car ça devient un peu technique.</p>
+
+<p>Voici un rappel des itérations <em>Scrum</em> qui regroupent en un même rythme la priorisation des tâches, la démo client, la rétrospective et la livraison.
+En <em>Kanban</em> ces cadences sont découplées et s’adaptent au projet. Il n’y a certes pas d’itération mais un flux en continu qui applique le modèle <em>PDSA</em>.
+Parmi les rituels récurrents on peut aussi citer l’injection des éléments, le triage des files d’attente ou la livraison des <em>MMF</em>.
+Dans les systèmes les plus optimisés on peut viser le juste-à-temps afin d’obtenir un flux tendu total. Pas de stock.</p>
+
+<p>Pour mettre en œuvre tout ce qu’on a vu, <em>Kanban</em> propose quatre principes de base.
+<em>Start with what you do now</em>&nbsp;: ce qui veut dire qu’on peut mettre en place <em>Kanban</em> conjointement avec n’importe quelle méthode de gestion de projet déjà en place.
+<em>Agree to pursue incremental, evolutionary change</em>&nbsp;: s’améliorer en continue, de manière incrémentale.
+<em>Respect the current process, roles, responsibilities and titles</em>&nbsp;: le changement se fait en douceur, à chaque nouvelle amélioration.
+Pas de changement de paradigme comme c’est le cas de <em>Scrum</em>. <em>Encourage acts of leadership at all levels</em>&nbsp;:
+pour des équipes responsables qui ajustent le système à tous les niveaux et à leur initiative.</p>
+
+<p>Ces principes sont déclinés en six pratiques que nous venons de voir.
+On peut résumer tout ça sur un tableau <em>kanban</em> en visualisant les contraintes, les règles et les cadences.</p>
+
+<p>Un des buts du management visuel est l’appropriation du système par l’équipe. Si le <em>kanban</em> n’évolue pas régulièrement, c’est mauvais signe.
+Voici un exemple de tableau vertical, puis un autre plus exotique encore. Celui-ci est utilisé pour faire mûrir un <em>backlog</em>.
+Ici nous avons un portefeuille de projets. Des services comme le <em>marketing</em>, la <em>TMA</em> ou l’exploitation sont aussi friands de <em>Kanban</em>.
+Un autre exemple sur la gestion d’une cave à vin.
+Un autre sur une consommation de jeux vidéo, et pour finir un exemple de <em>Kanban</em> personnel pour gérer ses tâches quotidiennes.</p>
+
+<p>En conclusion, je dirai que la force de <em>Kanban</em> est son adaptation à tous les environnements grâce à son développement en flux
+qui vise à optimiser la production de valeur et à minimiser le gaspillage, le tout de manière empirique et sans changement radical de vos process.</p>
+
+<p>Merci pour votre attention.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Un kanban peut en cacher un autre]]></title>
+    <link href="http://zenigata.fr/un-kanban-peut-en-cacher-un-autre/"/>
+    <updated>2013-09-28T11:30:00+02:00</updated>
+    <id>http://zenigata.fr/un-kanban-peut-en-cacher-un-autre</id>
+    <content type="html"><![CDATA[<p><em>Ce matin, après l’habituel daily meeting&nbsp;:</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
+
+<!--more-->
+
+
+<p>«&nbsp;Salut. Tu fais quoi&nbsp;?<br/>
+— Je me fais mon programme pour la semaine prochaine.<br/>
+— Ah il se passe quelque chose&nbsp;?<br/>
+— Affirmatif. Je vais assister à la seule conférence française sur un domaine qui me tient à cœur.<br/>
+— Laisse-moi deviner… une conférence sur l’extreme ironing<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup>&nbsp;? ou sur la méthode dite du canard en plastique<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup> peut-être&nbsp;?<br/>
+— Très drôle. Non, c’est sur le Lean Kanban.<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup> C’est la seconde édition<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup> d’ailleurs.<br/>
+— Le quoi&nbsp;?<br/>
+— Tu sais, la méthode de gestion de projet qui met l’accent sur le management visuel et le juste-à-temps.<br/>
+— Ah ça.<br/>
+— Oui, et c’est vachement efficace. La communication visuelle avant tout.<br/>
+— Et c’est quand&nbsp;?<br/>
+— L’événement est sur deux jours&nbsp;:&nbsp;jeudi 3 et vendredi 4 octobre. Ça se passe à la maison des associations du XIII<sup>e</sup>.<br/>
+— Ça vaut vraiment le coup&nbsp;?<br/>
+— Le casting est fort intéressant. Déjà, David J. Anderson nous fait l’honneur de sa présence. C’est lui qui a introduit la méthode au sein de l’écosystème informatique. Et de grands acteurs de la scène agile seront également présents.<br/>
+— De toute façon, je m’endors toujours dans ce genre de conférences.<br/>
+— Mais là il y en aura pour tous les goûts&nbsp;:&nbsp;keynotes, ateliers, jeux, table ronde et même du speed-coaching personnalisé.<sup id='fnref:6'><a href='#fn:6' rel='footnote'>6</a></sup> Et ce, jusqu’à trois sessions en parrallèle.<br/>
+— Et ça parlera de quoi&nbsp;?<br/>
+— Cette année les thèmes sont&nbsp;:&nbsp;amplifier l’apprentissage, poursuivre le perfectionnement et voir l’ensemble. Tout un programme.<sup id='fnref:7'><a href='#fn:7' rel='footnote'>7</a></sup><br/>
+— C’est vrai que mon tableau des tâches laisse un peu à désirer. Ce serait l’occasion de lui faire un lifting avec de nouvelles idées.<br/>
+— Carrément. Et tu peux même le prendre en photo<sup id='fnref:8'><a href='#fn:8' rel='footnote'>8</a></sup> pour bénéficier de commentaires d’experts et obtenir des pistes d’amélioration.<br/>
+— Et voilà, tu m’as convaincu. T’as intérêt à nous trouver un bon hôtel.<br/>
+— Compte sur moi. Au fait, pense à utiliser le code promo NOVE%ES lors de ton inscription.<sup id='fnref:9'><a href='#fn:9' rel='footnote'>9</a></sup> 20% de réduction, ça ne se refuse pas&nbsp;!&nbsp;»</p>
+
+<hr />
+
+<p><div class="footnotes">
+	<ol>
+		<li id='fn:1'>Cet article a initialement été écrit <a href="http://blogtechno.novediagroup.com/lean-kanban-france-2013/">ici</a>. <a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'><a href="http://fr.wikipedia.org/wiki/Repassage_extr%C3%AAme">Extreme ironing</a> <a href='#fnref:2' rev='footnote'>↩</a></li><li id='fn:3'><a href="http://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique">Canard en plastique</a> <a href='#fnref:3' rev='footnote'>↩</a></li><li id='fn:4'><a href="http://www.leankanban.fr/">Lean Kanban France 2013</a> <a href='#fnref:4' rev='footnote'>↩</a></li><li id='fn:5'><a href="http://www.youtube.com/watch?v=3JESBb_F_MQ">Lean Kanban France 2012</a> <a href='#fnref:5' rev='footnote'>↩</a></li><li id='fn:6'><a href="http://www.morisseauconsulting.com/2013/09/18/speed-consulting-scrum-kanban-demandez-le-coach/">Speed coaching</a> <a href='#fnref:6' rev='footnote'>↩</a></li><li id='fn:7'><a href="http://lanyrd.com/2013/lean-kanban-france/schedule/?day=oct-03&fullscreen=1&view=grid">Programme</a> <a href='#fnref:7' rev='footnote'>↩</a></li><li id='fn:8'><a href="http://lanyrd.com/2013/lean-kanban-france/scpmtr/">Improve your board</a> <a href='#fnref:8' rev='footnote'>↩</a></li><li id='fn:9'><a href="http://www.weezevent.com/lean-kanban-france-2013">Inscription</a> <a href='#fnref:9' rev='footnote'>↩</a></li>
+	</ol>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Veille technique]]></title>
+    <link href="http://zenigata.fr/veille-technique/"/>
+    <updated>2013-09-02T12:00:00+02:00</updated>
+    <id>http://zenigata.fr/veille-technique</id>
+    <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
+problème suivant&nbsp;:&nbsp;je n'arrive pas à organiser mes marque-pages.</p>
+
+<!--more-->
+
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce que je n'ai pas été convaincu par des outils comme <em><a href="http://www.pearltrees.com/">Pearltrees</a></em> ou <em><a href="http://iceber.gs">Icebergs</a></em>.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce que je consulte quotidiennement de nombreux liens intéressants et que j'utilise plusieurs navigateurs sur différents terminaux informatiques.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce qu'Internet évolue si vite qu'on n'on ne peut temporiser sur une page&nbsp;:&nbsp;sitôt classée, sitôt oubliée.
+En un mot&nbsp;:&nbsp;<em>read or die</em>.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce qu'entre les flux RSS, les réseaux sociaux, les mails et autres forums on n'a pas le temps de tout lire sur le moment.
+J'ai essayé des outils comme <em>Read it later</em> (désormais <em><a href="http://getpocket.com/">pocket</a></em>) ou la fonctionnalité favoris du lecteur RSS, mais je n'arrive pas à trouver mon équilibre.</p>
+
+<h3>Pourquoi ?</h3>
+
+<p>Parce que je procrastine trop.</p>
+
+<h2>Que faire&nbsp;?</h2>
+
+<ol>
+<li>Consommer le lien sur le moment. Reporter le moins de choses possibles.</li>
+<li>Partager tout ce qui est intéressant.</li>
+<li>Organiser et classer les sites d'utilisation quotidienne.</li>
+</ol>
+
+
+<h2>En pratique</h2>
+
+<p>J'essaie de partager tout lien intéressant sur mon mur.
+Pour ma veille technique, j'utilise un <a href="http://aloco.free.fr/info/">shaarli</a>, histoire de ne pas trop polluer ledit mur.
+Pour les sites d'utilisation régulière, j'ai mis en place ce <a href="http://lhaagounet.free.fr">marque-liens</a> pour pouvoir y accéder depuis n'importe quel ordinateur,
+depuis un espace public par exemple.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Casser la croûte]]></title>
+    <link href="http://zenigata.fr/casser-la-croute/"/>
+    <updated>2013-06-27T18:10:00+02:00</updated>
+    <id>http://zenigata.fr/casser-la-croute</id>
+    <content type="html"><![CDATA[<p>Appelez-la comme vous voulez --&nbsp;<em>Midi techniques</em>, <em>12@13</em> ou <em><a href="http://www.brownbaglunch.fr/">Brown Bag Lunch</a></em>&nbsp;--
+mais la mise à profit de la pause déjeuner pour échanger sur un sujet précis me tient particulièrement à cœur.
+Prenez votre sandwich, ramenez vos collègues et c'est parti pour une heure informelle de partage.</p>
+
+<!--more-->
+
+
+<p>Tout est bon à prendre&nbsp;: retour d'expérience, présentation formelle, débat ouvert, visionnage de vidéo ciblée,
+atelier divers, sortie photo, instant jeux de société, live coding, etc.</p>
+
+<p>Voici deux sessions que j'ai animées.</p>
+
+<h2>Du JavaScript propre</h2>
+
+<p>Aujourd'hui la maturité du langage <em>JavaScript</em> est impressionnante et il n'est plus raisonnable de faire du <em>inline</em>,
+de se passer de tests unitaires, ou de polluer l'espace de nommage. On est en 2013 mec.</p>
+
+<script async class="speakerdeck-embed" data-id="0ccc2980c16b013094e942d55316ac74" data-ratio="1.33333333333333" src="http://zenigata.fr//speakerdeck.com/assets/embed.js"></script>
+
+
+<h2>Les méthodes agiles</h2>
+
+<p>Retour aux sources avec cette présentation théorique qui prépare le terrain pour aborder de manière pragmatique tout l'univers <em>Scrum</em>.</p>
+
+<iframe src="http://slid.es/zenigata/les-methodes-agiles/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p>Tous ces nouveaux services <em>HTML5/CSS3/JS</em> pour réaliser un support de présentation ont actuellement ma préférence.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cher Scrum Day 2013]]></title>
+    <link href="http://zenigata.fr/cher-scrum-day-2013/"/>
+    <updated>2013-04-19T11:30:00+02:00</updated>
+    <id>http://zenigata.fr/cher-scrum-day-2013</id>
+    <content type="html"><![CDATA[<p>Cher <a href="http://www.scrumday.fr/">Scrum Day</a>,</p>
+
+<p>je t'attendais, je t'espérais. Tu m'as accueilli à bras ouverts. Notre rencontre était inévitable ou –&nbsp;pour parodier d'illustres inconnus&nbsp;– je dirai même que notre rencontre c'était fatal.</p>
+
+<p>Aujourd'hui je prends la liberté de te juger et de t'attribuer la note de <strong>6/10</strong>.<br/>
+Ceci est un <a href="http://www.perfectiongame.org/#learn_more">perfection game</a>.</p>
+
+<!--more-->
+
+
+<p>Tout d'abord ton accueil m'a enchanté. Imaginez donc, le <em>Forum Center IBM</em> avec ses hôtesses, son cadre moderne et élégant, les stands hauts en couleurs des <em>sponsors</em>, les <em>goodies</em>, le sac du visiteur, la nourriture raffinée… Même ton site Internet est agréable et fonctionnel.</p>
+
+<p>L'éloge ne s'arrête pas là car la renommée de tes ateliers t'a précédé. Oui, la force de Scrum Day ce sont ces sessions en petit comité avec une proximité inédite, des échanges personnalisés, cette notion de pragmatisme si chère à la méthodologie Agile. Et c'est très appréciable.</p>
+
+<p>Mieux encore, tu donnes une chance à tout <em>speaker</em>, certifié ou non, réputé ou star en devenir, expert ou débutant. Des passionnés qui s'adressent à d'autres passionnés dans une ambiance de camaraderie. Attends, ce n'est pas fini. Tu t'es engagé à filmer les sessions de quatre salles pour mettre à disposition les enregistrements obtenus. Et cerise sur le gâteau, devant chaque salle un panneau d'affichage rappelle le programme en cours ou à venir. Extra.</p>
+
+<p>Pourtant j'ai lâché un 6. Pourquoi pas 10&nbsp;?</p>
+
+<p>Certes il y a des choses à améliorer. Je pense à ce <em>wifi</em> inaccessible tel un supplice de Tantale des temps modernes, ou à ces supports de présentation trop scolaires (spécial <em>combo</em> fautes d'orthographe et <em>bullet points</em>). Que dire du fameux onglet «&nbsp;salle 7 à 12&nbsp;» invisible sur le site&nbsp;?</p>
+
+<p>Ok le choix des sessions en <em>call for papers</em> ne me regarde pas mais peut-être pourrais-tu demander les <em>slides</em> des candidats avant de prendre une décision. D'ailleurs je te conseille de mettre en place des feuilles de <em>ROTI</em> à la sortie de chaque session. Ça c'est du <em>feedback</em> rapide et une volonté de se challenger et de s'améliorer&nbsp;!</p>
+
+<p>Passons aux choses sérieuses mon bel ami. Parlons d'organisation. Je respecte l'ambition de tout tenir en une journée, mais donne-toi les moyens d'éviter tout retard, tout débordement de séance et de permettre à chacun d'assister à la session désirée. Comment&nbsp;? Peut-être en utilisant des pré-inscriptions ou des retransmissions. Ou bien en laissant des marges de cinq minutes entre chaque créneau. Enfin, ne peut-on optimiser le temps vide entre 16h30 et 17h15&nbsp;? Car attendre une <em>keynote</em> si longuement entraîne indubitablement une invitation au départ, si ce n’est au voyage.</p>
+
+<p>Tu auras compris mon souci du détail, mais quant à se professionnaliser autant viser la perfection&nbsp;!</p>
+
+<p>Sans rancune, on reste en contact hein&nbsp;?<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
+
+<hr />
+
+<p><div class="footnotes">
+	<ol>
+		<li id='fn:1'>Cet article a initialement été écrit <a href="http://blogtechno.novediagroup.com/perfection-game-scrum-day-2013/">ici</a>. <a href='#fnref:1' rev='footnote'>↩</a></li>
+	</ol>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+</feed>

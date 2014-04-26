@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Catégorie : code | Zenigata]]></title>
+  <link href="http://zenigata.fr/blog/categories/code/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-04-26T16:43:47+02:00</updated>
+  <id>http://zenigata.fr/</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Git c'est vachement bien]]></title>
+    <link href="http://zenigata.fr/git-cest-vachement-bien/"/>
+    <updated>2013-10-01T11:30:00+02:00</updated>
+    <id>http://zenigata.fr/git-cest-vachement-bien</id>
+    <content type="html"><![CDATA[<p>Mon dernier BBL vise à introduire Git et à donner les moyens de s'y mettre à ceux qui ne connaissent que SVN.
+En attendant une seconde partie plus technique...</p>
+
+<!--more-->
+
+
+<iframe src="http://slid.es/zenigata/git/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[La voix du développeur]]></title>
+    <link href="http://zenigata.fr/la-voix-du-developpeur/"/>
+    <updated>2013-04-17T16:00:00+02:00</updated>
+    <id>http://zenigata.fr/la-voix-du-developpeur</id>
+    <content type="html"><![CDATA[<p><em>We are developers. We are creators. We are prima donna’s.</em></p>
+
+<p>À <a href="http://storify.com/zenigata/devoxx-france-2013">Devoxx France 2013</a> je suis venu apprendre, échanger, discuter et coder. Coder en continu, en paix. Je ne suis pas un géant mais j'ai un secret : je suis un développeur. <em>I am a developer. I am a creator. I am a prima donna.</em></p>
+
+<p>En tant que développeur, par ma voix, pour Devoxx, je vous propose un <a href="http://gdriv.es/devoxx">compte-rendu</a> de l'événement sous forme de Javadoc. Oui, documentez votre code, codez proprement, codez en paix. <em>We are misunderstood by customers, by managers and even co-workers, we are undervalued and often overworked.</em></p>
+
+<p>Amis codeurs, élevez la voix&nbsp;!<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
+
+<hr />
+
+<p><div class="footnotes">
+	<ol>
+		<li id='fn:1'>Cet article a initialement été écrit <a href="http://blogtechno.novediagroup.com/la-voix-du-developpeur-retour-devoxx-france-2013/">ici</a>. <a href='#fnref:1' rev='footnote'>↩</a></li>
+	</ol>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[XML, JSON et YAML sont sur un bateau]]></title>
+    <link href="http://zenigata.fr/xml/"/>
+    <updated>2012-05-16T17:00:00+02:00</updated>
+    <id>http://zenigata.fr/xml</id>
+    <content type="html"><![CDATA[<p>Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d'application. Connaissez-vous le très explicite YAML ?</p>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="nt">&lt;livre</span> <span class="na">langage=</span><span class="s">”fr”</span> <span class="na">disponible=</span><span class="s">true</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;titre&gt;</span>Comme on dit en Afrique...<span class="nt">&lt;/titre&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;auteurs&gt;&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">&lt;pre&gt;&lt;code&gt;</span><span class="ni">&amp;lt;</span>auteur<span class="ni">&amp;gt;</span>Joseph Andjou<span class="ni">&amp;lt;</span>/auteur<span class="ni">&amp;gt;</span>
+</span><span class='line'><span class="nt">&lt;/code&gt;&lt;/pre&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">&lt;p&gt;</span>  <span class="nt">&lt;/auteurs&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;date&gt;</span>2003/05/28<span class="nt">&lt;/date&gt;</span>
+</span><span class='line'><span class="nt">&lt;/livre&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/JSON">JSON</a></h2>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="p">{</span>
+</span><span class='line'>  <span class="nx">livre</span> <span class="o">:</span>
+</span><span class='line'>  <span class="p">{</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">pre</span><span class="o">&gt;&lt;</span><span class="nx">code</span><span class="o">&gt;</span><span class="nx">langage</span> <span class="o">:</span> <span class="err">“</span><span class="nx">fr</span><span class="err">”</span><span class="p">,</span>
+</span><span class='line'><span class="nx">disponible</span> <span class="o">:</span> <span class="kc">true</span><span class="p">,</span>
+</span><span class='line'><span class="nx">titre</span> <span class="o">:</span> <span class="err">“</span><span class="nx">Comme</span> <span class="nx">on</span> <span class="nx">dit</span> <span class="nx">en</span> <span class="nx">Afrique</span><span class="p">...</span><span class="err">”</span><span class="p">,</span>
+</span><span class='line'><span class="nx">auteurs</span> <span class="o">:</span>
+</span><span class='line'><span class="p">[</span>
+</span><span class='line'>  <span class="err">“</span><span class="nx">Joseph</span> <span class="nx">Andjou</span><span class="err">”</span>
+</span><span class='line'><span class="p">],</span>
+</span><span class='line'><span class="nx">date</span> <span class="o">:</span> <span class="err">“</span><span class="mi">28</span> <span class="nx">mai</span> <span class="mi">2003</span><span class="err">”</span>
+</span><span class='line'><span class="o">&lt;</span><span class="err">/code&gt;&lt;/pre&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>  <span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/YAML">YAML</a></h2>
+
+<h2><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+</pre></td><td class='code'><pre><code class='yaml'><span class='line'><span class="l-Scalar-Plain">&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="l-Scalar-Plain">&lt;p&gt;langage</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">fr</span>
+</span><span class='line'><span class="l-Scalar-Plain">disponible</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">true</span>
+</span><span class='line'><span class="l-Scalar-Plain">titre</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">“Comme on dit en Afrique...”</span>
+</span><span class='line'><span class="l-Scalar-Plain">auteurs</span><span class="p-Indicator">:</span> <span class="p-Indicator">[</span><span class="nv">Joseph Andjou</span><span class="p-Indicator">]</span><span class="l-Scalar-Plain">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="l-Scalar-Plain">&lt;h2&gt;date</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2003-05-28&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="l-Scalar-Plain">&lt;p&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+]]></content>
+  </entry>
+  
+</feed>

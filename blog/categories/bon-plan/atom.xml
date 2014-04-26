@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Catégorie : bon plan | Zenigata]]></title>
+  <link href="http://zenigata.fr/blog/categories/bon-plan/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-04-26T16:43:47+02:00</updated>
+  <id>http://zenigata.fr/</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Le français facile]]></title>
+    <link href="http://zenigata.fr/le-francais-facile/"/>
+    <updated>2013-03-12T11:40:00+01:00</updated>
+    <id>http://zenigata.fr/le-francais-facile</id>
+    <content type="html"><![CDATA[<p>Vous aimez le français ? Vous savez, cette langue dotée de règles tortueuses, d'une grammaire complexe mais emplie d'une beauté rationnelle agrémentée d'exceptions exotiques ? Moi je suis fan. Et je veux pouvoir accéder aux caractères <strong>Ç</strong> et <strong>œ</strong> avec n'importe quel clavier, sur n'importe quel système d'exploitation, sans me casser la tête.<br/>
+En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-des-doigts">bépo</a>, j'ai mis en ligne un <em>mémo</em> pour me dépanner en toute occasion. Je vous présente donc <a href="http://typo.zenigata.fr">le français facile</a>, site rapidement réalisé grâce à <a href="http://jekyllbootstrap.com/">Jekyll-Bootstrap</a>.</p>
+
+<p>Si ça m'est utile, ça peut vous rendre service. Utilisez-le !</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Soldes tout compte]]></title>
+    <link href="http://zenigata.fr/soldes-tout-compte/"/>
+    <updated>2012-01-11T15:53:00+01:00</updated>
+    <id>http://zenigata.fr/soldes-tout-compte</id>
+    <content type="html"><![CDATA[<p><em>Kyaaaaaaaaaahhhhh !</em><br/>
+Oui. Les <strong>soldes</strong> sont là.</p>
+
+<p>Les soldes d'hiver ont été lâchées ce matin. De mon bureau l'effervescence de la rue s'apparentait à une vision spatiale : une multitude de <a href="http://fr.wikipedia.org/wiki/Fichier:Debris-GEO1280.jpg">débris spatiaux</a> se déplaçant en tout sens, avec violence mais sans bruit. Se percutant souvent. Se désintégrant parfois. Rapport à l'excellent manga <em>Planètes</em>, sans doute.</p>
+
+<!--more-->
+
+
+<h2>  </h2>
+
+<p>Sur la toile voici mes sources de bons plans habituelles :</p>
+
+<ul>
+<li><a href="http://www.comptoir-hardware.com/bons-plans-du-comptoir.html">Bons plans du comptoir</a></li>
+<li><a href="http://www.mega-bonnes-affaires.com/">Méga bonnes affaires</a></li>
+<li><a href="http://www.lesnumeriques.com/soldes-hiver-informatique-high-tech-pc-photo-e1159.html">Les Numériques</a></li>
+<li><a href="http://www.lesnumeriques.com/legrandforum/avis/Tendances-Analyses/vie-du-net/meilleures-offres-soldes-sujet_5925_6.htm">Le Grand Forum</a></li>
+<li><a href="http://www.gamekult.com/forum/topic-le-topic-des-bonnes-affaires-no-affiliations-368039n.html?p=754">Gamekult</a></li>
+<li><a href="http://forum.hardware.fr/hfr/Hardware/conseilsachats/hardware-blabla-sanction-sujet_802066_120.htm">Forum Hardware</a></li>
+<li><a href="http://www.commeuncamion.com/categorie/mode/soldes/">Comme un camion</a></li>
+</ul>
+
+
+<p><em>Allons faire tourner l'économie...</em></p>
+]]></content>
+  </entry>
+  
+</feed>

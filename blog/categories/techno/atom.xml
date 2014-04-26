@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Catégorie : techno | Zenigata]]></title>
+  <link href="http://zenigata.fr/blog/categories/techno/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-04-26T16:43:47+02:00</updated>
+  <id>http://zenigata.fr/</id>
+  <author>
+    <name><![CDATA[Zenigata]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Veille technique]]></title>
+    <link href="http://zenigata.fr/veille-technique/"/>
+    <updated>2013-09-02T12:00:00+02:00</updated>
+    <id>http://zenigata.fr/veille-technique</id>
+    <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
+problème suivant&nbsp;:&nbsp;je n'arrive pas à organiser mes marque-pages.</p>
+
+<!--more-->
+
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce que je n'ai pas été convaincu par des outils comme <em><a href="http://www.pearltrees.com/">Pearltrees</a></em> ou <em><a href="http://iceber.gs">Icebergs</a></em>.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce que je consulte quotidiennement de nombreux liens intéressants et que j'utilise plusieurs navigateurs sur différents terminaux informatiques.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce qu'Internet évolue si vite qu'on n'on ne peut temporiser sur une page&nbsp;:&nbsp;sitôt classée, sitôt oubliée.
+En un mot&nbsp;:&nbsp;<em>read or die</em>.</p>
+
+<h3>Pourquoi&nbsp;?</h3>
+
+<p>Parce qu'entre les flux RSS, les réseaux sociaux, les mails et autres forums on n'a pas le temps de tout lire sur le moment.
+J'ai essayé des outils comme <em>Read it later</em> (désormais <em><a href="http://getpocket.com/">pocket</a></em>) ou la fonctionnalité favoris du lecteur RSS, mais je n'arrive pas à trouver mon équilibre.</p>
+
+<h3>Pourquoi ?</h3>
+
+<p>Parce que je procrastine trop.</p>
+
+<h2>Que faire&nbsp;?</h2>
+
+<ol>
+<li>Consommer le lien sur le moment. Reporter le moins de choses possibles.</li>
+<li>Partager tout ce qui est intéressant.</li>
+<li>Organiser et classer les sites d'utilisation quotidienne.</li>
+</ol>
+
+
+<h2>En pratique</h2>
+
+<p>J'essaie de partager tout lien intéressant sur mon mur.
+Pour ma veille technique, j'utilise un <a href="http://aloco.free.fr/info/">shaarli</a>, histoire de ne pas trop polluer ledit mur.
+Pour les sites d'utilisation régulière, j'ai mis en place ce <a href="http://lhaagounet.free.fr">marque-liens</a> pour pouvoir y accéder depuis n'importe quel ordinateur,
+depuis un espace public par exemple.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Le français facile]]></title>
+    <link href="http://zenigata.fr/le-francais-facile/"/>
+    <updated>2013-03-12T11:40:00+01:00</updated>
+    <id>http://zenigata.fr/le-francais-facile</id>
+    <content type="html"><![CDATA[<p>Vous aimez le français ? Vous savez, cette langue dotée de règles tortueuses, d'une grammaire complexe mais emplie d'une beauté rationnelle agrémentée d'exceptions exotiques ? Moi je suis fan. Et je veux pouvoir accéder aux caractères <strong>Ç</strong> et <strong>œ</strong> avec n'importe quel clavier, sur n'importe quel système d'exploitation, sans me casser la tête.<br/>
+En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-des-doigts">bépo</a>, j'ai mis en ligne un <em>mémo</em> pour me dépanner en toute occasion. Je vous présente donc <a href="http://typo.zenigata.fr">le français facile</a>, site rapidement réalisé grâce à <a href="http://jekyllbootstrap.com/">Jekyll-Bootstrap</a>.</p>
+
+<p>Si ça m'est utile, ça peut vous rendre service. Utilisez-le !</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Le graphisme d'information]]></title>
+    <link href="http://zenigata.fr/le-graphisme-dinformation/"/>
+    <updated>2012-10-10T11:00:00+02:00</updated>
+    <id>http://zenigata.fr/le-graphisme-dinformation</id>
+    <content type="html"><![CDATA[<p>À l'aube d'un changement de paradigme, que dis-je, d'une explosion démographique, je me fais le chantre de la première de mes vies qui s'achève. À cette occasion je vous propose un <a href="http://fr.wikipedia.org/wiki/Graphisme_d%27information">graphisme d'information</a>, ou <em>infographic</em> en anglais, comme on peut en voir <a href="http://www.ufunk.net/insolite/sex-toys-infography/">çà</a> et <a href="http://theoatmeal.com/comics/cats_actually_kill">là</a>.</p>
+
+<!--more-->
+
+
+
+
+<iframe src="http://infogr.am/1349392808-442687" width="550px" height="3790px" scrolling="no" frameborder="0" style="border:none;"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Je crée le site de mon club]]></title>
+    <link href="http://zenigata.fr/je-cree-le-site-de-mon-club/"/>
+    <updated>2012-09-03T10:30:00+02:00</updated>
+    <id>http://zenigata.fr/je-cree-le-site-de-mon-club</id>
+    <content type="html"><![CDATA[<p><em>Bonjour Monsieur B.<br/>
+Votre mission, si toutefois vous l'acceptez, est de réaliser le site de votre club pour la rentrée.</em></p>
+
+<!--more-->
+
+
+<p>Mission acceptée et achevée en 10 étapes.</p>
+
+<h3>1. Un site de club, pas un blog</h3>
+
+<p>Tout d'abord je fais le tour des besoins et des fonctionnalités attendues.<br/>
+La <strong>date de livraison</strong> est la priorité absolue.</p>
+
+<h3>2. Un minimum d'organisation</h3>
+
+<p>Pour mettre en forme les différentes étapes du projet et gérer les tâches j'utilise l'outil en ligne <a href="http://www.trello.com/">Trello</a>.</p>
+
+<p>
+  <a class="fancybox" href="https://lh5.googleusercontent.com/-AdF-BvxBmUo/UEDgBh5KXpI/AAAAAAAADqE/GSrd4GTznZ0/s1280/trello.png" data-fancybox-group="wordpress" title="Trello"><img src="https://lh5.googleusercontent.com/-AdF-BvxBmUo/UEDgBh5KXpI/AAAAAAAADqE/GSrd4GTznZ0/s128/trello.png" alt="Trello" /></a>
+</p>
+
+
+<h3>3. Un <a href="http://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_contenu">CMS</a> que je maîtrise</h3>
+
+<p><a href="http://wordpress.org/">Wordpress</a> est parfaitement adapté à mes besoins.<br/>
+J'installe directement la dernière version sur l'espace alloué.</p>
+
+<h3>4. Un template adéquat et gratuit</h3>
+
+<p>Je <a href="http://wp.smashingmagazine.com/tag/themes/">recherche</a> et <a href="http://www.webdesignerdepot.com/2012/06/101-awesome-new-wordpress-themes/">sélectionne</a> le template qui me plaît.<br/>
+Je récupère les différentes <a href="http://www.smashingmagazine.com/tag/icons/">icônes</a> dont j'ai besoin.</p>
+
+<h3>5. De la configuration aux petits oignons</h3>
+
+<p>Il faut personnaliser le template : <strong>nom du site</strong>, choix des widgets, structure du footer, traductions manquantes ainsi que toutes les autres options globales de la page d'administration.</p>
+
+<h3>6. Au menu : des pages</h3>
+
+<p>Je commence à insérer du contenu : je crée les différents menus avec les <strong>pages statiques principales</strong>. Je configure le slider du template pour qu'il pointe vers ces pages.</p>
+
+<h3>7. Au menu : des articles</h3>
+
+<p>Ajoutons plus de contenu !<br/>
+J'écris quelques articles, je teste les commentaires ainsi que le formulaire de contact.<br/>
+Pour les images dont j'ai besoin j'essaie d'utiliser au maximum les <a href="http://www.flickr.com/creativecommons/">Creative Commons</a>.</p>
+
+<h3>8. Fignolages en tout genre</h3>
+
+<p>Le site est fonctionnel, mais il reste de nombreux ajustements : favicon, 404 personnalisée, recherche mots-clés...</p>
+
+<h3>9. Recette épicée</h3>
+
+<p>On montre ce qu'on a fait, on teste tout et on corrige ce qui ne convient pas.</p>
+
+<h3>10. Le jour J</h3>
+
+<p>Je mets le site <a href="http://boulogne.jeudego.org">en ligne</a> et je m'envole vers un autre projet.</p>
+
+<p><em>Mission cleared!</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mon premier livre numérique]]></title>
+    <link href="http://zenigata.fr/mon-premier-livre-numerique/"/>
+    <updated>2012-08-08T18:10:00+02:00</updated>
+    <id>http://zenigata.fr/mon-premier-livre-numerique</id>
+    <content type="html"><![CDATA[<p>Qu'entend-on par <a href="http://fr.wikipedia.org/wiki/Livre_num%C3%A9rique">livre numérique</a> ?<br/>
+Certainement beaucoup de choses ! rien qu'au niveau des formats disponibles : <em>.txt</em>, <em>.html</em> ou <em>.pdf</em> pour n'en citer que quelques-uns. Et bien je vais vous montrer comment réaliser votre premier&nbsp;<em><a href="http://fr.wikipedia.org/wiki/EPUB_(format)">.epub</a></em>. Ce format ouvert et standardisé tend à s'imposer. Vous pouvez par exemple en récupérer plein de gratuits au sein du <a href="http://www.gutenberg.org/wiki/FR_Principal">Projet Gutenberg</a>.</p>
+
+<!--more-->
+
+
+<p>Vous trouverez sur Internet les <a href="http://idpf.org/epub/30/spec/epub30-overview.html">spécifications du format</a>, ainsi que de nombreux <a href="http://www.ebouquin.fr/2010/02/04/comment-creer-un-fichier-epub/">tutoriaux</a>.</p>
+
+<h2>L'archive</h2>
+
+<p>Un fichier <em>epub</em>, c'est juste une archive <strong>zip</strong> qui contient des pages <strong>html</strong> et des <strong>métadonnées</strong> au sujet de votre livre. Voilà tout.</p>
+
+<p>Je vous ai concocté un <a href="https://docs.google.com/open?id=0B-NsvDqymweIU1RXS3VqOEJjbTg">exemple</a> :</p>
+
+<pre>
+zenigata.epub
+├── EPUB
+│   ├── content.opf
+│   ├── css
+│   │   └── epub.css
+│   ├── images
+│   │   └── zenigata.jpg
+│   ├── text
+│   │   ├── 01-poemes.xhtml
+│   │   ├── 02-fables.xhtml
+│   │   ├── nav.xhtml
+│   │   └── titre.xhtml
+│   └── toc.ncx
+├── META-INF
+│   └── container.xml
+└── mimetype
+</pre>
+
+
+<h2>Les fichiers</h2>
+
+<p>Les fichiers <strong>mimetype</strong> et <strong>container.xml</strong> sont les mêmes pour tous les livres.</p>
+
+<h4><em>content.opf</em></h4>
+
+<p>Ce fichier contient les <strong>métadonnées</strong> liées à l'ouvrage : auteur, date de parution, éditeur, genre, nombre de pages, etc.<br/>
+Il décrit également le contenu exhaustif de l'archive.</p>
+
+<h4><em>toc.ncx</em></h4>
+
+<p>Ce fichier facultatif peut être utilisé pour créer une <strong>table des matières</strong> accessible à tout moment (sur le <em>Sony PRS-T1</em> il faut faire <em>menu -> Naviguer page -> Table des matières</em>).</p>
+
+<h4><em>code html</em></h4>
+
+<p>Le reste des fichiers représente du code html basique avec du css et une image pour la couverture.</p>
+
+<p>Il ne reste plus qu'à créer l'archive :</p>
+
+<pre>
+zip -Xr zenigata.epub mimetype META-INF EPUB
+</pre>
+
+
+<h2>FAQ</h2>
+
+<p>Pour tester votre livre numérique, de nombreux <a href="http://blog.kowalczyk.info/articles/epub-ebook-reader-viewer-for-windows.html">visionneurs d'epub</a> sont disponibles selon votre système d'exploitation.</p>
+
+<p>Un outil utile : le <a href="http://code.google.com/p/epubcheck/">validateur d'epub</a>. Très pratique !</p>
+
+<p>Pensez à écrire <em>&lt;!DOCTYPE html></em> et non <em>&lt;!doctype html></em> si vous faites du <strong>html 5</strong>.</p>
+
+<p>Vous trouverez des exemples d'epub fonctionnels à cet <a href="http://code.google.com/p/epub-samples/">endroit</a>.</p>
+
+<p>Si les spécifications en ligne ne sont pas assez claires, jetez un œil sur ce <a href="http://matt.garrish.ca/epub3/guidelines/">site</a>.</p>
+
+<h4>À vous les joies de l'édition !</h4>
+]]></content>
+  </entry>
+  
+</feed>
