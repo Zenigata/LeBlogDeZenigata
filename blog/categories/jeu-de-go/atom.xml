@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : jeu de go | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/jeu-de-go/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/jeu-de-go/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Souviens-toi... l'été dernier]]></title>
-    <link href="http://zenigata.fr/souviens-toi-dot-dot-dot-l-ete-dernier/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/souviens-toi-dot-dot-dot-l-ete-dernier/"/>
     <updated>2012-08-21T11:00:00+02:00</updated>
-    <id>http://zenigata.fr/souviens-toi-dot-dot-dot-l-ete-dernier</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/souviens-toi-dot-dot-dot-l-ete-dernier</id>
     <content type="html"><![CDATA[<p>Que fais-tu en juillet ? Je vais au <a href="http://stage.jeudego.org/2012/">stage de go</a> pardi !</p>
 
 <!--more-->
@@ -73,9 +73,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dans un club de go (2/2)]]></title>
-    <link href="http://zenigata.fr/dans-un-club-de-go-2/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/dans-un-club-de-go-2/"/>
     <updated>2012-08-10T18:20:00+02:00</updated>
-    <id>http://zenigata.fr/dans-un-club-de-go-2</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/dans-un-club-de-go-2</id>
     <content type="html"><![CDATA[<p>Je laisse là ces palabres sans fin pour rejoindre une table plus calme où la discussion est posée, agréable, presque charmante.<!--more--> L'un parle de la beauté du jeu, l'autre de la nostalgie de temps meilleurs. L'un encense les formes que son jeu produit, l'autre évoque ses faits de guerre emplis de fumée et de bière. L'un cite <em>L'Âme du go</em> pendant que l'autre se remémore Maître Lim. Tous les deux, l'<strong>artiste</strong> et l'<strong>ancêtre</strong>, sont unanimes à parler de l'histoire des parties de go, des batailles de cent ans, des pactes de non-agression, des trahisons soudaines, des invasions barbares, des duels ensanglantés, des partages à l'amiable...<br/>
 <em>Conseil : prévoyez des soirées complètes car plus c'est bon, plus c'est long...</em></p>
 
@@ -95,9 +95,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dans un club de go (1/2)]]></title>
-    <link href="http://zenigata.fr/dans-un-club-de-go/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/dans-un-club-de-go/"/>
     <updated>2012-08-10T18:00:00+02:00</updated>
-    <id>http://zenigata.fr/dans-un-club-de-go</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/dans-un-club-de-go</id>
     <content type="html"><![CDATA[<p><em>Dans un <strong>club de go</strong> on joue, on discute, on rigole, on boit un coup.<br/>
 On fait surtout la rencontre de joueurs de tous horizons, petits et grands, qui forment des compagnons pour une vie de passions. Mais c'est avant tout un mélange de fortes personnalités, d'attitudes et d'émotions.</em></p>
 
@@ -121,9 +121,9 @@ On fait surtout la rencontre de joueurs de tous horizons, petits et grands, qui 
   
   <entry>
     <title type="html"><![CDATA[WAGC 2012]]></title>
-    <link href="http://zenigata.fr/wagc-2012/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/wagc-2012/"/>
     <updated>2012-05-15T17:00:00+02:00</updated>
-    <id>http://zenigata.fr/wagc-2012</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/wagc-2012</id>
     <content type="html"><![CDATA[<p>C’est parti pour la <a href="http://www.nihonkiin.or.jp/amakisen/worldama/33/e/index.html">33e édition</a> des championnats du monde amateur de jeu de go !</p>
 
 <p>Cette année les 55 représentants nationaux s'affrontent à Guangzhou (Chine) du 13 au 16 mai. Pour la France c’est Rémi Campagnie (18 ans) qui s'y colle malgré sa défaite en <a href="http://dijon.go.free.fr/4eme_tour_2011/presentation.htm">finale du championnat de France</a> face à Thomas Debarre (19 ans). Mais comme ce dernier fut déjà de la partie en 2011 (avec une exceptionnelle <a href="http://www.nihonkiin.or.jp/amakisen/worldama/32/e/result.html">4e place</a> mondiale, égalant le classement de Bernard Helmstetter de <a href="http://www.nihonkiin.or.jp/amakisen/worldama/25/gameresult-e.htm">2004</a>), j’imagine qu’il a laissé sa place à son cadet.</p>

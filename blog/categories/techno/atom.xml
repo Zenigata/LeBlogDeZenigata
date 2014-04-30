@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : techno | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/techno/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/techno/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Veille technique]]></title>
-    <link href="http://zenigata.fr/veille-technique/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/veille-technique/"/>
     <updated>2013-09-02T12:00:00+02:00</updated>
-    <id>http://zenigata.fr/veille-technique</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/veille-technique</id>
     <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
 problème suivant&nbsp;:&nbsp;je n'arrive pas à organiser mes marque-pages.</p>
 
@@ -66,9 +66,9 @@ depuis un espace public par exemple.</p>
   
   <entry>
     <title type="html"><![CDATA[Le français facile]]></title>
-    <link href="http://zenigata.fr/le-francais-facile/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile/"/>
     <updated>2013-03-12T11:40:00+01:00</updated>
-    <id>http://zenigata.fr/le-francais-facile</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile</id>
     <content type="html"><![CDATA[<p>Vous aimez le français ? Vous savez, cette langue dotée de règles tortueuses, d'une grammaire complexe mais emplie d'une beauté rationnelle agrémentée d'exceptions exotiques ? Moi je suis fan. Et je veux pouvoir accéder aux caractères <strong>Ç</strong> et <strong>œ</strong> avec n'importe quel clavier, sur n'importe quel système d'exploitation, sans me casser la tête.<br/>
 En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-des-doigts">bépo</a>, j'ai mis en ligne un <em>mémo</em> pour me dépanner en toute occasion. Je vous présente donc <a href="http://typo.zenigata.fr">le français facile</a>, site rapidement réalisé grâce à <a href="http://jekyllbootstrap.com/">Jekyll-Bootstrap</a>.</p>
 
@@ -78,9 +78,9 @@ En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-
   
   <entry>
     <title type="html"><![CDATA[Le graphisme d'information]]></title>
-    <link href="http://zenigata.fr/le-graphisme-dinformation/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/le-graphisme-dinformation/"/>
     <updated>2012-10-10T11:00:00+02:00</updated>
-    <id>http://zenigata.fr/le-graphisme-dinformation</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/le-graphisme-dinformation</id>
     <content type="html"><![CDATA[<p>À l'aube d'un changement de paradigme, que dis-je, d'une explosion démographique, je me fais le chantre de la première de mes vies qui s'achève. À cette occasion je vous propose un <a href="http://fr.wikipedia.org/wiki/Graphisme_d%27information">graphisme d'information</a>, ou <em>infographic</em> en anglais, comme on peut en voir <a href="http://www.ufunk.net/insolite/sex-toys-infography/">çà</a> et <a href="http://theoatmeal.com/comics/cats_actually_kill">là</a>.</p>
 
 <!--more-->
@@ -95,9 +95,9 @@ En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-
   
   <entry>
     <title type="html"><![CDATA[Je crée le site de mon club]]></title>
-    <link href="http://zenigata.fr/je-cree-le-site-de-mon-club/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-cree-le-site-de-mon-club/"/>
     <updated>2012-09-03T10:30:00+02:00</updated>
-    <id>http://zenigata.fr/je-cree-le-site-de-mon-club</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-cree-le-site-de-mon-club</id>
     <content type="html"><![CDATA[<p><em>Bonjour Monsieur B.<br/>
 Votre mission, si toutefois vous l'acceptez, est de réaliser le site de votre club pour la rentrée.</em></p>
 
@@ -162,9 +162,9 @@ Pour les images dont j'ai besoin j'essaie d'utiliser au maximum les <a href="htt
   
   <entry>
     <title type="html"><![CDATA[Mon premier livre numérique]]></title>
-    <link href="http://zenigata.fr/mon-premier-livre-numerique/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/mon-premier-livre-numerique/"/>
     <updated>2012-08-08T18:10:00+02:00</updated>
-    <id>http://zenigata.fr/mon-premier-livre-numerique</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/mon-premier-livre-numerique</id>
     <content type="html"><![CDATA[<p>Qu'entend-on par <a href="http://fr.wikipedia.org/wiki/Livre_num%C3%A9rique">livre numérique</a> ?<br/>
 Certainement beaucoup de choses ! rien qu'au niveau des formats disponibles : <em>.txt</em>, <em>.html</em> ou <em>.pdf</em> pour n'en citer que quelques-uns. Et bien je vais vous montrer comment réaliser votre premier&nbsp;<em><a href="http://fr.wikipedia.org/wiki/EPUB_(format)">.epub</a></em>. Ce format ouvert et standardisé tend à s'imposer. Vous pouvez par exemple en récupérer plein de gratuits au sein du <a href="http://www.gutenberg.org/wiki/FR_Principal">Projet Gutenberg</a>.</p>
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : bon plan | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/bon-plan/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/bon-plan/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Le français facile]]></title>
-    <link href="http://zenigata.fr/le-francais-facile/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile/"/>
     <updated>2013-03-12T11:40:00+01:00</updated>
-    <id>http://zenigata.fr/le-francais-facile</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile</id>
     <content type="html"><![CDATA[<p>Vous aimez le français ? Vous savez, cette langue dotée de règles tortueuses, d'une grammaire complexe mais emplie d'une beauté rationnelle agrémentée d'exceptions exotiques ? Moi je suis fan. Et je veux pouvoir accéder aux caractères <strong>Ç</strong> et <strong>œ</strong> avec n'importe quel clavier, sur n'importe quel système d'exploitation, sans me casser la tête.<br/>
 En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-des-doigts">bépo</a>, j'ai mis en ligne un <em>mémo</em> pour me dépanner en toute occasion. Je vous présente donc <a href="http://typo.zenigata.fr">le français facile</a>, site rapidement réalisé grâce à <a href="http://jekyllbootstrap.com/">Jekyll-Bootstrap</a>.</p>
 
@@ -27,9 +27,9 @@ En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-
   
   <entry>
     <title type="html"><![CDATA[Soldes tout compte]]></title>
-    <link href="http://zenigata.fr/soldes-tout-compte/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/soldes-tout-compte/"/>
     <updated>2012-01-11T15:53:00+01:00</updated>
-    <id>http://zenigata.fr/soldes-tout-compte</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/soldes-tout-compte</id>
     <content type="html"><![CDATA[<p><em>Kyaaaaaaaaaahhhhh !</em><br/>
 Oui. Les <strong>soldes</strong> sont là.</p>
 

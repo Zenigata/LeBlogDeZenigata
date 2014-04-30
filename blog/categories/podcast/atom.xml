@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : podcast | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/podcast/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/podcast/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Peau de cast]]></title>
-    <link href="http://zenigata.fr/peau-de-cast/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/peau-de-cast/"/>
     <updated>2014-01-04T12:00:00+01:00</updated>
-    <id>http://zenigata.fr/peau-de-cast</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/peau-de-cast</id>
     <content type="html"><![CDATA[<p>Et si votre résolution 2014 c'était d'écouter plus d'émissions de qualité&nbsp;?</p>
 
 <!--more-->
@@ -89,9 +89,9 @@ RIP Winamp, bonjour <a href="http://www.foobar2000.org/">foobar2000</a>&nbsp;!</
   
   <entry>
     <title type="html"><![CDATA[L'été touche à sa faim]]></title>
-    <link href="http://zenigata.fr/lete-touche-a-sa-faim/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/lete-touche-a-sa-faim/"/>
     <updated>2013-09-03T13:30:00+02:00</updated>
-    <id>http://zenigata.fr/lete-touche-a-sa-faim</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/lete-touche-a-sa-faim</id>
     <content type="html"><![CDATA[<p>Entre plage abandonnée et chant des grillons, quand l'éphémère ne dure qu'un jour, ces podcasts-ci n'ont fleuri qu'un été.</p>
 
 <!--more-->
@@ -137,9 +137,9 @@ La <a href="https://docs.google.com/spreadsheet/ccc?key=0AuNsvDqymweIdGVkZklldUw
   
   <entry>
     <title type="html"><![CDATA[La petite lucarne]]></title>
-    <link href="http://zenigata.fr/la-petite-lucarne/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/la-petite-lucarne/"/>
     <updated>2013-08-06T18:00:00+02:00</updated>
-    <id>http://zenigata.fr/la-petite-lucarne</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/la-petite-lucarne</id>
     <content type="html"><![CDATA[<p><em>Malgré la</em> TNT <em>et l'offre pléthorique des différents bouquets, on est nombreux à délaisser le petit écran --
 cet outil de propagande et de contrôle de la population dont les grands groupes se partagent l'audience.
 Pourtant tout n'est pas à jeter. Entre les spots de publicité insupportables, je regarde tout de même quelques émissions.</em></p>
@@ -195,9 +195,9 @@ Pourtant tout n'est pas à jeter. Entre les spots de publicité insupportables, 
   
   <entry>
     <title type="html"><![CDATA[Fin de saison]]></title>
-    <link href="http://zenigata.fr/fin-de-saison/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/fin-de-saison/"/>
     <updated>2013-07-06T23:30:00+02:00</updated>
-    <id>http://zenigata.fr/fin-de-saison</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/fin-de-saison</id>
     <content type="html"><![CDATA[<p>La saison 2012-2013 s'achève. Des émissions culturelles cultes <a href="http://www.lemonde.fr/culture/article/2013/06/02/mobilisation-sur-le-net-contre-l-arret-de-taratata-et-des-mots-de-minuit_3422569_3246.html">s'éteignent</a>,
 Michel Denisot <a href="http://www.ladepeche.fr/article/2013/06/28/1660915-derniere-drole-emouvante-michel-denisot-grand-journal.html">s'en va</a>,
 Roger Fédérer <a href="http://www.lemonde.fr/sport/article/2013/06/26/roger-federer-elimine-de-wimbledon-par-le-116e-joueur-mondial_3437244_3242.html">perd</a>. Fin d'une époque.
@@ -410,9 +410,9 @@ var myPie = new Chart(document.getElementById("canvas-02").getContext("2d")).Pie
   
   <entry>
     <title type="html"><![CDATA[Baladodiffusion printanière]]></title>
-    <link href="http://zenigata.fr/baladodiffusion-printaniere/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/baladodiffusion-printaniere/"/>
     <updated>2013-04-26T11:10:00+02:00</updated>
-    <id>http://zenigata.fr/baladodiffusion-printaniere</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/baladodiffusion-printaniere</id>
     <content type="html"><![CDATA[<p>La chaleur est là, les marronniers aussi.
 Afin de vous installer confortablement au centre d'un espace vert, un livre à la main, il vous faudra affronter les transports ou la rue, l'attente ou le bruit.
 Protégez et enchantez vos oreilles avec ces dix nouveaux podcasts.</p>

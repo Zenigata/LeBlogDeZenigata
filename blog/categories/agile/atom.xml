@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : agile | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/agile/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/agile/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Stop starting and start finishing]]></title>
-    <link href="http://zenigata.fr/stop-starting-and-start-finishing/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/stop-starting-and-start-finishing/"/>
     <updated>2014-02-17T14:00:00+01:00</updated>
-    <id>http://zenigata.fr/stop-starting-and-start-finishing</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/stop-starting-and-start-finishing</id>
     <content type="html"><![CDATA[<p>Trente minutes de présentation sur la méthode <em>Lean Kanban</em>. <em>Challenge accepted!</em></p>
 
 <!--more-->
@@ -25,7 +25,7 @@
 
 
 
-<iframe src="http://zenigata.fr//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://Zenigata.github.io/LeBlogDeZenigata//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 <p>Maintenant je vais vous faire un tour d’horizon de cette fameuse méthode. Par contre, soyez indulgents,
@@ -130,9 +130,9 @@ qui vise à optimiser la production de valeur et à minimiser le gaspillage, le 
   
   <entry>
     <title type="html"><![CDATA[Un kanban peut en cacher un autre]]></title>
-    <link href="http://zenigata.fr/un-kanban-peut-en-cacher-un-autre/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/un-kanban-peut-en-cacher-un-autre/"/>
     <updated>2013-09-28T11:30:00+02:00</updated>
-    <id>http://zenigata.fr/un-kanban-peut-en-cacher-un-autre</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/un-kanban-peut-en-cacher-un-autre</id>
     <content type="html"><![CDATA[<p><em>Ce matin, après l’habituel daily meeting&nbsp;:</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
 
 <!--more-->
@@ -174,9 +174,9 @@ qui vise à optimiser la production de valeur et à minimiser le gaspillage, le 
   
   <entry>
     <title type="html"><![CDATA[Veille technique]]></title>
-    <link href="http://zenigata.fr/veille-technique/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/veille-technique/"/>
     <updated>2013-09-02T12:00:00+02:00</updated>
-    <id>http://zenigata.fr/veille-technique</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/veille-technique</id>
     <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
 problème suivant&nbsp;:&nbsp;je n'arrive pas à organiser mes marque-pages.</p>
 
@@ -225,9 +225,9 @@ depuis un espace public par exemple.</p>
   
   <entry>
     <title type="html"><![CDATA[Casser la croûte]]></title>
-    <link href="http://zenigata.fr/casser-la-croute/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/casser-la-croute/"/>
     <updated>2013-06-27T18:10:00+02:00</updated>
-    <id>http://zenigata.fr/casser-la-croute</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/casser-la-croute</id>
     <content type="html"><![CDATA[<p>Appelez-la comme vous voulez --&nbsp;<em>Midi techniques</em>, <em>12@13</em> ou <em><a href="http://www.brownbaglunch.fr/">Brown Bag Lunch</a></em>&nbsp;--
 mais la mise à profit de la pause déjeuner pour échanger sur un sujet précis me tient particulièrement à cœur.
 Prenez votre sandwich, ramenez vos collègues et c'est parti pour une heure informelle de partage.</p>
@@ -245,7 +245,7 @@ atelier divers, sortie photo, instant jeux de société, live coding, etc.</p>
 <p>Aujourd'hui la maturité du langage <em>JavaScript</em> est impressionnante et il n'est plus raisonnable de faire du <em>inline</em>,
 de se passer de tests unitaires, ou de polluer l'espace de nommage. On est en 2013 mec.</p>
 
-<script async class="speakerdeck-embed" data-id="0ccc2980c16b013094e942d55316ac74" data-ratio="1.33333333333333" src="http://zenigata.fr//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="0ccc2980c16b013094e942d55316ac74" data-ratio="1.33333333333333" src="http://Zenigata.github.io/LeBlogDeZenigata//speakerdeck.com/assets/embed.js"></script>
 
 
 <h2>Les méthodes agiles</h2>
@@ -261,9 +261,9 @@ de se passer de tests unitaires, ou de polluer l'espace de nommage. On est en 20
   
   <entry>
     <title type="html"><![CDATA[Cher Scrum Day 2013]]></title>
-    <link href="http://zenigata.fr/cher-scrum-day-2013/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/cher-scrum-day-2013/"/>
     <updated>2013-04-19T11:30:00+02:00</updated>
-    <id>http://zenigata.fr/cher-scrum-day-2013</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/cher-scrum-day-2013</id>
     <content type="html"><![CDATA[<p>Cher <a href="http://www.scrumday.fr/">Scrum Day</a>,</p>
 
 <p>je t'attendais, je t'espérais. Tu m'as accueilli à bras ouverts. Notre rencontre était inévitable ou –&nbsp;pour parodier d'illustres inconnus&nbsp;– je dirai même que notre rencontre c'était fatal.</p>

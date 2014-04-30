@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : my life | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/my-life/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/my-life/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Halte hivernale]]></title>
-    <link href="http://zenigata.fr/halte-hivernale/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/halte-hivernale/"/>
     <updated>2014-01-15T14:00:00+01:00</updated>
-    <id>http://zenigata.fr/halte-hivernale</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/halte-hivernale</id>
     <content type="html"><![CDATA[<p>L'actualité du moment, c'est dans le flash info.<br/>
 ♪♫ jingle ♪♫</p>
 
@@ -51,9 +51,9 @@ D'ailleurs cette saison nous participons au challenge Île-de-France qui réunit
   
   <entry>
     <title type="html"><![CDATA[Temps mort]]></title>
-    <link href="http://zenigata.fr/temps-mort/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/temps-mort/"/>
     <updated>2013-05-29T17:45:00+02:00</updated>
-    <id>http://zenigata.fr/temps-mort</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/temps-mort</id>
     <content type="html"><![CDATA[<p>L'actualité du moment, c'est dans le flash info.<br/>
 ♪♫ jingle ♪♫</p>
 
@@ -87,9 +87,9 @@ D'ailleurs cette saison nous participons au challenge Île-de-France qui réunit
   
   <entry>
     <title type="html"><![CDATA[Aden]]></title>
-    <link href="http://zenigata.fr/aden/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/aden/"/>
     <updated>2013-04-20T13:20:00+02:00</updated>
-    <id>http://zenigata.fr/aden</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/aden</id>
     <content type="html"><![CDATA[<p>Merci pour ces années qui m'ont vu mûrir professionnellement parlant, merci pour ce deuxième foyer qui me manquera. Cher <a href="http://www.figaroclassifieds.fr/"><em>Figaro CMS</em></a>, anciennement <em>AdenClassifieds</em>, je te souhaite bonne route&nbsp;!<br/>
 En prime ci-joints les derniers mots de <em>jbonneau@figarocms.fr</em>.</p>
 
@@ -118,9 +118,9 @@ En prime ci-joints les derniers mots de <em>jbonneau@figarocms.fr</em>.</p>
   
   <entry>
     <title type="html"><![CDATA[51<sup>e</sup> État]]></title>
-    <link href="http://zenigata.fr/51e-etat/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/51e-etat/"/>
     <updated>2013-01-07T11:30:00+01:00</updated>
-    <id>http://zenigata.fr/51e-etat</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/51e-etat</id>
     <content type="html"><![CDATA[<p>À la création de ce blog, il y a tout juste un an, je m'imposai un rythme d'un article par semaine. Fêtons le 51<sup>e</sup> en vidéo !</p>
 
 <!--more-->
@@ -137,9 +137,9 @@ En prime ci-joints les derniers mots de <em>jbonneau@figarocms.fr</em>.</p>
   
   <entry>
     <title type="html"><![CDATA[Mes 10 commandements]]></title>
-    <link href="http://zenigata.fr/mes-10-commandements/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/mes-10-commandements/"/>
     <updated>2012-11-27T18:15:00+01:00</updated>
-    <id>http://zenigata.fr/mes-10-commandements</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/mes-10-commandements</id>
     <content type="html"><![CDATA[<ol>
 <li>Tu ne couperas pas la parole.</li>
 <li>Tu éviteras toute tâche administrative.</li>

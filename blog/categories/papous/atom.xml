@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : papous | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/papous/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/papous/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[La périphrase de trop]]></title>
-    <link href="http://zenigata.fr/la-periphrase-de-trop/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/la-periphrase-de-trop/"/>
     <updated>2012-11-16T17:35:00+01:00</updated>
-    <id>http://zenigata.fr/la-periphrase-de-trop</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/la-periphrase-de-trop</id>
     <content type="html"><![CDATA[<p><em>Pourquoi faire simple quand on peut faire compliqué ?</em></p>
 
 <p>Principe du <a href="http://www.franceculture.fr/tags/periphrases">jeu</a> : une personne choisit une phrase à faire deviner à un joueur. Cependant, ladite phrase est auparavant altérée par des joueurs intermédiaires dont l'action est de <strong>transformer successivement trois substantifs en périphrases</strong>. À la fin le joueur reçoit une phrase alambiquée mêlant circonvolutions et définitions poétiques qu'il doit raccourcir en espérant retrouver la phrase initiale. Essayons.</p>
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Première cérémonie des Podcars]]></title>
-    <link href="http://zenigata.fr/premiere-ceremonie-des-podcars/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/premiere-ceremonie-des-podcars/"/>
     <updated>2012-06-11T12:00:00+02:00</updated>
-    <id>http://zenigata.fr/premiere-ceremonie-des-podcars</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/premiere-ceremonie-des-podcars</id>
     <content type="html"><![CDATA[<p>Bienvenue à tous pour cette première cérémonie des podcars<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> !<br/>
 Dans la jungle actuelle des <strong>podcasts</strong> j'ai réalisé pour vous une sélection personnelle.</p>
 
@@ -298,9 +298,9 @@ Dans la jungle actuelle des <strong>podcasts</strong> j'ai réalisé pour vous u
   
   <entry>
     <title type="html"><![CDATA[Le boustrophédon dans l'Antiquité]]></title>
-    <link href="http://zenigata.fr/le-boustrophedon-dans-lantiquite/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/le-boustrophedon-dans-lantiquite/"/>
     <updated>2012-04-25T18:40:00+02:00</updated>
-    <id>http://zenigata.fr/le-boustrophedon-dans-lantiquite</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/le-boustrophedon-dans-lantiquite</id>
     <content type="html"><![CDATA[<p>Première entrée dans mon <strong>DiXIt</strong> (<strong>DI</strong>ctionnaire e<strong>X</strong>traordinaire <strong>IT</strong>ératif), voici le <a href="http://fr.wikipedia.org/wiki/Boustroph%C3%A9don">boustrophédon</a>&nbsp;:<br/>
 <em>mode d'écriture qui consiste à tracer les lignes alternativement de gauche à droite et de droite à gauche.</em></p>
 

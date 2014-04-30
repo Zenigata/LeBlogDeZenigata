@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : compil | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/compil/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/compil/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[20 listes d'œuvres]]></title>
-    <link href="http://zenigata.fr/20-listes-doeuvres/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres/"/>
     <updated>2014-02-16T13:00:00+01:00</updated>
-    <id>http://zenigata.fr/20-listes-doeuvres</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres</id>
     <content type="html"><![CDATA[<p><em>Aujourd'hui je vous propose vingt listes subjectives regroupées en cinq thèmes approximatifs, le tout sponsorisé par mon réseau social préféré.</em></p>
 
 <!--more-->
@@ -77,9 +77,9 @@
   
   <entry>
     <title type="html"><![CDATA[20 génériques jeunesse français]]></title>
-    <link href="http://zenigata.fr/20-generiques-jeunesse-francais/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-generiques-jeunesse-francais/"/>
     <updated>2013-09-06T15:30:00+02:00</updated>
-    <id>http://zenigata.fr/20-generiques-jeunesse-francais</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-generiques-jeunesse-francais</id>
     <content type="html"><![CDATA[<p>L'imagination au pouvoir.<br/>
 Voici ma sélection de ces génériques qu'on chante parfois à tue-tête (de toute la force de notre voix) et qui datent d'une époque insouciante et révolue.
 Je me souviens notamment de ces moments où je vendais des fruits de <a href="http://fr.wikipedia.org/wiki/Dialium_guineense">tamarinier noir</a> avec mes frère et sœur. Mais je m'égare.
@@ -118,9 +118,9 @@ Je me souviens notamment de ces moments où je vendais des fruits de <a href="ht
   
   <entry>
     <title type="html"><![CDATA[20 jeux gratuits]]></title>
-    <link href="http://zenigata.fr/20-jeux-gratuits/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-jeux-gratuits/"/>
     <updated>2013-07-12T12:00:00+02:00</updated>
-    <id>http://zenigata.fr/20-jeux-gratuits</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-jeux-gratuits</id>
     <content type="html"><![CDATA[<p>Les journées d'été sont longues. Pourquoi ne pas en profiter pour vous éclater sur ces excellents jeux gratuits à tout moment de la journée&nbsp;?
 Pour ceux qui en demandent toujours plus, allez donc suivre les <a href="http://www.ecrans.fr/-chronophages-.html">chronophages du jour</a> de <em>Camille</em>
 ou <a href="http://oujevipo.fr/">l'Oujevipo</a> de <em>Pierrec</em>.</p>
@@ -164,9 +164,9 @@ ou <a href="http://oujevipo.fr/">l'Oujevipo</a> de <em>Pierrec</em>.</p>
   
   <entry>
     <title type="html"><![CDATA[20 blogs BD]]></title>
-    <link href="http://zenigata.fr/20-blogs-bd/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-blogs-bd/"/>
     <updated>2013-04-30T16:15:00+02:00</updated>
-    <id>http://zenigata.fr/20-blogs-bd</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-blogs-bd</id>
     <content type="html"><![CDATA[<p>Parce qu'un plaisir quotidien -- même solitaire -- ne se refuse pas.<br/>
 Parce qu'être créatif, drôle et gratuit mérite d'être partagé.<br/>
 Parce qu'il faut malheureusement en faire une sélection.<br/>
@@ -211,9 +211,9 @@ Voici 20 blogs de bande dessinée.</p>
   
   <entry>
     <title type="html"><![CDATA[20 romans de SF]]></title>
-    <link href="http://zenigata.fr/20-romans-de-sf/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-romans-de-sf/"/>
     <updated>2013-03-13T10:40:00+01:00</updated>
-    <id>http://zenigata.fr/20-romans-de-sf</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-romans-de-sf</id>
     <content type="html"><![CDATA[<p>Le genre narratif de la science-fiction me frappe de plein fouet. J'en prends plein la gueule, j'encaisse. Et je kiffe.</p>
 
 <!--more-->

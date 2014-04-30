@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : code | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/code/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/code/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Git c'est vachement bien]]></title>
-    <link href="http://zenigata.fr/git-cest-vachement-bien/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/git-cest-vachement-bien/"/>
     <updated>2013-10-01T11:30:00+02:00</updated>
-    <id>http://zenigata.fr/git-cest-vachement-bien</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/git-cest-vachement-bien</id>
     <content type="html"><![CDATA[<p>Mon dernier BBL vise à introduire Git et à donner les moyens de s'y mettre à ceux qui ne connaissent que SVN.
 En attendant une seconde partie plus technique...</p>
 
@@ -31,9 +31,9 @@ En attendant une seconde partie plus technique...</p>
   
   <entry>
     <title type="html"><![CDATA[La voix du développeur]]></title>
-    <link href="http://zenigata.fr/la-voix-du-developpeur/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/la-voix-du-developpeur/"/>
     <updated>2013-04-17T16:00:00+02:00</updated>
-    <id>http://zenigata.fr/la-voix-du-developpeur</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/la-voix-du-developpeur</id>
     <content type="html"><![CDATA[<p><em>We are developers. We are creators. We are prima donna’s.</em></p>
 
 <p>À <a href="http://storify.com/zenigata/devoxx-france-2013">Devoxx France 2013</a> je suis venu apprendre, échanger, discuter et coder. Coder en continu, en paix. Je ne suis pas un géant mais j'ai un secret : je suis un développeur. <em>I am a developer. I am a creator. I am a prima donna.</em></p>
@@ -55,9 +55,9 @@ En attendant une seconde partie plus technique...</p>
   
   <entry>
     <title type="html"><![CDATA[XML, JSON et YAML sont sur un bateau]]></title>
-    <link href="http://zenigata.fr/xml/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/xml/"/>
     <updated>2012-05-16T17:00:00+02:00</updated>
-    <id>http://zenigata.fr/xml</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/xml</id>
     <content type="html"><![CDATA[<p>Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d'application. Connaissez-vous le très explicite YAML ?</p>
 
 <h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : oueb | Zenigata]]></title>
-  <link href="http://zenigata.fr/blog/categories/oueb/atom.xml" rel="self"/>
-  <link href="http://zenigata.fr/"/>
-  <updated>2014-04-26T16:43:47+02:00</updated>
-  <id>http://zenigata.fr/</id>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/oueb/atom.xml" rel="self"/>
+  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
+  <updated>2014-04-30T18:48:00+02:00</updated>
+  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -14,10 +14,72 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Tortues d'April]]></title>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/tortues-dapril/"/>
+    <updated>2014-04-30T19:00:00+02:00</updated>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/tortues-dapril</id>
+    <content type="html"><![CDATA[<p>Le 1<sup>er</sup>avril fut une belle journée pour aller surfer et tendre ses filets sur les Internets. Quels poissons ai-je donc attrapé et retenu pour cette moisson 2014&nbsp;?</p>
+
+<!--more-->
+
+
+<h2>1. Pokémon Challenge</h2>
+
+<p>C'est encore Google en tête de ce classement avec sa géante <a href="https://www.youtube.com/watch?v=4YMD6xELI_k">chasse aux pokémons</a> sur Google Maps. Attrapez-les tous&nbsp;!</p>
+
+<h2>2. Facebook</h2>
+
+<p>Le poisson pas frais du jour est estampillé Facebook. Suite aux rachats médiatiques de ces derniers mois, la mode de ce 1<sup>er</sup>avril a été d'en inventer d'autres. Citons les cas de <a href="http://gusandco.net/2014/04/01/facebook-rachete-le-site-americain-boardgamegeek/">BoardGameGeek</a> et
+de <a href="http://www.lesnumeriques.com/facebook-rachete-leica-pour-1-4-milliard-euros-n33811.html">Leica</a>.
+Mais également celui de <a href="http://minecraft.fr/facebook-rachete-mojang/">Mojang</a> qui ironiquement proposait carrément une version spéciale de Minecraft intitulée <a href="http://minecraft.fr/snapshot-facebook-404/">Facebook 404</a>.</p>
+
+<h2>3. Objets connectés</h2>
+
+<p>C'est le thème fort du moment et sans doute la future poule aux oeufs d'or. En attendant, <a href="http://www.clubic.com/technologies-d-avenir/article-693200-1-led-move.html">Clubic</a> ôse le risible, et <a href="http://www.htc.com/www/go/gluuv/">HTC</a> la moquerie pure et simple. Mais c'est <a href="http://global.samsungtomorrow.com/?p=35430">Samsung</a> qui s'est le plus creusé les méninges.</p>
+
+<h2>4. Super Nintendo</h2>
+
+<p>Et si la meilleure <a href="http://www.lesnumeriques.com/console-de-jeu/nintendo-super-nintendo-p20122/test.html">console de jeu vidéo</a> sortait aujourd'hui&nbsp;?</p>
+
+<h2>5. Flow Hard</h2>
+
+<p>Phénomène parodique classique, la déclinaison du numérique au physique fait toujours sourire. Exemple avec <a href="http://www.swiftkey.net/en/blog/untap-your-potential-with-swiftkey-flow-hard/">SwiftKey</a>.</p>
+
+<h2>6. Orange ta chambre</h2>
+
+<p>La réalité augmentée est déjà là, et les dérives qui vont avec. Belle démonstration par le <a href="http://api.dmcloud.net/player/pubpage/4caed016f325e179f0000001/533ae0ca94a6f60e30d15d64/f2c5a081facb432ca6d6d1f44aa44a1d?wmode=transparent">collectif Orange</a>.</p>
+
+<h2>7. Total Temperature Control</h2>
+
+<p>Pour un <a href="https://www.youtube.com/watch?v=zocNCBXHVQo">confort accru</a> en avion, un rêve devenu réalité. Ou pas.</p>
+
+<h2>8. Blizzard</h2>
+
+<p>Hearthstone est déjà dépassé, Blizzard annonce <a href="http://eu.blizzard.com/fr-fr/games/outcasts/">Outcasts</a>. Tenté&nbsp;?</p>
+
+<h2>9. Eidolon</h2>
+
+<p>Voici un mix des concepts précédents servi par une belle réalisation, par <a href="http://www.razerzone.com/eidolon">Razer</a>.</p>
+
+<h2>10. 3310</h2>
+
+<p>Nokia l'a fait : retour du <a href="http://conversations.nokia.com/2014/04/01/nokia-3310-gets-41-megapixel-windows-phone-makeover/">3310</a> en <em>Windows phone</em>. Il fallait oser.</p>
+
+<h2>Bonus 1 - Paired Ends Genomics</h2>
+
+<p>Quand le copier-coller s'immisce dans la bioinformatique. <a href="http://pairedends.com/">Joli travail</a>&nbsp;!</p>
+
+<h2>Bonus 2 - Science</h2>
+
+<p>Un <a href="http://www.drgoulu.com/2014/04/01/poisson-davril-ou-pas/">quizz</a> à propos de vrais poissons que je vous recommande chaudement. <em>It's science bitch.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[20 listes d'œuvres]]></title>
-    <link href="http://zenigata.fr/20-listes-doeuvres/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres/"/>
     <updated>2014-02-16T13:00:00+01:00</updated>
-    <id>http://zenigata.fr/20-listes-doeuvres</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres</id>
     <content type="html"><![CDATA[<p><em>Aujourd'hui je vous propose vingt listes subjectives regroupées en cinq thèmes approximatifs, le tout sponsorisé par mon réseau social préféré.</em></p>
 
 <!--more-->
@@ -77,9 +139,9 @@
   
   <entry>
     <title type="html"><![CDATA[Veille technique]]></title>
-    <link href="http://zenigata.fr/veille-technique/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/veille-technique/"/>
     <updated>2013-09-02T12:00:00+02:00</updated>
-    <id>http://zenigata.fr/veille-technique</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/veille-technique</id>
     <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
 problème suivant&nbsp;:&nbsp;je n'arrive pas à organiser mes marque-pages.</p>
 
@@ -128,9 +190,9 @@ depuis un espace public par exemple.</p>
   
   <entry>
     <title type="html"><![CDATA[Revue de oueb]]></title>
-    <link href="http://zenigata.fr/revue-de-oueb/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/revue-de-oueb/"/>
     <updated>2013-04-18T10:30:00+02:00</updated>
-    <id>http://zenigata.fr/revue-de-oueb</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/revue-de-oueb</id>
     <content type="html"><![CDATA[<p>En avril, ne découvre pas ton poisson d'un fil mais accroche-le. Dix farceurs se prêtent au jeu pour cette édition 2013. Compromis, chose due.</p>
 
 <!--more-->
@@ -187,24 +249,13 @@ Le <a href="https://mail.google.com/mail/help/intl/en/promos/blue/index.html">de
   
   <entry>
     <title type="html"><![CDATA[Le français facile]]></title>
-    <link href="http://zenigata.fr/le-francais-facile/"/>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile/"/>
     <updated>2013-03-12T11:40:00+01:00</updated>
-    <id>http://zenigata.fr/le-francais-facile</id>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile</id>
     <content type="html"><![CDATA[<p>Vous aimez le français ? Vous savez, cette langue dotée de règles tortueuses, d'une grammaire complexe mais emplie d'une beauté rationnelle agrémentée d'exceptions exotiques ? Moi je suis fan. Et je veux pouvoir accéder aux caractères <strong>Ç</strong> et <strong>œ</strong> avec n'importe quel clavier, sur n'importe quel système d'exploitation, sans me casser la tête.<br/>
 En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-des-doigts">bépo</a>, j'ai mis en ligne un <em>mémo</em> pour me dépanner en toute occasion. Je vous présente donc <a href="http://typo.zenigata.fr">le français facile</a>, site rapidement réalisé grâce à <a href="http://jekyllbootstrap.com/">Jekyll-Bootstrap</a>.</p>
 
 <p>Si ça m'est utile, ça peut vous rendre service. Utilisez-le !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Migration domaniale]]></title>
-    <link href="http://zenigata.fr/migration-domaniale/"/>
-    <updated>2013-03-08T17:00:00+01:00</updated>
-    <id>http://zenigata.fr/migration-domaniale</id>
-    <content type="html"><![CDATA[<p>Aujourd'hui c'est le grand ménage de printemps : le nom de domaine du blog change, ainsi que l'hébergeur (<em>GitHub</em>). Je désactiverai <a href="http://zenigata.heroku.com">zenigata.heroku.com</a> assez rapidement. Pensez donc à basculer vers la nouvelle adresse : <a href="http://zenigata.fr">zenigata.fr</a>.</p>
-
-<p>C'est parti pour le grand envol migratoire vers des cieux – je l'espère – plus peuplés !</p>
 ]]></content>
   </entry>
   
