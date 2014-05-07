@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/atom.xml" rel="self"/>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-05-06T12:38:58+02:00</updated>
+  <updated>2014-05-07T12:46:45+02:00</updated>
   <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Les promotions de la semaine]]></title>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/les-promotions-de-la-semaine/"/>
+    <updated>2014-05-07T13:00:00+02:00</updated>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/les-promotions-de-la-semaine</id>
+    <content type="html"><![CDATA[<p>Nous allons opérer une courte pause dans nos programmes avec cette page de réclames.</p>
+
+<!--more-->
+
+
+<hr />
+
+<h3>Pair programming</h3>
+
+<p>Vous trouvez que le <a href="http://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html">TDD</a> c’est chiant&nbsp;?</p>
+
+<p>Ayez le réflexe <em>pair programming</em>&nbsp;! Codez en binôme sur le même poste. Effets garantis&nbsp;: qualité accrue du code avec revue en temps réel, remue-méninges en <em>live</em>, fatigue alternée et donc mieux répartie, apprentissage et diffusion du savoir technique et fonctionnel, meilleure communication et entente dans l’équipe, et du fun&nbsp;! Tout ça pour une dépense de temps mineure (scientifiquement prouvé). Alors n’attendez plus.</p>
+
+<p>Le <em>pair programming</em>, l’essayer c’est l’adopter&nbsp;!</p>
+
+<p>Message de nos experts <a href="http://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF">Alistair Cockburn et Laurie Williams</a>&nbsp;: <em>«&nbsp;for a development-time cost of about 15%, pair programming improves design quality, reduces defects, reduces staffing risk, enhances technical skills, improves team communications and is considered more enjoyable at statistically significant levels.&nbsp;»</em></p>
+
+<hr />
+
+<h3>Perturbations</h3>
+
+<p>Lâchez votre clavier deux secondes et écoutez-moi. Quoi, je vous dérange&nbsp;? Une perturbation de plus me direz-vous. Vous en avez marre&nbsp;? Pas moyen de vous concentrer sur votre tâche&nbsp;?</p>
+
+<p>Mettez en place le kit «&nbsp;responsable perturbations&nbsp;» (casquette offerte). Chaque membre de l’équipe prendra la casquette à tour de rôle. Ce responsable s’occupe de filtrer et de prioriser les mails destinés à l’équipe voire de réaliser les tâches urgentes qui sortent du domaine de compétences du <em>Scrum Master</em> ou du manager. Ainsi on oublie les perturbations pour les autres qui peuvent se concentrer sur leur travail, atteindre la fameuse <em><a href="http://ezinearticles.com/?In-The-Zone&amp;id=65850">zone</a></em> et y rester plus longtemps, voire même oublier l’utilisation d’un pomodoro inutile. À ce sujet, <a href="http://vimeo.com/43672296">Hadi Hariri</a> est formel&nbsp;: <em>«&nbsp;You&#8217;re taking away self-discipline and pull it in the hands of a tomato.&nbsp;»</em></p>
+
+<p>Aujourd’hui, pour un kit acheté deux casquettes offertes&nbsp;!</p>
+
+<hr />
+
+<h3>Brown bag lunch</h3>
+
+<p>Stop au gaspillage&nbsp;! Optimisez votre temps. Que faites-vous durant votre pause déjeuner&nbsp;? Organisez un <em>brown bag lunch</em>&nbsp;: partagez vos connaissances, échangez sur un sujet précis, construisez avec vos collègues, testez vos présentations. Tout prétexte est bon pour se réunir sandwich à la main et apprendre de manière décontractée.</p>
+
+<p>Message de notre spécialiste <a href="http://blog.loof.fr/2013/02/brown-bag-lunch.html">Nicolas De Loof</a>&nbsp;: <em>«&nbsp;contactez-moi si vous êtes intéressés.&nbsp;»</em></p>
+
+<p>Les <em>brown bag lunch</em>, des amis pour la vie.</p>
+
+<hr />
+
+<h3>Feature flipping</h3>
+
+<p>Vous pensez à une fonctionnalité qui serait utile à votre produit mais vous ne savez pas si les utilisateurs l’adopteront. Pas de panique, utilisez le <em><a href="http://99designs.com/tech-blog/blog/2012/03/01/feature-flipping/">feature flipping</a></em>&nbsp;! Testez votre fonctionnalité en production sur certains profils et désactivez-la quand vous voulez. Étoffez-la sans la rendre apparente, puis déployez-la quand le résultat vous paraît satisfaisant. Cette pratique doit être utilisée avec parcimonie, mais elle vous rendra assurément de nombreux services.<br/>
+<em>Feature flipping</em> est gratuit dans la limite du stock de bonne humeur des développeurs.</p>
+
+<p>Notre expert <a href="http://martinfowler.com/bliki/FeatureToggle.html">Martin Fowler</a> l&#8217;affirme&nbsp;: <em>«&nbsp;While feature toggles are a valuable tool in the box, they are a second-best option.&nbsp;»</em></p>
+
+<p>Satisfaction 100% garantie.</p>
+
+<hr />
+
+<h3>Pour aller plus loin<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></h3>
+
+<ul>
+<li><a href="http://www.extremeprogramming.org/rules/pair.html">Règles du pair programming</a></li>
+<li><a href="http://www.youtube.com/watch?v=dYBjVTMUQY0">Spooning By Bitbucket</a></li>
+<li><a href="http://www.brownbaglunch.fr/">Communauté de BBL</a></li>
+<li>Le <a href="http://blog.octo.com/feature-flipping/">feature flipping</a> chez <a href="http://www.youtube.com/watch?v=jf3MaVsM2u4">Octo</a></li>
+<li><a href="http://ff4j.org/">Feature Flipping for Java</a></li>
+</ul>
+
+
+<hr />
+
+<div class="footnotes">
+    <ol>
+        <li id='fn:1'>Cet article a initialement été écrit <a href="http://blogtechno.novediagroup.com/bonnes-pratiques-dans-lit-les-promotions-de-la-semaine/">ici</a>. <a href='#fnref:1' rev='footnote'>↩</a></li>
+    </ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dis-moi qui tu vantes, je te dirai qui tu hais]]></title>
@@ -951,49 +1028,6 @@ Mes yeux sont rouges et la couleur de mon corps varie d&#8217;un bleu violet à 
 
 <p>De la famille des bernard l&#8217;hermite je peux grimper aux arbres ou casser des noix de coco grâce à mes pinces.
 <a href="http://www.lemanger.fr/index.php/crabe-de-cocotier-a-la-japonaise/">Je suis…</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Les écrits restent]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/les-ecrits-restent/"/>
-    <updated>2013-07-15T10:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/les-ecrits-restent</id>
-    <content type="html"><![CDATA[<p><em>J&#8217;ai désormais la fâcheuse manie de noter des passages des livres que <a href="http://www.senscritique.com/Zenigata/critiques">je lis</a>.</em>
-<em>En voici un <a href="http://fr.wiktionary.org/wiki/spicil%C3%A8ge">spicilège</a> personnel.</em></p>
-
-<!--more-->
-
-
-<p>«&nbsp;Le navire gémissait et grondait sous lui comme un obèse constipé se battant pour chier.&nbsp;»<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
-
-<p>«&nbsp;C&#8217;était le milieu de la nuit, le ciel était sans nuages, couleur bleu ardoise. Le soleil rouge rampait sur l&#8217;horizon. D&#8217;énormes étoiles, aiguisées par le vent, piquaient le ciel.&nbsp;»<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup></p>
-
-<p>«&nbsp;Le bègue, dans ses efforts désespérés pour proférer le premier son, est comme un oiseau qui se débat pour se dégager d&#8217;une glu tenace
-(sa glu, à lui, c&#8217;est son univers intérieur)&nbsp;;&nbsp;et quand enfin il s&#8217;en dégage, c&#8217;est toujours trop tard.&nbsp;»<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup></p>
-
-<p>«&nbsp;Kashiwagi avait pour l&#8217;instinct et pour l&#8217;intellect un mépris égal.
-Comme une balle de forme bizarre, son existence allait toute seule, roulant, boulant, trébuchant, tâchant de démolir le mur du réel.&nbsp;»<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup></p>
-
-<p>«&nbsp;Le jour finissait et c’était l’heure dont je ne veux pas parler, l’heure sans nom, où les bruits du soir montaient de tous les étages de la prison dans un cortège de silence.&nbsp;»<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup></p>
-
-<p>«&nbsp;Les bons écrivains touchent souvent la vie du doigt. Les médiocres ne font que l’effleurer. Les mauvais la violent et l’abandonnent aux mouches.&nbsp;»<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup></p>
-
-<p>«&nbsp;Elle me plaît&nbsp;;&nbsp;je pourrais passer le reste de mes jours à la regarder. Elle a des seins qui sourient.&nbsp;»<sup id='fnref:6'><a href='#fn:6' rel='footnote'>6</a></sup></p>
-
-<p>«&nbsp;Elle enfonça ses orteils dans le sable, sentant l&#8217;infime et délicieuse douleur du frottement des minuscules grains entre ses doigts de pied.
-C&#8217;est la vie. Ça fait mal, c&#8217;est sale, mais c&#8217;est tellement bon.&nbsp;»<sup id='fnref:7'><a href='#fn:7' rel='footnote'>7</a></sup></p>
-
-<p>«&nbsp;Des mains de parchemin, jaunâtres et noueuses, comme l&#8217;arrière-train d&#8217;une dinde rôtie.&nbsp;»<sup id='fnref:8'><a href='#fn:8' rel='footnote'>8</a></sup></p>
-
-<hr />
-
-<div class="footnotes">
-    <ol>
-        <li id='fn:1'><em>Les Dragons de Meereen</em> de <strong>Georges R. R. Martin</strong>. Traduction par Patrick Marcel. <a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'><em>La Nuit des temps</em> de <strong>René Barjavel</strong>. <a href='#fnref:2' rev='footnote'>↩</a></li><li id='fn:3'><em>Le Pavillon d&#8217;Or</em> de <strong>Yukio Mishima</strong>. Traduction par Marc Mécréant. <a href='#fnref:3' rev='footnote'>↩</a></li><li id='fn:4'><em>L&#8217;Étranger</em> d&#8217;<strong>Albert Camus</strong>. <a href='#fnref:4' rev='footnote'>↩</a></li><li id='fn:5'><em>Fahrenheit 451</em> de <strong>Ray Bradbury</strong>. Traduction par Jacques Chambon. <a href='#fnref:5' rev='footnote'>↩</a></li><li id='fn:6'><em>Do Androids Dream of Electric Sheep?</em> de <strong>Philip K. Dick</strong>. Traduction par Serge Quadruppani. <a href='#fnref:6' rev='footnote'>↩</a></li><li id='fn:7'><em>Les Enfants de l&#8217;esprit</em> d&#8217;<strong>Orson Scott Card</strong>. Traduction par Jean-Marc Chambon. <a href='#fnref:7' rev='footnote'>↩</a></li><li id='fn:8'><em>Ubik</em> de <strong>Philip K. Dick</strong>. Traduction par Alain Dorémieux. <a href='#fnref:8' rev='footnote'>↩</a></li>
-    </ol>
-</div>
-
 ]]></content>
   </entry>
   
