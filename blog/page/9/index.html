@@ -9,7 +9,7 @@
   <meta name="author" content="Zenigata">
 
   
-  <meta name="description" content="C’est parti pour la 33e édition des championnats du monde amateur de jeu de go ! Cette année les 55 représentants nationaux s&#8217;affrontent à &hellip;">
+  <meta name="description" content="Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d&#8217; &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -95,6 +95,113 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/xml/">XML, JSON et YAML sont sur un bateau</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-16T17:00:00+02:00" pubdate data-updated="true">May 16<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Pour la sérialisation ou la représentation de données, de nombreux formats existent avec leurs avantages, inconvénients et domaines d&#8217;application. Connaissez-vous le très explicite YAML ?</p>
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/XML">XML</a></h2>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='xml'><span class='line'><span class="nt">&lt;livre</span> <span class="na">langage=</span><span class="s">”fr”</span> <span class="na">disponible=</span><span class="s">true</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;titre&gt;</span>Comme on dit en Afrique...<span class="nt">&lt;/titre&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;auteurs&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;auteur&gt;</span>Joseph Andjou<span class="nt">&lt;/auteur&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/auteurs&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;date&gt;</span>2003/05/28<span class="nt">&lt;/date&gt;</span>
+</span><span class='line'><span class="nt">&lt;/livre&gt;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/JSON">JSON</a></h2>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="p">{</span>
+</span><span class='line'>  <span class="nx">livre</span> <span class="o">:</span>
+</span><span class='line'>  <span class="p">{</span>
+</span><span class='line'>    <span class="nx">langage</span> <span class="o">:</span> <span class="err">“</span><span class="nx">fr</span><span class="err">”</span><span class="p">,</span>
+</span><span class='line'>    <span class="nx">disponible</span> <span class="o">:</span> <span class="kc">true</span><span class="p">,</span>
+</span><span class='line'>    <span class="nx">titre</span> <span class="o">:</span> <span class="err">“</span><span class="nx">Comme</span> <span class="nx">on</span> <span class="nx">dit</span> <span class="nx">en</span> <span class="nx">Afrique</span><span class="p">...</span><span class="err">”</span><span class="p">,</span>
+</span><span class='line'>    <span class="nx">auteurs</span> <span class="o">:</span>
+</span><span class='line'>    <span class="p">[</span>
+</span><span class='line'>      <span class="err">“</span><span class="nx">Joseph</span> <span class="nx">Andjou</span><span class="err">”</span>
+</span><span class='line'>    <span class="p">],</span>
+</span><span class='line'>    <span class="nx">date</span> <span class="o">:</span> <span class="err">“</span><span class="mi">28</span> <span class="nx">mai</span> <span class="mi">2003</span><span class="err">”</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>En <a href="http://fr.wikipedia.org/wiki/YAML">YAML</a></h2>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='yaml'><span class='line'><span class="nn">---</span>
+</span><span class='line'><span class="l-Scalar-Plain">langage</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">fr</span>
+</span><span class='line'><span class="l-Scalar-Plain">disponible</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">true</span>
+</span><span class='line'><span class="l-Scalar-Plain">titre</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">“Comme on dit en Afrique...”</span>
+</span><span class='line'><span class="l-Scalar-Plain">auteurs</span><span class="p-Indicator">:</span> <span class="p-Indicator">[</span><span class="nv">Joseph Andjou</span><span class="p-Indicator">]</span>
+</span><span class='line'><span class="l-Scalar-Plain">date</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2003-05-28</span>
+</span><span class='line'><span class="nn">---</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -486,52 +593,6 @@ Ce mets me fait radicalement voyager dans le temps et dans l&#8217;espace, en un
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/lesthetique-du-faineant/">L&#8217;esthétique du fainéant</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-21T14:37:00+01:00" pubdate data-updated="true">Mar 21<span>st</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Je suis un <em>fainéant</em>.<br/>
-Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#8217;apanage de ma génération selon certains ; de la pure fainéantise selon ma grand-mère ; de la procrastination selon d&#8217;autres. Mais bon voilà, comme des générations avant la mienne, <em>la recherche du beau</em> reste omniprésente et constitue un combat de tous les instants : goût musical, look, aisance à l&#8217;oral, style d&#8217;écriture, etc. Pour développer mon sens de l&#8217;esthétique j&#8217;ai choisi une voie très accessible, presque simpliste de nos jours, mais aucunement facile : <strong>la photographie</strong>.</p>
-
-<p>Le déclic est venu un printemps, suite à une réunion de famille où ma tâche fut de compiler les photos souvenirs provenant des compacts numériques des uns et des autres. Stupeur et tremblements. Une telle médiocrité de souvenirs est proprement abominable. Quelques mois plus tard j&#8217;achetai mon premier reflex : un <strong>Canon 450D</strong> d&#8217;occasion.</p>
-
-<p>Quel photographe suis-je aujourd&#8217;hui ?</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/lesthetique-du-faineant/">Continuez &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/10/">&larr; Plus ancien</a>
@@ -551,6 +612,10 @@ Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#821
 <section>
   <h1>Au Menu :</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/octocast/">Octocast</a>
+      </li>
     
       <li class="post">
         <a href="/les-promotions-de-la-semaine/">Les promotions de la semaine</a>
@@ -586,10 +651,6 @@ Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#821
     
       <li class="post">
         <a href="/extraits-choisis/">Extraits choisis</a>
-      </li>
-    
-      <li class="post">
-        <a href="/peau-de-cast/">Peau de cast</a>
       </li>
     
   </ul>
@@ -628,7 +689,7 @@ Un véritable adepte de l&#8217;efficacité au service du moindre effort. L&#821
 
 <section>
   <h1>Catégories :</h1>
-    <span id="tag-cloud"><a href='/blog/categories/afrique' style='font-size: 130.0%'>afrique</a> <a href='/blog/categories/agile' style='font-size: 135.0%'>agile</a> <a href='/blog/categories/banane' style='font-size: 125.0%'>banane</a> <a href='/blog/categories/bon-plan' style='font-size: 110.0%'>bon plan</a> <a href='/blog/categories/code' style='font-size: 115.0%'>code</a> <a href='/blog/categories/compil' style='font-size: 130.0%'>compil</a> <a href='/blog/categories/dixit' style='font-size: 120.0%'>dixit</a> <a href='/blog/categories/enfance' style='font-size: 110.0%'>enfance</a> <a href='/blog/categories/ff' style='font-size: 110.0%'>ff</a> <a href='/blog/categories/javascript' style='font-size: 115.0%'>javascript</a> <a href='/blog/categories/jeu-de-go' style='font-size: 120.0%'>jeu de go</a> <a href='/blog/categories/jeu-de-societe' style='font-size: 125.0%'>jeu de societe</a> <a href='/blog/categories/litterature' style='font-size: 160.0%'>litterature</a> <a href='/blog/categories/my-life' style='font-size: 150.0%'>my life</a> <a href='/blog/categories/ngoubou' style='font-size: 120.0%'>ngoubou</a> <a href='/blog/categories/oueb' style='font-size: 150.0%'>oueb</a> <a href='/blog/categories/papous' style='font-size: 115.0%'>papous</a> <a href='/blog/categories/photo' style='font-size: 125.0%'>photo</a> <a href='/blog/categories/podcast' style='font-size: 145.0%'>podcast</a> <a href='/blog/categories/recette' style='font-size: 105.0%'>recette</a> <a href='/blog/categories/sport' style='font-size: 130.0%'>sport</a> <a href='/blog/categories/techno' style='font-size: 135.0%'>techno</a> </span>
+    <span id="tag-cloud"><a href='/blog/categories/afrique' style='font-size: 130.0%'>afrique</a> <a href='/blog/categories/agile' style='font-size: 135.0%'>agile</a> <a href='/blog/categories/banane' style='font-size: 125.0%'>banane</a> <a href='/blog/categories/bon-plan' style='font-size: 110.0%'>bon plan</a> <a href='/blog/categories/code' style='font-size: 115.0%'>code</a> <a href='/blog/categories/compil' style='font-size: 130.0%'>compil</a> <a href='/blog/categories/dixit' style='font-size: 120.0%'>dixit</a> <a href='/blog/categories/enfance' style='font-size: 110.0%'>enfance</a> <a href='/blog/categories/ff' style='font-size: 110.0%'>ff</a> <a href='/blog/categories/javascript' style='font-size: 115.0%'>javascript</a> <a href='/blog/categories/jeu-de-go' style='font-size: 120.0%'>jeu de go</a> <a href='/blog/categories/jeu-de-societe' style='font-size: 125.0%'>jeu de societe</a> <a href='/blog/categories/litterature' style='font-size: 160.0%'>litterature</a> <a href='/blog/categories/my-life' style='font-size: 150.0%'>my life</a> <a href='/blog/categories/ngoubou' style='font-size: 120.0%'>ngoubou</a> <a href='/blog/categories/oueb' style='font-size: 150.0%'>oueb</a> <a href='/blog/categories/papous' style='font-size: 115.0%'>papous</a> <a href='/blog/categories/photo' style='font-size: 125.0%'>photo</a> <a href='/blog/categories/podcast' style='font-size: 150.0%'>podcast</a> <a href='/blog/categories/recette' style='font-size: 105.0%'>recette</a> <a href='/blog/categories/sport' style='font-size: 130.0%'>sport</a> <a href='/blog/categories/techno' style='font-size: 135.0%'>techno</a> </span>
 </section>
 
   

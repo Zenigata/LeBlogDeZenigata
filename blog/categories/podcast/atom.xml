@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : podcast | Zenigata]]></title>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-05-07T12:46:45+02:00</updated>
+  <updated>2014-05-21T19:19:40+02:00</updated>
   <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octocast]]></title>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/octocast/"/>
+    <updated>2014-05-21T19:30:00+02:00</updated>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/octocast</id>
+    <content type="html"><![CDATA[<p>Pour la huitième fois, laissez-moi vous présenter quelques émissions adaptées à tous les goûts.</p>
+
+<!--more-->
+
+
+<h3><a href="http://www.franceinter.fr/emission-la-chronique-de-nora-hamzawi">La chronique de Nora Hamzawi</a></h3>
+
+<p><em>4mn bimensuelles de chronique</em><br/>
+Dans la lignée de Daniel Morin, Nora Hamzawi n'a pas sa langue dans sa poche. Et c'est aussi frais que la rosée claire du matin. Et un peu salissant.</p>
+
+<h3><a href="http://www.franceculture.fr/emission-ce-qui-nous-arrive-sur-la-toile">Ce qui nous arrive sur la toile</a></h3>
+
+<p><em>5mn quotidiennes de chronique Internet</em><br/>
+Claire et concise, la chronique de Xavier de La Porte évoque des sujets aussi pointus que dérangeants, le tout en quelques mots. La révolution est en marche.</p>
+
+<h3><a href="https://itunes.apple.com/fr/podcast/lhistoire-de-france/id726061567?mt=2">L'histoire de France pour les connards</a></h3>
+
+<p><em>8mn d'histoire</em><br/>
+Dernier rejeton produit par l'équipe du Captain, ce podcast historique n'est pas à mettre entre toutes les oreilles. Enfin si, mais préparez-vous à rire un bon coup&nbsp;!</p>
+
+<h3><a href="http://www.geeklette.fr/category/podcast/">Live Geeklette</a></h3>
+
+<p><em>15mn sur les jeux de société</em><br/>
+C'est nouveau, c'est court, c'est malin et c'est sympa, voici un agréable podcast sur les jeux de société. Passion inside!</p>
+
+<h3><a href="http://www.rfi.fr/emission/memoire-continent">Mémoire d'un continent</a></h3>
+
+<p><em>20mn hebdomadaires sur l'actualité et l'histoire africaines</em><br/>
+Indispensable pour un africanophile comme moi. C'est d'ailleurs pour ça que je me suis mis à écouter RFI.</p>
+
+<h3><a href="http://www.rfi.fr/emission/danse-mots/">La danse des mots</a></h3>
+
+<p><em>26mn quotidiennes autour du français</em><br/>
+Mon nouveau compagnon au quotidien. Yvan Amar est amoureux du français sous toutes ses formes et il le communique rudement bien.</p>
+
+<h3><a href="http://www.rfi.fr/emission/archives-dafrique">Archives d'Afrique</a></h3>
+
+<p><em>40mn hebdomadaires sur une personnalité africaine</em><br/>
+Le point de vue est africain donc il ne faut pas s'attendre à une langue de bois sur certains comportements colonialistes. Et c'est tant mieux.</p>
+
+<h3><a href="http://lacazretro.fr/category/emissions-la-caz-retro/podcasts/">La caz' retro</a></h3>
+
+<p><em>1h30 bimensuelles de jeux vidéo</em><br/>
+Choisissez vos jeux cultes et plongez-vous à nouveau dans leur univers&nbsp;: on en apprend toujours plus avec la caz' retro.</p>
+
+<hr />
+
+<p>Retrouvez la liste des émissions francophones que j'écoute –&nbsp;présentes, passées et disparues&nbsp;–
+<a href="https://docs.google.com/spreadsheet/ccc?key=0AuNsvDqymweIdGVkZklldUwtb09KVDF4bGJtSE9xcHc&amp;usp=sharing">en ligne</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Peau de cast]]></title>
@@ -405,60 +462,6 @@ var myPie = new Chart(document.getElementById("canvas-02").getContext("2d")).Pie
   })(jQuery)
 </script>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Baladodiffusion printanière]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/baladodiffusion-printaniere/"/>
-    <updated>2013-04-26T11:10:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/baladodiffusion-printaniere</id>
-    <content type="html"><![CDATA[<p>La chaleur est là, les marronniers aussi.
-Afin de vous installer confortablement au centre d'un espace vert, un livre à la main, il vous faudra affronter les transports ou la rue, l'attente ou le bruit.
-Protégez et enchantez vos oreilles avec ces dix nouveaux podcasts.</p>
-
-<!--more-->
-
-
-<p><strong><a href="http://www.europe1.fr/MediaCenter/Emissions/Oldelaf/">Oldelaf</a></strong><br/>
-<em>4mn hebdomadaires chantées</em><br/>
-Oldelaf intervient chez Michel Drucker avec une délicieuse chronique chantée. À voir ou à écouter sans modération.</p>
-
-<p><strong><a href="http://www.franceinter.fr/emission-le-billet-de-francois-morel">François Morel</a></strong><br/>
-<em>4mn hebdomadaires de chronique</em><br/>
-Le billet de François Morel logé dans le <em>7/9</em> de France Inter est aussi tranchant que rafraîchissant. L'ex-<em>Deschien</em> ne mâche pas ses mots, pour notre plus grand plaisir.</p>
-
-<p><strong><a href="http://www.franceinter.fr/emission-vous-voyez-le-tableau">Vous voyez le tableau</a></strong><br/>
-<em>5mn quotidiennes de chronique</em><br/>
-Quand Joann Sfar invente le dessin radiophonique, ça donne un mélange détonnant et efficace de bande dessinée mâtinée de peinture. Un condensé de culture en somme.</p>
-
-<p><strong><a href="http://www.rtl.fr/podcast/a-la-bonne-heure-didier-porte.xml">Didier Porte</a></strong><br/>
-<em>6mn hebdomadaires de chronique</em><br/>
-Après <em>l'Air du temps</em> Didier Porte rempile avec <em>la mauvaise humeur</em> nichée au creux de l'émission <em>À&nbsp;la&nbsp;bonne&nbsp;heure</em> sur RTL. Impudique, incisif, sans gêne, l'humoriste Didier Porte assume son statut autoproclamé de contre-pouvoir.</p>
-
-<p><strong><a href="http://www.franceinter.fr/emission-la-marche-de-l-histoire">La marche de l'histoire</a></strong><br/>
-<em>30mn quotidiennes sur un sujet historique</em><br/>
-Laissez-vous emporter par les flots du temps à travers le décodage éclairant de Jean Lebrun et de son équipe.</p>
-
-<p><strong><a href="http://www.franceinter.fr/emission-eclectik">Eclectik</a></strong><br/>
-<em>45mn hebdomadaires avec une célébrité</em><br/>
-Aller à la rencontre d'une personnalité jusque dans sa maison et dans son intimité, c'est le plaisir que nous donne Rébecca Manzoni depuis presque neuf ans.</p>
-
-<p><strong><a href="http://www.radiocampusparis.org/geekmefive/">Geek Me Five</a></strong><br/>
-<em>1h bimensuelle de culture populaire</em><br/>
-Des passionnés, de la bonne humeur, un sujet original et c'est parti pour une heure de folie&nbsp;!</p>
-
-<p><strong><a href="http://studio404.skyrock.com/">Studio 404</a></strong><br/>
-<em>1h mensuelle de culture numérique</em><br/>
-Prenez mon gourou <a href="/bonjour-cest-fibretigre">FibreTigre</a>, mon mentor <a href="/un-mec-qui-tient-un-blog-de-fille">Lâm Hua</a> et d'autres stars de la blogosphère, et vous obtenez une émission très inspirée qui parle à votre quotidien.</p>
-
-<p><strong><a href="http://www.thewalkingweb.fr/">The Walking Web</a></strong><br/>
-<em>1h mensuelle sur le design</em><br/>
-Les publications de Geoffrey Dorne forment une de mes principales sources d'inspiration, alors quand il lance son podcast avec des designers réputés je ne peux qu'applaudir des deux mains. Une bouffée d'inspiration brute&nbsp;!</p>
-
-<p><strong><a href="http://zqsd.fr/category/podcast/">Allô quoi&nbsp;!</a></strong><br/>
-<em>2h mensuelles autour du jeu vidéo</em><br/>
-Les anciens de <em>Joystick</em> de ZQSD ont lancé leur podcast et je suis agréablement surpris. Ok c'est un poil long et ça part dans tous les sens mais c'est intelligemment drôle et passionnant. J'attends de voir la suite.</p>
 ]]></content>
   </entry>
   
