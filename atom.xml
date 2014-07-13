@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/atom.xml" rel="self"/>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-06-04T09:55:55+02:00</updated>
+  <updated>2014-07-13T12:41:18+02:00</updated>
   <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Definition of ready]]></title>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/definition-of-ready/"/>
+    <updated>2014-07-13T13:00:00+02:00</updated>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/definition-of-ready</id>
+    <content type="html"><![CDATA[<p>Le printemps agile a encore battu son plein cette année. Entre présentations, formations et événements, le début d&#8217;année fut riche. Et quel plaisir de confronter nos expériences au soleil du parc de Vincennes&nbsp;!</p>
+
+<!--more-->
+
+
+<p>Saurez-vous me retrouver&nbsp;? Photographie de <a href="http://photos.seeshoot.com/agile-france-2014">Christopher Mann</a>.</p>
+
+<p>
+  <img src="https://lh6.googleusercontent.com/-mPW04kv2Xqk/U8JZN8mkurI/AAAAAAAAEM8/oTtwHJ8DQbE/w1100-h638-no/agilefrance2014.jpg" alt="Agile France 2014" />
+</p>
+
+
+<p>En avril c&#8217;était le <strong>Scrum Day</strong> à DisneyLand Paris&nbsp;: mon <a href="https://storify.com/zenigata/scrum-day-2014">Storify</a> de l&#8217;événement.</p>
+
+<p>En mai il y eut mon rendez-vous favori&nbsp;: <strong>Agile France</strong>. Voici mon <a href="https://storify.com/zenigata/agile-france-2014">Storify</a> en guise de compte-rendu.</p>
+
+<hr />
+
+<p>Vous connaissez l&#8217;idée derrière le <em>Definition of Done</em>. Mais savez-vous que la notion de <em>Definition of Ready</em> est aussi importante&nbsp;? J&#8217;ai présenté le sujet en une heure.</p>
+
+<iframe src="http://Zenigata.github.io/LeBlogDeZenigata//slides.com/zenigata/definition-of-ready/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[20 chansons ivoiriennes rétro]]></title>
@@ -994,57 +1024,6 @@ du grand large aux sommets enneigés en passant par l&#8217;espace. Et ça fait 
 La <a href="https://docs.google.com/spreadsheet/ccc?key=0AuNsvDqymweIdGVkZklldUwtb09KVDF4bGJtSE9xcHc&amp;usp=sharing">liste</a> d&#8217;écoute a été mise à jour.</p>
 
 <p>Bonne rentrée&nbsp;!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Veille technique]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/veille-technique/"/>
-    <updated>2013-09-02T12:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/veille-technique</id>
-    <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
-problème suivant&nbsp;:&nbsp;je n&#8217;arrive pas à organiser mes marque-pages.</p>
-
-<!--more-->
-
-
-<h3>Pourquoi&nbsp;?</h3>
-
-<p>Parce que je n&#8217;ai pas été convaincu par des outils comme <em><a href="http://www.pearltrees.com/">Pearltrees</a></em> ou <em><a href="http://iceber.gs">Icebergs</a></em>.</p>
-
-<h3>Pourquoi&nbsp;?</h3>
-
-<p>Parce que je consulte quotidiennement de nombreux liens intéressants et que j&#8217;utilise plusieurs navigateurs sur différents terminaux informatiques.</p>
-
-<h3>Pourquoi&nbsp;?</h3>
-
-<p>Parce qu&#8217;Internet évolue si vite qu&#8217;on n&#8217;on ne peut temporiser sur une page&nbsp;:&nbsp;sitôt classée, sitôt oubliée.
-En un mot&nbsp;:&nbsp;<em>read or die</em>.</p>
-
-<h3>Pourquoi&nbsp;?</h3>
-
-<p>Parce qu&#8217;entre les flux RSS, les réseaux sociaux, les mails et autres forums on n&#8217;a pas le temps de tout lire sur le moment.
-J&#8217;ai essayé des outils comme <em>Read it later</em> (désormais <em><a href="http://getpocket.com/">pocket</a></em>) ou la fonctionnalité favoris du lecteur RSS, mais je n&#8217;arrive pas à trouver mon équilibre.</p>
-
-<h3>Pourquoi ?</h3>
-
-<p>Parce que je procrastine trop.</p>
-
-<h2>Que faire&nbsp;?</h2>
-
-<ol>
-<li>Consommer le lien sur le moment. Reporter le moins de choses possibles.</li>
-<li>Partager tout ce qui est intéressant.</li>
-<li>Organiser et classer les sites d&#8217;utilisation quotidienne.</li>
-</ol>
-
-
-<h2>En pratique</h2>
-
-<p>J&#8217;essaie de partager tout lien intéressant sur mon mur.
-Pour ma veille technique, j&#8217;utilise un <a href="http://aloco.free.fr/info/">shaarli</a>, histoire de ne pas trop polluer ledit mur.
-Pour les sites d&#8217;utilisation régulière, j&#8217;ai mis en place ce <a href="http://lhaagounet.free.fr">marque-liens</a> pour pouvoir y accéder depuis n&#8217;importe quel ordinateur,
-depuis un espace public par exemple.</p>
 ]]></content>
   </entry>
   
