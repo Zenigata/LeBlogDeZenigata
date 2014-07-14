@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/atom.xml" rel="self"/>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-07-13T12:41:18+02:00</updated>
+  <updated>2014-07-14T10:37:25+02:00</updated>
   <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Je suis un oiseau d'Afrique]]></title>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-oiseau-dafrique/"/>
+    <updated>2014-07-14T11:00:00+02:00</updated>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-oiseau-dafrique</id>
+    <content type="html"><![CDATA[<p><em>Julien L. se lance dans la lecture de la septième question de la série animaux d&#8217;Afrique&nbsp;:</em></p>
+
+<p>Je suis un oiseau d’Afrique rusé et voleur, qui dérobe un quart de ma nourriture à d’autres espèces animales.
+J’utilise pour cela une méthode évoquant la fameuse fable d’Ésope « le garçon qui criait au loup ».
+On me trouve un peu partout au sud du Sahara.</p>
+
+<p>Petit passereau agressif, je n’hésite pas à attaquer des prédateurs plus gros comme les oiseaux de proie afin de défendre mon nid.
+D’un noir brillant, je suis insectivore et mes yeux sont rouges.</p>
+
+<p>Je peux vocaliser plus de cinquante cris différents et du coup imiter les cris d’alarme des animaux que je berne afin de leur chaparder leur repas.
+Quand ceux-ci s’en rendent compte, il me suffit de moduler ma voix pour les tromper à nouveau, avec succès.</p>
+
+<p>Étant le seul animal connu à voler ainsi ma pitance –&nbsp;principalement en hiver&nbsp;– <a href="https://www.youtube.com/watch?v=Yd5OlsdD794">je suis…</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Definition of ready]]></title>
@@ -976,54 +997,6 @@ Je me souviens notamment de ces moments où je vendais des fruits de <a href="ht
   <a href="http://www.coucoucircus.org/da/400-X-Or---G%C3%A9n%C3%A9rique" title="X-or"><img src="http://mv.sens.sc/media/000000080975/150/X_Or.jpg" alt="X-or"/></a>
 </p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[L'été touche à sa faim]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/lete-touche-a-sa-faim/"/>
-    <updated>2013-09-03T13:30:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/lete-touche-a-sa-faim</id>
-    <content type="html"><![CDATA[<p>Entre plage abandonnée et chant des grillons, quand l&#8217;éphémère ne dure qu&#8217;un jour, ces podcasts-ci n&#8217;ont fleuri qu&#8217;un été.</p>
-
-<!--more-->
-
-
-<p><a href="http://www.franceinter.fr/emission-puisque-vous-partez-en-voyage">Puisque vous partez en voyage</a><br/>
-<em>2h quotidiennes en musique</em><br/>
-Quoi de mieux pour s&#8217;évader l&#8217;esprit que voyager musicalement au rythme d&#8217;une sélection inspirée&nbsp;?</p>
-
-<p><a href="http://www.franceinter.fr/emission-a-votre-ecoute-coute-que-coute-1">À votre écoute, coûte que coûte</a><br/>
-<em>7mn quotidiennes d&#8217;humour au téléphone</em><br/>
-On alterne entre fou rire et consternation mais on ne peut rester indifférent. À écouter de toute urgence.</p>
-
-<p><a href="http://www.franceinfo.fr/un-ete-en-super-heros">Un été en super héros</a><br/>
-<em>3mn quotidiennes présentant un super héros</em><br/>
-J&#8217;ai écouté la série d&#8217;une traite. J&#8217;en redemande.</p>
-
-<p><a href="http://www.franceinter.fr/emission-les-corps-intermediaires">Les corps intermédiaires</a><br/>
-<em>4mn quotidiennes d&#8217;érotisme</em><br/>
-Magnifiques moments d&#8217;intimité ou petites anecdotes croustillantes, c&#8217;est une excellente série. À ne pas rater.</p>
-
-<h3>La mer vous a creusé l&#8217;appétit&nbsp;? Voici une nouvelle fournée de podcasts pour une rentrée aventureuse.</h3>
-
-<p><a href="http://frenchspin.com/category/positron/">Positron</a><br/>
-<em>30mn bimensuelles de découverte culturelle</em><br/>
-Un peu mou, le nouveau podcast de Patrick Béja se laisse quand même écouter. À voir sur la durée.</p>
-
-<p><a href="http://www.franceinter.fr/emission-le-grand-bain">Le grand bain</a><br/>
-<em>1h hebdomadaire sur un thème culturel</em><br/>
-Émission très hétéroclite, il y en a pour tous les goûts. Piochez selon votre envie, vous ne serez pas déçu&nbsp;!</p>
-
-<p><a href="http://www.franceinter.fr/emission-le-temps-dun-bivouac">Le temps d’un bivouac</a><br/>
-<em>1h quotidienne d&#8217;aventures</em><br/>
-Véritable appel à l&#8217;aventure, cette émission nous plonge dans toutes les entreprises humaines,
-du grand large aux sommets enneigés en passant par l&#8217;espace. Et ça fait du bien.</p>
-
-<p>Et pour écouter tout ça j&#8217;utilise désormais <em><a href="https://github.com/danieloeh/AntennaPod">AntennaPod</a></em>.<br/>
-La <a href="https://docs.google.com/spreadsheet/ccc?key=0AuNsvDqymweIdGVkZklldUwtb09KVDF4bGJtSE9xcHc&amp;usp=sharing">liste</a> d&#8217;écoute a été mise à jour.</p>
-
-<p>Bonne rentrée&nbsp;!</p>
 ]]></content>
   </entry>
   
