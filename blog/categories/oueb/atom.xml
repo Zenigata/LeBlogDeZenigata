@@ -4,7 +4,7 @@
   <title><![CDATA[Catégorie : oueb | Zenigata]]></title>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/oueb/atom.xml" rel="self"/>
   <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-07-15T23:48:39+02:00</updated>
+  <updated>2014-07-19T09:56:26+02:00</updated>
   <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Home sweet home]]></title>
+    <link href="http://Zenigata.github.io/LeBlogDeZenigata/home-sweet-home/"/>
+    <updated>2014-07-19T10:00:00+02:00</updated>
+    <id>http://Zenigata.github.io/LeBlogDeZenigata/home-sweet-home</id>
+    <content type="html"><![CDATA[<p>Bienvenue chez moi&nbsp;! Je vous fais visiter&nbsp;?</p>
+
+<!--more-->
+
+
+<p>Je désirais un <em>portfolio</em> tout simple, plutôt en noir et blanc, et agrémenté d'une touche typographique.
+Mais je ne suis ni graphiste, ni designer. Et je ne veux débourser que le strict minimum.
+Du coup je suis parti à la pêche aux <em>templates</em> HTML 5 gratuits, et aux <em>mockups</em> typographiques.</p>
+
+<p>Voici donc <a href="http://www.johanbonneau.com">www.johanbonneau.com</a>.</p>
+
+<p>En fait, <a href="http://johanbonneau.fr">johanbonneau.fr</a>, <a href="http://www.johanbonneau.fr">www.johanbonneau.fr</a> et <a href="http://johanbonneau.com">johanbonneau.com</a> redirigent tous vers <a href="http://www.johanbonneau.com">www.johanbonneau.com</a>.</p>
+
+<p>Pourquoi un <em>portfolio</em>&nbsp;? Pour que ceux qui me cherchent me trouvent. Pour centraliser mes activités connectées.
+Pour établir une porte d'entrée officielle vers mon univers. Parce que, tout simplement, j'en avais envie.<br/>
+Aucun lien vers Facebook ou Twitter d'ailleurs, je n'y suis plus actif.</p>
+
+<p>Je rappelle que toute ma production (articles, sites, wiki) est directement accessible et copiable depuis <a href="https://github.com/Zenigata?tab=repositories">GitHub</a>.</p>
+
+<p>Voilà. J'en profite au passage pour fêter avec ce <em>portfolio</em> le 105<sup>e</sup>article sur ce blog. Enfin centenaire&nbsp;!</p>
+
+<p>Et pour imiter un célèbre bricoleur&nbsp;:<br/>
+<em>«&nbsp;Bon, moi je vous laisse. Faut que j'aille brûler les poubelles de ma boîte.<br/>
+Smack&nbsp;! Smack&nbsp;! Babiroussa, boulingrin, je vous aime putain.&nbsp;♥&nbsp;»</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tortues d'April]]></title>
@@ -244,18 +276,6 @@ Le <a href="https://mail.google.com/mail/help/intl/en/promos/blue/index.html">de
 <h2>Bonus. Le Gorafi</h2>
 
 <p>Ceci n’est pas un <a href="http://www.legorafi.fr/2013/04/01/ceci-nest-pas-un-poisson-davril/">poisson d’avril</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Le français facile]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile/"/>
-    <updated>2013-03-12T11:40:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/le-francais-facile</id>
-    <content type="html"><![CDATA[<p>Vous aimez le français ? Vous savez, cette langue dotée de règles tortueuses, d'une grammaire complexe mais emplie d'une beauté rationnelle agrémentée d'exceptions exotiques ? Moi je suis fan. Et je veux pouvoir accéder aux caractères <strong>Ç</strong> et <strong>œ</strong> avec n'importe quel clavier, sur n'importe quel système d'exploitation, sans me casser la tête.<br/>
-En attendant mon clavier <a href="http://ploum.net/post/216-le-bepo-sur-le-bout-des-doigts">bépo</a>, j'ai mis en ligne un <em>mémo</em> pour me dépanner en toute occasion. Je vous présente donc <a href="http://typo.zenigata.fr">le français facile</a>, site rapidement réalisé grâce à <a href="http://jekyllbootstrap.com/">Jekyll-Bootstrap</a>.</p>
-
-<p>Si ça m'est utile, ça peut vous rendre service. Utilisez-le !</p>
 ]]></content>
   </entry>
   
