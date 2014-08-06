@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : ngoubou | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/ngoubou/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/ngoubou/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Navigation Google]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/navigation-google/"/>
+    <link href="http://zenigata.fr/navigation-google/"/>
     <updated>2013-03-21T12:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/navigation-google</id>
+    <id>http://zenigata.fr/navigation-google</id>
     <content type="html"><![CDATA[<p><em>«&nbsp;Tu as entendu la nouvelle, Papy Ngoubou&nbsp;? <strong>Google Reader</strong> va bientôt fermer ses portes&nbsp;!</em></p>
 
 <p>--- Malheureusement oui. Mais ne t'en fais pas, il existe de bonnes alternatives à ce lecteur de flux RSS.</p>
@@ -47,9 +47,9 @@
   
   <entry>
     <title type="html"><![CDATA[Avoir une touche et se prendre une barre]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/avoir-une-touche-et-se-prendre-une-barre/"/>
+    <link href="http://zenigata.fr/avoir-une-touche-et-se-prendre-une-barre/"/>
     <updated>2012-10-09T10:40:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/avoir-une-touche-et-se-prendre-une-barre</id>
+    <id>http://zenigata.fr/avoir-une-touche-et-se-prendre-une-barre</id>
     <content type="html"><![CDATA[<p><em>«&nbsp;Timothée dit que je ne tape jamais assez vite dans la barre d'adresse. Il dit même que les sites Internet ont le temps de faire faillite avant que je n'arrive dessus&nbsp;! Tu peux m'aider dis, Papy Ngoubou&nbsp;?</em></p>
 
 <p>--- Ma chère Solange, ne te laisse pas influencer par ton frère. Lui-même croît qu'il s'y connaît alors qu'il ne sait rien&nbsp;! Je vais te donner quelques astuces. Premièrement appuie sur <strong>Ctrl+L</strong>.</p>
@@ -70,9 +70,9 @@
   
   <entry>
     <title type="html"><![CDATA[La navigation par onglets]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/la-navigation-par-onglets/"/>
+    <link href="http://zenigata.fr/la-navigation-par-onglets/"/>
     <updated>2012-06-01T17:59:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/la-navigation-par-onglets</id>
+    <id>http://zenigata.fr/la-navigation-par-onglets</id>
     <content type="html"><![CDATA[<p><em>«&nbsp;Hé Papy Ngoubou, tu m’impressionnes. Tu es comme un poisson dans l’eau sur Internet, tu vas trop vite&nbsp;! Mais comment fais-tu&nbsp;?</em></p>
 
 <p>--- Salut la nièce, ça va par chez toi&nbsp;? Ah tu t’es mise à Internet toi aussi, alors je vais te dire&nbsp;: j’utilise la navigation par onglets. Voilà le secret de ma cuisine ; et elle comporte deux ingrédients.</p>
@@ -93,9 +93,9 @@
   
   <entry>
     <title type="html"><![CDATA[Épinglez vos onglets principaux]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/epinglez-vos-onglets-principaux/"/>
+    <link href="http://zenigata.fr/epinglez-vos-onglets-principaux/"/>
     <updated>2012-04-10T16:41:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/epinglez-vos-onglets-principaux</id>
+    <id>http://zenigata.fr/epinglez-vos-onglets-principaux</id>
     <content type="html"><![CDATA[<p><em>«&nbsp;Dis papy Ngoubou, je n’arrive pas à retrouver mes onglets importants quand je navigue sur Internet. T’aurais pas une astuce&nbsp;?</em></p>
 
 <p>--- T’inquiète, j’ai quelque chose pour toi. Viens je te montre. Effectivement, trop d’onglets tue la navigation par onglets. Vous les jeunes, vous voulez toujours aller trop vite. Voilà une fonctionnalité qui peut t’être utile et qui est présente dans les versions récentes de <a href="http://support.google.com/chrome/bin/answer.py?hl=fr&amp;answer=95622">Chrome</a> et de <a href="http://support.mozilla.org/fr/kb/que-sont-les-onglets-epingles">Firefox</a>. Tu n’utilises plus Internet Explorer n’est-ce pas&nbsp;?</p>

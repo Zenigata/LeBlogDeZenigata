@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : afrique | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/afrique/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/afrique/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Je suis un oiseau d'Afrique]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-oiseau-dafrique/"/>
+    <link href="http://zenigata.fr/je-suis-un-oiseau-dafrique/"/>
     <updated>2014-07-14T11:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-oiseau-dafrique</id>
+    <id>http://zenigata.fr/je-suis-un-oiseau-dafrique</id>
     <content type="html"><![CDATA[<p><em>Julien L. se lance dans la lecture de la septième question de la série animaux d'Afrique&nbsp;:</em></p>
 
 <p>Je suis un oiseau d’Afrique rusé et voleur, qui dérobe un quart de ma nourriture à d’autres espèces animales.
@@ -36,9 +36,9 @@ Quand ceux-ci s’en rendent compte, il me suffit de moduler ma voix pour les tr
   
   <entry>
     <title type="html"><![CDATA[Je suis le plus grand carnivore d'Afrique]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-grand-carnivore-dafrique/"/>
+    <link href="http://zenigata.fr/je-suis-le-plus-grand-carnivore-dafrique/"/>
     <updated>2014-04-26T16:30:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-grand-carnivore-dafrique</id>
+    <id>http://zenigata.fr/je-suis-le-plus-grand-carnivore-dafrique</id>
     <content type="html"><![CDATA[<p><em>La cagnotte est à portée de buzzer. Julien L. enchaîne avec la question suivante&nbsp;:</em></p>
 
 <p>Je suis le plus grand carnivore d’Afrique. Originaire d'Afrique centrale et orientale, les membres de mes colonies sont tous aveugles.
@@ -60,9 +60,9 @@ Certains m'appellent alors <em>marabunta</em>. J’apporte la mort sur mon passa
   
   <entry>
     <title type="html"><![CDATA[Je suis le plus grand arthopode terrestre]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-grand-arthopode-terrestre/"/>
+    <link href="http://zenigata.fr/je-suis-le-plus-grand-arthopode-terrestre/"/>
     <updated>2013-08-05T15:30:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-grand-arthopode-terrestre</id>
+    <id>http://zenigata.fr/je-suis-le-plus-grand-arthopode-terrestre</id>
     <content type="html"><![CDATA[<p><em>Face-à-face final&nbsp;:&nbsp;Julien L. annonce de sa voix claire qu'il s'agit d'un animal, puis lit la fiche.</em></p>
 
 <p>Je suis le plus grand arthropode terrestre.
@@ -81,9 +81,9 @@ Mes yeux sont rouges et la couleur de mon corps varie d'un bleu violet à un rou
   
   <entry>
     <title type="html"><![CDATA[Je suis le plus gros oiseau]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-gros-oiseau/"/>
+    <link href="http://zenigata.fr/je-suis-le-plus-gros-oiseau/"/>
     <updated>2013-06-17T16:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-gros-oiseau</id>
+    <id>http://zenigata.fr/je-suis-le-plus-gros-oiseau</id>
     <content type="html"><![CDATA[<p><em>Jeu décisif&nbsp;:&nbsp;Julien L. retrousse ses manches, toise les candidats et sans transition s'élance fermement.</em></p>
 
 <p>Je suis le plus gros oiseau de tous les temps.
@@ -104,9 +104,9 @@ j’étais endémique de l’île de Madagascar où ne subsistent aujourd’hui 
   
   <entry>
     <title type="html"><![CDATA[Je suis un mammifère...]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-mammifere/"/>
+    <link href="http://zenigata.fr/je-suis-un-mammifere/"/>
     <updated>2013-04-29T17:20:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-mammifere</id>
+    <id>http://zenigata.fr/je-suis-un-mammifere</id>
     <content type="html"><![CDATA[<p><em>Julien L. entame de sa plus belle voix&nbsp;:</em></p>
 
 <p>Je suis un mammifère d'Afrique de l'est complètement dépourvu d'instinct de survie. D'une extrême laideur, je peux exécuter ou réduire en esclavage les membres d'une autre colonie. Insensible à la douleur, je ne régule pas la température de mon corps et je ne bois jamais. Il m'arrive couramment de réabsorber mes déjections.</p>

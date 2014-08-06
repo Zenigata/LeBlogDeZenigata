@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Zenigata.github.io/LeBlogDeZenigata/sitemap.xml 
+Sitemap: http://zenigata.fr/sitemap.xml 

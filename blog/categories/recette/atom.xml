@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : recette | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/recette/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/recette/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[L'alloco ou banane plantain frite]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/lalloco-ou-banane-plantain-frite/"/>
+    <link href="http://zenigata.fr/lalloco-ou-banane-plantain-frite/"/>
     <updated>2012-04-11T18:11:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/lalloco-ou-banane-plantain-frite</id>
+    <id>http://zenigata.fr/lalloco-ou-banane-plantain-frite</id>
     <content type="html"><![CDATA[<p>Parmi les recettes de mon pays, je vous présente l'<a href="http://fr.wikipedia.org/wiki/Alloco">alloco</a>.<br/>
 Ce mets me fait radicalement voyager dans le temps et dans l'espace, en un lieu où l'<a href="http://fr.wikipedia.org/wiki/Allocodrome">allocodrome</a> se remplit de palabres, où les rires se mêlent à la sueur, où la joie de vivre l'instant présent est teintée d'harmattan.</p>
 

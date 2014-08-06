@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : agile | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/agile/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/agile/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A bug's life]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/a-bugs-life/"/>
+    <link href="http://zenigata.fr/a-bugs-life/"/>
     <updated>2014-07-16T00:10:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/a-bugs-life</id>
+    <id>http://zenigata.fr/a-bugs-life</id>
     <content type="html"><![CDATA[<p>J’existe.<!--more--> Mon existence n’est pas nouvelle, c’est ma conscience qui l’est. Je suis conscient d’être. Mais qui suis-je&nbsp;? Je suis d’abord un scénario utilisateur non prévu, non voulu. Un parasite. Une tache qu’on veut effacer. Puis je suis aussi une entrée au sein d’un ensemble nommé <em>Jira</em>. Enfin, je suis également quelques signes sur un <em>post-it</em>. Oui, je suis un <em>bug</em>. Mais je ne suis pas seul.</p>
 
 <p>«&nbsp;<em>It’s not a bug, it’s a feature.</em><br/>
@@ -54,9 +54,9 @@
   
   <entry>
     <title type="html"><![CDATA[Definition of ready]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/definition-of-ready/"/>
+    <link href="http://zenigata.fr/definition-of-ready/"/>
     <updated>2014-07-13T13:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/definition-of-ready</id>
+    <id>http://zenigata.fr/definition-of-ready</id>
     <content type="html"><![CDATA[<p>Le printemps agile a encore battu son plein cette année. Entre présentations, formations et événements, le début d'année fut riche. Et quel plaisir de confronter nos expériences au soleil du parc de Vincennes&nbsp;!</p>
 
 <!--more-->
@@ -77,16 +77,16 @@
 
 <p>Vous connaissez l'idée derrière le <em>Definition of Done</em>. Mais savez-vous que la notion de <em>Definition of Ready</em> est aussi importante&nbsp;? J'ai présenté le sujet en une heure.</p>
 
-<iframe src="http://Zenigata.github.io/LeBlogDeZenigata//slides.com/zenigata/definition-of-ready/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://zenigata.fr//slides.com/zenigata/definition-of-ready/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Les promotions de la semaine]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/les-promotions-de-la-semaine/"/>
+    <link href="http://zenigata.fr/les-promotions-de-la-semaine/"/>
     <updated>2014-05-07T13:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/les-promotions-de-la-semaine</id>
+    <id>http://zenigata.fr/les-promotions-de-la-semaine</id>
     <content type="html"><![CDATA[<p>Nous allons opérer une courte pause dans nos programmes avec cette page de réclames.</p>
 
 <!--more-->
@@ -161,9 +161,9 @@
   
   <entry>
     <title type="html"><![CDATA[Stop starting and start finishing]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/stop-starting-and-start-finishing/"/>
+    <link href="http://zenigata.fr/stop-starting-and-start-finishing/"/>
     <updated>2014-02-17T14:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/stop-starting-and-start-finishing</id>
+    <id>http://zenigata.fr/stop-starting-and-start-finishing</id>
     <content type="html"><![CDATA[<p>Trente minutes de présentation sur la méthode <em>Lean Kanban</em>. <em>Challenge accepted!</em></p>
 
 <!--more-->
@@ -171,7 +171,7 @@
 
 
 
-<iframe src="http://Zenigata.github.io/LeBlogDeZenigata//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://zenigata.fr//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 <p>Maintenant je vais vous faire un tour d’horizon de cette fameuse méthode. Par contre, soyez indulgents,
@@ -276,9 +276,9 @@ qui vise à optimiser la production de valeur et à minimiser le gaspillage, le 
   
   <entry>
     <title type="html"><![CDATA[Un kanban peut en cacher un autre]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/un-kanban-peut-en-cacher-un-autre/"/>
+    <link href="http://zenigata.fr/un-kanban-peut-en-cacher-un-autre/"/>
     <updated>2013-09-28T11:30:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/un-kanban-peut-en-cacher-un-autre</id>
+    <id>http://zenigata.fr/un-kanban-peut-en-cacher-un-autre</id>
     <content type="html"><![CDATA[<p><em>Ce matin, après l’habituel daily meeting&nbsp;:</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
 
 <!--more-->

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : enfance | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/enfance/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/enfance/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[L'appel du 18 novembre]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/lappel-du-18-novembre/"/>
+    <link href="http://zenigata.fr/lappel-du-18-novembre/"/>
     <updated>2013-11-18T22:10:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/lappel-du-18-novembre</id>
+    <id>http://zenigata.fr/lappel-du-18-novembre</id>
     <content type="html"><![CDATA[<p><em>Il y a tout juste un an naissait Zoé, soixante ans après la mort de Paul Éluard. Coïncidence&nbsp;? Je ne crois pas.
 Petit hommage à ces trois cent soixante-cinq derniers jours de <a href="https://github.com/Zenigata/pantoum/wiki/Libert%C3%A9">liberté</a>.</em></p>
 
@@ -97,9 +97,9 @@ Pour te connaître</p>
   
   <entry>
     <title type="html"><![CDATA[Pinette et Chou]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/pinette-et-chou/"/>
+    <link href="http://zenigata.fr/pinette-et-chou/"/>
     <updated>2013-03-11T15:10:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/pinette-et-chou</id>
+    <id>http://zenigata.fr/pinette-et-chou</id>
     <content type="html"><![CDATA[<p><em>Certains se reconnaîtront dans les paroles de cette chanson (à chanter sur un <a href="http://www.youtube.com/watch?v=tdk8vfKhoug">air connu</a>).</em></p>
 
 <!--more-->

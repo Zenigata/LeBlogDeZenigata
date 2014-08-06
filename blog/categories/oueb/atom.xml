@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : oueb | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/oueb/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/oueb/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Home sweet home]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/home-sweet-home/"/>
+    <link href="http://zenigata.fr/home-sweet-home/"/>
     <updated>2014-07-19T10:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/home-sweet-home</id>
+    <id>http://zenigata.fr/home-sweet-home</id>
     <content type="html"><![CDATA[<p>Bienvenue chez moi&nbsp;! Je vous fais visiter&nbsp;?</p>
 
 <!--more-->
@@ -47,9 +47,9 @@ Smack&nbsp;! Smack&nbsp;! Babiroussa, boulingrin, je vous aime putain.&nbsp;♥&
   
   <entry>
     <title type="html"><![CDATA[Tortues d'April]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/tortues-dapril/"/>
+    <link href="http://zenigata.fr/tortues-dapril/"/>
     <updated>2014-04-30T19:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/tortues-dapril</id>
+    <id>http://zenigata.fr/tortues-dapril</id>
     <content type="html"><![CDATA[<p>Le 1<sup>er</sup>avril fut une belle journée pour aller surfer et tendre ses filets sur les Internets. Quels poissons ai-je donc attrapés et retenus pour cette moisson 2014&nbsp;?</p>
 
 <!--more-->
@@ -109,9 +109,9 @@ Mais également celui de <a href="http://minecraft.fr/facebook-rachete-mojang/">
   
   <entry>
     <title type="html"><![CDATA[20 listes d'œuvres]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres/"/>
+    <link href="http://zenigata.fr/20-listes-doeuvres/"/>
     <updated>2014-02-16T13:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres</id>
+    <id>http://zenigata.fr/20-listes-doeuvres</id>
     <content type="html"><![CDATA[<p><em>Aujourd'hui je vous propose vingt listes subjectives regroupées en cinq thèmes approximatifs, le tout sponsorisé par mon réseau social préféré.</em></p>
 
 <!--more-->
@@ -171,9 +171,9 @@ Mais également celui de <a href="http://minecraft.fr/facebook-rachete-mojang/">
   
   <entry>
     <title type="html"><![CDATA[Veille technique]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/veille-technique/"/>
+    <link href="http://zenigata.fr/veille-technique/"/>
     <updated>2013-09-02T12:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/veille-technique</id>
+    <id>http://zenigata.fr/veille-technique</id>
     <content type="html"><![CDATA[<p>Utilisons la méthode dite des <a href="http://fr.wikipedia.org/wiki/Cinq_pourquoi">cinq pourquoi</a> pour tenter de résoudre le
 problème suivant&nbsp;:&nbsp;je n'arrive pas à organiser mes marque-pages.</p>
 
@@ -222,9 +222,9 @@ depuis un espace public par exemple.</p>
   
   <entry>
     <title type="html"><![CDATA[Revue de oueb]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/revue-de-oueb/"/>
+    <link href="http://zenigata.fr/revue-de-oueb/"/>
     <updated>2013-04-18T10:30:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/revue-de-oueb</id>
+    <id>http://zenigata.fr/revue-de-oueb</id>
     <content type="html"><![CDATA[<p>En avril, ne découvre pas ton poisson d'un fil mais accroche-le. Dix farceurs se prêtent au jeu pour cette édition 2013. Compromis, chose due.</p>
 
 <!--more-->

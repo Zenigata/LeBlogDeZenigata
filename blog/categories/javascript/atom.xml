@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : javascript | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/javascript/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/javascript/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Casser la croûte]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/casser-la-croute/"/>
+    <link href="http://zenigata.fr/casser-la-croute/"/>
     <updated>2013-06-27T18:10:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/casser-la-croute</id>
+    <id>http://zenigata.fr/casser-la-croute</id>
     <content type="html"><![CDATA[<p>Appelez-la comme vous voulez --&nbsp;<em>Midi techniques</em>, <em>12@13</em> ou <em><a href="http://www.brownbaglunch.fr/">Brown Bag Lunch</a></em>&nbsp;--
 mais la mise à profit de la pause déjeuner pour échanger sur un sujet précis me tient particulièrement à cœur.
 Prenez votre sandwich, ramenez vos collègues et c'est parti pour une heure informelle de partage.</p>
@@ -35,7 +35,7 @@ atelier divers, sortie photo, instant jeux de société, live coding, etc.</p>
 <p>Aujourd'hui la maturité du langage <em>JavaScript</em> est impressionnante et il n'est plus raisonnable de faire du <em>inline</em>,
 de se passer de tests unitaires, ou de polluer l'espace de nommage. On est en 2013 mec.</p>
 
-<script async class="speakerdeck-embed" data-id="0ccc2980c16b013094e942d55316ac74" data-ratio="1.33333333333333" src="http://Zenigata.github.io/LeBlogDeZenigata//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="0ccc2980c16b013094e942d55316ac74" data-ratio="1.33333333333333" src="http://zenigata.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 <h2>Les méthodes agiles</h2>
@@ -51,9 +51,9 @@ de se passer de tests unitaires, ou de polluer l'espace de nommage. On est en 20
   
   <entry>
     <title type="html"><![CDATA[La puissance gogol]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/la-puissance-gogol/"/>
+    <link href="http://zenigata.fr/la-puissance-gogol/"/>
     <updated>2012-09-14T17:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/la-puissance-gogol</id>
+    <id>http://zenigata.fr/la-puissance-gogol</id>
     <content type="html"><![CDATA[<p>L'entrée du jour dans le <strong>DiXIt</strong> est une notion mathématique : le <a href="http://fr.wikipedia.org/wiki/Gogol_(nombre)">gogol</a>.</p>
 
 <!--more-->
@@ -166,9 +166,9 @@ Google s'en est encore inspiré, cette fois pour le nom du siège de l'entrepris
   
   <entry>
     <title type="html"><![CDATA[Pendant ce temps-là en 1985]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/pendant-ce-temps-la-en-1985/"/>
+    <link href="http://zenigata.fr/pendant-ce-temps-la-en-1985/"/>
     <updated>2012-04-06T18:10:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/pendant-ce-temps-la-en-1985</id>
+    <id>http://zenigata.fr/pendant-ce-temps-la-en-1985</id>
     <content type="html"><![CDATA[<p>Quel est votre rapport au temps qui passe ?</p>
 
 <p>À défaut de lapin en chocolat pour Pâques, les Papous ont évoqué dimanche dernier (<a href="http://media.radiofrance-podcast.net/podcast09/13364-01.04.2012-ITEMA_20356977-0.mp3">mp3</a>) le lapin pressé de Lewis Carroll, ainsi que le fameux Chapelier :

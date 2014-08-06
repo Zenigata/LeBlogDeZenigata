@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : banane | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/banane/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/banane/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Free bananas!]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/free-bananas/"/>
+    <link href="http://zenigata.fr/free-bananas/"/>
     <updated>2013-02-08T17:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/free-bananas</id>
+    <id>http://zenigata.fr/free-bananas</id>
     <content type="html"><![CDATA[<p><em>Ceci est un communiqué officiel du <strong>Front de Libération de la Banane</strong></em>.</p>
 
 <p><strong>♪♫ jingle ♪♫</strong></p>
@@ -42,9 +42,9 @@ porte-parole du <em>FLB</em></p>
   
   <entry>
     <title type="html"><![CDATA[La musique bananière]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/la-musique-bananiere/"/>
+    <link href="http://zenigata.fr/la-musique-bananiere/"/>
     <updated>2012-11-28T16:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/la-musique-bananiere</id>
+    <id>http://zenigata.fr/la-musique-bananiere</id>
     <content type="html"><![CDATA[<p>Le FLB<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup> a son propre hymne !</p>
 
 <!--more-->
@@ -70,9 +70,9 @@ porte-parole du <em>FLB</em></p>
   
   <entry>
     <title type="html"><![CDATA[Un pêle-mêle de bananes]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/un-pele-mele-de-bananes/"/>
+    <link href="http://zenigata.fr/un-pele-mele-de-bananes/"/>
     <updated>2012-07-24T18:10:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/un-pele-mele-de-bananes</id>
+    <id>http://zenigata.fr/un-pele-mele-de-bananes</id>
     <content type="html"><![CDATA[<p>Quelques nouvelles du front de libération de la banane avec ces clichés :</p>
 
 <!--more-->
@@ -91,9 +91,9 @@ porte-parole du <em>FLB</em></p>
   
   <entry>
     <title type="html"><![CDATA[L'alloco ou banane plantain frite]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/lalloco-ou-banane-plantain-frite/"/>
+    <link href="http://zenigata.fr/lalloco-ou-banane-plantain-frite/"/>
     <updated>2012-04-11T18:11:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/lalloco-ou-banane-plantain-frite</id>
+    <id>http://zenigata.fr/lalloco-ou-banane-plantain-frite</id>
     <content type="html"><![CDATA[<p>Parmi les recettes de mon pays, je vous présente l'<a href="http://fr.wikipedia.org/wiki/Alloco">alloco</a>.<br/>
 Ce mets me fait radicalement voyager dans le temps et dans l'espace, en un lieu où l'<a href="http://fr.wikipedia.org/wiki/Allocodrome">allocodrome</a> se remplit de palabres, où les rires se mêlent à la sueur, où la joie de vivre l'instant présent est teintée d'harmattan.</p>
 
@@ -139,9 +139,9 @@ Ce mets me fait radicalement voyager dans le temps et dans l'espace, en un lieu 
   
   <entry>
     <title type="html"><![CDATA[Se les peler comme une banane]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/se-les-peler-comme-une-banane/"/>
+    <link href="http://zenigata.fr/se-les-peler-comme-une-banane/"/>
     <updated>2012-01-10T12:11:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/se-les-peler-comme-une-banane</id>
+    <id>http://zenigata.fr/se-les-peler-comme-une-banane</id>
     <content type="html"><![CDATA[<p><em>Parlons bien. Parlons banane !</em></p>
 
 <p>Savez-vous peler une banane ? et bien on vous a menti toute votre vie. La preuve.</p>

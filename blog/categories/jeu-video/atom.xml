@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Catégorie : jeu video | Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/blog/categories/jeu-video/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/blog/categories/jeu-video/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Radio New Vegas]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/radio-new-vegas/"/>
+    <link href="http://zenigata.fr/radio-new-vegas/"/>
     <updated>2014-07-28T19:35:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/radio-new-vegas</id>
+    <id>http://zenigata.fr/radio-new-vegas</id>
     <content type="html"><![CDATA[<p><em>Un brin de fiction dans l'univers de Fallout New Vegas, à l'initiative de <a href="http://merlanfrit.net/Soldejam">Merlanfrit.net</a>.</em></p>
 
 <!--more-->

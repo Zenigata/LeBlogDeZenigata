@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Zenigata]]></title>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/atom.xml" rel="self"/>
-  <link href="http://Zenigata.github.io/LeBlogDeZenigata/"/>
-  <updated>2014-08-06T01:32:06+02:00</updated>
-  <id>http://Zenigata.github.io/LeBlogDeZenigata/</id>
+  <link href="http://zenigata.fr/atom.xml" rel="self"/>
+  <link href="http://zenigata.fr/"/>
+  <updated>2014-08-06T02:55:32+02:00</updated>
+  <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Un deuxième tour en cuisine]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/un-deuxieme-tour-en-cuisine/"/>
+    <link href="http://zenigata.fr/un-deuxieme-tour-en-cuisine/"/>
     <updated>2014-08-06T01:35:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/un-deuxieme-tour-en-cuisine</id>
+    <id>http://zenigata.fr/un-deuxieme-tour-en-cuisine</id>
     <content type="html"><![CDATA[<p><em>Nouvel entretien culinaire, cette fois avec Ena Black une blogueuse amoureuse et voyageuse.</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
 
 <!--more-->
@@ -105,9 +105,9 @@ La vérité se trouve donc dans votre palais.<sup id='fnref:23'><a href='#fn:23'
   
   <entry>
     <title type="html"><![CDATA[Radio New Vegas]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/radio-new-vegas/"/>
+    <link href="http://zenigata.fr/radio-new-vegas/"/>
     <updated>2014-07-28T19:35:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/radio-new-vegas</id>
+    <id>http://zenigata.fr/radio-new-vegas</id>
     <content type="html"><![CDATA[<p><em>Un brin de fiction dans l&#8217;univers de Fallout New Vegas, à l&#8217;initiative de <a href="http://merlanfrit.net/Soldejam">Merlanfrit.net</a>.</em></p>
 
 <!--more-->
@@ -143,9 +143,9 @@ La vérité se trouve donc dans votre palais.<sup id='fnref:23'><a href='#fn:23'
   
   <entry>
     <title type="html"><![CDATA[Un premier tour en cuisine]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/un-premier-tour-en-cuisine/"/>
+    <link href="http://zenigata.fr/un-premier-tour-en-cuisine/"/>
     <updated>2014-07-20T13:15:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/un-premier-tour-en-cuisine</id>
+    <id>http://zenigata.fr/un-premier-tour-en-cuisine</id>
     <content type="html"><![CDATA[<p><em>Aujourd&#8217;hui, je reçois une blogueuse culinaire qui répond au nom original de Carotte sauvage.</em><sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
 
 <!--more-->
@@ -200,9 +200,9 @@ La vérité se trouve donc dans votre palais.<sup id='fnref:23'><a href='#fn:23'
   
   <entry>
     <title type="html"><![CDATA[Home sweet home]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/home-sweet-home/"/>
+    <link href="http://zenigata.fr/home-sweet-home/"/>
     <updated>2014-07-19T10:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/home-sweet-home</id>
+    <id>http://zenigata.fr/home-sweet-home</id>
     <content type="html"><![CDATA[<p>Bienvenue chez moi&nbsp;! Je vous fais visiter&nbsp;?</p>
 
 <!--more-->
@@ -232,9 +232,9 @@ Smack&nbsp;! Smack&nbsp;! Babiroussa, boulingrin, je vous aime putain.&nbsp;♥&
   
   <entry>
     <title type="html"><![CDATA[A bug's life]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/a-bugs-life/"/>
+    <link href="http://zenigata.fr/a-bugs-life/"/>
     <updated>2014-07-16T00:10:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/a-bugs-life</id>
+    <id>http://zenigata.fr/a-bugs-life</id>
     <content type="html"><![CDATA[<p>J’existe.<!--more--> Mon existence n’est pas nouvelle, c’est ma conscience qui l’est. Je suis conscient d’être. Mais qui suis-je&nbsp;? Je suis d’abord un scénario utilisateur non prévu, non voulu. Un parasite. Une tache qu’on veut effacer. Puis je suis aussi une entrée au sein d’un ensemble nommé <em>Jira</em>. Enfin, je suis également quelques signes sur un <em>post-it</em>. Oui, je suis un <em>bug</em>. Mais je ne suis pas seul.</p>
 
 <p>«&nbsp;<em>It’s not a bug, it’s a feature.</em><br/>
@@ -256,7 +256,7 @@ Smack&nbsp;! Smack&nbsp;! Babiroussa, boulingrin, je vous aime putain.&nbsp;♥&
 
 <p>Ce soir, les développeurs –&nbsp;ces créateurs et destructeurs de <em>bugs</em>&nbsp;– se coucheront le sourire aux lèvres, contents d’avoir pu améliorer le quotidien de leurs clients. Mais qui sait combien de nouveaux bugs naîtront de cette mise en production&nbsp;?</p>
 
-<p><em>N.B.&nbsp;:</em> Pair programming, perturbations, brown bag lunch, feature flipping&nbsp;: <a href="http://Zenigata.github.io/LeBlogDeZenigata/les-promotions-de-la-semaine/">explications</a>.<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
+<p><em>N.B.&nbsp;:</em> Pair programming, perturbations, brown bag lunch, feature flipping&nbsp;: <a href="http://zenigata.fr/les-promotions-de-la-semaine/">explications</a>.<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
 
 <hr />
 
@@ -271,9 +271,9 @@ Smack&nbsp;! Smack&nbsp;! Babiroussa, boulingrin, je vous aime putain.&nbsp;♥&
   
   <entry>
     <title type="html"><![CDATA[Je suis un oiseau d'Afrique]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-oiseau-dafrique/"/>
+    <link href="http://zenigata.fr/je-suis-un-oiseau-dafrique/"/>
     <updated>2014-07-14T11:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-un-oiseau-dafrique</id>
+    <id>http://zenigata.fr/je-suis-un-oiseau-dafrique</id>
     <content type="html"><![CDATA[<p><em>Julien L. se lance dans la lecture de la septième question de la série animaux d&#8217;Afrique&nbsp;:</em></p>
 
 <p>Je suis un oiseau d’Afrique rusé et voleur, qui dérobe un quart de ma nourriture à d’autres espèces animales.
@@ -292,9 +292,9 @@ Quand ceux-ci s’en rendent compte, il me suffit de moduler ma voix pour les tr
   
   <entry>
     <title type="html"><![CDATA[Definition of ready]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/definition-of-ready/"/>
+    <link href="http://zenigata.fr/definition-of-ready/"/>
     <updated>2014-07-13T13:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/definition-of-ready</id>
+    <id>http://zenigata.fr/definition-of-ready</id>
     <content type="html"><![CDATA[<p>Le printemps agile a encore battu son plein cette année. Entre présentations, formations et événements, le début d&#8217;année fut riche. Et quel plaisir de confronter nos expériences au soleil du parc de Vincennes&nbsp;!</p>
 
 <!--more-->
@@ -315,16 +315,16 @@ Quand ceux-ci s’en rendent compte, il me suffit de moduler ma voix pour les tr
 
 <p>Vous connaissez l&#8217;idée derrière le <em>Definition of Done</em>. Mais savez-vous que la notion de <em>Definition of Ready</em> est aussi importante&nbsp;? J&#8217;ai présenté le sujet en une heure.</p>
 
-<iframe src="http://Zenigata.github.io/LeBlogDeZenigata//slides.com/zenigata/definition-of-ready/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://zenigata.fr//slides.com/zenigata/definition-of-ready/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[20 chansons ivoiriennes rétro]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-chansons-ivoiriennes-retro/"/>
+    <link href="http://zenigata.fr/20-chansons-ivoiriennes-retro/"/>
     <updated>2014-06-04T10:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-chansons-ivoiriennes-retro</id>
+    <id>http://zenigata.fr/20-chansons-ivoiriennes-retro</id>
     <content type="html"><![CDATA[<p>La Côte d&#8217;Ivoire des années 90&nbsp;: une enfance dorée et insouciante au milieu d&#8217;odeurs, de goûts et de couleurs qui me constituent aujourd&#8217;hui. Pour mon 101<sup>e</sup> message, je vous propose un plongeon dans un monde imaginaire dans lequel j&#8217;aurais aimé ne jamais vieillir, et ce à travers une compilation très personnelle.
 <a href="https://www.youtube.com/playlist?list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq">Ya foye !</a></p>
 
@@ -334,26 +334,26 @@ Quand ceux-ci s’en rendent compte, il me suffit de moduler ma voix pour les tr
 
 
 <p>
-  <a href="https://www.youtube.com/watch?v=RQOWRSwy_8A&index=13&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Brigadier Sabari"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/RQOWRSwy_8A/default.jpg" alt="Alpha Blondy – Brigadier Sabari" /></a>
-  <a href="https://www.youtube.com/watch?v=SiCQF9klK20&index=16&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Houphouet Yako"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/SiCQF9klK20/default.jpg" alt="Alpha Blondy – Houphouet Yako" /></a>
-  <a href="https://www.youtube.com/watch?v=Qh-KITT74GY&index=14&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Masada"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/Qh-KITT74GY/default.jpg" alt="Alpha Blondy – Masada" /></a>
-  <a href="https://www.youtube.com/watch?v=3PpmmN3LVr4&index=15&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Sweet Fanta Diallo"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/3PpmmN3LVr4/default.jpg" alt="Alpha Blondy – Sweet Fanta Diallo" /></a>
-  <a href="https://www.youtube.com/watch?v=Zlx6qzoMS9k&index=21&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Daouda – La femme de mon patron"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/Zlx6qzoMS9k/default.jpg" alt="Daouda – La femme de mon patron" /></a>
-  <a href="https://www.youtube.com/watch?v=OIR_kkZwREs&index=20&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Daouda – Les gbakas d'Abidjan"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/OIR_kkZwREs/default.jpg" alt="Daouda – Les gbakas d'Abidjan" /></a>
-  <a href="https://www.youtube.com/watch?v=s91cXAKTVsU&index=17&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Espoir 2000 – Calculeuse"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/s91cXAKTVsU/default.jpg" alt="Espoir 2000 – Calculeuse" /></a>
-  <a href="https://www.youtube.com/watch?v=BeA_-fSBlGE&index=7&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="L'enfant Yodé – Les Cocos"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/BeA_-fSBlGE/default.jpg" alt="L'enfant Yodé – Les Cocos" /></a>
-  <a href="https://www.youtube.com/watch?v=UHRla8kGd-0&index=8&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Meiway – 200% Zoblazo"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/UHRla8kGd-0/default.jpg" alt="Meiway – 200% Zoblazo" /></a>
-  <a href="https://www.youtube.com/watch?v=rWHbTEHUUho&index=6&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Meiway – Godeba"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/rWHbTEHUUho/default.jpg" alt="Meiway – Godeba" /></a>
-  <a href="https://www.youtube.com/watch?v=PjVdfR3giyU&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=12" title="Meiway – Ma Folie"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/PjVdfR3giyU/default.jpg" alt="Meiway – Ma Folie" /></a>
-  <a href="https://www.youtube.com/watch?v=sKPWYswUomg&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=9" title="Petit Denis – Papa Polo"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/sKPWYswUomg/default.jpg" alt="Petit Denis – Papa Polo" /></a>
-  <a href="https://www.youtube.com/watch?v=U92RxvRAvVI&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=10" title="Petit Denis – Tournoi"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/U92RxvRAvVI/default.jpg" alt="Petit Denis – Tournoi" /></a>
-  <a href="https://www.youtube.com/watch?v=HWHXLk98yE8&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=18" title="Petit Yodé et Pat Sacko – On est fatigué"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/HWHXLk98yE8/default.jpg" alt="Petit Yodé et Pat Sacko – On est fatigué" /></a>
-  <a href="https://www.youtube.com/watch?v=8ypTEJDZoe8&index=5&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="R.A.S – Bombé"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/8ypTEJDZoe8/default.jpg" alt="R.A.S – Bombé" /></a>
-  <a href="https://www.youtube.com/watch?v=R-9zRHs4tTg&index=2&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Serges Kassy – John Bri"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/R-9zRHs4tTg/default.jpg" alt="Serges Kassy – John Bri" /></a>
-  <a href="https://www.youtube.com/watch?v=lFzb_wA-vkU&index=3&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Serges Kassy – C'est Pas Da Ni Blo"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/lFzb_wA-vkU/default.jpg" alt="Serges Kassy – C'est Pas Da Ni Blo" /></a>
-  <a href="https://www.youtube.com/watch?v=KXk1r7-AyXg&index=4&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Serges Kassy – Cabri Mort"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/KXk1r7-AyXg/default.jpg" alt="Serges Kassy – Cabri Mort" /></a>
-  <a href="https://www.youtube.com/watch?v=zVJmfWBCocU&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=11" title="Tiken Jah Fakoly – On a tout compris"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/zVJmfWBCocU/default.jpg" alt="Tiken Jah Fakoly – On a tout compris" /></a>
-  <a href="https://www.youtube.com/watch?v=yOVlKmwQmwA&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=19" title="Worl-A-Girl – No Woman No Cry"><img src="http://Zenigata.github.io/LeBlogDeZenigata//i1.ytimg.com/vi/yOVlKmwQmwA/default.jpg" alt="Worl-A-Girl – No Woman No Cry" /></a>
+  <a href="https://www.youtube.com/watch?v=RQOWRSwy_8A&index=13&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Brigadier Sabari"><img src="http://zenigata.fr//i1.ytimg.com/vi/RQOWRSwy_8A/default.jpg" alt="Alpha Blondy – Brigadier Sabari" /></a>
+  <a href="https://www.youtube.com/watch?v=SiCQF9klK20&index=16&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Houphouet Yako"><img src="http://zenigata.fr//i1.ytimg.com/vi/SiCQF9klK20/default.jpg" alt="Alpha Blondy – Houphouet Yako" /></a>
+  <a href="https://www.youtube.com/watch?v=Qh-KITT74GY&index=14&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Masada"><img src="http://zenigata.fr//i1.ytimg.com/vi/Qh-KITT74GY/default.jpg" alt="Alpha Blondy – Masada" /></a>
+  <a href="https://www.youtube.com/watch?v=3PpmmN3LVr4&index=15&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Alpha Blondy – Sweet Fanta Diallo"><img src="http://zenigata.fr//i1.ytimg.com/vi/3PpmmN3LVr4/default.jpg" alt="Alpha Blondy – Sweet Fanta Diallo" /></a>
+  <a href="https://www.youtube.com/watch?v=Zlx6qzoMS9k&index=21&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Daouda – La femme de mon patron"><img src="http://zenigata.fr//i1.ytimg.com/vi/Zlx6qzoMS9k/default.jpg" alt="Daouda – La femme de mon patron" /></a>
+  <a href="https://www.youtube.com/watch?v=OIR_kkZwREs&index=20&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Daouda – Les gbakas d'Abidjan"><img src="http://zenigata.fr//i1.ytimg.com/vi/OIR_kkZwREs/default.jpg" alt="Daouda – Les gbakas d'Abidjan" /></a>
+  <a href="https://www.youtube.com/watch?v=s91cXAKTVsU&index=17&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Espoir 2000 – Calculeuse"><img src="http://zenigata.fr//i1.ytimg.com/vi/s91cXAKTVsU/default.jpg" alt="Espoir 2000 – Calculeuse" /></a>
+  <a href="https://www.youtube.com/watch?v=BeA_-fSBlGE&index=7&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="L'enfant Yodé – Les Cocos"><img src="http://zenigata.fr//i1.ytimg.com/vi/BeA_-fSBlGE/default.jpg" alt="L'enfant Yodé – Les Cocos" /></a>
+  <a href="https://www.youtube.com/watch?v=UHRla8kGd-0&index=8&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Meiway – 200% Zoblazo"><img src="http://zenigata.fr//i1.ytimg.com/vi/UHRla8kGd-0/default.jpg" alt="Meiway – 200% Zoblazo" /></a>
+  <a href="https://www.youtube.com/watch?v=rWHbTEHUUho&index=6&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Meiway – Godeba"><img src="http://zenigata.fr//i1.ytimg.com/vi/rWHbTEHUUho/default.jpg" alt="Meiway – Godeba" /></a>
+  <a href="https://www.youtube.com/watch?v=PjVdfR3giyU&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=12" title="Meiway – Ma Folie"><img src="http://zenigata.fr//i1.ytimg.com/vi/PjVdfR3giyU/default.jpg" alt="Meiway – Ma Folie" /></a>
+  <a href="https://www.youtube.com/watch?v=sKPWYswUomg&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=9" title="Petit Denis – Papa Polo"><img src="http://zenigata.fr//i1.ytimg.com/vi/sKPWYswUomg/default.jpg" alt="Petit Denis – Papa Polo" /></a>
+  <a href="https://www.youtube.com/watch?v=U92RxvRAvVI&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=10" title="Petit Denis – Tournoi"><img src="http://zenigata.fr//i1.ytimg.com/vi/U92RxvRAvVI/default.jpg" alt="Petit Denis – Tournoi" /></a>
+  <a href="https://www.youtube.com/watch?v=HWHXLk98yE8&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=18" title="Petit Yodé et Pat Sacko – On est fatigué"><img src="http://zenigata.fr//i1.ytimg.com/vi/HWHXLk98yE8/default.jpg" alt="Petit Yodé et Pat Sacko – On est fatigué" /></a>
+  <a href="https://www.youtube.com/watch?v=8ypTEJDZoe8&index=5&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="R.A.S – Bombé"><img src="http://zenigata.fr//i1.ytimg.com/vi/8ypTEJDZoe8/default.jpg" alt="R.A.S – Bombé" /></a>
+  <a href="https://www.youtube.com/watch?v=R-9zRHs4tTg&index=2&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Serges Kassy – John Bri"><img src="http://zenigata.fr//i1.ytimg.com/vi/R-9zRHs4tTg/default.jpg" alt="Serges Kassy – John Bri" /></a>
+  <a href="https://www.youtube.com/watch?v=lFzb_wA-vkU&index=3&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Serges Kassy – C'est Pas Da Ni Blo"><img src="http://zenigata.fr//i1.ytimg.com/vi/lFzb_wA-vkU/default.jpg" alt="Serges Kassy – C'est Pas Da Ni Blo" /></a>
+  <a href="https://www.youtube.com/watch?v=KXk1r7-AyXg&index=4&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq" title="Serges Kassy – Cabri Mort"><img src="http://zenigata.fr//i1.ytimg.com/vi/KXk1r7-AyXg/default.jpg" alt="Serges Kassy – Cabri Mort" /></a>
+  <a href="https://www.youtube.com/watch?v=zVJmfWBCocU&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=11" title="Tiken Jah Fakoly – On a tout compris"><img src="http://zenigata.fr//i1.ytimg.com/vi/zVJmfWBCocU/default.jpg" alt="Tiken Jah Fakoly – On a tout compris" /></a>
+  <a href="https://www.youtube.com/watch?v=yOVlKmwQmwA&list=PLMAUNF7zuaqol79g_Xxji7UcOBm28-sNq&index=19" title="Worl-A-Girl – No Woman No Cry"><img src="http://zenigata.fr//i1.ytimg.com/vi/yOVlKmwQmwA/default.jpg" alt="Worl-A-Girl – No Woman No Cry" /></a>
 </p>
 
 ]]></content>
@@ -361,9 +361,9 @@ Quand ceux-ci s’en rendent compte, il me suffit de moduler ma voix pour les tr
   
   <entry>
     <title type="html"><![CDATA[Octocast]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/octocast/"/>
+    <link href="http://zenigata.fr/octocast/"/>
     <updated>2014-05-21T19:30:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/octocast</id>
+    <id>http://zenigata.fr/octocast</id>
     <content type="html"><![CDATA[<p>Pour la huitième fois, laissez-moi vous présenter quelques émissions adaptées à tous les goûts.</p>
 
 <!--more-->
@@ -418,9 +418,9 @@ Choisissez vos jeux cultes et plongez-vous à nouveau dans leur univers&nbsp;: o
   
   <entry>
     <title type="html"><![CDATA[Les promotions de la semaine]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/les-promotions-de-la-semaine/"/>
+    <link href="http://zenigata.fr/les-promotions-de-la-semaine/"/>
     <updated>2014-05-07T13:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/les-promotions-de-la-semaine</id>
+    <id>http://zenigata.fr/les-promotions-de-la-semaine</id>
     <content type="html"><![CDATA[<p>Nous allons opérer une courte pause dans nos programmes avec cette page de réclames.</p>
 
 <!--more-->
@@ -495,9 +495,9 @@ Choisissez vos jeux cultes et plongez-vous à nouveau dans leur univers&nbsp;: o
   
   <entry>
     <title type="html"><![CDATA[Dis-moi qui tu vantes, je te dirai qui tu hais]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/dis-moi-qui-tu-vantes/"/>
+    <link href="http://zenigata.fr/dis-moi-qui-tu-vantes/"/>
     <updated>2014-05-06T13:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/dis-moi-qui-tu-vantes</id>
+    <id>http://zenigata.fr/dis-moi-qui-tu-vantes</id>
     <content type="html"><![CDATA[<p><em>Ma liseuse Sony a de plus en plus de mal avec la prise de notes (le logiciel freeze), sinon à part ça elle se porte comme un charme après deux ans et demi d&#8217;utilisation intensive.</em>
 <em>Je penserai éventuellement à la changer à la prochaine évolution technologique. Sera-ce l&#8217;écran pliable&nbsp;?</em></p>
 
@@ -537,9 +537,9 @@ La pluie.&nbsp;»<sup id='fnref:8'><a href='#fn:8' rel='footnote'>8</a></sup></p
   
   <entry>
     <title type="html"><![CDATA[Miam]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/miam/"/>
+    <link href="http://zenigata.fr/miam/"/>
     <updated>2014-05-03T18:15:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/miam</id>
+    <id>http://zenigata.fr/miam</id>
     <content type="html"><![CDATA[<p><a href="http://www.mediametrie.fr/">Médiamétrie</a>. Durée&nbsp;: 9 mois. Ce fut ma mission la plus difficile et la plus courte, mais la plus intense aussi. Je crois que je ne l&#8217;oublierai pas de sitôt.</p>
 
 <!--more-->
@@ -582,9 +582,9 @@ En t’enfilant une bonne rasade&nbsp;!</em></p>
   
   <entry>
     <title type="html"><![CDATA[Tortues d'April]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/tortues-dapril/"/>
+    <link href="http://zenigata.fr/tortues-dapril/"/>
     <updated>2014-04-30T19:00:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/tortues-dapril</id>
+    <id>http://zenigata.fr/tortues-dapril</id>
     <content type="html"><![CDATA[<p>Le 1<sup>er</sup>avril fut une belle journée pour aller surfer et tendre ses filets sur les Internets. Quels poissons ai-je donc attrapés et retenus pour cette moisson 2014&nbsp;?</p>
 
 <!--more-->
@@ -644,9 +644,9 @@ Mais également celui de <a href="http://minecraft.fr/facebook-rachete-mojang/">
   
   <entry>
     <title type="html"><![CDATA[Je suis le plus grand carnivore d'Afrique]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-grand-carnivore-dafrique/"/>
+    <link href="http://zenigata.fr/je-suis-le-plus-grand-carnivore-dafrique/"/>
     <updated>2014-04-26T16:30:00+02:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/je-suis-le-plus-grand-carnivore-dafrique</id>
+    <id>http://zenigata.fr/je-suis-le-plus-grand-carnivore-dafrique</id>
     <content type="html"><![CDATA[<p><em>La cagnotte est à portée de buzzer. Julien L. enchaîne avec la question suivante&nbsp;:</em></p>
 
 <p>Je suis le plus grand carnivore d’Afrique. Originaire d&#8217;Afrique centrale et orientale, les membres de mes colonies sont tous aveugles.
@@ -668,9 +668,9 @@ Certains m&#8217;appellent alors <em>marabunta</em>. J’apporte la mort sur mon
   
   <entry>
     <title type="html"><![CDATA[Stop starting and start finishing]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/stop-starting-and-start-finishing/"/>
+    <link href="http://zenigata.fr/stop-starting-and-start-finishing/"/>
     <updated>2014-02-17T14:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/stop-starting-and-start-finishing</id>
+    <id>http://zenigata.fr/stop-starting-and-start-finishing</id>
     <content type="html"><![CDATA[<p>Trente minutes de présentation sur la méthode <em>Lean Kanban</em>. <em>Challenge accepted!</em></p>
 
 <!--more-->
@@ -678,7 +678,7 @@ Certains m&#8217;appellent alors <em>marabunta</em>. J’apporte la mort sur mon
 
 
 
-<iframe src="http://Zenigata.github.io/LeBlogDeZenigata//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://zenigata.fr//slid.es/zenigata/kanban/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 <p>Maintenant je vais vous faire un tour d’horizon de cette fameuse méthode. Par contre, soyez indulgents,
@@ -783,9 +783,9 @@ qui vise à optimiser la production de valeur et à minimiser le gaspillage, le 
   
   <entry>
     <title type="html"><![CDATA[20 listes d'œuvres]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres/"/>
+    <link href="http://zenigata.fr/20-listes-doeuvres/"/>
     <updated>2014-02-16T13:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/20-listes-doeuvres</id>
+    <id>http://zenigata.fr/20-listes-doeuvres</id>
     <content type="html"><![CDATA[<p><em>Aujourd&#8217;hui je vous propose vingt listes subjectives regroupées en cinq thèmes approximatifs, le tout sponsorisé par mon réseau social préféré.</em></p>
 
 <!--more-->
@@ -845,9 +845,9 @@ qui vise à optimiser la production de valeur et à minimiser le gaspillage, le 
   
   <entry>
     <title type="html"><![CDATA[Halte hivernale]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/halte-hivernale/"/>
+    <link href="http://zenigata.fr/halte-hivernale/"/>
     <updated>2014-01-15T14:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/halte-hivernale</id>
+    <id>http://zenigata.fr/halte-hivernale</id>
     <content type="html"><![CDATA[<p>L&#8217;actualité du moment, c&#8217;est dans le flash info.<br/>
 ♪♫ jingle ♪♫</p>
 
@@ -881,9 +881,9 @@ D&#8217;ailleurs cette saison nous participons au challenge Île-de-France qui r
   
   <entry>
     <title type="html"><![CDATA[Extraits choisis]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/extraits-choisis/"/>
+    <link href="http://zenigata.fr/extraits-choisis/"/>
     <updated>2014-01-05T12:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/extraits-choisis</id>
+    <id>http://zenigata.fr/extraits-choisis</id>
     <content type="html"><![CDATA[<p><em>Pour fêter le cinquantième ouvrage que je lis dans sa version numérique,</em>
 <em>voici une nouvelle fournée de morceaux de littérature.</em></p>
 
@@ -926,9 +926,9 @@ Et il reste un squelette de plus sur le grand désert de l&#8217;entente interna
   
   <entry>
     <title type="html"><![CDATA[Peau de cast]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/peau-de-cast/"/>
+    <link href="http://zenigata.fr/peau-de-cast/"/>
     <updated>2014-01-04T12:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/peau-de-cast</id>
+    <id>http://zenigata.fr/peau-de-cast</id>
     <content type="html"><![CDATA[<p>Et si votre résolution 2014 c&#8217;était d&#8217;écouter plus d&#8217;émissions de qualité&nbsp;?</p>
 
 <!--more-->
@@ -1000,9 +1000,9 @@ RIP Winamp, bonjour <a href="http://www.foobar2000.org/">foobar2000</a>&nbsp;!</
   
   <entry>
     <title type="html"><![CDATA[La 4e minute sportive]]></title>
-    <link href="http://Zenigata.github.io/LeBlogDeZenigata/la-4e-minute-sportive/"/>
+    <link href="http://zenigata.fr/la-4e-minute-sportive/"/>
     <updated>2014-01-03T11:00:00+01:00</updated>
-    <id>http://Zenigata.github.io/LeBlogDeZenigata/la-4e-minute-sportive</id>
+    <id>http://zenigata.fr/la-4e-minute-sportive</id>
     <content type="html"><![CDATA[<p><em>Ce programme vous est présenté par l&#8217;infatigable Charlotte.</em></p>
 
 <p>Bonne année 2014 à tous&nbsp;! Après les gloutonneries des fêtes,
