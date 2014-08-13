@@ -4,7 +4,7 @@
   <title><![CDATA[Zenigata]]></title>
   <link href="http://zenigata.fr/atom.xml" rel="self"/>
   <link href="http://zenigata.fr/"/>
-  <updated>2014-08-08T01:37:36+02:00</updated>
+  <updated>2014-08-13T14:57:45+02:00</updated>
   <id>http://zenigata.fr/</id>
   <author>
     <name><![CDATA[Zenigata]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Challenge interclubs]]></title>
+    <link href="http://zenigata.fr/challenge-interclubs/"/>
+    <updated>2014-08-13T15:00:00+02:00</updated>
+    <id>http://zenigata.fr/challenge-interclubs</id>
+    <content type="html"><![CDATA[<p>Encore une année vide de tournois de go, mais quelques affrontements m&#8217;ont tout de même permis de franchir la barre du 4<sup>e</sup> kyū.</p>
+
+<!--more-->
+
+
+<p>Le challenge d&#8217;Île-de-France est une ancienne compétition interclubs à laquelle j&#8217;ai <a href="http://ffg.jeudego.org/php/affichePersonne.php?id=6309">déjà participé</a>.
+Un peu comme dans <em>Hikaru no go</em>, chaque club présente une équipe de trois personnes, à raison d&#8217;un match par mois.
+Par le passé, on s&#8217;affrontait également en <em><a href="http://senseis.xmp.net/?PairGo">rengo</a></em>.</p>
+
+<p>J&#8217;ai réalisé un compte-rendu de la dernière édition sur <a href="http://boulogne.jeudego.org/?p=459">le site du club</a>.</p>
+
+<p>J&#8217;aimerais vous présenter ici la partie que j&#8217;ai faite à la troisième ronde contre
+<a href="http://ffg.jeudego.org/php/affichePersonne.php?id=10071">Steven de Oliveira</a> (2k) qui me donnait donc trois pierres de handicap.
+Steven est aujourd&#8217;hui à un niveau <em>shodan</em> mais il va abandonner avant la fin de cette partie, me laissant lui rafler assez de points pour passer 4<sup>e</sup> kyū.</p>
+
+<div id="glift"></div>
+
+
+<p><button id="tlButton">Charger la partie</button></p>
+
+<div id="glift_display1" style="height:500px; width:100%; position:relative;"></div>
+
+
+
+
+<script type="text/javascript">
+  (function($) {
+    $('#tlButton').click(loadGlift);
+    function loadGlift() {
+      $.ajax({url: "/javascripts/custom/glift.min.js", dataType: "script", success: initGlift});
+      $('#tlButton').hide();
+    }
+  })(jQuery)
+
+  function initGlift() {
+    gliftWidget = glift.create({
+      sgf: {sgfString: '(;GM[1]FF[4]AP[Drago:4.21]SZ[19]CA[UTF-8]AB[pd][dd][dp]PW[Steven De Oliveira]PB[Johan Bonneau]WR[2k]WT[91sm]BR[5k]BT[92bo]TM[3600]DT[21-01-2014]RE[B+R]GN[1]EV[Challenge IDF 2013]RO[3]PC[Boulogne-Billancourt];W[qo];B[pp];W[po];B[op];W[qp];B[qq];W[rq];B[oo];W[pm];B[jp];W[cf];B[ch];W[dn];B[dl];W[fn];B[fp];W[fl];B[eh];W[im];B[ce];W[nc];B[qf];W[pb];B[qc];W[kc];B[gc];W[cc];B[be];W[ec];B[dc];W[db];B[ed];W[bb];B[fc];W[gh];B[ac];W[ab];B[ca];W[ba];B[ej];W[gj];B[qi];W[lp];B[kn];W[mn];B[kl];W[ml];B[on];W[ql];B[mo];W[lo];B[ln];W[jq];B[iq];W[ip];B[kq];W[jo];B[jr];W[ko];B[mm];W[cq];B[cp];W[dr];B[bq];W[br];B[dq];W[cr];B[bp];W[fq];B[eq];W[gp];B[gq];W[hq];B[fr];W[hr];B[mr];W[mp];B[nn];W[nq];B[nr];W[oq];B[or];W[pr];B[pq];W[qr];B[os];W[ms];B[lq];W[ks];B[kp];W[io];B[ir];W[gs];B[fs];W[nl];B[kj];W[jk];B[kk];W[ph];B[qh];W[pf];B[pi];W[qe];B[pe];W[qg];B[rf];W[rg];B[re];W[oh];B[of];W[pg];B[nj];W[mh];B[pk];W[ok];B[ni];W[nh];B[qk];W[oj];B[oi];W[pl];B[me];W[kh];B[qb];W[ob];B[ke];W[mj];B[mi];W[li];B[mk];W[lj];B[nk];W[lk];B[rh];W[ll];B[sg]MA[iq][ir][jr][kq][jp][kp][lq][mr][nr][or][os][qq][pq][pp][op][oo][on][nn][mm][mo][ln][kn][kl][kk][kj])'},
+      divId: "glift_display1",
+      display: {
+        theme: 'TRANSPARENT'
+      }
+    });
+  }
+</script>
+
+
+<p>J&#8217;ai refait la partie de mémoire donc certains coups peuvent être approximatifs.</p>
+
+<p>Aucun commentaire ne m&#8217;a malheureusement été fait de la part des membres de mon club.
+C&#8217;est dommage car si l&#8217;on regarde nos positions à la fin de l&#8217;enregistrement, Blanc n&#8217;a certes pas beaucoup de points mais il maintient une pression énorme sur les pierres annotées d&#8217;une croix.</p>
+
+<p>Et pourtant, quand Blanc m&#8217;a isolé ces deux groupes, je ne m&#8217;inquiétais pas plus que ça. Pourquoi donc&nbsp;? Que faire dans cette situation&nbsp;? Vous avez deux minutes&#8230;</p>
+
+<p>Solution&nbsp;: <button id="solButton">afficher</button><span id="solSpan" style="display:none;">mon prochain coup fut le début d&#8217;un <em><a href="http://senseis.xmp.net/?TwoStoneEdgeSqueeze">sekito-shibori</a></em> que Steven n&#8217;avait pas anticipé. Il a abandonné peu après.<span></p>
+
+<script type="text/javascript">
+  (function($) {
+    $('#solButton').click(reveal);
+    function reveal() {
+      $('#solButton').hide();
+      $('#solSpan').show();
+    }
+  })(jQuery)
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[20 photos de mariage]]></title>
@@ -955,51 +1028,6 @@ D&#8217;ailleurs cette saison nous participons au challenge Île-de-France qui r
 
 <p>Merci pour votre attention.<br/>
 ♪♫ jingle ♪♫</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Extraits choisis]]></title>
-    <link href="http://zenigata.fr/extraits-choisis/"/>
-    <updated>2014-01-05T12:00:00+01:00</updated>
-    <id>http://zenigata.fr/extraits-choisis</id>
-    <content type="html"><![CDATA[<p><em>Pour fêter le cinquantième ouvrage que je lis dans sa version numérique,</em>
-<em>voici une nouvelle fournée de morceaux de littérature.</em></p>
-
-<!--more-->
-
-
-<p>«&nbsp;Franchou, [&#8230;] belle fille plantureuse et placide dont les yeux de vache, fixés dans le vide, ruminaient sans fin un rêve paisible.&nbsp;»<sup id='fnref:1'><a href='#fn:1' rel='footnote'>1</a></sup></p>
-
-<p>«&nbsp;Le cœur de cette fille était une cuisine vide, songea Bob Arctor&nbsp;: un sol carrelé et des canalisations, un égouttoir,
-masse pâle de surfaces récurées, avec au bord de l’évier un verre abandonné dont tout le monde se foutait.&nbsp;»<sup id='fnref:2'><a href='#fn:2' rel='footnote'>2</a></sup></p>
-
-<p>«&nbsp;Aussi attrapai-je au vol les mots brefs qu’elle m’adressait, comme un oiseau picore des miettes de pain, sans chercher à écarter les rideaux de silence qu’elle glissait entre nous.&nbsp;»<sup id='fnref:3'><a href='#fn:3' rel='footnote'>3</a></sup></p>
-
-<p>«&nbsp;Très brune, pâle, mince, avec d&#8217;immenses yeux noirs battus, elle avait l&#8217;air d&#8217;un ange garnement renvoyé sur la Terre pour avoir mis le bout de ses ailes dans son nez,
-et qui passe toutes ses nuits à pleurer le paradis perdu.&nbsp;»<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup></p>
-
-<p>«&nbsp;Une grande conférence est une occasion de plaisirs subtils pour les importants diplomates, d&#8217;avancement pour les petits, et une aubaine pour les agents de services secrets…
-Comme une vache morte sur la boue desséchée du Bihar. Chacun y arrache à son tour, selon son rang ou son habileté, son lambeau de nourriture.
-Et il reste un squelette de plus sur le grand désert de l&#8217;entente internationale.&nbsp;»<sup id='fnref:4'><a href='#fn:4' rel='footnote'>4</a></sup></p>
-
-<p>«&nbsp;on dit que mon père est bon comme du bon pain. Justement. Trop de mie, pas assez de croûte.&nbsp;»<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup></p>
-
-<p>«&nbsp;La conversation de Falvine se dévide comme un chapelet. Ou mieux, comme du papier hygiénique. On tire sur un bout et tout vient.
-[&#8230;] la Menou, dans ses bons jours, la compare à un moulin, à une chute d&#8217;eau, à une tronçonneuse, et dans ses mauvais jours, à une diarrhée.&nbsp;»<sup id='fnref:5'><a href='#fn:5' rel='footnote'>5</a></sup></p>
-
-<p>«&nbsp;C&#8217;est à ce moment-là que je me réveille. Je regarde autour de moi, rassemblant lentement les morceaux épars de ma conscience.&nbsp;»<sup id='fnref:6'><a href='#fn:6' rel='footnote'>6</a></sup></p>
-
-<p>«&nbsp;Dehors la nuit est sans lune. Le ciel est incendié d&#8217;étoiles.&nbsp;»<sup id='fnref:7'><a href='#fn:7' rel='footnote'>7</a></sup></p>
-
-<hr />
-
-<div class="footnotes">
-    <ol>
-        <li id='fn:1'><em>Fortune de France, tome 1</em> de <strong>Robert Merle</strong>. <a href='#fnref:1' rev='footnote'>↩</a></li><li id='fn:2'><em>Substance Mort</em> de <strong>Philip K. Dick</strong>. Traduction par Robert Louit. <a href='#fnref:2' rev='footnote'>↩</a></li><li id='fn:3'><em>L&#8217;Apprenti assassin</em> de <strong>Robin Hobb</strong>. Traduction par A. Mousnier-Lompré. <a href='#fnref:3' rev='footnote'>↩</a></li><li id='fn:4'><em>Le Grand Secret</em> de <strong>René Barjavel</strong>. <a href='#fnref:4' rev='footnote'>↩</a></li><li id='fn:5'><em>Melevil</em> de <strong>Robert Merle</strong> <a href='#fnref:5' rev='footnote'>↩</a></li><li id='fn:6'><em>Kafka sur le rivage</em> de <strong>Haruki Murakami</strong>. Traduction par Corinne Atlan. <a href='#fnref:6' rev='footnote'>↩</a></li><li id='fn:7'><em>Les Monades urbaines</em> de <strong>Robert Silverberg</strong>. Traduction par Michel Rivelin. <a href='#fnref:7' rev='footnote'>↩</a></li>
-    </ol>
-</div>
-
 ]]></content>
   </entry>
   
