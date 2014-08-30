@@ -15,7 +15,7 @@ Par le passé, on s'affrontait également en _[rengo](http://senseis.xmp.net/?Pa
 J'ai réalisé un compte-rendu de la dernière édition sur [le site du club](http://boulogne.jeudego.org/?p=459).
 
 J'aimerais vous présenter ici la partie que j'ai faite à la troisième ronde contre
-[Steven de Oliveira](http://ffg.jeudego.org/php/affichePersonne.php?id=10071) (2k) qui me donnait donc trois pierres de handicap.
+[Steven De Oliveira](http://ffg.jeudego.org/php/affichePersonne.php?id=10071) (2k) qui me donnait donc trois pierres de handicap.
 Steven est aujourd'hui à un niveau _shodan_ mais il va abandonner avant la fin de cette partie, me laissant lui rafler assez de points pour passer 4<sup>e</sup> kyū.
 
 <div id="glift"></div>

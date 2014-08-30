@@ -8,6 +8,20 @@
 <link rel="stylesheet" href="{{ root_url }}/stylesheets/jquery.fancybox.css?v=2.0.4" type="text/css" media="screen" />
 <script type="text/javascript" src="{{ root_url }}/javascripts/jquery.fancybox.pack.js?v=2.0.4"></script>
 
+{% if site.flattr_user %}
+ <script type="text/javascript">
+ /* <![CDATA[ */
+     (function() {
+         var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+         s.type = 'text/javascript';
+         s.async = true;
+         s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+         t.parentNode.insertBefore(s, t);
+     })();
+ /* ]]> */
+ </script>
+ {% endif %}
+
 <!-- document.ready -->
 <script type="text/javascript">
   jQuery.noConflict();    // prevents conflicts with Ender.js, use jQuery instead of $

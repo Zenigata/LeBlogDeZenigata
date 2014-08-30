@@ -7,7 +7,7 @@ title: Zenigata
 subtitle: quand les bananes se plaignent de leur régime
 author: Zenigata
 simple_search: http://google.com/search
-description:
+description: 'Entre fiction et réalité, un blog de bananes qui se plaignent de leur régime.'
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -98,3 +98,6 @@ google_analytics_tracking_id: UA-30149961-1
 
 # Facebook Like
 facebook_like: false
+
+# Flattr
+flattr_user: zenigata
