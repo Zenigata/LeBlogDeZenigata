@@ -20,7 +20,7 @@ ou [l'Oujevipo](http://oujevipo.fr/) de _Pierrec_.
 
 ### À la sieste
 
-[Burriton Bison Revenge](http://games.adultswim.com/burrito-bison-revenge-twitchy-online-game.html)  
+[Burriton Bison Revenge](http://www.crazygames.com/game/burrito-bison-revenge)  
 [Highgrounds](http://www.highgroundsgame.com/)  
 [Kingdom Rush](http://www.kingdomrush.com/)  
 [Jelly no Puzzle](http://qrostar.skr.jp/index.cgi?page=jelly&lang=en)  
